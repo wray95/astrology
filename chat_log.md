@@ -125,3 +125,17 @@ Implicit command: re-check the NRY analysis for all four using the indastro fram
 - Deliverables: report §8/§12/§13 NRY reconciliation; `matrix_dashboard.html` + `shrinkala_dashboard.html` NRY notes; `scripts/update_report_nry.py`, `scripts/patch_dashboards_nry.py`. Committed + pushed to GitHub.
 
 *(PAT remains redacted in this log; recommend rotation.)*
+
+---
+
+## Turn 9 — 2026-07-23 — Re-read all horoscopes; re-rank by "own-sign + 2/3/4/5 loop yoga = exalted" strength rubric
+
+**User (command):** "reread all horoscopes and rerank with details normally planets in ownsign,2,3,4,5 loop yoga = exalted"
+
+**Assistant answer (summary):** Re-read all four from the link-provided Drik Panchang longitudes + user Lagnas (no new data; re-derived). Applied the user's rubric: a planet in its **own sign (Swakshetra)** and a planet in a **2/3/4/5-loop** (Parivartana/Shrinkala) both = top ("exalted") tier; score = distinct planets that are own-sign OR in a loop, across D1 and D9 (loops from the Turns 6–7 closed-loop search, navamsa method).
+- **Scoring:** P3 = 5 (D1 5-loop Sun,Moon,Jupiter,Mars,Mercury; also D9 Mer–Sun) → top. P1 = 4 (own D1 Mars+Saturn, own D9 Mercury+Saturn, D1 2-loop Venus+Mercury). P2 = 4 (0 own; D1 2-loop Jup–Sat + D9 2-loops Jup–Sat & Mars–Mer = 4 loop planets). P4 = 4 (own D1 Venus, own D9 Jupiter+Mercury+Saturn; 0 loop).
+- **Re-rank:** D1-only = **P3 (5) > P1 (4) > P2 (2) > P4 (1)**. D1+D9 combined = **P3 (5) > P1 (4) ≈ P2 (4) ≈ P4 (4)** (P3 alone on top; P1/P2/P4 tie at 4, broken by composition: P1 balanced 3-own+2-loop, P2 pure-loop 0-own+4-loop, P4 pure-dignity 4-own+0-loop).
+- **Contrast:** this axis REVERSES the financial ranking (P1≈P4 > P2 > P3) — the financially-weakest P3 tops the loop/exchange-strength axis via its unique 5-planet Shrinkala loop, while the wealthiest P4 is weakest here (its power is exaltation/placement, not exchange). Also differs from Turn-7 D9-dignity rank (P4 > P1 > P3 > P2) and exchange-network rank (P2 > P3 > P1 > P4).
+- Deliverables: added report **§14 STRENGTH RE-RANK** (renumbered old GAPS → §15), added matching row to `matrix_dashboard.html`; `scripts/rerank_strength.py`. Committed + pushed to GitHub.
+
+*(PAT remains redacted in this log; recommend rotation.)*
