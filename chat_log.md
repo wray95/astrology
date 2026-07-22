@@ -107,3 +107,21 @@ Implicit command (continuation of Turn 6): recheck / re-analyze / re-rank the 3/
 - Deliverables: extended report Section 13 (full D9 planet-sign/dignity tables + combined re-rank), closed Section 14 D9 gap (D10/D11 still open), added D9 rows to Section 12 matrix; rewrote `shrinkala_dashboard.html` (D1 + D9 matrices + combined verdict); patched `matrix_dashboard.html` (D9 rows + D9 dignity + combined exchange charts); added `scripts/d9_shrinkala.py`. Committed + pushed to GitHub.
 
 *(PAT remains redacted in this log; recommend rotation.)*
+
+---
+
+## Turn 8 — 2026-07-23 — Neechbhang Raja Yoga re-check via indastro method + reconciliation
+
+**User (data fed / command):** Supplied the NRY method link (plus the navamsa link from Turn 7):
+- https://www.indastro.com/learn-astrology/yoga-dasa/neechbhang-raja-yoga.html (method: NRY is **Moon-sign based**; forms when the debilitated planet's **dispositor is in a Kendra FROM THE MOON**, OR it is in its exaltation sign from Moon, OR the lord of its dispositor + lord of the exalted planet are in **mutual Kendra from the ascendant**, OR the planet exalted in that sign is in Kendra from Moon, OR it is debilitated in D1 but **exalted in D9**. **Caveat: a COMBUST or RETROGRADE debilitated planet does NOT form NRY.** Navamsa NRY: each planet forms NRY in its debilitation sign.)
+- (navamsa link already used Turn 7: astrologylover.com/how-to-read-navamsa-chart/)
+Implicit command: re-check the NRY analysis for all four using the indastro framework and reconcile with the bavishyavani (Rule 3 Parivartana) and Reddit ("Parivartana ≠ Neecha-Bhanga") positions already recorded.
+
+**Assistant answer (summary):** Applied indastro's Moon-sign rules (Moon signs from Drik: P1 Aquarius, P2 Taurus, P3 Sagittarius, P4 Libra) to the four charts:
+- **P1 / P4:** no debilitated planet in D1 (or D9) → NRY not applicable; unchanged.
+- **P2 (Jupiter debil in Capricorn, Aries Lagna, Moon Taurus):** bavishyavani Rule 3 (Jupiter↔Saturn Parivartana) says NRY = YES, but **indastro says NO** — dispositor Saturn sits in Pisces = 11th from Moon (Taurus), NOT a Kendra; mutual-Kendra (Saturn/Mars from Aries) also unmet; D9 Jupiter (Aquarius) not exalted. Reddit agrees exchange ≠ cancellation. → **NRY downgraded from "CONFIRMED" to "framework-dependent / disputed."** The Jupiter–Saturn exchange remains a genuine, D1+D9-repeating strong yoga (Turn 7) that *mitigates* the debility, but strict Neecha-Bhanga cancellation is not secure under indastro.
+- **P3 (Venus asserted debilitated in Cancer per link, Pisces Lagna, Moon Sagittarius):** indastro Rule 1 gives NRY (dispositor Moon = 1st/Kendra from Moon) — BUT Venus is **COMBUST** (3.7° from Sun in Cancer) → indastro's combustion caveat **blocks** NRY. Also hinges on accepting the (non-standard) "Venus debilitated in Cancer" link claim (standard debil is Virgo). → **still Pending/conditional.**
+- Updated report Section 8 (full bavishyavani + indastro + Reddit reconciliation table), Section 12 matrix NRY row, Section 13 NRY cell; updated both dashboards' NRY references.
+- Deliverables: report §8/§12/§13 NRY reconciliation; `matrix_dashboard.html` + `shrinkala_dashboard.html` NRY notes; `scripts/update_report_nry.py`, `scripts/patch_dashboards_nry.py`. Committed + pushed to GitHub.
+
+*(PAT remains redacted in this log; recommend rotation.)*

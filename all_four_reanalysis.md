@@ -89,14 +89,29 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 ---
 
-## 8. NEECHABHANGA RAJA YOGA (bavishyavani 5 rules)
-- **P2:** CONFIRMED via Rule 3 (Parivartana) — Jupiter (debilitated, Capricorn) ↔ Saturn (Pisces). Cancels debilitation → Raja Yoga. **Upgrades "capped Jupiter"** — 9th/12th lord + spouse karaka strengthened. Fires in Jupiter MD 2032.9+.
-- **P3:** Likely via Rule 1 (dispositor Moon in 10th Kendra) IF Venus debilitated in Cancer per link. Pending Venus-sign confirmation (standard debilitation is Virgo — if so, NRY may not form).
-- **P1:** no debilitated planet → no NRY (consistent with born-wealthy).
-- **P4:** no clearly-flagged debilitation (Mercury in Pisces is borderline, not flagged).
+## 8. NEECHABHANGA RAJA YOGA (bavishyavani 5 rules + indastro + Reddit)
 
----
+**Method (user-supplied links):**
+- *bavishyavani.in (5 rules):* Rule 1 = debilitated planet's dispositor in a Kendra from Lagna; **Rule 3 = mutual exchange (Parivartana) involving the debilitated planet cancels debilitation**; Rules 2/4/5 (aspected by benefic, in Kendra, etc.).
+- *indastro.com/neechbhang-raja-yoga (Moon-sign based):* NRY forms when (1) the debilitated planet's **dispositor is in a Kendra FROM THE MOON**, or (2) it is in its exaltation sign from Moon, or (3) the lord of its dispositor + lord of the exalted planet are in **mutual Kendra from the ascendant**, or (4) the planet exalted in that sign is in Kendra from Moon, or (5) it is debilitated in D1 but **exalted in D9**. **Caveat (indastro): a COMBUST or RETROGRADE debilitated planet does NOT form NRY.** (Navamsa NRY: each planet forms NRY in its debilitation sign — Sun Libra, Moon Scorpio, Mars Cancer, Mercury Pisces, Jupiter Capricorn, Venus Virgo, Saturn Aries.)
+- *Reddit (prior turn):* "Parivartana is not neecha Bhanga yoga. So it does not cancel out the debilitation." → exchange helps but is not, per that view, strict Neecha-Bhanga.
 
+**Moon signs (Drik):** P1 Aquarius · P2 Taurus · P3 Sagittarius · P4 Libra. (Kendra from Moon used for indastro Rules 1/2/4.)
+
+**Per-person reconciliation (D1):**
+
+| Person | Debilitated planet (D1) | bavishyavani | indastro | Reddit | Net NRY verdict |
+|---|---|---|---|---|---|
+| **P1** | none | n/a | n/a | n/a | **None needed** (born wealthy). D9 Venus debil Virgo but no cancellation → no NRY. |
+| **P2** | Jupiter (Capricorn) | **YES** (Rule 3 Parivartana Jup↔Sat) | **NO** — dispositor Saturn in Pisces = 11th from Moon (Taurus), not Kendra; mutual-Kendra (Sat/Mars) from Aries unmet; D9 Jupiter Aquarius not exalted | exchange ≠ cancellation | **Framework-dependent / disputed:** confirmed only under bavishyavani (classical Parivartana); indastro & Reddit do NOT treat the exchange as strict Neecha-Bhanga. Jupiter's debility is at least *relieved/mitigated* by the exchange (which REPEATS in D1+D9, Turn 7) but strict NRY cancellation is not secure. |
+| **P3** | Venus (Cancer, per link) | **Likely YES** (Rule 1: dispositor Moon in 10th Kendra from Pisces Lagna) | **YES by Rule 1** (dispositor Moon in Kendra from Moon = 1st) — **BUT BLOCKED**: Venus is COMBUST (3.7° from Sun in Cancer) → indastro says combust planet does not form NRY | exchange not the issue; combust blocks | **Pending/conditional:** hinges on (a) accepting the link's "Venus debilitated in Cancer" claim (standard debil is Virgo — if Venus is actually not debilitated, no NRY), and (b) indastro's combustion caveat. If debil accepted + combustion ignored → NRY forms (bavishyavani + indastro R1); if indastro combustion rule applied → blocked. |
+| **P4** | none (no flagged debil; D9 also 0 debil) | n/a | n/a | n/a | **None needed** (born wealthy). |
+
+**Updated NRY verdict:**
+- **P1 / P4:** no NRY (no debilitated planet) — unchanged.
+- **P2:** **downgraded from "CONFIRMED" to "framework-dependent."** The Jupiter–Saturn Parivartana is a genuine, D1+D9-repeating strong yoga (Turn 7) and a classical Neecha-Bhanga per bavishyavani/Parashara; however the user-supplied indastro method (Moon-sign, dispositor-in-Kendra-from-Moon) does **not** register it, and Reddit warns exchange ≠ cancellation. Read as: Jupiter's debility is *mitigated*, not definitively cancelled.
+- **P3:** remains **conditional** — gains indastro Rule-1 support (dispositor Moon in Kendra from Moon) IF the "Venus debilitated in Cancer" link assertion is accepted, but is **blocked by indastro's combustion rule** (Venus combust). Still pending Venus-sign confirmation.
+- **D9 NRY foot-note:** P1's D9 Venus is debilitated in Virgo with dispositor Mercury in Virgo (4th/Kendra from D9 Moon Gemini) → a navamsa NRY is *possible* per indastro, but P1 has no D1 debilitation so this does not create a D1 NRY; it only underscores the D9 Venus weakness noted in Turn 7.
 ## 9. FAME / CAREER / EXPLOSIVE RAHU (Reddit)
 - **Fame:** P4 & P1 MOD–HIGH (Gaja Kesari, strong 11th, 10th lords); P2 LOW–MOD; P3 LOW.
 - **Career-success:** P4 & P1 HIGH (self-made); P2 MODERATE (NRY helps); P3 MOD–LOW (research/job).
@@ -156,7 +171,7 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 | Sudden gains | STRONG | MODERATE | WEAK | STRONG |
 | Marriage-wealth | STRONG | MODERATE | WEAK | STRONGEST |
 | Astrology aptitude | Weak–MOD | Weak | STRONGEST | Moderate |
-| NRY | none needed | CONFIRMED (Rule 3) | Pending (Venus) | none needed |
+| NRY | none needed | Framework-dependent (bavishyavani R3 vs indastro/Reddit: not strict) | Pending: link Venus-debil → bavishyavani+indastro R1, but Venus COMBUST blocks (indastro) | none needed |
 | Key yogas | Ruchaka, Vasumati, Akhanda, Gaja Kesari, Budha-Aditya | Dhana, NRY (Jup–Sat Parivartan) | Chandra-Mangal, Raj (Dharma-Karma), 9th Jupiter | Malavya, Dhana, Lakshmi, Gaja Kesari |
 | D9 exchange (D1+D9) | none (Venus‑Mer BREAKS in D9) | Jupiter‑Sat REPEATS + new Mars‑Mer | new Mer‑Sun (Dharma‑Karma) | none |
 | D9 dignity/strength | Strong (2 EX+2 OWN; Venus DEB) | Weakest (Sun/Venus DEB; Sat VARG) | Clean (Mars/Mer VARG; 0 DEB) | **Strongest** (Mars EX+Mer/Jup/Sat OWN; Lagna VARG) |
@@ -182,7 +197,7 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 | Chart | 2‑loop (Parivartana) | 3/4/5‑loop (Shrinkala) | Loop lords (houses) | Nature / type | NRY / debil | Activation |
 |---|---|---|---|---|---|---|
 | **P1 Bappa** (Aries) | **Venus ↔ Mercury** | none | 2nd/7th ↔ 3rd/6th | Benefic+Benefic / mixed (6th dusthana) | n/a (no debil) | Mercury MD '06–'23; Venus MD 2030–50 |
-| **P2 Upulakshi** (Aries) | **Jupiter ↔ Saturn** | none | 10th ↔ 12th | Benefic(debil)+Yogakaraka / Kendra–Dusthana | NRY (bavishyavani R3); Reddit ≠ neecha bhanga | Jupiter MD 2032.9+ |
+| **P2 Upulakshi** (Aries) | **Jupiter ↔ Saturn** | none | 10th ↔ 12th | Benefic(debil)+Yogakaraka / Kendra–Dusthana | NRY: bavishyavani R3 YES; indastro NO (dispositor not Kendra from Moon); Reddit ≠ neecha bhanga → framework-dependent | Jupiter MD 2032.9+ |
 | **P3 Senith** (Pisces) | none | **5‑loop: Sun→Moon→Jupiter→Mars→Mercury→Sun** | 6th,5th,1st/10th,2nd/9th,4th/7th → houses 1,2,4,5,6,7,9,10 | Kendra+Trikona‑heavy network; Sun(6th) debilitated | needs dasha activation | Moon MD (now) → Mars MD 2034+ → Jupiter MD 2059+ |
 | **P4 Niromi** (Taurus) | none | none | — | — | — | — |
 
