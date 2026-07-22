@@ -142,7 +142,35 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 **Foreign-job / settlement ranking (Reddit framework):** **P4 (Niromi) STRONG settlement ≈ P2 (Upulakshi) STRONG foreign job/MNC > P1 (Bappa) MODERATE (foreign assets, not job) > P3 (Senith) WEAK job / MODERATE study-abroad.**
 
-## 12. GAPS & NEXT STEPS
+## 12. CONSOLIDATED MATRIX & RE-RANKING
+
+**Link-only matrix (rows = dimension, cols = person; ratings from Sections 1–11):**
+
+| Dimension | P1 Bappa (1962♂ Aries) | P2 Upulakshi (1997♀ Aries) | P3 Senith (1995♂ Pisces) | P4 Niromi (1967♀ Taurus☆) |
+|---|---|---|---|---|
+| Role | Self-made businessman | Job / service | Employed (unemp. risk) | Self-made businesswoman |
+| Career | HIGH (own business) | MOD (service / MNC) | LOW–MOD (job / research) | HIGH (own business) |
+| Wealth | Wealthy | Moderate | Limited | Wealthiest |
+| Foreign (job/settle) | MOD (assets abroad) | STRONG job / MNC | WEAK job / MOD study | STRONG settlement |
+| Success / Fame | MOD–HIGH | LOW–MOD | LOW | MOD–HIGH |
+| Sudden gains | STRONG | MODERATE | WEAK | STRONG |
+| Marriage-wealth | STRONG | MODERATE | WEAK | STRONGEST |
+| Astrology aptitude | Weak–MOD | Weak | STRONGEST | Moderate |
+| NRY | none needed | CONFIRMED (Rule 3) | Pending (Venus) | none needed |
+| Key yogas | Ruchaka, Vasumati, Akhanda, Gaja Kesari, Budha-Aditya | Dhana, NRY (Jup–Sat Parivartan) | Chandra-Mangal, Raj (Dharma-Karma), 9th Jupiter | Malavya, Dhana, Lakshmi, Gaja Kesari |
+| Current → Peak dasha | Ketu MD→2030; Venus 2030–50 | Rahu MD→2032.9; Jupiter 2032.9+ | Moon MD 2024–34; Moon/Jup 2027–28 | Ketu MD 2020–27; Venus MD 2027–47 |
+| Financial rank | 1 (≈P4) | 3 | 4 | 1 (≈P1) |
+| Foreign rank | 3 | 2 (job) | 4 | 1 (settlement) |
+
+**Re-ranking (composite across career + wealth + foreign + success + sudden gains + marriage):**
+
+- **Tier 1 — P4 Niromi ≈ P1 Polgahawela Bappa.** Both wealthy self-made with strong career, marriage-wealth and sudden-gain profiles. P4 edges ahead on **foreign settlement** (4th lord + Rahu in 12th) and strongest marriage-wealth (Malavya + exalted spouse karaka in 3rd); P1 matches on wealth/career/sudden gains but only moderate foreign (assets).
+- **Tier 2 — P2 Upulakshi.** Moderate wealth, but the **strongest foreign-JOB/MNC** signal (10th–12th Parivartan) and a confirmed NRY comeback in Jupiter MD 2032.9+; lags on fame/sudden gains.
+- **Tier 3 — P3 Senith.** Limited wealth and weakest on career/foreign-job/marriage/sudden gains; the lone bright spot is **strongest astrology aptitude** (Rahu 8th, 8th-lord Venus 5th, Jupiter Scorpio 9th) and a foreign-study window in Moon/Jupiter 2027–28.
+
+**Composite order:** P4 (1) ≈ P1 (1) > P2 (3) > P3 (4). **Foreign-only:** P4 (1) ≈ P2 (2 job) > P1 (3) > P3 (4). **Astrology aptitude only:** P3 > P4 ≈ P1 > P2. (A visual dashboard of this matrix is saved as `matrix_dashboard.html`.)
+
+## 13. GAPS & NEXT STEPS
 1. **P4 Rahu/Ketu — CLOSED** (Drik: Rahu 12th/Aries, Ketu 6th/Libra). No explosive-Rahu wealth.
 2. **Dasha — CLOSED** (astro-seek for all four). P4 Venus MD = Jan 2027 (not 2044).
 3. **Antardasha — CLOSED** for current periods: P1 Ketu/Rahu (Feb 2026–Feb 2027); P4 Ketu/Mercury (Jan 2026–Jan 2027) → Venus MD Jan 2027.
