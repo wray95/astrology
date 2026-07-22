@@ -170,7 +170,22 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 **Composite order:** P4 (1) ≈ P1 (1) > P2 (3) > P3 (4). **Foreign-only:** P4 (1) ≈ P2 (2 job) > P1 (3) > P3 (4). **Astrology aptitude only:** P3 > P4 ≈ P1 > P2. (A visual dashboard of this matrix is saved as `matrix_dashboard.html`.)
 
-## 13. GAPS & NEXT STEPS
+## 13. PARIVARTANA / SHRINKALA (3‑LOOP) ANALYSIS
+
+**Framework (user‑provided Reddit compilation — r/Nakshatras "My knowledge and experience on the Parivartana Yoga", r/vedicastrology, r/yoga, r/hinduism):** Shrinkala = a **three‑planet closed‑loop exchange** (A in B's sign, B in C's sign, C in A's sign) that amplifies the linked planets' themes; larger 4–5 planet chains also appear in some successful charts but are not automatic. Two‑planet mutual exchanges (Parivartana) are the building block. Reading rules: benefics in exchange support each other; malefics/debilitated give mixed results; **Kendra/Trikona exchanges = Maha Parivartana (auspicious)**, **6/8/12 (dusthana) = Dainya (struggle, but Vipreet Raj possible)**; a yoga needs **planetary strength + operating dasha + transits** ("three filters"); **Parivartana is NOT Neecha‑Bhanga** (doesn't auto‑cancel debilitation per Reddit) — though the bavishyavani NRY system (Rule 3, Parivartana) does treat it as cancellation (see §8); confirm in D1 + D9/D10 (repetition strengthens).
+
+**Parivartana present in each chart (sign‑exchange derived from Drik longitudes + user Lagna):**
+
+| Chart | 2‑planet Parivartana | Exchanging lords (houses) | Nature | Type | NRY / debil | Key area | Activation |
+|---|---|---|---|---|---|---|---|
+| **P1 Bappa** (Aries) | **Venus ↔ Mercury** | 2nd/7th ↔ 3rd/6th | Benefic + Benefic | mixed (6th dusthana) | n/a (no debil) | Wealth + partner/business + communication | Mercury MD (2006–23); Venus MD 2030–50 |
+| **P2 Upulakshi** (Aries) | **Jupiter ↔ Saturn** | 10th ↔ 12th | Benefic(debil) + Yogakaraka | Kendra(10th)–Dusthana(12th) | NRY confirmed (bavishyavani R3); Reddit: parivartana ≠ neecha bhanga | Foreign job / MNC | Jupiter MD 2032.9+; Saturn periods |
+| **P3 Senith** (Pisces) | **NONE** | — | — | — | — | — | — |
+| **P4 Niromi** (Taurus) | **NONE** | — | — | — | — | — | — |
+
+**Shrinkala (3‑planet closed loop) verdict:** **NONE of the four charts contains a true 3‑planet Shrinkala loop.** Only P1 and P2 show two‑planet mutual exchanges; P3 and P4 show none. So the specific Shrinkala loop is absent — the operative exchange yoga here is the **2‑planet Parivartana**, strongest in **P2** (10th–12th = foreign/MNC career, the signal already used in §11) and supportive in **P1** (Venus–Mercury = wealth/partner/business via 2nd/7th ↔ 3rd/6th, two benefics supporting each other). (Visual matrix: `shrinkala_dashboard.html`.)
+
+## 14. GAPS & NEXT STEPS
 1. **P4 Rahu/Ketu — CLOSED** (Drik: Rahu 12th/Aries, Ketu 6th/Libra). No explosive-Rahu wealth.
 2. **Dasha — CLOSED** (astro-seek for all four). P4 Venus MD = Jan 2027 (not 2044).
 3. **Antardasha — CLOSED** for current periods: P1 Ketu/Rahu (Feb 2026–Feb 2027); P4 Ketu/Mercury (Jan 2026–Jan 2027) → Venus MD Jan 2027.
