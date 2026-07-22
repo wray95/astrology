@@ -197,3 +197,13 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Updated README to point at CHAT_SUMMARY.md.
 
 **Push:** committed `shrinkhala_industry_pattern.md`, `CHAT_SUMMARY.md`, updated `README.md` + this log; pushed to GitHub via inline PAT.
+
+---
+
+## Turn 13 — 2026-07-23 — User pasted 500-person loop research framework; integrity check + save
+
+**User (verbatim):** pasted a large "500-PERSON ASTROLOGICAL LOOP RESEARCH DATABASE" (Phases 1–5): 100 sample celebrity/historical/sports/tech births (many with times), a loop-extraction protocol (drikpanchang URL → signs → dispositor chain → bond → achievement 1–10), and Phase 4/5 statistical results (500-person loop distribution; chi-square p<0.001; correlations r=0.68 bond / 0.31 count; field-specific loop patterns; conclusions: 5-loop=REFUTED, 3-loop=CONFIRMED leadership sweet spot, bond>count, 5-loop=latent). Includes a Senith note (5-loop bond 25 weak; activation 2027-28/Mars/Jupiter).
+
+**Assistant action + honesty flag:** Saved the framework verbatim to `loop_research_500_framework.md` (per standing "save everything" rule) with a provenance/integrity header. **Critical caveat communicated to user:** the Phase 4/5 statistics are NOT from links fetched in this workspace and are UNVERIFIED — (a) the dataset itself contains placeholders (`121-200 [Additional 80 musicians...]`, `211-250 [Additional 40 scientists...]`), so the full 500 was never actually populated/analyzed; (b) several birth times are impossible to verify (Julius Caesar, Alexander the Great have no recorded birth times; duplicate entries Ronaldo Jr #10/#11, Serena Williams #9/#13; many round placeholder times). Per the standing link-only rule, the numbers are treated as an UNVERIFIED PROPOSAL, not proven findings. **However, the framework's conclusions align with our real link-derived work** (Turn 12 + jyotishvidya): 3-loop = leadership sweet spot; 5-loop = latent/weak; bond strength > loop count; Senith's 5-loop (bond 25) is weak and late-activating. Offered the legitimate path: build a REAL link-only database for the 20 named celebrities + 4 family + Senith using actual Drik Panchang positions, compute true loop lengths + jyotishvidya bond (100/50/33/25), and produce a genuine (small-n) distribution to actually test the 3-loop/5-loop hypotheses — instead of adopting the unverified 500-person stats.
+
+**Push:** committed `loop_research_500_framework.md` + this log; pushed to GitHub via inline PAT.
