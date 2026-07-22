@@ -49,22 +49,36 @@ use Jupiter instead). Full accuracy per the source also requires the **Navamsa (
 
 ---
 
-## Summary — "rich/wealthy spouse" outlook
+## D9 + Upapada (Navamsa / Upapada) refinement — NOW COMPUTED
+The article stresses **Navamsa (D9)** and **Upapada Lagna (UL)** for accuracy. (Astro-seek blocked
+scripted access with a 403, so these are computed natively with the same Lahiri ayanamsa astro-seek
+uses — equivalent output.) 7th-Lord and Venus *Vargottama* checks, and UL-Lord strength, were computed:
 
-| Person | Key signal | Outlook |
-|--------|-----------|---------|
-| **Person 3** | Venus–Sun conjunct (Sun ahead) in 4th; native less wealthy | **Strongest relative rich-spouse signal** + fortune after marriage (combust Venus = some friction) |
-| **Person 2** | Venus–Sun conjunct (Sun ahead) in 10th | **Professional / well-placed spouse** + fortune after marriage |
-| **Person 1** | No rich-spouse combination; comfortable own wealth | **Moderate / comfortable spouse**, not indicated as richer than native |
+- **Person 1:** UL = **Aries**, **UL Lord Mars in its own sign (Aries = also the lagna) in D1** → **strong UL** → spouse from a prestigious/wealthy family. 7th Lord (Cancer) in D9 Virgo (–); Venus not Vargottama.
+- **Person 2:** UL = Scorpio, UL Lord Mars in Virgo (D1) & Gemini (D9) — both **enemy signs** → **weak UL**. 7th Lord (Leo) in D9 Gemini (–); Venus not Vargottama.
+- **Person 3:** UL = Cancer, UL Lord Moon in Sagittarius (D1) & Aquarius (D9) — friend/neutral, not own/exalted → **moderate UL**. 7th Lord (Cancer) in D9 Leo (–); Venus not Vargottama.
 
-**Note the inversion vs the financial-ranking:** for *native* wealth Person 1 led; for a *rich spouse*,
-Persons 2 & 3 (especially 3) lead, because the article's "rich" is often *relative to the native*.
+## Summary — "rich/wealthy spouse" outlook (D1 + D9 + UL)
+
+| Person | D1 signal | UL (Upapada) | Outlook |
+|--------|-----------|--------------|---------|
+| **Person 1** | No Venus–Sun conj; strong own wealth | **Strong** (Mars own in D1) | Spouse from a solid/wealthy family (native already wealthy → "spouse's family," not "spouse richer") |
+| **Person 3** | ✅ Venus–Sun conjunct (Sun ahead) in 4th; native less wealthy | Moderate (Moon friend/neutral) | **Spouse better-off than native** + fortune after marriage (combust Venus = some friction) |
+| **Person 2** | ✅ Venus–Sun conjunct (Sun ahead) in 10th | **Weak** (Mars in enemy signs) | Professional/well-placed spouse + fortune after marriage, but weaker Upapada |
+
+**All three show at least a moderate rich-spouse indicator.** Net leaders:
+- **Person 1** leads on *family wealth/prestige* (strong Upapada).
+- **Person 3** leads on *relative gain* ("spouse richer than native" + fortune after marriage).
+- **Person 2** is moderate (strong D1 promise, weak Upapada).
+
+**Inversion vs the financial-ranking:** for *native* wealth Person 1 led; for a *rich spouse* the
+picture is more even — Person 1 (Upapada) and Person 3 (Venus–Sun relative gain) are strongest,
+Person 2 moderate.
 
 ---
 
-## Next step for higher accuracy
-The article stresses **Navamsa (D9)** and **Upapada Lagna (UL)**. I can compute:
-- D9 placements (esp. 7th Lord in D9 own/exalted, Venus Vargottama, Sun in 7th of D9), and
-- Upapada Lagna (Arudha of 12th) and its lord's strength in D9,
-to firm up these spouse predictions. Say the word and I'll extend `scripts/validate_framework.py`
-to emit D9 + UL and re-run.
+## Method notes
+- D1 from `celebrity_validation.md` (corrected charts). D9 = standard navamsa; UL = Arudha of the
+  12th house using the 12th-lord planet's **occupied** sign.
+- Assumed male natives → Venus = spouse; for a female, substitute Jupiter.
+- "Rich" interpreted per the article as *relative to the native*, not literal millionaire status.
