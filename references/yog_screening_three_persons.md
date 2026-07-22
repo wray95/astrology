@@ -75,3 +75,12 @@ businessman" outcome. Full verification needs the complete chart.
   - Person 1 → incomplete data; 6th-house Saturn+Rahu suggests resilience via Harsha-type cancellation.
 - To raise accuracy further: compute **aspects** (Mars 4/8, Jupiter 5/9, Saturn 3/10, full 7th) and
   confirm Person 2's Ketu house, then re-run this screening.
+
+> **Correction (2026-07-22) — Person 3 debility labels were wrong.** The original source JSON
+> labeled Jupiter "debilitated in Scorpio" and Venus "debilitated in Cancer." Per classical BPHS
+> (see `exaltation_debilitation.md`), Jupiter is debilitated **only in Capricorn (5°)** and Venus
+> **only in Virgo (27°)** — so **neither is debilitated** in Person 3's chart (Venus *is* combust,
+> near the Sun). The genuine afflictions above still stand (Saturn retro in lagna, Rahu 8th, Ketu 2nd,
+> combust Sun 5th, Mars 7th enemy), but the "Limited wealth / heavily afflicted" verdict should be
+> **tempered** — two supposed debilities were in error. Person 2's "exalted" labels (Moon Taurus,
+> Mars Capricorn) are correct.

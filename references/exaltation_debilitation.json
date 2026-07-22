@@ -1,0 +1,32 @@
+{
+  "source": {
+    "title": "Exaltation & Debilitation of Planets in Vedic Astrology",
+    "url": "https://www.astrokarak.com/blog/exaltation-and-debilitation-of-planets-in-vedic-astrology",
+    "author": "Astrokarak",
+    "text_source": "Brhata Parashara Hora Shastra (BPHS)"
+  },
+  "concepts": {
+    "exaltation": "Uccha/Ucchabala: sign of maximum planetary potency",
+    "debilitation": "Nica/Nicabala: sign of maximum constraint (planet not destroyed, just working harder)",
+    "symmetry": "Debilitation sign is opposite the exaltation sign at the same degree",
+    "note": "Debilitation is a description of quality, not a verdict; it does not override the planet's role for a specific Lagna"
+  },
+  "table": [
+    {"planet": "Sun", "sanskrit": "Surya", "exaltation_sign": "Aries", "exaltation_degree": 10, "debilitation_sign": "Libra", "debilitation_degree": 10},
+    {"planet": "Moon", "sanskrit": "Candra", "exaltation_sign": "Taurus", "exaltation_degree": 3, "debilitation_sign": "Scorpio", "debilitation_degree": 3},
+    {"planet": "Mars", "sanskrit": "Mangal", "exaltation_sign": "Capricorn", "exaltation_degree": 28, "debilitation_sign": "Cancer", "debilitation_degree": 28},
+    {"planet": "Mercury", "sanskrit": "Budha", "exaltation_sign": "Virgo", "exaltation_degree": 15, "debilitation_sign": "Pisces", "debilitation_degree": 15},
+    {"planet": "Jupiter", "sanskrit": "Brihaspati", "exaltation_sign": "Cancer", "exaltation_degree": 5, "debilitation_sign": "Capricorn", "debilitation_degree": 5},
+    {"planet": "Venus", "sanskrit": "Shukra", "exaltation_sign": "Pisces", "exaltation_degree": 27, "debilitation_sign": "Virgo", "debilitation_degree": 27},
+    {"planet": "Saturn", "sanskrit": "Shani", "exaltation_sign": "Libra", "exaltation_degree": 20, "debilitation_sign": "Aries", "debilitation_degree": 20}
+  ],
+  "correction_person_3": {
+    "note": "Original source JSON for Person 3 (07/08/1995) mislabeled two debilities vs classical BPHS.",
+    "items": [
+      {"claim": "Jupiter debilitated in 9th (Scorpio)", "reality": "Jupiter debilitated ONLY in Capricorn; Scorpio is a friend's sign -> reasonably placed, NOT debilitated"},
+      {"claim": "Venus debilitated + combust in 5th (Cancer)", "reality": "Venus debilitated ONLY in Virgo; Cancer is NOT debilitation. Venus IS combust (near Sun) but NOT debilitated"}
+    ],
+    "impact": "Person 3 is materially less afflicted than earlier analyses stated; temper the 'Limited wealth / heavily afflicted' verdict."
+  },
+  "cross_check_person_2": "Original 'exalted' labels for Person 2 (Moon in Taurus, Mars in Capricorn) are correct per BPHS."
+}
