@@ -158,6 +158,9 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 | Astrology aptitude | Weak–MOD | Weak | STRONGEST | Moderate |
 | NRY | none needed | CONFIRMED (Rule 3) | Pending (Venus) | none needed |
 | Key yogas | Ruchaka, Vasumati, Akhanda, Gaja Kesari, Budha-Aditya | Dhana, NRY (Jup–Sat Parivartan) | Chandra-Mangal, Raj (Dharma-Karma), 9th Jupiter | Malavya, Dhana, Lakshmi, Gaja Kesari |
+| D9 exchange (D1+D9) | none (Venus‑Mer BREAKS in D9) | Jupiter‑Sat REPEATS + new Mars‑Mer | new Mer‑Sun (Dharma‑Karma) | none |
+| D9 dignity/strength | Strong (2 EX+2 OWN; Venus DEB) | Weakest (Sun/Venus DEB; Sat VARG) | Clean (Mars/Mer VARG; 0 DEB) | **Strongest** (Mars EX+Mer/Jup/Sat OWN; Lagna VARG) |
+| Combined exchange rank | 3 | 1 (repeats) | 2 (empowered) | 4 (none) |
 | Current → Peak dasha | Ketu MD→2030; Venus 2030–50 | Rahu MD→2032.9; Jupiter 2032.9+ | Moon MD 2024–34; Moon/Jup 2027–28 | Ketu MD 2020–27; Venus MD 2027–47 |
 | Financial rank | 1 (≈P4) | 3 | 4 | 1 (≈P1) |
 | Foreign rank | 3 | 2 (job) | 4 | 1 (settlement) |
@@ -189,13 +192,58 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 **Revised composite (D1, exchange‑weighted):** P4 ≈ P1 remain top on realized wealth/foreign‑settlement; P2 solid mid; **P3 rises from "weakest" to #1 on exchange‑network / strongest latent yoga** (realized wealth still limited → read as #1 potential, #4 realized). Final combined position pending D9.
 
-**D9 status:** astro‑seek navamsa endpoints (calculate‑chart / sidereal‑astrology‑chart‑calculator / kundli with `typ=9`) all returned **404** via direct URL (the calculator needs form submission). Per the link‑only rule, **D9 is NOT computed here**. Provide the D9 (navamsa) planet signs for each person (or a working astro‑seek D9 URL) to complete the D1+D9 combined re‑rank. (Visual matrix: `shrinkala_dashboard.html`.)
+**D9 (Navamsa) — derived from the link‑provided Drik Panchang longitudes via the standard navamsa division (METHOD per user‑supplied astrologylover.com "how to read navamsa chart" + Scribd "Understanding the D9 Navamsha Chart"):**
+- Each 30° sign → 9 navamsas of 3°20′; **odd signs** (Aries/Gemini/Leo/Libra/Sagittarius/Aquarius) start the navamsa from the same sign; **even signs** (Taurus/Cancer/Virgo/Scorpio/Capricorn/Pisces) start from the 9th sign. D9 Lagna: **P1 Gemini** (Aries 9°26′), **P3 Sagittarius** (Pisces 6°), **P4 Taurus** (Vargottama — user), **P2 unknown** (no Lagna degree supplied). astro‑seek navamsa `typ=9` still 404s, so D9 signs are navamsa‑derived from Drik longitudes (link INPUT + link METHOD) — not Swiss‑Ephemeris/computed ephemeris.
+
+**D9 planet signs (navamsa, from Drik longitudes) + dignity:**
+
+| Planet | P1 D9 | P2 D9 | P3 D9 | P4 D9 |
+|---|---|---|---|---|
+| Sun | Aries (EX) | Libra (DEB) | Virgo | Cancer |
+| Moon | Gemini | Pisces | Aquarius | Pisces |
+| Mars | Taurus | Gemini | Virgo (VARG) | Capricorn (EX) |
+| Mercury | Virgo (OWN) | Scorpio | Leo (VARG) | Gemini (OWN) |
+| Jupiter | Cancer (EX) | Aquarius | Libra | Pisces (OWN) |
+| Venus | Virgo (DEB) | Virgo (DEB) | Leo | Gemini |
+| Saturn | Aquarius (OWN) | Pisces (VARG) | Scorpio | Aquarius (OWN) |
+| Rahu | Leo | Gemini | Scorpio | Leo |
+| Ketu | Aquarius | Sagittarius | Taurus | Aquarius |
+
+*(VARG = Vargottama = same sign in D1 & D9; per astrologylover/Scribd a Vargottama planet is "very strong" — even a debilitated Vargottama gives wealth/fame with struggle.)*
+
+**D9 dignity / strength** (own–exalt–debilitated; astrologylover: *"planet exalted in birth but debilitated in D9 gives debilitation result"*):
+- **P4 — STRONGEST navamsa:** Mars EX + Mercury/Saturn/Jupiter OWN + Lagna Vargottama (Taurus) → 4 planets own/exalt, 0 debilitated. Her wealth is the most "certain" of the four in D9.
+- **P1 — strong but Venus weak:** Sun EX + Jupiter EX + Mercury/Saturn OWN, but **Venus DEBILITATED in Virgo** (and not exchanging) → the D1 Venus–Mercury promise is diluted in D9.
+- **P3 — clean, two Vargottamas:** Mars & Mercury VARGOTTAMA, rest neutral, 0 debilitated → the two key 5‑loop members are navamsa‑empowered.
+- **P2 — weakest dignity:** Sun & Venus DEBILITATED, only Saturn Vargottama → but her exchange repeats (below).
+
+**D9 closed‑loop (Parivartana/Shrinkala, lengths 2–5):**
+- **P1:** **NONE** — Venus & Mercury both fall in Virgo in D9 → conjunction, not exchange; the D1 2‑loop BREAKS.
+- **P2:** **2‑loop Jupiter ↔ Saturn (REPEATS from D1)** + **NEW 2‑loop Mars ↔ Mercury** (Mars Gemini / Mercury Scorpio). Jupiter–Saturn now confirmed in BOTH D1 and D9 = strengthened per Scribd/Reddit "repetition strengthens."
+- **P3:** **NEW 2‑loop Mercury ↔ Sun** (Mercury Leo / Sun Virgo) → 9th & 10th houses from D9 Lagna Sagittarius = **Dharma‑Karma (9th/10th) exchange in navamsa**. The D1 5‑loop does not repeat as a 5‑loop.
+- **P4:** **NONE.**
+
+**D1 ↔ D9 — repeated (strengthened) / new / broken:**
+
+| Person | D1 loop | D9 loop | Verdict |
+|---|---|---|---|
+| P1 | 2‑loop Venus↔Mercury | none | **BROKEN in D9** (Venus debil Virgo) → D1‑only, diluted |
+| P2 | 2‑loop Jupiter↔Saturn | 2‑loop Jupiter↔Saturn (**repeat**) + 2‑loop Mars↔Mercury | **REPEATED/STRENGTHENED** + new |
+| P3 | 5‑loop (Jup→Mar→Mer→Sun→Moon) | 2‑loop Mercury↔Sun (new) | loop members Mars/Mercury **Vargottama** → navamsa‑empowered |
+| P4 | none | none | no exchange (wealth via dignity/yogas) |
+
+**Combined D1 + D9 re‑ranking (Parivartana/Shrinkala axis):**
+- **Exchange‑network rank (D1+D9):** **P2 (1)** — only exchange that REPEATS in both charts (Jupiter–Saturn) + new Mars–Mercury, so her NRY + 10th/12th foreign‑MNC signal is the most reinforced. **P3 (2)** — largest latent 5‑loop + two Vargottama members + new Dharma‑Karma D9 exchange. **P1 (3)** — D1 2‑loop only, Venus debilitated/diluted in D9. **P4 (4)** — no exchange (top on dignity instead).
+- **D9 dignity/strength rank:** **P4 (1) > P1 (2) > P3 (3) > P2 (4).**
+- **Final composite (all axes):** Financial/realized **P1 ≈ P4 > P2 > P3** (unchanged — D9 *confirms* P4 as most‑certain wealth via strongest navamsa; P1 strong but D9 Venus caveat). Exchange‑network **P2 > P3 > P1 > P4**. Astrology aptitude **P3 > P4 ≈ P1 > P2**. Foreign **P4 ≈ P2 > P1 > P3**.
+
+*(Visual board: `shrinkala_dashboard.html` updated with D9 tables + combined re‑rank.)
 
 ## 14. GAPS & NEXT STEPS
 1. **P4 Rahu/Ketu — CLOSED** (Drik: Rahu 12th/Aries, Ketu 6th/Libra). No explosive-Rahu wealth.
 2. **Dasha — CLOSED** (astro-seek for all four). P4 Venus MD = Jan 2027 (not 2044).
 3. **Antardasha — CLOSED** for current periods: P1 Ketu/Rahu (Feb 2026–Feb 2027); P4 Ketu/Mercury (Jan 2026–Jan 2027) → Venus MD Jan 2027.
-4. **D9/D10/D11** — still open; astro-seek navamsa/dashamsha/ekadashamsha calculators can confirm yogas. Not yet fetched.
+4. **D9** — CLOSED via navamsa method (derived from Drik Panchang longitudes + astrologylover.com/Scribd D9 references; astro-seek `typ=9` still 404). **D10/D11** — still open; astro-seek dashamsha/ekadashamsha calculators can confirm career/yoga. Not yet fetched.
 5. **P3 Venus sign** — confirm Cancer vs Virro to finalize NRY.
 6. **GitHub push** — repo PAT revoked; see push attempt below.
 
