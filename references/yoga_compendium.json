@@ -1,0 +1,122 @@
+{
+  "sources": [
+    {"title": "Overview of 27 Yogas in Astrology", "scribd_doc": "85355561", "author": "Siddharta Mondal", "work": "Fundamentals of Astrology"},
+    {"title": "Understanding Srinkhala Yoga", "scribd_doc": "822653746", "author": "Vinothavel Krishnasamy"}
+  ],
+  "notes": "House = whole-sign from Lagna unless stated. Benefics = Moon, Mercury, Jupiter, Venus. Malefics = Sun, Mars, Saturn, Rahu, Ketu. Nabhasa yogas operate throughout life regardless of dasha.",
+  "nabhasa": {
+    "akrti": [
+      {"name": "Gada (Mace)", "pattern": "Adjacent Kendras: 1&4, 4&7, 7&10, or 10&1", "effects": ["Wealthy", "Performs sacrifices", "Amasses wealth"]},
+      {"name": "Sakata (Cart)", "pattern": "All planets in 1st & 7th", "effects": ["Coach-driver", "Sickly", "Bad wife"]},
+      {"name": "Vihaga/Paksin (Bird)", "pattern": "All planets in 4th & 10th", "effects": ["Messenger", "Wandering habits", "Quarrelsome"]},
+      {"name": "Srngataka/Srihgateka", "pattern": "All planets in 1st, 5th, 9th", "effects": ["Sweet-tongued", "Happy in old age"]},
+      {"name": "Hala/Plough", "pattern": "Mutual trines other than Lagna: (2,6,10)/(3,7,11)/(4,8,12)", "effects": ["Agriculturist", "Poor", "Gluttonous", "Messenger", "Grief-stricken", "Deserted by kin"]},
+      {"name": "Vajra", "pattern": "Benefics in 1&7, malefics in 4&10", "effects": ["Brave", "Handsome", "Healthy", "Luckless", "Hated by kin", "Happy at start/end of life"]},
+      {"name": "Yava", "pattern": "Reverse of Vajra: malefics in 1&7, benefics in 4&10", "effects": ["Religious rites", "Charitable", "Wealthy", "Happy only mid-life"]},
+      {"name": "Kamala (Lotus)", "pattern": "All planets in the 4 Kendras (any arrangement)", "effects": ["Very famous", "Virtuous", "Long-lived", "Handsome", "Wields power"]},
+      {"name": "Vapi", "pattern": "All planets in 4 Panaphara (2,5,8,11) OR 4 Apoklima (3,6,9,12)", "effects": ["Hoard money", "Miserly", "Unenduring happiness"]},
+      {"name": "Yupa", "pattern": "All planets in 1st,2nd,3rd,4th", "effects": ["Charitable", "Wealthy", "Happy", "Illustrious", "Truthful", "Observes vows"]},
+      {"name": "Ishu/Sara (Arrow)", "pattern": "All planets in 4th,5th,6th,7th", "effects": ["Makes arrows", "Imprisons thieves", "Hunts", "Forest-wanderer", "Cruel", "Bad artisan"]},
+      {"name": "Sakti (Power)", "pattern": "All planets in 7th,8th,9th,10th", "effects": ["Mean", "Indolent", "Indigent", "Grief-stricken", "Short-lived"]},
+      {"name": "Danda (Rod)", "pattern": "All planets in 10th,11th,12th,1st", "effects": ["No wife/children/wealth", "Condemned", "Deserted", "Miserable", "Servitude"]},
+      {"name": "Nau (Boat)", "pattern": "All planets in 7 contiguous houses from Lagna (1-7)", "effects": ["Wealth via water profession", "Famous", "Strong", "Greedy", "Unsteady"]},
+      {"name": "Kuta", "pattern": "All planets in 7 contiguous houses from 4th (4-10)", "effects": ["Cruel", "Poor", "Roguish", "Gambler", "Liar", "Jailor", "Mountain fortress"]},
+      {"name": "Chatra (Umbrella)", "pattern": "All planets in 7 houses from 7th", "effects": ["Kind-hearted", "Charitable", "Noble", "King's favourite", "Helps kin", "Happy at start/end"]},
+      {"name": "Capa (Bow)", "pattern": "All planets in 7 houses from 10th", "effects": ["Liar", "Thief", "Jailor", "Gambler", "Forest-dweller", "Unlucky mid-life"]},
+      {"name": "Ardha-candra (Half-moon)", "pattern": "All planets in 7 houses from a Panaphara/Apoklima group", "effects": ["Handsome", "Army commander", "King's favourite", "Strong", "Gold/gems"]},
+      {"name": "Samudra (Ocean)", "pattern": "All planets in 6 even houses (2,4,6,8,10,12)", "effects": ["Wealth", "Sons", "Pleasures", "Popular", "Powerful", "Equal to king"]},
+      {"name": "Cakra (Wheel)", "pattern": "All planets in 6 odd houses (1,3,5,7,9,11)", "effects": ["Receives homage of kings", "Mighty monarch"]}
+    ],
+    "sankhya": [
+      {"name": "Vallaki/Vina", "signs_occupied": 7, "effects": ["Many friends", "Sweet speech", "Scripture/music", "Happy", "Many servants"]},
+      {"name": "Damini", "signs_occupied": 6, "effects": ["Helps others", "Wealthy", "Cattle", "Brave", "Learned", "Children", "Gems"]},
+      {"name": "Pasa", "signs_occupied": 5, "effects": ["Active", "Talkative", "Characterless", "Many servants", "Imprisoned"]},
+      {"name": "Kedara", "signs_occupied": 4, "effects": ["Helpful", "Agriculturist", "Truthful", "Happy", "Wealthy", "Changing moods"]},
+      {"name": "Sula", "signs_occupied": 3, "effects": ["Cruel", "Terrible", "Lazy", "Poor", "Murderous", "Brave", "Noted warrior"]},
+      {"name": "Yuga", "signs_occupied": 2, "effects": ["Heretic", "Poor", "Ostracized", "Bereft of children/honour/virtue"]},
+      {"name": "Golaka", "signs_occupied": 1, "effects": ["Poor", "Indolent", "Uneducated", "Dishonoured", "Unclean", "Sad", "Wretched"]}
+    ],
+    "asraya": [
+      {"name": "Rajju", "condition": "All planets in movable Rasis", "effects": ["Wandering", "Wealth in foreign lands", "Handsome", "Cruel", "Roguish"]},
+      {"name": "Musala", "condition": "All planets in fixed signs", "effects": ["Active", "Famous", "King's favourite", "Heroic", "Firm mind", "Honour/wealth/knowledge"]},
+      {"name": "Nala", "condition": "All planets in dual Rasis", "effects": ["One limb excess/deficient", "Hoarded wealth", "Clever", "Helps kin", "Handsome"]}
+    ],
+    "dala": [
+      {"name": "Mala/Srak", "condition": "3 benefics (Mercury,Jupiter,Venus) only in Kendras (Moon excluded)", "effects": ["Pleasures", "Vehicles", "Garments", "Riches", "Happiness", "Handsome", "Many wives"]},
+      {"name": "Sarpa", "condition": "3 malefics only in Kendras", "effects": ["Cross", "Cruel", "Poor", "Wretched", "Despondent", "Drunkard", "Eats in others' houses"]}
+    ]
+  },
+  "candrayogas": [
+    {"name": "Adhama", "condition": "Moon in Kendra from Sun (conjoined/4/7/10)", "effects": ["Low morals", "Deplorable finances", "No wisdom"]},
+    {"name": "Sama/Madhya", "condition": "Moon in Panaphara (3/6/9/12) from Sun", "effects": ["Moderate morals"]},
+    {"name": "Varistha", "condition": "Moon in Apoklima (2/5/8/11) from Sun", "effects": ["Best morals"]},
+    {"name": "Candra Adhiyoga", "condition": "Mercury+Jupiter+Venus in 6/7/8 from Moon (strong, unafflicted)", "effects": ["Commander/minister/king", "Long disease-free life", "Prosperity", "Victory"]},
+    {"name": "Lagnadhiyoga", "condition": "Mercury+Jupiter+Venus in 6/7/8 from Lagna", "effects": ["Similar to Candra Adhiyoga"]},
+    {"name": "Sunapha", "condition": "Planet (except Sun) in 2nd from Moon", "effects": ["Prosperous", "Mighty", "Virtuous", "Famous", "King/minister"]},
+    {"name": "Anapha", "condition": "Planet (except Sun) in 12th from Moon", "effects": ["Eloquent", "Rich", "Lordly", "Disease-free", "Happy", "Well-dressed"]},
+    {"name": "Durudhara", "condition": "Planets in both 2nd & 12th from Moon", "effects": ["Famous speech/wisdom/valour", "Independence", "Wealth", "Generous", "Leader"]},
+    {"name": "Kemadruma", "condition": "None of Sunapha/Anapha/Durudhara present", "effects": ["Loses wife/friends/houses", "Poverty/disease", "Unclean", "Servitude", "Roguish"], "nullified_if": ["Non-Sun planet in Kendra from Lagna/Moon", "Moon conjoined Mars+", "All planets aspect Moon"]}
+  ],
+  "parivartana": {
+    "general": "66 possible exchanges between lords of two Bhavas; each planet behaves as if in own house.",
+    "mahayoga": {"count": 28, "type": "favourable", "effects": ["Blessed by Fortune", "Very rich", "Lordly", "Ornaments", "Honours from king", "Good children/vehicles"]},
+    "dainyayoga": {"count": 30, "type": "unfavourable", "composition": "12th lord x11 + 6th lord x10 + 8th lord x9", "effects": ["Fool", "Reviler", "Sinful", "Oppressed by enemies", "Harsh speech", "Wavering", "Interrupted undertakings"]},
+    "khalayoga": {"count": 8, "type": "unfavourable", "composition": "3rd lord x(1/2/4/5/7/9/10/11)", "effects": ["Goes astray", "Fluctuating fortune", "Inconsistent speech/mood"]},
+    "parvatayoga": {"condition": "Lagna lord placed; lord of that house in Kendra/Kona own/exaltation", "effects": ["King with unimpaired wealth", "Eternal benefits"]},
+    "kahala": {"condition": "Extension of Parvata (next lord also in Kendra/Kona own/exaltation)", "effects": ["Ever-prospering", "Noble", "Cheerful", "Benevolent", "Wise", "Respectable"]},
+    "rajayoga": {"condition": "Lords of 9th & 10th conjoined in auspicious house", "effects": ["King", "Pomp/power", "Praised by virtuous"]},
+    "sankha": {"condition": "Rajayoga combination in a good house", "effects": ["King", "Enjoyer of pleasures", "Liberal"]},
+    "srinkhala_triple_exchange": {
+      "aka": ["Shrinkhala Parivarthana", "Mukkiraga Parivarthana", "Triple Exchange"],
+      "condition": "Graha A in B's house, B in C's, C in A's (three planets exchange)",
+      "strength": "Weaker than 2-planet exchange (~50%); >3-planet exchanges not counted",
+      "operation": "Active during dasha/antardasha of any involved planet",
+      "example": "Annamalai Chettiyar (Dhanus Lagna): Venus in Leo(Sun), Sun in Virgo(Mercury), Mercury in Libra(Venus) = triple exchange of 9th/10th/11th lords -> educator, entrepreneur, rich",
+      "exchange_by_persuasion": "e.g. Venus in Pisces with Moon, Jupiter in Moon's sign Cancer"
+    }
+  },
+  "mahapurusa": [
+    {"name": "Rucaka", "planet": "Mars", "effects": ["Long face", "Wealth via prowess", "Heroic", "Strong", "Enemy-destroyer", "Arrogant", "Famous", "Victorious", "Army commander"]},
+    {"name": "Bhadra", "planet": "Mercury", "effects": ["Long-lived", "Sharp-witted", "Pure", "Praised by learned", "King", "Wealthy", "Eloquent"]},
+    {"name": "Hamsa", "planet": "Jupiter", "effects": ["Extolled by virtuous", "King", "Conch/lotus/fish marks", "Beautiful body", "Virtuous", "Sumptuous food"]},
+    {"name": "Malavya/Malava", "planet": "Venus", "effects": ["Sturdy", "Courageous", "Rich", "Children/wife/fortune", "Ever-growing", "Happy", "Famous", "Good vehicles", "Learned"]},
+    {"name": "Sasa", "planet": "Saturn", "effects": ["Popular", "Strength/servants", "King/village head", "Bad character", "Other women", "Enjoys others' wealth", "Happy"]}
+  ],
+  "named_yogas": [
+    {"name": "Gajakesari/Kesari", "condition": "Moon in Kendra from Jupiter", "effects": ["Destroys enemies like lion", "Eloquent/noble in assembly", "Rajasik", "Long life", "Bright fame", "Intellectual", "Victorious"]},
+    {"name": "Sakatayoga (Moon-Jupiter)", "condition": "Moon in 6/8/12 from Jupiter (nullified if Moon in Kendra from Lagna)", "effects": ["Fluctuating fortune", "Loss then recovery", "Secret trouble"]},
+    {"name": "Subha Mala", "condition": "All benefics in regular order in 5/6/7 from Lagna", "effects": ["Governor/high officer", "Praised by kings", "Pleasures", "Charity", "Helps others", "Worthy sons/wife", "Brave"]},
+    {"name": "Asubha Mala", "condition": "Benefics in regular order in 6/8/12", "effects": ["Bad ways", "Miserable", "Ungrateful", "Murderer", "Timid", "Cursed"]},
+    {"name": "Laksmi", "condition": "9th lord & Venus in Kendras/Konas in own/exaltation", "effects": ["Good wife", "Illness-free", "Very rich", "Brilliant", "Kin-protector", "Mahalaksmi's grace", "Rides elephants", "Best of kings"]},
+    {"name": "Gauri", "condition": "(+ Moon aspected by Jupiter)", "effects": ["Charming", "Illustrious family", "Friend of kings", "Virtuous children", "Lotus face", "Praised victories"]},
+    {"name": "Sarasvati", "condition": "Mercury+Jupiter+Venus in Kendras/Konas/2nd", "effects": ["Very intelligent", "Poet/scholar", "Famous", "Rich", "Wife/children", "Honoured by sovereigns"]},
+    {"name": "Sarada", "condition": "10th lord in 5th; Mercury in Kendra; Sun strong in own; Jupiter in Kona from Moon/11th from Mercury; Mars in Kona from Mercury", "effects": ["Same as Sarasvati"]},
+    {"name": "Mahabhagya", "condition": "Male+day -> Sun/Moon/Lagna in odd Rasis; Female+night -> even Rasis", "effects": ["Male: delights all, munificent, king, pure, lives 80y", "Female: wealth, long life, predeceases husband, sons/grandsons, fortunate"]},
+    {"name": "Bhaskara", "condition": "Mercury in 2nd from Sun; Moon in 11th from Mercury; Jupiter in Kona from Moon", "effects": ["Hero", "Equal to king", "Handsome", "Sastras", "Wealthy", "Music", "Brave", "Math"]},
+    {"name": "Indra", "condition": "Mars in 3rd from Moon; Saturn in 7th from Mars; Venus in 7th from Saturn; Jupiter in 7th from Venus", "effects": ["Famous", "Virtuous", "King/equal", "Eloquent", "Wealth/ornaments/prowess"]},
+    {"name": "Marut/Vayu", "condition": "Jupiter in Kona from Venus; Moon in 5th from Jupiter; Sun in Kendra from Moon", "effects": ["Orator", "Generous", "Sastras", "Prosperous", "Business-clever", "King/equal"]},
+    {"name": "Budha", "condition": "Jupiter in Lagna; Moon in Kendra from Jupiter; Rahu in 2nd from Moon; Sun+Mars in 3rd from Moon", "effects": ["Royal splendour", "Unrivalled strength", "Fame", "Sastra scholarship", "Trade cleverness", "No enemies"]},
+    {"name": "Matsya", "condition": "Malefic in 9th from Lagna; 5th has benefics+malefics; 4th or 8th has malefic", "effects": ["Astrologer", "Compassionate", "Virtuous", "Intelligent", "Beautiful", "Famous", "Learned", "Penance"]},
+    {"name": "Kurma", "condition": "Benefics in 5/6/7 in own/friend/exaltation; malefics in Lagna/3/11 in exaltation/friendly", "effects": ["Famous", "Royal luxuries", "Religious", "Satvic", "Brave", "Happy", "Leader"]},
+    {"name": "Khadga (Sword)", "condition": "2nd & 9th lords exchange; Lagna lord in Kendra/Kona", "effects": ["Scripture/philosophy", "Intelligent", "Valiant", "Happy", "Rises by own power", "Grateful"]},
+    {"name": "Kusuma (Flower)", "condition": "Venus in fixed-sign Lagna-Kendra; Moon in Kona; malefic Saturn in 10th", "effects": ["Generous", "Pleasures", "Foremost of kings", "Illustrious", "Respected", "Famous", "Valour"]},
+    {"name": "Kalanidhi", "condition": "Jupiter in 2nd/5th conjoined/aspected by Mercury & Venus, or in their house (Gemini/Virgo/Taurus/Libra)", "effects": ["Passionate", "Amiable", "Honoured by great kings", "Armies/paraphernalia", "Disease/danger/enemy-free"]},
+    {"name": "Amsavatara", "condition": "Jupiter & Venus in Kendras; Saturn in Kendra exaltation; Lagna movable", "effects": ["Holy fame", "Pilgrimages", "Fine arts", "Enjoys pleasures", "Establishes an era", "Vedanta knower", "Royal splendour"]},
+    {"name": "Hari-Hara-Brahma", "condition": "(1) benefics in 2/12/8 from 2nd lord; (2) Moon/Mercury/Jupiter in 4/8/9 from 7th lord; (3) Sun/Venus/Mars in 4/10/11 from Lagna lord", "effects": ["Master of sacred lore", "Truthful", "Perfect happiness", "Gallant", "Victor over foes", "Holy deeds"]}
+  ],
+  "bhava_yogas_12": ["Camara", "Dhenu", "Saurya", "Jaladhi", "Chatra", "Astra", "Kama", "Asura", "Bhagya", "Khyati", "Suparijata", "Musalayoga"],
+  "avayoga_12": [
+    {"name": "Avayoga", "effects": ["Insignificant", "Short-lived", "Miserable", "Humiliated", "Wicked company", "Ugly", "Unstable"]},
+    {"name": "Nisvayoga", "effects": ["Stranger to good words", "Barren wife", "Ugly eyes/teeth", "No intelligence/learning/wealth", "Wealth taken by enemies"]},
+    {"name": "Mrtiyoga", "effects": ["Defeat by enemies", "Loss of brothers", "Shameless", "Loss of stamina/money", "Worry", "Unnatural behaviour"]},
+    {"name": "Kuhuyoga", "effects": ["Loses mother/vehicles/friends/happiness/ornaments/relatives/position", "Attached to ill-famed woman"]},
+    {"name": "Pamarayoga", "effects": ["Miserable life", "Indiscriminate", "Liar", "Cheat", "No children", "Atheist", "Glutton", "Mean fellows"]},
+    {"name": "Harsayoga", "positive": true, "effects": ["Happiness", "Enjoyments", "Fortune", "Strong physique", "Wealth", "Lustre", "Good friends", "Renown", "Sons", "Destroys enemies"]},
+    {"name": "Duskrtiyoga", "effects": ["Loses wife", "Craves others' wives", "Ugly", "Wanders", "Venereal disease", "Troubled by king", "Despised"]},
+    {"name": "Saralayoga", "positive": true, "effects": ["Long-lived", "Resolute", "Fearless", "Prosperous", "Learning/wealth/sons", "Victorious", "Famous"]},
+    {"name": "Nirbhagyayoga", "effects": ["Loses paternal house/lands", "Despises elders/wise", "Heretic", "Tattered clothes", "Wretched", "Poor"]},
+    {"name": "Duryoga", "effects": ["Labours fruitlessly", "Slighted", "Traitor", "Selfish", "Wanderer from home"]},
+    {"name": "Daridrayoga", "effects": ["Highly indebted", "Fierce", "Penurious", "Ear-disease", "No brother-love", "Forbidden acts", "Slave of others"]},
+    {"name": "Vimalayoga", "positive": true, "effects": ["Spends little", "Saves much", "Helps all", "Happy", "Independent", "Virtuous", "Respectable"]}
+  ]
+}
