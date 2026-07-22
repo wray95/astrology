@@ -139,3 +139,19 @@ Implicit command: re-check the NRY analysis for all four using the indastro fram
 - Deliverables: added report **§14 STRENGTH RE-RANK** (renumbered old GAPS → §15), added matching row to `matrix_dashboard.html`; `scripts/rerank_strength.py`. Committed + pushed to GitHub.
 
 *(PAT remains redacted in this log; recommend rotation.)*
+
+---
+
+## Turn 10 — 2026-07-23 — 20-celebrity Shrinkhala research + composite re-rank (jyotishvidya method)
+
+**User (command):** "Re-ranking (composite across career + wealth + foreign + success + sudden gains + marriage): [https://www.jyotishvidya.com/srinkhala.htm] use my links and generate charts for 20 celebrities including barrack obama to research shrinkala loop use stanlee and john d rockafellar too"
+Clarified via ask_user: **auto-build all 20** + **full 6-axis composite re-rank**.
+
+**Assistant answer (summary):** Fetched the jyotishvidya Srinkhala link (method): Srinkhala = closed 3+ planet dispositor chain; **only the 3-planet loop is meaningful** (bond 100/50/33/25 for 2/3/4/5; 4/5 "should be ignored"); planets in it "behave as if in own signs." This **corrects** the earlier Reddit-based 5-loop celebration for P3. Built the chart pipeline link-only: birth/bio from web, **planetary positions from Drik Panchang (Lahiri/Chitra Paksha — confirmed on page)**. Validated on the 3 named:
+- **Obama (1961-08-04):** 3-loop **Moon→Venus→Mercury→Moon** (Taurus→Gemini→Cancer) = the *meaningful* 3-loop; Moon exalted. Fits the method (global leader).
+- **Rockefeller (1839-07-08):** 4-loop Mercury→Moon→Venus→Sun (weak/"ignore" per method).
+- **Stan Lee (1922-12-28):** **NO loop** (Venus self-loop only). Shows Shrinkhala not universal among the successful.
+Research finding (Batch 1): of 3 named, only Obama has the *meaningful* 3-loop; Rockefeller a weak 4-loop; Stan Lee none.
+Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed). Continuing the remaining 17 automatically (Elon Musk, Gates, Bezos, Jobs, Einstein, Buffett, Zuckerberg, Tendulkar, Ambani, Gandhi, Lincoln, Mandela, Disney, Ford, Oprah, Jackson, Kalam). Committed + pushed to GitHub.
+
+*(PAT remains redacted in this log; recommend rotation.)*
