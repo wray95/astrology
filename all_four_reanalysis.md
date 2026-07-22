@@ -291,3 +291,24 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 6. **GitHub push** — repo PAT revoked; see push attempt below.
 
 *All analysis uses only the supplied links (Drik Panchang, astro-seek, astrosanhita, bavishyavani, Kursija/Scribd, Reddit compilations, Quora Pisces text). No computed/Swiss-Ephemeris data used.*
+
+---
+
+## 16. RECREATED FULL MATRIX + DETAILED RE-RANK (jyotishvidya Srinkhala — this turn)
+
+**User command (this turn):** *"recreate matrix table with all the data and rerank my 4 charts in detailed [career, finance, money, fame, success, education, highest position in industry CEO, every kind of assets, where wealth comes better] (jyotishvidya.com/srinkhala.htm)."*
+
+**Śrṅkhalā method applied (jyotishvidya.com/srinkhala.htm):** bond strength = Parivartana (2-planet) **100**, 3-loop **50**, 4-loop **33**, 5-loop **25**; *"only a 3-planet Śrṅkhalā is meaningful — ignore 4/5 (effect not considerable)"*; planets in the chain *"behave as if in own signs."*
+
+**Full recreated matrix (all dimensions × person) + detailed per-axis re-rank = `detailed_rerank.md` (canonical) and rebuilt `matrix_dashboard.html`.** Headline results:
+
+- **Composite (career + finance + money + fame + success + education + CEO/Founder + assets): P4 Niromi ≈ P1 Bappa > P2 Upulakshi > P3 Senith.**
+- **Śrṅkhalā bond-strength rank (jyotishvidya-corrected): P2 (1) > P1 (2) > P3 (3) > P4 (4).** ← REVERSES old §14.
+  - P2: D1 Jupiter↔Saturn Parivartana (100) REPEATS in D9 + new D9 Mars↔Mercury (100) → tripled, navamsa-confirmed.
+  - P1: D1 Venus↔Mercury Parivartana (100) but **BREAKS in D9** (Venus debilitated in Virgo, both land in Virgo = conjunction not exchange) → D1-only, diluted.
+  - P3: D1 5-loop scores only **25 → IGNORED**; only genuine exchange is the **D9 Sun↔Mercury Parivartana (100)** (with Mars/Mercury Vargottama). The old "P3 #1 strength" reading is now void.
+  - P4: no loop in either chart — wealth via dignity (Mars exalt + Mercury/Jupiter/Saturn own + Vargottama Lagna).
+- **Education:** P3 (5th Sun + 9th Jupiter + Ketu research) > P4 > P1 ≈ P2. **Highest industry position (CEO/Founder):** P1 & P4 (founders) > P2 (MNC employee) > P3 (researcher).
+- **Assets (every kind) / where wealth comes from:** P4 = real estate + business + **inheritance** (8th-lord Jupiter exalted) + **foreign assets** (Rahu 12th) + speculation (2nd/5th lord Mercury in 11th) — most diversified; P1 = business + property windfalls (Rahu 4th); P2 = salary/foreign income; P3 = salary/minimal.
+
+*(All analysis link-only: Drik Panchang Lahiri longitudes, astro-seek dashas, astrosanhita, bavishyavani, Kursija, Reddit, jyotishvidya. No Swiss-Ephemeris/computed data.)*

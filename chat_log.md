@@ -155,3 +155,26 @@ Research finding (Batch 1): of 3 named, only Obama has the *meaningful* 3-loop; 
 Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed). Continuing the remaining 17 automatically (Elon Musk, Gates, Bezos, Jobs, Einstein, Buffett, Zuckerberg, Tendulkar, Ambani, Gandhi, Lincoln, Mandela, Disney, Ford, Oprah, Jackson, Kalam). Committed + pushed to GitHub.
 
 *(PAT remains redacted in this log; recommend rotation.)*
+
+---
+
+## Turn 11 — 2026-07-23 — Recreate full matrix + detailed re-rank (jyotishvidya Srinkhala)
+
+**User (verbatim):**\n> "recreate matrix table with all the data and rerank my 4 charts in detailed [career ,finance ,money ,fame ,suuccess ,education highest position in industry ceo,every kind of assets where wealth comes better](https://www.jyotishvidya.com/srinkhala.htm)"
+
+**Data fed / method link:** jyotishvidya.com/srinkhala.htm (Srinkhala = closed 3+ planet dispositor chain; bond strength Parivartana 100 / 3-loop 50 / 4-loop 33 / 5-loop 25; "only a 3-planet Srinkhala is meaningful — ignore 4/5"; planets in chain "behave as if in own signs"). Live GitHub PAT provided again (redacted here as [REDACTED]; recommend rotation).
+
+**Assistant answer (summary):** Recreated the FULL matrix (all dimensions × person) and produced a detailed per-axis re-rank, applying the jyotishvidya bond-strength rule that **corrects the earlier §14 "P3 #1 on loop-strength" reading** (P3's 5-loop = bond 25 = IGNORED). Deliverables:
+- `detailed_rerank.md` — canonical recreated matrix (23-row table: role, career, finance, money, fame, success, education, CEO/Founder, assets-every-kind, wealth-source, foreign, sudden gains, marriage-wealth, astrology aptitude, NRY, yogas, Srinkhala/Parivartana bond, D9 dignity, dasha, financial/foreign/Srinkhala ranks, composite re-rank) + Srinkhala bond-strength panel + detailed re-rank narrative.
+- Rebuilt `matrix_dashboard.html` — full matrix + jyotishvidya correction banner + Srinkhala bond panel + expanded 0–5 bar charts (Career, Finance, Money, Fame, Success, Education, CEO/Founder, Assets, Foreign, Sudden, Marriage, Astrology, D9 dignity, Srinkhala bond-rank) + composite ranking cards.
+- Appended report **§16** summarizing.
+
+**Headline results:**
+- **Composite (career+finance+money+fame+success+education+CEO+assets): P4 Niromi ≈ P1 Bappa > P2 Upulakshi > P3 Senith.**
+- **Srinkhala bond-strength rank (jyotishvidya-corrected): P2 (1) > P1 (2) > P3 (3) > P4 (4)** — REVERSES §14. P2 = tripled & D9-confirmed (Jup–Sat repeat + Mars–Mer); P1 = D1-only 100 but BREAKS in D9 (Venus debil Virgo); P3 = 5-loop IGNORED, only D9 Sun–Mer 100 counts; P4 = no loop (dignity-based).
+- **Education:** P3 > P4 > P1 ≈ P2. **CEO/Founder:** P1 = P4 (founders) > P2 (employee) > P3 (researcher).
+- **Assets/wealth-source:** P4 most diversified (RE+business+inheritance+foreign+spec); P1 business+property; P2 salary/foreign; P3 minimal.
+
+*(PAT redacted in this log; recommend rotation. All analysis link-only.)*
+
+**Push:** committed `detailed_rerank.md`, rebuilt `matrix_dashboard.html`, `all_four_reanalysis.md` (§16) + this log; pushed to GitHub via inline PAT.
