@@ -29,7 +29,7 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 **P3 (Pisces Lagna):** Jupiter 11.8° Scorpio (9th), Saturn 0° Pisces (Lagna), Rahu 6.4° Libra (8th), Ketu 6.4° Aries (2nd), Sun 20.9° Cancer (5th), Moon 8° Sagittarius (10th, Mula), Mars 16.6° Virgo (7th), Mercury 1.9° Leo (6th), Venus 17.2° Cancer (5th, **debilitated per link**).
 
-**P4 (Taurus Lagna, Vargottama):** Venus 19° Taurus (1st, Malavya, Rohini), Jupiter 2° Cancer (4th, exalted, Punarvasu), Saturn 13° Pisces (11th), Mars 27° Virgo (5th), Mercury 24° Pisces (11th), Sun 11° Aries (12th), Moon 19°28′ Libra (6th, Swati), **Rahu 13°52′ Aries (12th)**, **Ketu 13°52′ Libra (6th)**.
+**P4 (Taurus Lagna, Vargottama):** Venus 19° Taurus (1st, Malavya, Rohini), Jupiter 2° Cancer (3rd house per Taurus Lagna, exalted, Punarvasu), Saturn 13° Pisces (11th), Mars 27° Virgo (5th), Mercury 24° Pisces (11th), Sun 11° Aries (12th), Moon 19°28′ Libra (6th, Swati), **Rahu 13°52′ Aries (12th)**, **Ketu 13°52′ Libra (6th)**.
 
 ---
 
@@ -75,10 +75,10 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 ---
 
 ## 6. MARRIAGE WEALTH (framework supplied by user)
-- **P4:** STRONGEST — 7th lord Mars in 5th; spouse karaka (F) Jupiter exalted in 4th; Malavya Lagna lord; soft planets in Kendra. Marriage strongly amplifies wealth.
+- **P4:** STRONGEST — 7th lord Mars in 5th; spouse karaka (F) Jupiter exalted in 3rd (Cancer); Malavya Lagna lord; soft planets in Kendra. Marriage strongly amplifies wealth.
 - **P2:** MODERATE — 7th lord Venus in 11th (wealth-after-marriage yoga); but spouse karaka (F) Jupiter debilitated → no big direct spouse money.
 - **P3:** WEAK — 7th lord Mercury in 6th; spouse karaka (M) Venus debilitated; no wealth-through-spouse.
-- **If Senith (P3) × Upulakshi (P2) marry:** two salaries, no windfall. Both spouse karakas weak (P3 Venus debil, P2 Jupiter debil/NRY). P2's 7th-lord-in-11th activates; P3 gains relatively more (escapes "limited"). No lottery/inheritance.
+- **Note (user correction):** Upulakshi (P2) and Senith (P3) are relatives from other family branches -- **not** a married couple and **not** financially connected. The earlier "if they married" scenario is withdrawn; their wealth paths are assessed independently above.
 
 ---
 
@@ -113,7 +113,36 @@ Family set: Polgahawela Bappa (father) + Niromi (1967), Senith (1995), Upulakshi
 
 ---
 
-## 11. GAPS & NEXT STEPS
+## 11. FOREIGN JOBS & SETTLEMENT (Reddit frameworks)
+
+**Reference method (user-provided Reddit compilation — r/Nakshatras "Foreign Jobs and MNC Careers", r/vedicastrology "Foreign Settlement requires…", r/Astrology_Vedic, r/12thhouse):** Foreign work/settlement shows via (a) 12th-lord ↔ 10th-lord connection or **Parivartan**; (b) **Rahu** in/affecting the 4th or 12th; (c) **4th lord in 12th** or 12th lord in 4th (permanent settlement); (d) 4th afflicted by Rahu/Ketu/Saturn + 4th↔9th/12th link; (e) benefics (Jupiter/Venus) in 12th or tied to money houses; (f) Saturn = slow/delayed but lasting; (g) timing = dashas/antardashas of planets signifying 3/9/12 + 6/10. MNC/remote foreign work can appear without full relocation. (Houses derived from user-supplied Lagna + Drik longitudes.)
+
+**P2 / Upulakshi (Aries Lagna) — STRONG foreign job / MNC:**
+- 10th lord **Saturn in 12th (Pisces)**; 12th lord **Jupiter in 10th (Capricorn, debilitated)** → **Parivartan (mutual exchange) between 10th & 12th lords** = the strongest Reddit signal for "work in foreign land / MNC." [r/Nakshatras]
+- 12th house (Pisces) also holds Mercury + Ketu (communication + detachment abroad).
+- Rahu in 6th (service) = foreign-style work; 4th (Cancer) not afflicted → **strong foreign JOB/MNC, moderate settlement** (fits "working with foreign companies, not full relocation").
+- Timing (astro-seek): current **Rahu MD (→2032.9)**; **Rahu/Venus 14 Jun 2026–14 Jun 2029** = first foreign-work / money-relief window; **Jupiter MD 2032.9–2048.9** (Jupiter = 12th-lord-in-10th planet) = peak foreign career / MNC phase.
+
+**P4 / Niromi (Taurus Lagna, Vargottama) — STRONG foreign settlement:**
+- **4th lord Sun in 12th (Aries)** + **Rahu in 12th (Aries)** → two classic permanent-settlement signatures (4th lord in 12th; Rahu occupying 12th = living away from birthplace / international environment). [r/vedicastrology, r/Nakshatras]
+- 12th lord Mars in 5th (not 4th) → no 12th-lord-in-4th, but the 4th-lord-in-12th is present and strong.
+- Benefic Jupiter exalted in Cancer (3rd house per Taurus Lagna) supports prosperity; Ketu in 6th with Rahu in 12th = foreign detachment.
+- Timing (astro-seek): settlement is a natal promise; activation needs 12th/4th-lord (Mars/Sun) or Rahu periods. Current **Ketu MD 2020–2027** (Ketu/Mercury 2026–27) then **Venus MD Jan 2027–2047** (20-yr wealth peak; Venus = Lagna lord, generally supportive — foreign assets likely via the Rahu-in-12th promise). Full relocation more clearly in later Mars/Sun/Rahu major periods; Venus MD is the practical window at her age.
+
+**P1 / Polgahawela Bappa (Aries Lagna) — MODERATE foreign settlement (assets), not foreign job:**
+- **Rahu in 4th (Cancer)** = 4th afflicted by the separative node → break-from-homeland / foreign-residence signature. [r/vedicastrology]
+- **4th lord Moon & 12th lord Jupiter both in 11th (Aquarius)** → 4th and 12th lords conjunct = a 4th↔12th link supporting settlement.
+- 10th lord Saturn in 10th (own, retro) = domestic self-made career; no 10th–12th Parivartan → not a foreign-employee profile (he is the businessman). Foreign signal = **property / investment abroad**, not employment.
+- Timing: Rahu periods (Rahu in 4th) can trigger foreign-property moves; current **Ketu MD 2023–2030**, **Ketu/Rahu Feb 2026–Feb 2027** (Rahu in 4th active) may surface foreign-asset interest.
+
+**P3 / Senith (Pisces Lagna) — WEAK foreign job/settlement; MODERATE foreign study/research:**
+- 12th lord Saturn in 1st (Lagna); 10th lord Jupiter in 9th (Scorpio). **No 10th–12th connection / no Parivartan.** 4th (Gemini) not afflicted (4th lord Mercury in 6th); Rahu in 8th (not 4th/12th). → **weak foreign job/settlement.**
+- Strong **9th house**: 10th lord Jupiter in 9th (Scorpio) = Dharma-Karma + long-distance / foreign-study promise; Ketu in 2nd + Rahu in 8th = research/PhD orientation (higher-studies Reddit). → foreign **higher study / research** is the realistic path, not employment abroad.
+- Timing (astro-seek): **Moon/Jupiter Apr 2027–Aug 2028** (luck window; Jupiter = 10th lord in 9th) = likely window for foreign study/research opportunity; **Mars MD 2034–2041** (Mars = 9th lord) reinforces 9th / foreign-study themes.
+
+**Foreign-job / settlement ranking (Reddit framework):** **P4 (Niromi) STRONG settlement ≈ P2 (Upulakshi) STRONG foreign job/MNC > P1 (Bappa) MODERATE (foreign assets, not job) > P3 (Senith) WEAK job / MODERATE study-abroad.**
+
+## 12. GAPS & NEXT STEPS
 1. **P4 Rahu/Ketu — CLOSED** (Drik: Rahu 12th/Aries, Ketu 6th/Libra). No explosive-Rahu wealth.
 2. **Dasha — CLOSED** (astro-seek for all four). P4 Venus MD = Jan 2027 (not 2044).
 3. **Antardasha — CLOSED** for current periods: P1 Ketu/Rahu (Feb 2026–Feb 2027); P4 Ketu/Mercury (Jan 2026–Jan 2027) → Venus MD Jan 2027.
