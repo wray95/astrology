@@ -1,0 +1,361 @@
+{
+  "system_info": {
+    "system_name": "Vedic Horoscope Analysis System",
+    "version": "1.0",
+    "primary_data_source": "Drik Panchang",
+    "data_extraction_url_pattern": "https://www.drikpanchang.com/planet/position/planetary-positions-sidereal.html?date={DD}/{MM}/{YYYY}&time={HH}:{MM}:{SS}",
+    "generated_date": "2026-07-22"
+  },
+  "persons": {
+    "person_1": {
+      "birth_details": {
+        "date": "27/05/1962",
+        "time": "03:38:00",
+        "location": "Dehiwatta, Sri Lanka"
+      },
+      "confirmed_data": {
+        "ascendant": "Aries",
+        "navamsa": "Taurus"
+      },
+      "wealth_career_analysis": {
+        "status": "BUSINESS MAN",
+        "wealth": "COMFORTABLE",
+        "employment": "Self-employed, NOT working for others",
+        "unemployed": false,
+        "key_indicators": [
+          "Mars in Aries = Strong entrepreneurial energy",
+          "Venus in Taurus = Good income from luxury, art, real estate",
+          "Moon in Sagittarius = Foreign connections, optimism",
+          "Jupiter = Blessings, wisdom, spiritual fortune"
+        ],
+        "challenges": [
+          "Saturn + Rahu in 6th = Enemies, debt, legal issues in business",
+          "Ketu in 12th = Hidden losses, overseas expenses"
+        ],
+        "wealth_sources": [
+          "Real estate, property",
+          "Trading, imports/exports",
+          "Luxury goods, jewelry",
+          "Foreign business connections"
+        ]
+      }
+    },
+    "person_2": {
+      "birth_details": {
+        "date": "14/03/1997",
+        "time": "09:38:00",
+        "location": "Colombo, Sri Lanka",
+        "generated": "2026-07-22T12:41:33.061398"
+      },
+      "chart_summary": {
+        "sun_sign": "Pisces",
+        "moon_sign": "Taurus",
+        "rising_sign": "Aries",
+        "navamsa": "Scorpio",
+        "planetary_aspects": []
+      },
+      "ascendant": {
+        "sign": "Aries",
+        "symbol": "♈",
+        "degrees": "0°",
+        "nakshatra": "Krittika",
+        "meaning": "Aries rising: The persona and outward identity"
+      },
+      "planets": {
+        "Sun": {
+          "sign": "Pisces",
+          "degrees": "29°",
+          "parsed_degrees": null,
+          "symbol": "☉",
+          "house": "12th",
+          "status": "Neutral (In friend's house)"
+        },
+        "Moon": {
+          "sign": "Taurus",
+          "degrees": "10°",
+          "parsed_degrees": {
+            "degrees": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 10.0,
+            "raw": "10°"
+          },
+          "symbol": "☽",
+          "house": "2nd",
+          "status": "EXALTED ✨"
+        },
+        "Mars": {
+          "sign": "Capricorn",
+          "degrees": "4°",
+          "parsed_degrees": {
+            "degrees": 4,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 4.0,
+            "raw": "4°"
+          },
+          "symbol": "♂",
+          "house": "10th",
+          "status": "EXALTED ✨"
+        },
+        "Mercury": {
+          "sign": "Aquarius",
+          "degrees": "2°",
+          "parsed_degrees": {
+            "degrees": 2,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 2.0,
+            "raw": "2°"
+          },
+          "symbol": "☿",
+          "house": "11th",
+          "status": "Neutral"
+        },
+        "Jupiter": {
+          "sign": "Sagittarius",
+          "degrees": "17°",
+          "parsed_degrees": {
+            "degrees": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 17.0,
+            "raw": "17°"
+          },
+          "symbol": "♃",
+          "house": "9th",
+          "status": "Strong (Own sign)"
+        },
+        "Venus": {
+          "sign": "Aquarius",
+          "degrees": "25°",
+          "parsed_degrees": {
+            "degrees": 25,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 25.0,
+            "raw": "25°"
+          },
+          "symbol": "♀",
+          "house": "11th",
+          "status": "Neutral"
+        },
+        "Saturn": {
+          "sign": "Aquarius",
+          "degrees": "14°",
+          "parsed_degrees": null,
+          "symbol": "♄",
+          "house": "11th",
+          "status": "Strong (Own sign)"
+        },
+        "Rahu": {
+          "sign": "Capricorn",
+          "degrees": "5°",
+          "parsed_degrees": {
+            "degrees": 5,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 5.0,
+            "raw": "5°"
+          },
+          "symbol": "☬",
+          "house": "10th",
+          "status": "Neutral"
+        },
+        "Ketu": {
+          "sign": "Cancer",
+          "degrees": "5°",
+          "parsed_degrees": {
+            "degrees": 5,
+            "minutes": 0,
+            "seconds": 0,
+            "decimal": 5.0,
+            "raw": "5°"
+          },
+          "symbol": "☭",
+          "house": "11th",
+          "status": "Neutral"
+        }
+      },
+      "planet_strengths": {
+        "Sun": {
+          "planet": "Sun",
+          "sign": "Pisces",
+          "status": "neutral",
+          "strength_level": 0,
+          "notes": []
+        },
+        "Moon": {
+          "planet": "Moon",
+          "sign": "Taurus",
+          "status": "exalted",
+          "strength_level": 2,
+          "notes": ["Moon is exalted in Taurus"]
+        },
+        "Mars": {
+          "planet": "Mars",
+          "sign": "Capricorn",
+          "status": "exalted",
+          "strength_level": 2,
+          "notes": ["Mars is exalted in Capricorn"]
+        },
+        "Mercury": {
+          "planet": "Mercury",
+          "sign": "Aquarius",
+          "status": "neutral",
+          "strength_level": 0,
+          "notes": []
+        },
+        "Jupiter": {
+          "planet": "Jupiter",
+          "sign": "Sagittarius",
+          "status": "strong",
+          "strength_level": 1,
+          "notes": ["Jupiter rules Sagittarius"]
+        },
+        "Venus": {
+          "planet": "Venus",
+          "sign": "Aquarius",
+          "status": "neutral",
+          "strength_level": 0,
+          "notes": []
+        },
+        "Saturn": {
+          "planet": "Saturn",
+          "sign": "Aquarius",
+          "status": "strong",
+          "strength_level": 1,
+          "notes": ["Saturn rules Aquarius"]
+        },
+        "Rahu": {
+          "planet": "Rahu",
+          "sign": "Capricorn",
+          "status": "neutral",
+          "strength_level": 0,
+          "notes": []
+        },
+        "Ketu": {
+          "planet": "Ketu",
+          "sign": "Cancer",
+          "status": "neutral",
+          "strength_level": 0,
+          "notes": []
+        }
+      },
+      "wealth_career_analysis": {
+        "status": "BUSINESS MAN",
+        "wealth": "MODERATE TO UPPER-MIDDLE / COMFORTABLE",
+        "employment": "Self-employed, NOT working for others",
+        "unemployed": false,
+        "confidence": "HIGH",
+        "key_yogas": [
+          "Chandra Mangal Yoga (Moon 2nd + Mars 10th)",
+          "Ruchaka Yoga (Exalted Mars in Capricorn)",
+          "Hamsa Yoga (Jupiter in own sign Sagittarius)",
+          "Shubha Kartari Yoga"
+        ],
+        "positive_factors": [
+          "Moon EXALTED in Taurus (10°) = Emotional intelligence, good earnings",
+          "Mars EXALTED in Capricorn (4°) = Strong career drive, entrepreneurship",
+          "Rahu + Mars in 10th = Ambitious, bold career moves (Entrepreneurial Energy)",
+          "Saturn in 11th = Steady income through discipline",
+          "Jupiter in 9th = Luck, higher education, Dharma"
+        ],
+        "challenging_factors": [
+          "Ketu in 11th = Unpredictable income (sudden gains OR losses)",
+          "Sun in 12th (combust) = Hidden enemies, foreign expenses",
+          "No planet in 5th = Creativity fluctuations, luck variations"
+        ],
+        "wealth_sources": [
+          "Technology, digital business",
+          "Consulting, marketing",
+          "Network marketing, social media",
+          "Foreign/overseas business",
+          "Communication, media"
+        ]
+      },
+      "dasha_timeline": [
+        { "age": "0-18", "dasha": "Rahu", "phase": "Foundation, childhood, early struggles" },
+        { "age": "18-28", "dasha": "Jupiter", "phase": "Education, luck phase ✅" },
+        { "age": "28-38", "dasha": "Saturn", "phase": "MAJOR EARNING & CAREER PERIOD ⚡" },
+        { "age": "38-48", "dasha": "Mercury", "phase": "Peak career, expansion ✅" },
+        { "age": "48-58", "dasha": "Ketu", "phase": "Transformation, spiritual phase" },
+        { "age": "58-68", "dasha": "Venus", "phase": "Enjoyment phase, legacy building" }
+      ]
+    },
+    "person_3": {
+      "birth_details": {
+        "date": "07/08/1995",
+        "time": "21:18:41",
+        "location": "Colombo, Sri Lanka"
+      },
+      "chart_summary": {
+        "ascendant": "Pisces",
+        "navamsa": "Libra",
+        "sun_sign": "Cancer",
+        "moon_sign": "Sagittarius",
+        "moon_nakshatra": "Mula"
+      },
+      "planets": {
+        "Sun": { "sign": "Cancer", "degrees": "20°", "nakshatra": "Ashlesha", "house": "5th", "status": "COMBUST ⚠️" },
+        "Moon": { "sign": "Sagittarius", "degrees": "8°", "nakshatra": "Mula", "house": "10th", "status": "Strong" },
+        "Mars": { "sign": "Virgo", "degrees": "16°", "nakshatra": "Hasta", "house": "7th", "status": "Enemy sign ⚠️" },
+        "Mercury": { "sign": "Leo", "degrees": "1°", "nakshatra": "Magha", "house": "6th", "status": "Neutral" },
+        "Jupiter": { "sign": "Scorpio", "degrees": "11°", "nakshatra": "Anuradha", "house": "9th", "status": "Debilitated ⚠️" },
+        "Venus": { "sign": "Cancer", "degrees": "17°", "nakshatra": "Ashlesha", "house": "5th", "status": "COMBUST + Debilitated ⚠️" },
+        "Saturn": { "sign": "Pisces", "degrees": "0°", "nakshatra": "Purva Bhadrapada", "house": "1st", "status": "Retrograde ⚠️" },
+        "Rahu": { "sign": "Libra", "degrees": "6°", "nakshatra": "Chitra", "house": "8th", "status": "Retrograde" },
+        "Ketu": { "sign": "Aries", "degrees": "6°", "nakshatra": "Ashwini", "house": "2nd", "status": "Retrograde" }
+      },
+      "wealth_career_analysis": {
+        "status": "EMPLOYED / SERVICE 💼",
+        "wealth": "LIMITED ⚠️",
+        "unemployed": "RISK OF UNEMPLOYMENT ⚠️",
+        "confidence": "HIGH",
+        "positive_factors": [
+          "Moon in 10th (Sagittarius) = Public image, communication, teaching",
+          "Rahu in 8th = Interest in occult, research, hidden knowledge",
+          "Saturn in 1st = Discipline, persistence, hard work"
+        ],
+        "challenging_factors": [
+          "Venus DEBILITATED + COMBUST in 5th = Severely weak income/luxury/career prospects",
+          "Jupiter DEBILITATED in 9th = Weak luck, poor dharma",
+          "Ketu in 2nd = Debt, loss of wealth, financial instability",
+          "Sun COMBUST in 5th = Weak career authority, ego issues",
+          "Mars in 7th (enemy sign) = Marriage delays, conflicts",
+          "Saturn RETROGRADE in 1st = Delays, obstacles, karmic burden"
+        ],
+        "career_fields": [
+          "Teaching / Education (Moon in Sagittarius)",
+          "Government Service (Saturn)",
+          "Research / Occult Studies (Rahu in 8th)",
+          "Healthcare / Service (Mercury in 6th)",
+          "Communication / Media (Moon)"
+        ]
+      },
+      "dasha_timeline": [
+        { "id": 1, "mahadasha": "Ketu", "start_date": "1995-08-07", "end_date": "1998-05-24", "quality": "Childhood, losses, spiritual foundation" },
+        { "id": 2, "mahadasha": "Venus", "start_date": "1998-05-24", "end_date": "2018-05-24", "quality": "CRITICAL - Venus Debilitated & Combust (Financial struggles)" },
+        { "id": 3, "mahadasha": "Sun", "start_date": "2018-05-24", "end_date": "2024-05-24", "quality": "Moderate - career building" },
+        { "id": 4, "mahadasha": "Moon", "start_date": "2024-05-24", "end_date": "2034-05-24", "quality": "BEST PERIOD - Moon in 10th (TURNING POINT)" },
+        { "id": 5, "mahadasha": "Mars", "start_date": "2034-05-24", "end_date": "2041-05-24", "quality": "Challenging - Mars in 7th" },
+        { "id": 6, "mahadasha": "Rahu", "start_date": "2041-05-24", "end_date": "2059-05-24", "quality": "Transformative, intense" },
+        { "id": 7, "mahadasha": "Jupiter", "start_date": "2059-05-24", "end_date": "2075-05-24", "quality": "EXCELLENT - Jupiter Return / Peak Success" },
+        { "id": 8, "mahadasha": "Saturn", "start_date": "2075-05-24", "end_date": "2094-05-24", "quality": "Hard work, stability" },
+        { "id": 9, "mahadasha": "Mercury", "start_date": "2094-05-24", "end_date": "2110-05-24", "quality": "Communication, networking" }
+      ],
+      "remedies": {
+        "gemstones": {
+          "yellow_sapphire": { "recommendation": "Wear NOW", "reason": "Strengthen debilitated Jupiter" },
+          "pearl": { "recommendation": "Wear during Moon Dasha", "reason": "Enhance Moon support" },
+          "diamond": { "recommendation": "Avoid for now", "reason": "Venus is combust" }
+        },
+        "actions": [
+          "Chant 'Om Shukraye Namaha' 108 times daily",
+          "Give yellow clothes to priests as charity",
+          "Focus on stable job / government service; avoid business risk"
+        ]
+      }
+    }
+  }
+}

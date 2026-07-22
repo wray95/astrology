@@ -1,0 +1,99 @@
+{
+  "system_name": "Vedic Horoscope Analysis System",
+  "version": "1.0",
+  "data_source": "Drik Panchang (Primary)",
+  "accuracy_note": "Arena.ai should fetch from drikpanchang.com with exact date/time parameters",
+  
+  "data_extraction_url_pattern": "https://www.drikpanchang.com/planet/position/planetary-positions-sidereal.html?date={DD}/{MM}/{YYYY}&time={HH}:{MM}:{SS}",
+  
+  "persons": {
+    "person_1": {
+      "birth_info": {
+        "date": "1962",
+        "month": "May",
+        "day": "27",
+        "time": "03:38",
+        "location": "Dehiwatta, Sri Lanka"
+      },
+      "your_confirmed_data": {
+        "ascendant": "Aries",
+        "navamsa": "Taurus"
+      }
+    },
+    "person_2": {
+      "birth_info": {
+        "date": "1997",
+        "month": "March",
+        "day": "14",
+        "time": "09:38",
+        "location": "Colombo, Sri Lanka"
+      },
+      "your_confirmed_data": {
+        "ascendant": "Aries",
+        "navamsa": "Scorpio"
+      },
+      "drik_panchang_data": {
+        "ascendant": "Aries",
+        "ascendant_degrees": "0°",
+        "sun": "Pisces",
+        "moon": "Taurus 10°",
+        "mars": "Capricorn 4° (exalted)",
+        "mercury": "Aquarius 2°",
+        "jupiter": "Sagittarius 17°",
+        "venus": "Aquarius 25°",
+        "saturn": "Aquarius",
+        "rahu": "Capricorn 5°",
+        "ketu": "Cancer 5°"
+      }
+    },
+    "person_3": {
+      "birth_info": {
+        "date": "1995",
+        "month": "August",
+        "day": "7",
+        "time": "21:18",
+        "location": "Unknown"
+      },
+      "drik_panchang_raw_data": {
+        "ascendant": "Aquarius",
+        "ascendant_degrees": "15°",
+        "ascendant_nakshatra": "Shatabhisha",
+        "sun": "Cancer 21°",
+        "moon": "Sagittarius 10°",
+        "mars": "Virgo 16°",
+        "mercury": "Leo 2°",
+        "jupiter": "Scorpio 11°",
+        "venus": "Cancer 17° (combust)",
+        "saturn": "Pisces 0° (retrograde)",
+        "rahu": "Libra 6° (retrograde)",
+        "ketu": "Aries 6° (retrograde)"
+      }
+    }
+  },
+  
+  "wealth_career_analysis_summary": {
+    "person_1_1962": {
+      "status": "BUSINESS MAN",
+      "wealth": "COMFORTABLE",
+      "job_or_business": "BUSINESS",
+      "unemployed": "NO",
+      "key_indicators": ["Mars in Aries", "Venus in Taurus", "Jupiter in Sagittarius"],
+      "weakness": ["Saturn + Rahu in 6th = enemies/debt"]
+    },
+    "person_2_1997": {
+      "status": "BUSINESS MAN",
+      "wealth": "MODERATE TO UPPER-MIDDLE",
+      "job_or_business": "BUSINESS",
+      "unemployed": "NO",
+      "key_indicators": ["Mars exalted in Capricorn", "Moon exalted in Taurus", "Rahu + Mars in 10th"],
+      "weakness": ["Ketu in 11th = unpredictable income", "Sun in 12th = hidden enemies"]
+    },
+    "person_3_1995": {
+      "status": "UNCLEAR",
+      "wealth": "UNCLEAR",
+      "job_or_business": "UNCLEAR",
+      "unemployed": "UNCLEAR",
+      "needs_verification": "Ascendant unknown - please provide from your app"
+    }
+  }
+}
