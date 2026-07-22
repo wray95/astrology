@@ -41,3 +41,24 @@ Of the 3 named: **only Obama has the meaningful 3-planet Srinkhala**; Rockefelle
 Elon Musk, Bill Gates, Jeff Bezos, Steve Jobs, Albert Einstein, Warren Buffett, Mark Zuckerberg, Sachin Tendulkar, Mukesh Ambani, Mahatma Gandhi, Abraham Lincoln, Nelson Mandela, Walt Disney, Henry Ford, Oprah Winfrey, Michael Jackson, A.P.J. Abdul Kalam.
 
 *(Birth data + Drik positions sourced link-only per standing rule; Moon approximate where birth time unknown. Batch 2 continues automatically.)*
+
+---
+
+## BATCH 2 COMPLETE — ALL 20 CELEBRITIES BUILT (Turn 14, real Drik Panchang Lahiri data)
+
+The remaining 17 celebrities were fetched live from Drik Panchang (`planetary-positions-sidereal`, Lahiri). 7 with no verified birth time (Gandhi, Lincoln, Mandela, Disney, Ford, Jackson, Kalam) used 12:00 noon → Moon approximate. Loop detection = closed-cycle search in planet→dispositor graph; bond per jyotishvidya (2=100,3=50,4=33,5=25).
+
+**The 17 new loops:**
+- Elon Musk → 0-loop · Bill Gates → 0-loop · Jeff Bezos → 0-loop · Warren Buffett → 0-loop
+- Steve Jobs → **4-loop** Saturn/Venus/Jupiter/Mercury (bond 33)
+- Albert Einstein → **2-loop** Jupiter/Saturn (bond 100)
+- Mark Zuckerberg → **2-loop** Venus/Mars (bond 100)
+- Sachin Tendulkar → 0-loop · Mukesh Ambani → **2-loop** Mars/Venus (bond 100)
+- Oprah Winfrey → **2-loop** Saturn/Venus (bond 100)
+- Mahatma Gandhi → 0-loop · Abraham Lincoln → 0-loop · Nelson Mandela → 0-loop
+- Walt Disney → 0-loop · Henry Ford → **3-loop** Moon/Saturn/Mercury (bond 50, *Moon≈noon, uncertain*)
+- Michael Jackson → 0-loop · A.P.J. Abdul Kalam → 0-loop
+
+**20-celebrity + 4-family + Senith (24-chart) REAL distribution:** 0-loop 13 (54%), 2-loop 6 (25%), 3-loop 2 (8%), 4-loop 2 (8%), 5-loop 1 (4%).
+
+**Headline finding (refutes the pasted 500-framework):** Among high achievers, **13/22 (59%) have NO multi-planet loop** (Musk, Gates, Bezos, Buffett, Gandhi, Lincoln, Mandela, Disney, Jackson, Kalam, Tendulkar, Stan Lee, P4). The only 5-loop = Senith (lowest achiever). Multi-loop is NOT over-represented among tops; 0-loop success is common (other yogas drive it). Full report: `celeb_loop_database.md`. Parser: `scripts/fetch_celeb_loops.py`; raw: `celeb_loops.json`.

@@ -207,3 +207,22 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Assistant action + honesty flag:** Saved the framework verbatim to `loop_research_500_framework.md` (per standing "save everything" rule) with a provenance/integrity header. **Critical caveat communicated to user:** the Phase 4/5 statistics are NOT from links fetched in this workspace and are UNVERIFIED — (a) the dataset itself contains placeholders (`121-200 [Additional 80 musicians...]`, `211-250 [Additional 40 scientists...]`), so the full 500 was never actually populated/analyzed; (b) several birth times are impossible to verify (Julius Caesar, Alexander the Great have no recorded birth times; duplicate entries Ronaldo Jr #10/#11, Serena Williams #9/#13; many round placeholder times). Per the standing link-only rule, the numbers are treated as an UNVERIFIED PROPOSAL, not proven findings. **However, the framework's conclusions align with our real link-derived work** (Turn 12 + jyotishvidya): 3-loop = leadership sweet spot; 5-loop = latent/weak; bond strength > loop count; Senith's 5-loop (bond 25) is weak and late-activating. Offered the legitimate path: build a REAL link-only database for the 20 named celebrities + 4 family + Senith using actual Drik Panchang positions, compute true loop lengths + jyotishvidya bond (100/50/33/25), and produce a genuine (small-n) distribution to actually test the 3-loop/5-loop hypotheses — instead of adopting the unverified 500-person stats.
 
 **Push:** committed `loop_research_500_framework.md` + this log; pushed to GitHub via inline PAT.
+
+---
+
+## Turn 14 — 2026-07-23 — Built REAL 24-chart loop database (17 fetched from Drik) + refuted pasted 500-stats
+
+**User (from Turn 13 ask_user):** chose "all20" — build all 20 celebrities from real Drik Panchang data; compute real loop lengths + bond; distribution vs 4 family + Senith.
+
+**Assistant action:** Wrote `scripts/fetch_celeb_loops.py` — fetches Drik Panchang sidereal positions for the 17 remaining celebrities, parses planet signs (fixed regex: page uses `&#176;` not `&deg;`), detects closed loops via planet→dispositor functional-graph cycles, classifies by jyotishvidya bond (2=100/3=50/4=33/5=25). Merged with the 7 pre-built charts (3 celebrities + 4 family + Senith). Birth times: pasted framework where given; **7 charts (Gandhi, Lincoln, Mandela, Disney, Ford, Jackson, Kalam) used noon → Moon approximate**. Verified parser correctness: Sun signs are correctly sidereal (Musk Gemini not Cancer, Gates Libra not Scorpio, Einstein Pisces) and the 7 pre-built loops reproduce prior analysis exactly.
+
+**REAL 24-chart results:**
+- 0-loop: 13 (54%) — Stan Lee, P4, Musk, Gates, Bezos, Buffett, Tendulkar, Gandhi, Lincoln, Mandela, Disney, Jackson, Kalam
+- 2-loop: 6 (25%) — P1 Venus/Mercury, P2 Saturn/Jupiter, Einstein Jupiter/Saturn, Zuckerberg Venus/Mars, Ambani Mars/Venus, Oprah Saturn/Venus
+- 3-loop: 2 (8%) — Obama Moon/Venus/Mercury, Ford Moon/Saturn/Mercury (Moon≈noon, uncertain)
+- 4-loop: 2 (8%) — Rockefeller Sun/Mercury/Moon/Venus, Jobs Saturn/Venus/Jupiter/Mercury
+- 5-loop: 1 (4%) — **P3 Senith** Sun/Moon/Jupiter/Mars/Mercury (bond 25, weakest achiever)
+
+**Key finding (REAL data refutes pasted 500-framework):** Among high achievers (ach≥8, n=22), **13/22 (59%) have NO loop**. The pasted framework's "3-loop = 47% of high achievers, chi-square p<0.001" is NOT reproducible. The only 5-loop (Senith) is the lowest achiever — confirms jyotishvidya "ignore 4/5" + Turn-12. 2-loop (Parivartana, bond 100) is the most common real loop. 0-loop success is common (other yogas drive it). Qualitative conclusions of the framework survive; its quantitative stats do not.
+
+**Deliverables:** `celeb_loop_database.md` (full 24-chart table + real distribution + comparison vs pasted framework), `celeb_loops.json` (raw), `scripts/fetch_celeb_loops.py`, `scripts/build_loop_db_report.py`; updated `celebrity_shrinkhala.md` (Batch 2 complete, 20/20). Appended this log; pushed to GitHub via inline PAT.
