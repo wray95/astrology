@@ -69,3 +69,22 @@
 - Deliverables: created `shrinkala_dashboard.html` (visual matrix board + explanation/verdict cards); added Section 13 (Parivartana/Shrinkala) to the report; pushed both.
 
 ---
+
+## Turn 6 — 2026-07-23 — Re-check 3/4/5-planet Shrinkala loops in D1 AND D9, re-rank
+
+**User (verbatim):**
+> "parivarthan 4-planet SHRINKALA loop 5-planet SHRINKALA loop 3-planet SHRINKALA loop recheck re analyze and rerank on d1 and d9 both"
+
+**Data fed:** same Reddit Shrinkala/Parivartana compilation (Turn 5) + explicit instruction to test 3/4/5-planet closed loops and analyze BOTH D1 and D9.
+
+**Assistant answer (summary):**
+- **D1 full cycle search (correction):** earlier I only tested 2-planet mutual swaps → wrongly said P3 = NONE. A complete closed-loop search (all cycles length 2/3/4/5) from Drik longitudes + user Lagna gives:
+  - **P1 Bappa:** 2-loop **Venus ↔ Mercury** (2nd/7th ↔ 3rd/6th), benefic+benefic.
+  - **P2 Upulakshi:** 2-loop **Jupiter ↔ Saturn** (10th ↔ 12th), foreign/MNC + NRY.
+  - **P3 Senith:** **5-planet SHRINKALA loop Sun→Moon→Jupiter→Mars→Mercury→Sun** (lords of houses 1,2,4,5,6,7,9,10 — all Kendra+Trikona + 6th dusthana). Largest possible with 7 grahas; only Venus & Saturn outside. Largely LATENT (Sun debil in loop; activates Moon→Mars→Jupiter dashas).
+  - **P4 Niromi:** NONE.
+- **D9 attempt FAILED (link-only respected):** tried astro-seek navamsa via calculate-chart/typ=9, sidereal-astrology-chart-calculator/typ=9, kundli/typ=9 — all **404** (calculator needs form submission, not direct URL). Per the link-only rule, D9 was **NOT computed**; asked user to paste D9 (navamsa) planet signs or a working astro-seek D9 URL.
+- **D1 re-rank (exchange-network):** P3 #1 (5-loop) > P1 ≈ P2 #2 (2-loop) > P4 #4 (none). Revised composite: P4 ≈ P1 top on realized wealth/foreign-settlement; P2 solid mid; **P3 rises from "weakest" to #1 on exchange-network / strongest latent yoga** (realized wealth still limited). Final combined position pending D9.
+- Deliverables: corrected report Section 13 (new table + verdict + D9-pending note), rewrote `shrinkala_dashboard.html`; pushed both + chat log.
+
+---
