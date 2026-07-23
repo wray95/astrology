@@ -1,4 +1,9 @@
-# Re-Rank of the 4 Charts — using the Research Data Matrix Table
+# Re-Rank of the 4 Charts (P1–P4) — using the Research Data Matrix Table
+
+**P5 note:** Senath was added as the 5th reference chart (P5) per user instruction, but he is a
+Drik-link person and is **not in the famous-people research matrix** (`famous_people_birth_data.json`),
+so he has **no worldly composite score** here. His Vedic/validation ranking (the only axis with
+workspace data for him) is in `rerank_p1234_validated.md`. No worldly score is fabricated for him.
 
 **Method:** the qualitative 23-dimension research matrix (detailed_rerank.md / all_four_reanalysis.md §12) is scored on a transparent 0–5 scale (HIGH/STRONG=4, MOD=3, LOW-MOD=2, WEAK=1, STRONGEST/WEALTHIEST=5). The 9 user-requested dimensions are summed into a **composite**; the other matrix dimensions are reported as separate axes. Link-only; jyotishvidya Śrṅkhalā bond ranking applied (P2 > P1 > P3 > P4). No change to the 5-loop theory, loop detection, or bond logic.
 

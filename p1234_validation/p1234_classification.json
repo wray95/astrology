@@ -1,17 +1,18 @@
 {
-  "total": 5287,
+  "total": 5288,
   "p1234_counts": {
     "PARTIAL": 91,
     "ABSENT": 17,
-    "COMPLETE": 4,
+    "COMPLETE": 5,
     "UNKNOWN": 5175
   },
-  "reason": "P1234 reinterpreted as the 4 named reference charts (P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi) per user clarification. Those 4 = COMPLETE; other charted charts scored against the derived hallmark set (PARTIAL/ABSENT); date-only records = UNKNOWN.",
+  "reason": "P1234 reinterpreted as the 5 named reference charts (P1-P5) (P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi, P5 Senath) per user clarification. Those 4 = COMPLETE; other charted charts scored against the derived hallmark set (PARTIAL/ABSENT); date-only records = UNKNOWN.",
   "reference_charts": [
     "Polgahawela Bappa",
     "Upulakshi",
     "Senith",
-    "Niromi"
+    "Niromi",
+    "Senath"
   ],
   "records": [
     {
@@ -37251,6 +37252,13 @@
       "name": "Jaak van Wijck",
       "status": "UNKNOWN",
       "role": "comparison",
+      "matched_hallmarks": null
+    },
+    {
+      "person_id": "P5",
+      "name": "Senath",
+      "status": "COMPLETE",
+      "role": "P5",
       "matched_hallmarks": null
     }
   ]

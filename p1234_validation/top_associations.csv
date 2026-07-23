@@ -1,12 +1,11 @@
 rule_id,name,pattern_and_loop,pattern_no_loop,no_pattern_loop,no_pattern_no_loop,chi2,p_value,odds_ratio
-PARI_001,Parivartana (2-planet exchange),31,0,39,41,23.841,0.0,66.19
-SHRIN_001,Srinkhala (3-planet exchange),27,0,43,41,19.637,0.0,52.471
-OWN_VEN,Venus in own sign,6,16,64,25,15.089,0.0002,0.146
-EXALT_MER,Mercury exalted,1,9,69,32,13.285,0.0004,0.052
-OWN_MER,Mercury in own sign,5,14,65,27,13.289,0.0004,0.148
-MAHA_002,Bhadra (Mercury),1,6,69,35,7.631,0.0058,0.085
-SANKHYA_004,Kedara (4 signs),15,18,55,23,6.251,0.012,0.348
-SANKHYA_005,Sula (3 signs),2,6,68,35,5.362,0.0196,0.172
-LOOP_004,4-loop chain,9,0,61,41,4.811,0.0267,12.821
-SANKHYA_002,Damini (6 signs),21,5,49,36,4.57,0.0307,3.086
-MAHA_004,Malavya (Venus),2,5,68,36,3.816,0.048,0.212
+PARI_001,Parivartana (2-planet exchange),32,0,39,41,24.509,0.0,68.291
+SHRIN_001,Srinkhala (3-planet exchange),27,0,44,41,19.295,0.0,51.292
+OWN_VEN,Venus in own sign,6,16,65,25,15.392,0.0001,0.144
+EXALT_MER,Mercury exalted,1,9,70,32,13.489,0.0003,0.051
+OWN_MER,Mercury in own sign,5,14,66,27,13.555,0.0003,0.146
+MAHA_002,Bhadra (Mercury),1,6,70,35,7.759,0.0054,0.083
+SANKHYA_004,Kedara (4 signs),15,18,56,23,6.487,0.0105,0.342
+SANKHYA_005,Sula (3 signs),2,6,69,35,5.472,0.0184,0.169
+LOOP_004,4-loop chain,9,0,62,41,4.728,0.028,12.616
+SANKHYA_002,Damini (6 signs),21,5,50,36,4.406,0.0338,3.024

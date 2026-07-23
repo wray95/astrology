@@ -431,3 +431,16 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Senath is the only one of P1-P4+Senath with BOTH PARI_001 AND MAHA_004 + 2 exaltations -> top yoga potential.
 **DELIVERABLES:** senath_recompute.md (master, presented), rewrote senath_dasha_matrix.md (corrected dasha), senath_recomputed.json. Previous wrong answers (Turn24/25 dasha + vargottama) superseded.
 **GIT:** commit + push (PAT redacted [REDACTED]).
+
+---
+## Turn 27 (2026-07-23 local)
+**ROLE RECEIVED:** user imposed a strict "expert Vedic Astrology analysis engine" role — workspace = single source of truth; priority order (user > manual data > URLs > uploads > internal calc > model memory); mandatory rules (never invent/change/substitute/override uploaded yoga defs); data-handling + horoscope-process + validation steps; OUTPUT FORMAT with 7 sections.
+**USER:** use senath as p5 and reorganize the workspace accordingly
+**ACTIONS (workspace-only, no system changes to yoga/loop/P1234 theory):**
+1. Engine: added "Senath":{"role":"P5","lagna":"Virgo","hallmarks":["PARI_001","MAHA_004"]} to P1234_REFERENCE in scripts/p1234_validate.py; updated docstrings/console "P1-P4"->"P1-P5"; added main() injection of astrodb_out/p1234_reference_charts.json (reference charts not in registry).
+2. Created astrodb_out/p1234_reference_charts.json = Senath's reference chart (Virgo Lagna, signs/houses/loops from Drik link, loop_len 2, bond 100).
+3. Re-ran p1234_validate.py -> Senath now COMPLETE / P5 in p1234_classification.json + chart_evaluations.json; reference_charts list = [P1,P2,P3,P4,Senath]; 5 reference charts total.
+4. Reorganized workspace: created reference_charts/ with P1_Polgahawela_Bappa/, P2_Upulakshi/, P3_Senith/, P4_Niromi/ (READMEs sourced from chart_houses/astrodb_loops/classification) and P5_Senath/ (moved horoscope_senath.md, senath_matrix.md, senath_dasha_matrix.md, senath_recompute.md, senath_rahu_guru_vargottama.md, senath_recomputed.json + cache/; added senath_reference.json). Created reference_charts/INDEX.md (P1-P5 map).
+5. Updated rerank_p1234_validated.md -> "5 Charts (P1-P5)": added P5 to validation-evidence, Axis-B Vedic table (P5 composite 11.5, rank #2), noted P5 worldly unknown (not in famous_people dataset) so integrated 50/50 blend blocked by missing data (no guess). Updated rerank_matrix_scored.md title + P5 note (no worldly score fabricated). Updated p1234_validation/FINAL_SUMMARY.md (4 charts -> P1-P5 throughout).
+**KEY FINDING:** Senath (P5) is the only reference with BOTH a Parivartana (PARI_001, bond 100, like P1/P2) AND Malavya (MAHA_004, like P4) + Sun/Venus exalted -> #2 on Vedic axis (14 P1 > 11.5 P5 > 9 P2 > 6 P3 > 2.5 P4). His worldly/achievement axis is NOT in workspace (Drik-link person, not famous_people record) -> stated as missing, not guessed.
+**GIT:** commit + push (PAT redacted [REDACTED]).

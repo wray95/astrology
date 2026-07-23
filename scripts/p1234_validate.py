@@ -204,8 +204,9 @@ for i,nm in enumerate(_candra,1):
         "houses/Moon","low",[{"type":"candra_yoga","name":nm}])
 
 # ---------------------------------------------------------------------------
-# P1234 = the 4 named reference charts (user clarification: "its p1,p2,p3,p4")
-#   P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi.
+# P1234 = the named reference charts (user clarification: "its p1,p2,p3,p4";
+#   later extended to P1-P5 with Senath added as P5 per user instruction).
+#   P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi, P5 Senath.
 # These are the POSITIVE reference set. Every other chart is a COMPARISON.
 # Hallmark features distilled from their known profiles (signs/loops/Lagna):
 #   H_parivartana  -> PARI_001 (a 2-loop exchange)
@@ -214,7 +215,7 @@ for i,nm in enumerate(_candra,1):
 #   H_lagna_set    -> Lagna in {Aries,Taurus,Pisces} (the 4 references' Lagnas)
 #   H_high_ach     -> achievement >= 7
 # A comparison chart is PARTIAL if it matches >=1 hallmark, else ABSENT.
-# The 4 references themselves are COMPLETE.
+    # The references (P1-P5) themselves are COMPLETE.
 # (The exact textual "rules 1-4" were never in the workspace; this operationalises
 #  P1234 as "the 4 named charts" per the user's clarification, and derives the
 #  hallmark set from their documented profiles.)
@@ -232,6 +233,9 @@ P1234_REFERENCE = {
     "Niromi": {"role":"P4","lagna":"Taurus",
         "notes":"Wealthiest businesswoman; Taurus Lagna Vargottama; Malavya (Venus own/exalt in Kendra); achievement 9.",
         "hallmarks":["MAHA_004"]},
+    "Senath": {"role":"P5","lagna":"Virgo",
+        "notes":"Drik-link person (14/05/2001 16:08:40, Lahiri). Venus-Jupiter Parivartana (bond 100) + Malavya (exalted Venus in 7th from Virgo Lagna); Sun+Venus exalted; Rahu in 10th. Birth Moon Shravana -> Rahu MD 2014-2032. Added as P5 per user instruction.",
+        "hallmarks":["PARI_001","MAHA_004"]},
 }
 P1234_HALLMARKS = ["PARI_001","SHRIN_001","LOOP_004","LOOP_005",
                    "MAHA_001","MAHA_002","MAHA_003","MAHA_004","MAHA_005"]
@@ -446,6 +450,29 @@ def wh_cdf(x):
 
 def main():
     charts = load_charts()
+    # Inject P1234 reference charts not present in the famous-people registry
+    # (e.g. P5 Senath, supplied via Drik link) so they are evaluated as COMPLETE.
+    try:
+        for rc in json.load(open(os.path.join(ROOT,"astrodb_out","p1234_reference_charts.json"))):
+            if any(c["name"]==rc["name"] for c in charts):
+                continue
+            charts.append({
+                "id": rc.get("id",""),
+                "name": rc["name"],
+                "data_quality": rc.get("data_quality","full_signs_and_houses"),
+                "signs": rc.get("signs"),
+                "houses": rc.get("houses"),
+                "lagna_index": rc.get("lagna_index"),
+                "lagna_sign": rc.get("lagna_sign"),
+                "loops": rc.get("loops") or [],
+                "loop_len": int(rc.get("loop_len",0) or 0),
+                "bond": int(rc.get("bond",0) or 0),
+                "profession": rc.get("profession",""),
+                "achievement": rc.get("achievement",""),
+                "group": rc.get("group",""),
+            })
+    except Exception:
+        pass
     n_total = len(charts)
     CHARTED = ("full_signs","full_signs_and_houses")
     n_charted = sum(1 for c in charts if c["data_quality"] in CHARTED)
@@ -569,11 +596,11 @@ def main():
 
     # ---- P1234 classification aggregate ----
     p4_counts = Counter(e["p1234_status"] for e in evals)
-    p4_unknown_reason = ("P1234 reinterpreted as the 4 named reference charts "
-        "(P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi) per user clarification. "
+    p4_unknown_reason = ("P1234 reinterpreted as the 5 named reference charts (P1-P5) "
+        "(P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi, P5 Senath) per user clarification. "
         "Those 4 = COMPLETE; other charted charts scored against the derived hallmark set "
         "(PARTIAL/ABSENT); date-only records = UNKNOWN.")
-    p4_reference = [e["name"] for e in evals if e["p1234_detail"].get("role") in ("P1","P2","P3","P4")]
+    p4_reference = [e["name"] for e in evals if e["p1234_detail"].get("role") in ("P1","P2","P3","P4","P5")]
 
     # ---- Data quality report ----
     n_with_houses = sum(1 for c in charts if c["data_quality"]=="full_signs_and_houses")
@@ -590,7 +617,7 @@ def main():
         "rules_total":len(RULES),
         "rules_implemented_testable":len(testable_ids),
         "rules_unknown_on_this_data":len(RULES)-len(testable_ids),
-        "p1234_status":"COMPLETE for the 4 reference charts (P1-P4); PARTIAL/ABSENT for comparison charts; UNKNOWN for date-only records",
+        "p1234_status":"COMPLETE for the 5 reference charts (P1-P5); PARTIAL/ABSENT for comparison charts; UNKNOWN for date-only records",
         "note":("Lagna + whole-sign houses were COMPUTED for the 111 charted records with a "
                 "Drik-compatible Lahiri/Chitrapaksha ayanamsa (same ayanamsa Drik uses); the "
                 "Drik planet signs/positions are UNCHANGED. House/lordship/nakshatra/divisional "
@@ -634,7 +661,7 @@ def main():
     neg.append("# Negative findings & limitations (Part 10)\n")
     neg.append(f"- Dataset: {n_total} records; {n_charted} are charted (planet signs; {n_with_houses} also have computed Lagna + houses); {n_dateonly} are date-only with NO chart data.")
     neg.append(f"- Of {len(RULES)} rules, {len(testable_ids)} are now testable (sign + house/Lagna based); {len(RULES)-len(testable_ids)} remain UNKNOWN because their full classical definitions (Akrti/Dala/Avayoga/Bhava/most named yogas, nakshatra, divisionals) are not encoded in the engine.")
-    neg.append("- P1234 = the 4 named reference charts (P1-P4) per user clarification. They are COMPLETE; comparison charts are scored PARTIAL/ABSENT against a derived hallmark set. The exact textual 'rules 1-4' were never in the workspace, so the hallmark set is an operationalisation, not the original spec. No claim that P1234 'causes' anything.")
+    neg.append("- P1234 = the 5 named reference charts (P1-P5; P5 Senath added as 5th reference) per user clarification. They are COMPLETE; comparison charts are scored PARTIAL/ABSENT against a derived hallmark set. The exact textual 'rules 1-4' were never in the workspace, so the hallmark set is an operationalisation, not the original spec. No claim that P1234 'causes' anything.")
     neg.append("- The Lagna/houses were COMPUTED (Drik-compatible Lahiri ayanamsa), not scraped live from Drik's JS-rendered kundali (no headless browser available). Drik planet positions are whole-degree, so houses are whole-sign at the same precision. Upulakshi's registry time 12:00 is a placeholder -> computes Taurus, not the Aries Lagna in the notes (data-quality flag).")
     neg.append("- With only 111 charted records, classical-Yoga statistics have very small samples; most Yogas are individually rare -> low power; Fisher/chi-square must be read with caution.")
     neg.append("- No evidence that any Yoga/loop predicts achievement on this data; correlations are weak/null. The loop/bond distribution (n=111) replicates prior findings: 0-loop largest (~36%), 5-loop rare (~2-3%); Pearson r(loop,achievement) ~ -0.02.")
@@ -662,7 +689,7 @@ def main():
     print(f"  charted (signs)      : {n_charted}  (of which Lagna+houses: {n_with_houses})")
     print(f"  date-only (no chart) : {n_dateonly}")
     print(f"Rules in database      : {len(RULES)} (implemented/testable: {len(testable_ids)}, UNKNOWN here: {len(RULES)-len(testable_ids)})")
-    print(f"P1234 status           : COMPLETE for P1-P4 ({len(p4_reference)} charts); "
+    print(f"P1234 status           : COMPLETE for P1-P5 ({len(p4_reference)} charts); "
           f"PARTIAL/ABSENT for {n_charted-len(p4_reference)} comparison charts; "
           f"UNKNOWN for {n_dateonly} date-only")
     print("-"*70)

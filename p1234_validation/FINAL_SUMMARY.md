@@ -14,7 +14,7 @@ A 102‑rule Vedic‑Yoga rule database (Exalt/Debil/Own, Asraya, Sankhya,
 Parivartana/Srinkhala/loops, Mahapurusha, named yogas, Akrti, Dala, Avayoga,
 Bhava, Candra) was tested **deterministically** against the charted subset of the
 5,287‑record famous‑person dataset, and the **P1234 reference set** was
-re‑interpreted as the four named charts.
+re‑interpreted as the named reference charts (P1–P5; P5 Senath added per user instruction).
 
 ## Q2. How many records / how many charted?
 - **5,287** total registry records.
@@ -34,9 +34,9 @@ re‑interpreted as the four named charts.
   (102 rules × 5,287 records, with UNKNOWN handled per‑chart).
 
 ## Q4. What is P1234 and what status did charts get?
-Per your clarification **"its p1,p2,p3,p4"**, P1234 = the four reference charts:
-**P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi**.
-- The 4 reference charts → **COMPLETE** (each verified to satisfy its documented
+Per your clarification **"its p1,p2,p3,p4"** (later extended to P1–P5 with Senath as P5), P1234 = the named reference charts:
+**P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi, P5 Senath**.
+- The 5 reference charts (P1–P5) → **COMPLETE** (each verified to satisfy its documented
   signature: P1/P2 Parivartana; P3 the only 5‑loop; P4 Malavya/MAHA_004).
 - 107 comparison charts → scored vs a derived *astrological* hallmark set
   (Parivartana / 3+‑loop / Mahapurusha / Lagna ∈ {Aries,Taurus,Pisces};
@@ -103,8 +103,10 @@ via DrikPanchang"), Lagna + whole‑sign houses were **computed** with the stand
 **sidereal (Lahiri/Chitrapaksha) ayanamsa — the same ayanamsa Drik uses** — so the
 result is consistent with Drik's methodology. Birth location → Open‑Meteo
 geocoding (cached); timezone → IANA `zoneinfo` (DST‑correct). The ascendant
-formula was **validated against your 4 known Lagnas**: P1/P3/P4 recover exactly
-(Aries, Pisces, Taurus); P2 computes Taurus with the placeholder 12:00 time.
+formula was **validated against the reference Lagnas**: P1/P3/P4 recover exactly
+(Aries, Pisces, Taurus); P2 computes Taurus with the placeholder 12:00 time; P5 (Senath)
+Lagna = Virgo from the Drik link (planet signs are birthplace‑independent; the Lagna itself
+is a proxy since Senath's real birthplace is unknown).
 Reproducible via `scripts/compute_lagna.py` → `astrodb_out/chart_houses.json`.
 
 ## Q13. Reproducibility & deliverables?
@@ -119,8 +121,8 @@ Reproducible via `scripts/compute_lagna.py` → `astrodb_out/chart_houses.json`.
 
 ---
 
-### Four flags the analysis requires
-1. **P1234 = the 4 charts** (COMPLETE for P1–P4; PARTIAL/ABSENT for comparison;
+### Flags the analysis requires (P1–P5)
+1. **P1234 = the named charts (P1–P5)** (COMPLETE for P1–P5; PARTIAL/ABSENT for comparison;
    UNKNOWN for date‑only). The exact textual "rules 1–4" were never in the
    workspace — the hallmark set is an operationalisation.
 2. **111 charted / 5,176 date‑only** — only 2.1% of the 5,000 target have
