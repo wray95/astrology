@@ -397,3 +397,20 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Assistant action (standing rule: astro-seek = dasha authority, Lahiri):** Attempted to pull Senath's dasha from astro-seek. The calculator page is reachable and **confirms Lahiri Ayanamsa**, but its results endpoint (`/calculate-dasha/`) returns **403 Cloudflare** from this sandbox (same block as earlier project finding) — the live HTML table could not be fetched here. The dasha already computed (Vimshottari from Moon's nakshatra, Moon = Capricorn 24.3° from the Drik link) uses the **identical Lahiri method**, so it is equivalent to astro-seek's output. Provided the exact astro-seek GET URL (Houston tz UTC−5, matching Drik default) for the user to open in their own browser, and added an astro-seek cross-check section to `senath_dasha_matrix.md`. Flagged that the dasha depends on the birth UTC moment, so a different real birthplace/timezone would shift the dasha start.
 
 **Push:** committed `senath_dasha_matrix.md` (astor-seek section) + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+
+---
+## Turn 25 (YYYY still 2026-07-23 local)
+**USER:** check again rahu now guru next virgo vargottama
+**CONTEXT:** Senath (Drik-link person, 14/05/2001, Houston proxy, Virgo Lagna) — distinct from P3 Senith (Colombo, Pisces Lagna). Request = re-check Rahu (now/upcoming AD) + Guru (next AD) and a Virgo-vargottama check → needs Navamsa (D9).
+**COMMANDS:**
+- Wrote scripts/navamsa_senath.py — reuses Lahiri/ascendant formula from compute_lagna.py; computes D9 for Lagna + 9 planets, vargottama flags.
+- Ran it (JD=2452044.38102, Ayanamsa=23.8812, Lagna sidereal=162.594 => Virgo deg 12.6).
+- Debug-reverified Lagna D9 = Gemini (first table print glitch showed Cancer; focus line + clean recompute both say Gemini).
+**ASSISTANT ANSWER (summary):**
+- Navamsa (D9): Lagna Virgo->Gemini; Sun Taurus->Taurus (VARGOTTAMA); Moon Cap->Gemini; Mars Sag->Capricorn; Mercury Tau->Scorpio; Jupiter Tau->Scorpio; Venus Pisc->Libra; Saturn Tau->Pisces; Rahu Gem->Libra; Ketu Sag->Aries.
+- VIRGO LAGNA vargottama? = NO (D1 Virgo -> D9 Gemini). Only the SUN is vargottama.
+- RAHU (now/upcoming AD 2028-2030): D1 Gemini (10th) -> D9 Libra (5th from D9-Lagna). Not vargottama but D9 Libra Venus-ruled (Venus exalted) = favorable. Job-change/foreign-tech window.
+- GURU (next AD 2030-2033): D1 Taurus (9th, in Venus-Jupiter exchange) -> D9 Scorpio (6th). Not vargottama; neutral. Expansion/promotion via effort.
+- Deliverable: senath_rahu_guru_vargottama.md (presented).
+- CAVEAT: planet D9 + Sun vargottama are location-independent (fixed by UTC); Lagna->D9-Gemini / "Virgo not vargottama" depends on Houston proxy — would change with real birthplace.
+**GIT:** commit + push (PAT redacted as [REDACTED]).
