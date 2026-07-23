@@ -1,3 +1,6 @@
 cache/
 __pycache__/
 *.pyc
+data/_births_done.json
+data/_wp_titles.json
+data/_wp_titles_done.json

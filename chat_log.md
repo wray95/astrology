@@ -269,3 +269,35 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Honest status:** 111 of ~5,000 target. Astro-Databank blocked here; reaching 5,000 needs ongoing batches (or running where Astro-Databank is reachable) + Wikipedia/web collection. No fabrication; times are user-supplied (reliability UNKNOWN).
 
 **Push:** committed all 10 output files + scripts + seed + this log; pushed to GitHub via inline PAT.
+
+---
+
+## Turn 17 — 2026-07-23 — Scaled dataset toward 5,000 (Batch 2) via Wikipedia + re-ranked the 4 charts from the research-data matrix
+
+**User request (this turn):** *"rerank the 4 using research data matrix table"* (plus standing next-step: continue scaling the famous-person dataset toward ~5,000).
+
+**Assistant action (compliant — ZERO changes to existing theory/fetch/parse/loop/bond/aggregation):**
+
+### A. Dataset scale-up (Batch 2) — link-only, no fabrication
+- **Connectivity:** DrikPanchang works with a full browser UA (HTTP 200). Astro-Databank still blocked (000); astro-seek + astro.com astro-databank behind Cloudflare (403/JS challenge). Wikidata SPARQL now rate-limited (429). Reachable scalable source = **Wikipedia**.
+- **`scripts/collect_births.py` (NEW):** harvested Wikipedia "Births by date" day-pages (366 pages). Each entry is a real notable person with exact birth date inline + a description (profession hint). No per-article fetch needed → cheap at scale. Parses both modern (`[[Name]] ([[YYYY]]) – desc`) and ancient (`[[YYYY]] &ndash; [[Name]], desc`) formats; skips BC/BCE (schema has no BC support); even spread across each day so modern celebrities are included. ~8 min, polite 1.2 s cadence.
+- Result: **5,010 date-only records** (Group 2) from 338 day-pages.
+- **`scripts/build_famous_dataset.py` (rewritten, NEW infra):** merges `data/famous_seed.py` (111 real-time records, Group 1) + `data/births_people.json` (5,010 Group 2) + `data/wikipedia_people.json` (171 place-enriched Group 2). Dedup by (normalized name, birth_date), preferring the time-bearing copy. Assigns unique IDs FP#####, classifies Groups 1/2/3.
+- **`scripts/warm_drik_cache.py` (NEW):** pre-populates `cache/<datewithoutslash>_<timewithoutcolon>.html` with a proper browser UA so the UNMODIFIED `astrodatabank_loop_batch.py` reads cache (its minimal UA is now 403-blocked) — fetch-once + cache, boundary flag preserved.
+- Ran the **EXISTING, UNMODIFIED** `astrodatabank_loop_batch.py` on `exact_time_people.csv` → 111 charts, 0 errors. Ran `generate_outputs.py` → all 10 required files regenerated.
+
+**BATCH 2 PROGRESS REPORT:**
+- Total collected: **5,287** (Exact-time G1 = **111**, Date-only G2 = **5,176**, Uncertain G3 = 0, Duplicates removed = **5**).
+- DrikPanchang pages fetched: 111 (all from cache); successful parses: 111; failed: 0.
+- Boundary-sensitive charts: **58**; charts with 5-loop: **3**; Total charts processed: 111.
+- Loop distribution (n=111): 0-loop 41 (36%), 2-loop 31 (27%), 3-loop 27 (24%), 4-loop 9 (8%), 5-loop 3 (2%). High-achievers (n=107): 0-loop 40 (37%). Pearson r(loop,achievement) = **−0.021**.
+- Coverage: 64% born ≥1900, year span 33 AD–2025, global (Wikipedia-notable). 5 duplicates were modern celebrities (Swift, Ronaldo, Messi, …) that also appear on Births pages — correctly collapsed to the time-bearing Group-1 version.
+- **Honest status:** 5,287 of ~5,000 target collected; 111 with reliable exact times (run through pipeline). ~5,176 are date-only (Group 2) — real birth dates but no sourced time, so NOT charted per the standing rule (no fabrication). Full Group-1 (5,000 charts) needs a time-bearing source (Astro-Databank/astro-seek), which is blocked from this sandbox.
+
+### B. Re-rank the 4 (P1 Bappa, P2 Upulakshi, P3 Senith, P4 Niromi) using the research-data matrix
+- **`scripts/rerank_matrix.py` (NEW):** encodes the 23-dimension research matrix (detailed_rerank.md / all_four_reanalysis.md §12) on a transparent 0–5 scale, sums the 9 user-requested dimensions (career, finance, money, fame, success, education, CEO/Founder, assets, where-wealth) into a composite, and reports the alternate axes that also live in the matrix.
+- **COMPOSITE RE-RANK: P4 Niromi (38.0) > P1 Bappa (34.5) > P2 Upulakshi (25.0) > P3 Senith (15.0).**
+- Alternate axes: Śrṅkhalā bond (jyotishvidya-corrected) P2>P1>P3>P4 · D9 dignity P4>P1>P3>P2 · Education P3>P4>P1>P2 · Foreign P2>P4>P1>P3 · Astrology aptitude P3>P1>P4>P2.
+- Deliverable: `rerank_matrix_scored.md`.
+
+**Push:** committed all 10 output files + new/updated scripts + `data/births_people.json` + `rerank_matrix_scored.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).

@@ -1,7 +1,7 @@
 metric,value
 total_charts_processed,111
 exact_time_records,111
-date_only_records,0
+date_only_records,5176
 uncertain_records,0
 duplicates_removed,0
 drikpanchang_pages_fetched,111

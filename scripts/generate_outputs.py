@@ -8,6 +8,12 @@ import json, csv, os
 from collections import Counter
 OUT = "/home/user/astrology"
 res = json.load(open(f"{OUT}/astrodb_out/astrodb_loops.json"))
+dup_count = 0
+try:
+    with open(f"{OUT}/duplicate_people.csv") as _f:
+        dup_count = max(0, sum(1 for _ in _f) - 1)
+except Exception:
+    dup_count = 0
 reg = json.load(open(f"{OUT}/famous_people_birth_data.json"))
 reg_by_name = {r["name"]: r for r in reg}
 
@@ -57,7 +63,7 @@ with open(f"{OUT}/aggregate_statistics.csv","w",newline="") as f:
     w.writerow(["exact_time_records", sum(1 for r0 in reg if r0["group"]==1)])
     w.writerow(["date_only_records", sum(1 for r0 in reg if r0["group"]==2)])
     w.writerow(["uncertain_records", sum(1 for r0 in reg if r0["group"]==3)])
-    w.writerow(["duplicates_removed", 0])
+    w.writerow(["duplicates_removed", dup_count])
     w.writerow(["drikpanchang_pages_fetched", n])
     w.writerow(["successful_parses", sum(1 for x in res if len(x.get("signs",{}))==9)])
     w.writerow(["failed_fetches", sum(1 for x in res if len(x.get("signs",{}))<9)])
@@ -70,14 +76,20 @@ with open(f"{OUT}/aggregate_statistics.csv","w",newline="") as f:
     w.writerow(["pearson_r_loop_vs_achievement", f"{r:.3f}"])
 
 # ---- PROGRESS REPORT ----
+dup_count = 0
+try:
+    with open(f"{OUT}/duplicate_people.csv") as f:
+        dup_count = max(0, sum(1 for _ in f) - 1)
+except Exception:
+    dup_count = 0
 print("="*60)
-print("PROGRESS REPORT — BATCH 1 (Famous-Person Birth-Data Dataset)")
+print("PROGRESS REPORT — FAMOUS-PERSON BIRTH-DATA DATASET (scaled via Wikipedia)")
 print("="*60)
 print(f"Total people collected        : {len(reg)}")
 print(f"  Exact-time records (G1)     : {sum(1 for r0 in reg if r0['group']==1)}")
 print(f"  Date-only records (G2)      : {sum(1 for r0 in reg if r0['group']==2)}")
 print(f"  Uncertain records (G3)      : {sum(1 for r0 in reg if r0['group']==3)}")
-print(f"Duplicate records removed     : 0")
+print(f"Duplicate records removed     : {dup_count}")
 print(f"DrikPanchang pages fetched    : {n}")
 print(f"Successful parses             : {sum(1 for x in res if len(x.get('signs',{}))==9)}")
 print(f"Failed fetches                : {sum(1 for x in res if len(x.get('signs',{}))<9)}")

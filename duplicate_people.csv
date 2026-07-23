@@ -1,1 +1,6 @@
-name,profession,birth_date,birth_time,birth_city
+name,profession,birth_date,birth_time,birth_city,birth_country
+Jeff Bezos,American computer scientist and businessman,12/01/1964,,,
+Rosa Parks,American civil rights activist,04/02/1913,,,
+Brian Lara,Trinidadian cricketer,02/05/1969,,,
+Ringo Starr,"English singer-songwriter, drummer, and actor",07/07/1940,,,
+Tim Cook,"American businessman and engineer, current CEO of Apple Inc.",01/11/1960,,,
