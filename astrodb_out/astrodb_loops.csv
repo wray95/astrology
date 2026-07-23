@@ -1,25 +1,112 @@
 name,profession,achievement,rodden,loop_len,bond,loops,moon_approx
-Obama,Politics,10,AA,3,50,Moon/Venus/Mercury,False
-Rockefeller,Business,10,DD,4,33,Sun/Mercury/Moon/Venus,False
-Stan Lee,Arts,8,DD,5,25,Jupiter/Venus/Mars/Saturn/Mercury,False
-P1 Bappa,Business,8,AA,2,100,Venus/Mercury,False
-P2 Upulakshi,Job,5,DD,2,100,Jupiter/Saturn,False
-P3 Senith,Job,4,AA,5,25,Sun/Moon/Jupiter/Mars/Mercury,False
-P4 Niromi,Business,9,AA,0,0,,False
-Elon Musk,Tech,10,AA,0,0,,False
-Bill Gates,Tech,10,AA,0,0,,False
-Jeff Bezos,Tech,10,AA,0,0,,False
-Steve Jobs,Tech,10,AA,4,33,Saturn/Venus/Jupiter/Mercury,False
-Albert Einstein,Science,10,AA,2,100,Jupiter/Saturn,False
-Warren Buffett,Business,10,AA,0,0,,False
-Mark Zuckerberg,Tech,9,AA,2,100,Venus/Mars,False
-Sachin Tendulkar,Sports,9,AA,3,50,Jupiter/Saturn/Mercury,False
-Mukesh Ambani,Business,10,AA,2,100,Mars/Venus,False
-Oprah Winfrey,Media,9,AA,2,100,Saturn/Venus,False
-Mahatma Gandhi,Politics,10,DD,0,0,,False
-Abraham Lincoln,Politics,10,DD,0,0,,False
-Nelson Mandela,Politics,10,DD,3,50,Moon/Venus/Mercury,False
-Walt Disney,Arts,9,DD,0,0,,False
-Henry Ford,Business,10,DD,3,50,Moon/Saturn/Mercury,False
-Michael Jackson,Arts,9,DD,0,0,,False
-A.P.J. Abdul Kalam,Science,9,DD,0,0,,False
+Leonardo DiCaprio,Actor,9,UNKNOWN,0,0,,False
+Taylor Swift,Singer,9,UNKNOWN,2,100,Mercury/Jupiter,False
+Oprah Winfrey,Media,9,UNKNOWN,2,100,Saturn/Venus,False
+Dwayne Johnson,Actor,9,UNKNOWN,0,0,,False
+Shakira,Singer,9,UNKNOWN,5,25,Saturn/Moon/Mercury/Jupiter/Mars,False
+Cristiano Ronaldo,Footballer,10,UNKNOWN,3,50,Saturn/Mars/Jupiter,False
+Lionel Messi,Footballer,10,UNKNOWN,0,0,,False
+Serena Williams,Tennis,9,UNKNOWN,0,0,,False
+Tiger Woods,Golfer,9,UNKNOWN,2,100,Mars/Venus,False
+Michael Phelps,Swimmer,9,UNKNOWN,3,50,Mercury/Moon/Mars,False
+Usain Bolt,Athlete,10,UNKNOWN,3,50,Jupiter/Saturn/Mars,False
+Neymar Jr,Footballer,9,UNKNOWN,0,0,,False
+Virat Kohli,Cricketer,9,UNKNOWN,2,100,Venus/Mercury,False
+LeBron James,Basketball,10,UNKNOWN,2,100,Mars/Saturn,False
+Kobe Bryant,Basketball,9,UNKNOWN,3,50,Moon/Mars/Mercury,False
+Muhammad Ali,Boxer,10,UNKNOWN,0,0,,False
+Pele,Footballer,10,UNKNOWN,2,100,Sun/Venus; Mars/Mercury,False
+Diego Maradona,Footballer,10,UNKNOWN,2,100,Mars/Mercury,False
+Jennifer Aniston,Actress,8,UNKNOWN,3,50,Saturn/Jupiter/Mercury,False
+Angelina Jolie,Actress,8,UNKNOWN,0,0,,False
+Brad Pitt,Actor,8,UNKNOWN,0,0,,False
+Johnny Depp,Actor,8,UNKNOWN,0,0,,False
+Will Smith,Actor,8,UNKNOWN,0,0,,False
+Tom Cruise,Actor,8,UNKNOWN,0,0,,False
+Meryl Streep,Actress,9,UNKNOWN,2,100,Mercury/Venus,False
+Denzel Washington,Actor,9,UNKNOWN,3,50,Saturn/Venus/Mars,False
+Morgan Freeman,Actor,9,UNKNOWN,2,100,Saturn/Jupiter,False
+Tom Hanks,Actor,9,UNKNOWN,2,100,Mars/Saturn,False
+Steven Spielberg,Director,10,UNKNOWN,0,0,,False
+James Cameron,Director,10,UNKNOWN,4,33,Moon/Saturn/Venus/Mercury,False
+Quentin Tarantino,Director,9,UNKNOWN,2,100,Moon/Mars,False
+Martin Scorsese,Director,10,UNKNOWN,2,100,Mars/Venus; Moon/Jupiter,False
+Christopher Nolan,Director,9,UNKNOWN,3,50,Sun/Moon/Mercury,False
+Paul McCartney,Singer,10,UNKNOWN,0,0,,False
+John Lennon,Singer,10,UNKNOWN,3,50,Sun/Mercury/Venus,False
+George Harrison,Singer,9,UNKNOWN,4,33,Saturn/Venus/Jupiter/Mercury,False
+Ringo Starr,Singer,9,UNKNOWN,0,0,,False
+Bob Dylan,Singer,10,UNKNOWN,2,100,Mars/Saturn,False
+Winston Churchill,Politician,10,UNKNOWN,3,50,Mars/Mercury/Venus,False
+Franklin D. Roosevelt,Politician,10,UNKNOWN,3,50,Saturn/Mars/Mercury,False
+Adolf Hitler,Politician,7,UNKNOWN,0,0,,False
+Vladimir Lenin,Politician,9,UNKNOWN,3,50,Saturn/Jupiter/Venus,False
+Joseph Stalin,Politician,9,UNKNOWN,2,100,Jupiter/Saturn,False
+Benito Mussolini,Politician,7,UNKNOWN,2,100,Moon/Venus,False
+Dwight D. Eisenhower,Politician,9,UNKNOWN,0,0,,False
+John F. Kennedy,Politician,10,UNKNOWN,0,0,,False
+Ronald Reagan,Politician,9,UNKNOWN,4,33,Saturn/Mars/Jupiter/Venus,False
+Margaret Thatcher,Politician,9,UNKNOWN,3,50,Mercury/Venus/Mars,False
+Indira Gandhi,Politician,9,UNKNOWN,2,100,Sun/Mars; Moon/Saturn; Jupiter/Venus,False
+Jawaharlal Nehru,Politician,9,UNKNOWN,0,0,,False
+Rosa Parks,Activist,8,UNKNOWN,0,0,,False
+Martin Luther King Jr,Activist,10,UNKNOWN,4,33,Saturn/Jupiter/Mars/Venus,False
+Malcolm X,Activist,9,UNKNOWN,2,100,Mars/Mercury,False
+Anne Frank,Author,8,UNKNOWN,4,33,Sun/Venus/Mars/Moon,False
+Helen Keller,Author,8,UNKNOWN,3,50,Moon/Saturn/Mars,False
+Gianluigi Buffon,Footballer,9,UNKNOWN,2,100,Sun/Saturn; Mercury/Jupiter,False
+Zinedine Zidane,Footballer,9,UNKNOWN,2,100,Moon/Mars,False
+Ronaldinho,Footballer,9,UNKNOWN,2,100,Sun/Jupiter,False
+Ronaldo,Footballer,9,UNKNOWN,0,0,,False
+Roger Federer,Tennis,10,UNKNOWN,3,50,Sun/Moon/Venus,False
+Rafael Nadal,Tennis,10,UNKNOWN,3,50,Mars/Jupiter/Saturn,False
+Novak Djokovic,Tennis,10,UNKNOWN,3,50,Venus/Mars/Mercury,False
+Martina Navratilova,Tennis,9,UNKNOWN,2,100,Sun/Venus; Mars/Saturn,False
+Venus Williams,Tennis,9,UNKNOWN,0,0,,False
+Sachin Tendulkar,Cricketer,9,UNKNOWN,3,50,Jupiter/Saturn/Mercury,False
+Ricky Ponting,Cricketer,8,UNKNOWN,3,50,Jupiter/Saturn/Mercury,False
+Steve Smith,Cricketer,8,UNKNOWN,0,0,,False
+Wasim Akram,Cricketer,8,UNKNOWN,2,100,Venus/Mars,False
+Brian Lara,Cricketer,8,UNKNOWN,3,50,Venus/Jupiter/Mercury,False
+Viv Richards,Cricketer,8,UNKNOWN,2,100,Saturn/Mercury,False
+Imran Khan,Politician,9,UNKNOWN,3,50,Mars/Saturn/Mercury,False
+Shane Warne,Cricketer,8,UNKNOWN,0,0,,False
+Elon Musk,Tech,10,UNKNOWN,0,0,,False
+Bill Gates,Tech,10,UNKNOWN,0,0,,False
+Jeff Bezos,Tech,10,UNKNOWN,0,0,,False
+Steve Jobs,Tech,10,UNKNOWN,4,33,Saturn/Venus/Jupiter/Mercury,False
+Mark Zuckerberg,Tech,9,UNKNOWN,2,100,Venus/Mars,False
+Larry Page,Tech,9,UNKNOWN,3,50,Jupiter/Saturn/Venus,False
+Sergey Brin,Tech,9,UNKNOWN,3,50,Moon/Venus/Mercury,False
+Jack Ma,Business,9,UNKNOWN,2,100,Moon/Venus,False
+Satya Nadella,Tech,9,UNKNOWN,3,50,Moon/Saturn/Jupiter,False
+Tim Cook,Tech,9,UNKNOWN,3,50,Venus/Mars/Mercury,False
+Sundar Pichai,Tech,9,UNKNOWN,2,100,Mercury/Moon,False
+Sheryl Sandberg,Tech,8,UNKNOWN,0,0,,False
+Susan Wojcicki,Tech,8,UNKNOWN,0,0,,False
+Marissa Mayer,Tech,8,UNKNOWN,0,0,,False
+Bob Iger,Business,8,UNKNOWN,2,100,Saturn/Mercury,False
+Mary Barra,Business,8,UNKNOWN,0,0,,False
+Jamie Dimon,Business,8,UNKNOWN,4,33,Sun/Saturn/Mars/Jupiter,False
+Lloyd Blankfein,Business,8,UNKNOWN,0,0,,False
+Warren Buffett,Business,10,UNKNOWN,0,0,,False
+Mukesh Ambani,Business,10,UNKNOWN,2,100,Mars/Venus,False
+Beyonce,Singer,9,UNKNOWN,0,0,,False
+Albert Einstein,Science,10,UNKNOWN,2,100,Jupiter/Saturn,False
+Stephen Hawking,Science,10,UNKNOWN,0,0,,False
+Marie Curie,Science,10,UNKNOWN,0,0,,False
+Donald Trump,Politician,9,UNKNOWN,4,33,Sun/Venus/Moon/Mars,False
+Barack Obama,Politician,10,UNKNOWN,3,50,Moon/Venus/Mercury,False
+John D. Rockefeller,Business,10,UNKNOWN,4,33,Sun/Mercury/Moon/Venus,False
+Stan Lee,Arts,8,UNKNOWN,5,25,Jupiter/Venus/Mars/Saturn/Mercury,False
+Mahatma Gandhi,Politician,10,UNKNOWN,0,0,,False
+Abraham Lincoln,Politician,10,UNKNOWN,0,0,,False
+Nelson Mandela,Politician,10,UNKNOWN,3,50,Moon/Venus/Mercury,False
+Walt Disney,Arts,9,UNKNOWN,0,0,,False
+Henry Ford,Business,10,UNKNOWN,3,50,Moon/Saturn/Mercury,False
+Michael Jackson,Arts,9,UNKNOWN,0,0,,False
+A.P.J. Abdul Kalam,Science,9,UNKNOWN,0,0,,False
+Polgahawela Bappa,Business,8,B,2,100,Venus/Mercury,False
+Upulakshi,Job,5,B,2,100,Jupiter/Saturn,False
+Senith,Job,4,B,5,25,Sun/Moon/Jupiter/Mars/Mercury,False
+Niromi,Business,9,B,0,0,,False

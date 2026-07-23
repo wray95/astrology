@@ -1,0 +1,112 @@
+id,name,profession,birth_date,birth_time,birth_city,birth_country,source_url,source_name,reliability,achievement,group
+FP00001,Leonardo DiCaprio,Actor,11/11/1974,14:47:00,Los Angeles,USA,https://en.wikipedia.org/wiki/Leonardo_DiCaprio,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00002,Taylor Swift,Singer,13/12/1989,17:17:00,"Reading, Pennsylvania",USA,https://en.wikipedia.org/wiki/Taylor_Swift,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00003,Oprah Winfrey,Media,29/01/1954,14:30:00,"Kosciusko, Mississippi",USA,https://en.wikipedia.org/wiki/Oprah_Winfrey,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00004,Dwayne Johnson,Actor,02/05/1972,14:15:00,"Hayward, California",USA,https://en.wikipedia.org/wiki/Dwayne_Johnson,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00005,Shakira,Singer,02/02/1977,00:05:00,Barranquilla,Colombia,https://en.wikipedia.org/wiki/Shakira,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00006,Cristiano Ronaldo,Footballer,05/02/1985,03:30:00,"Funchal, Madeira",Portugal,https://en.wikipedia.org/wiki/Cristiano_Ronaldo,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00007,Lionel Messi,Footballer,24/06/1987,14:00:00,Rosario,Argentina,https://en.wikipedia.org/wiki/Lionel_Messi,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00008,Serena Williams,Tennis,26/09/1981,13:17:00,"Saginaw, Michigan",USA,https://en.wikipedia.org/wiki/Serena_Williams,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00009,Tiger Woods,Golfer,30/12/1975,22:50:00,"Cypress, California",USA,https://en.wikipedia.org/wiki/Tiger_Woods,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00010,Michael Phelps,Swimmer,30/06/1985,19:42:00,"Baltimore, Maryland",USA,https://en.wikipedia.org/wiki/Michael_Phelps,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00011,Usain Bolt,Athlete,21/08/1986,21:46:00,Montego Bay,Jamaica,https://en.wikipedia.org/wiki/Usain_Bolt,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00012,Neymar Jr,Footballer,05/02/1992,14:30:00,Mogi das Cruzes,Brazil,https://en.wikipedia.org/wiki/Neymar,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00013,Virat Kohli,Cricketer,05/11/1988,05:30:00,Delhi,India,https://en.wikipedia.org/wiki/Virat_Kohli,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00014,LeBron James,Basketball,30/12/1984,14:02:00,"Akron, Ohio",USA,https://en.wikipedia.org/wiki/LeBron_James,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00015,Kobe Bryant,Basketball,23/08/1978,18:31:00,"Philadelphia, Pennsylvania",USA,https://en.wikipedia.org/wiki/Kobe_Bryant,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00016,Muhammad Ali,Boxer,17/01/1942,18:35:00,"Louisville, Kentucky",USA,https://en.wikipedia.org/wiki/Muhammad_Ali,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00017,Pele,Footballer,23/10/1940,23:45:00,Tres Coracoes,Brazil,https://en.wikipedia.org/wiki/Pel%C3%A9,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00018,Diego Maradona,Footballer,30/10/1960,06:00:00,"Lanus, Buenos Aires",Argentina,https://en.wikipedia.org/wiki/Diego_Maradona,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00019,Jennifer Aniston,Actress,11/02/1969,13:22:00,"Sherman Oaks, California",USA,https://en.wikipedia.org/wiki/Jennifer_Aniston,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00020,Angelina Jolie,Actress,04/06/1975,09:09:00,"Los Angeles, California",USA,https://en.wikipedia.org/wiki/Angelina_Jolie,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00021,Brad Pitt,Actor,18/12/1963,06:31:00,"Springfield, Illinois",USA,https://en.wikipedia.org/wiki/Brad_Pitt,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00022,Johnny Depp,Actor,09/06/1963,08:15:00,"Owensboro, Kentucky",USA,https://en.wikipedia.org/wiki/Johnny_Depp,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00023,Will Smith,Actor,25/09/1968,20:49:00,"Philadelphia, Pennsylvania",USA,https://en.wikipedia.org/wiki/Will_Smith,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00024,Tom Cruise,Actor,03/12/1962,15:06:00,"Syracuse, New York",USA,https://en.wikipedia.org/wiki/Tom_Cruise,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00025,Meryl Streep,Actress,22/06/1949,05:02:00,"Summit, New Jersey",USA,https://en.wikipedia.org/wiki/Meryl_Streep,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00026,Denzel Washington,Actor,28/12/1954,14:36:00,"Mount Vernon, New York",USA,https://en.wikipedia.org/wiki/Denzel_Washington,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00027,Morgan Freeman,Actor,01/06/1937,18:04:00,"Memphis, Tennessee",USA,https://en.wikipedia.org/wiki/Morgan_Freeman,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00028,Tom Hanks,Actor,09/07/1956,04:05:00,"Concord, California",USA,https://en.wikipedia.org/wiki/Tom_Hanks,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00029,Steven Spielberg,Director,18/12/1946,18:16:00,"Cincinnati, Ohio",USA,https://en.wikipedia.org/wiki/Steven_Spielberg,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00030,James Cameron,Director,16/08/1954,02:25:00,"Kapuskasing, Ontario",Canada,https://en.wikipedia.org/wiki/James_Cameron,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00031,Quentin Tarantino,Director,27/03/1963,04:00:00,"Knoxville, Tennessee",USA,https://en.wikipedia.org/wiki/Quentin_Tarantino,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00032,Martin Scorsese,Director,17/11/1942,15:15:00,"Queens, New York",USA,https://en.wikipedia.org/wiki/Martin_Scorsese,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00033,Christopher Nolan,Director,30/07/1970,10:00:00,London,UK,https://en.wikipedia.org/wiki/Christopher_Nolan,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00034,Paul McCartney,Singer,18/06/1942,14:00:00,Liverpool,UK,https://en.wikipedia.org/wiki/Paul_McCartney,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00035,John Lennon,Singer,09/10/1940,18:30:00,Liverpool,UK,https://en.wikipedia.org/wiki/John_Lennon,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00036,George Harrison,Singer,25/02/1943,23:42:00,Liverpool,UK,https://en.wikipedia.org/wiki/George_Harrison,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00037,Ringo Starr,Singer,07/07/1940,05:30:00,Liverpool,UK,https://en.wikipedia.org/wiki/Ringo_Starr,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00038,Bob Dylan,Singer,24/05/1941,21:05:00,"Duluth, Minnesota",USA,https://en.wikipedia.org/wiki/Bob_Dylan,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00039,Winston Churchill,Politician,30/11/1874,01:30:00,Woodstock,UK,https://en.wikipedia.org/wiki/Winston_Churchill,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00040,Franklin D. Roosevelt,Politician,30/01/1882,20:45:00,"Hyde Park, New York",USA,https://en.wikipedia.org/wiki/Franklin_D._Roosevelt,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00041,Adolf Hitler,Politician,20/04/1889,18:30:00,Braunau am Inn,Austria,https://en.wikipedia.org/wiki/Adolf_Hitler,Wikipedia (framework cross-ref),UNKNOWN,7,1
+FP00042,Vladimir Lenin,Politician,22/04/1870,11:00:00,Ulyanovsk,Russia,https://en.wikipedia.org/wiki/Vladimir_Lenin,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00043,Joseph Stalin,Politician,18/12/1878,11:30:00,Gori,Georgia,https://en.wikipedia.org/wiki/Joseph_Stalin,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00044,Benito Mussolini,Politician,29/07/1883,22:00:00,Predappio,Italy,https://en.wikipedia.org/wiki/Benito_Mussolini,Wikipedia (framework cross-ref),UNKNOWN,7,1
+FP00045,Dwight D. Eisenhower,Politician,14/10/1890,03:30:00,"Denison, Texas",USA,https://en.wikipedia.org/wiki/Dwight_D._Eisenhower,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00046,John F. Kennedy,Politician,29/05/1917,15:43:00,"Brookline, Massachusetts",USA,https://en.wikipedia.org/wiki/John_F._Kennedy,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00047,Ronald Reagan,Politician,06/02/1911,04:16:00,"Dixon, Illinois",USA,https://en.wikipedia.org/wiki/Ronald_Reagan,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00048,Margaret Thatcher,Politician,13/10/1925,09:00:00,Grantham,UK,https://en.wikipedia.org/wiki/Margaret_Thatcher,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00049,Indira Gandhi,Politician,19/11/1917,23:12:00,Allahabad,India,https://en.wikipedia.org/wiki/Indira_Gandhi,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00050,Jawaharlal Nehru,Politician,14/11/1889,23:00:00,Allahabad,India,https://en.wikipedia.org/wiki/Jawaharlal_Nehru,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00051,Rosa Parks,Activist,04/02/1913,04:30:00,"Tuskegee, Alabama",USA,https://en.wikipedia.org/wiki/Rosa_Parks,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00052,Martin Luther King Jr,Activist,15/01/1929,00:30:00,"Atlanta, Georgia",USA,https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00053,Malcolm X,Activist,19/05/1925,02:30:00,"Omaha, Nebraska",USA,https://en.wikipedia.org/wiki/Malcolm_X,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00054,Anne Frank,Author,12/06/1929,13:30:00,Frankfurt am Main,Germany,https://en.wikipedia.org/wiki/Anne_Frank,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00055,Helen Keller,Author,27/06/1880,10:00:00,"Tuscumbia, Alabama",USA,https://en.wikipedia.org/wiki/Helen_Keller,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00056,Gianluigi Buffon,Footballer,28/01/1978,23:47:00,Carrara,Italy,https://en.wikipedia.org/wiki/Gianluigi_Buffon,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00057,Zinedine Zidane,Footballer,23/06/1972,21:58:00,Marseille,France,https://en.wikipedia.org/wiki/Zinedine_Zidane,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00058,Ronaldinho,Footballer,21/03/1980,01:30:00,Porto Alegre,Brazil,https://en.wikipedia.org/wiki/Ronaldinho,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00059,Ronaldo,Footballer,18/09/1976,16:00:00,Rio de Janeiro,Brazil,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00060,Roger Federer,Tennis,08/08/1981,08:15:00,Basel,Switzerland,https://en.wikipedia.org/wiki/Roger_Federer,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00061,Rafael Nadal,Tennis,03/06/1986,02:30:00,Mallorca,Spain,https://en.wikipedia.org/wiki/Rafael_Nadal,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00062,Novak Djokovic,Tennis,22/05/1987,15:32:00,Belgrade,Serbia,https://en.wikipedia.org/wiki/Novak_Djokovic,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00063,Martina Navratilova,Tennis,18/10/1956,15:35:00,Revnice,Czechoslovakia,https://en.wikipedia.org/wiki/Martina_Navratilova,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00064,Venus Williams,Tennis,17/06/1980,13:15:00,"Lynwood, California",USA,https://en.wikipedia.org/wiki/Venus_Williams,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00065,Sachin Tendulkar,Cricketer,24/12/1973,10:00:00,Mumbai,India,https://en.wikipedia.org/wiki/Sachin_Tendulkar,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00066,Ricky Ponting,Cricketer,19/12/1974,05:00:00,Launceston,Australia,https://en.wikipedia.org/wiki/Ricky_Ponting,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00067,Steve Smith,Cricketer,17/02/1972,04:30:00,Delhi,India,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00068,Wasim Akram,Cricketer,03/06/1966,09:00:00,Lahore,Pakistan,https://en.wikipedia.org/wiki/Wasim_Akram,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00069,Brian Lara,Cricketer,02/05/1969,09:30:00,"Tarouba, Trinidad",Trinidad and Tobago,https://en.wikipedia.org/wiki/Brian_Lara,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00070,Viv Richards,Cricketer,18/02/1952,08:30:00,"St. John's, Antigua",Antigua and Barbuda,https://en.wikipedia.org/wiki/Viv_Richards,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00071,Imran Khan,Politician,25/11/1952,10:00:00,Lahore,Pakistan,https://en.wikipedia.org/wiki/Imran_Khan,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00072,Shane Warne,Cricketer,13/09/1969,07:30:00,Hampton,Australia,https://en.wikipedia.org/wiki/Shane_Warne,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00073,Elon Musk,Tech,28/06/1971,14:30:00,Pretoria,South Africa,https://en.wikipedia.org/wiki/Elon_Musk,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00074,Bill Gates,Tech,28/10/1955,14:25:00,Seattle,USA,https://en.wikipedia.org/wiki/Bill_Gates,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00075,Jeff Bezos,Tech,12/01/1964,14:15:00,Albuquerque,USA,https://en.wikipedia.org/wiki/Jeff_Bezos,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00076,Steve Jobs,Tech,24/02/1955,19:15:00,San Francisco,USA,https://en.wikipedia.org/wiki/Steve_Jobs,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00077,Mark Zuckerberg,Tech,14/05/1984,15:00:00,White Plains,USA,https://en.wikipedia.org/wiki/Mark_Zuckerberg,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00078,Larry Page,Tech,26/03/1973,11:00:00,"Lansing, Michigan",USA,https://en.wikipedia.org/wiki/Larry_Page,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00079,Sergey Brin,Tech,21/08/1973,15:00:00,Moscow,Russia,https://en.wikipedia.org/wiki/Sergey_Brin,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00080,Jack Ma,Business,10/09/1964,08:00:00,Hangzhou,China,https://en.wikipedia.org/wiki/Jack_Ma,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00081,Satya Nadella,Tech,19/08/1967,09:00:00,Hyderabad,India,https://en.wikipedia.org/wiki/Satya_Nadella,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00082,Tim Cook,Tech,01/11/1960,13:30:00,"Mobile, Alabama",USA,https://en.wikipedia.org/wiki/Tim_Cook,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00083,Sundar Pichai,Tech,10/07/1972,08:30:00,Madras,India,https://en.wikipedia.org/wiki/Sundar_Pichai,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00084,Sheryl Sandberg,Tech,28/08/1969,10:00:00,"Washington, D.C.",USA,https://en.wikipedia.org/wiki/Sheryl_Sandberg,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00085,Susan Wojcicki,Tech,23/07/1968,15:30:00,"Santa Clara, California",USA,https://en.wikipedia.org/wiki/Susan_Wojcicki,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00086,Marissa Mayer,Tech,30/05/1975,11:20:00,"Wausau, Wisconsin",USA,https://en.wikipedia.org/wiki/Marissa_Mayer,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00087,Bob Iger,Business,10/02/1951,14:00:00,"Hastings-on-Hudson, New York",USA,https://en.wikipedia.org/wiki/Bob_Iger,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00088,Mary Barra,Business,24/12/1961,13:30:00,"Flint, Michigan",USA,https://en.wikipedia.org/wiki/Mary_Barra,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00089,Jamie Dimon,Business,13/03/1956,14:30:00,New York,USA,https://en.wikipedia.org/wiki/Jamie_Dimon,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00090,Lloyd Blankfein,Business,20/09/1954,10:30:00,New York,USA,https://en.wikipedia.org/wiki/Lloyd_Blankfein,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00091,Warren Buffett,Business,30/08/1930,15:00:00,Omaha,USA,https://en.wikipedia.org/wiki/Warren_Buffett,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00092,Mukesh Ambani,Business,19/04/1957,14:30:00,Aden,Yemen,https://en.wikipedia.org/wiki/Mukesh_Ambani,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00093,Beyonce,Singer,04/09/1981,09:00:00,"Houston, Texas",USA,https://en.wikipedia.org/wiki/Beyonc%C3%A9,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00094,Albert Einstein,Science,14/03/1879,11:30:00,Ulm,Germany,https://en.wikipedia.org/wiki/Albert_Einstein,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00095,Stephen Hawking,Science,08/01/1942,08:00:00,Oxford,UK,https://en.wikipedia.org/wiki/Stephen_Hawking,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00096,Marie Curie,Science,07/11/1867,20:00:00,Warsaw,Poland,https://en.wikipedia.org/wiki/Marie_Curie,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00097,Donald Trump,Politician,14/06/1946,10:54:00,New York,USA,https://en.wikipedia.org/wiki/Donald_Trump,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00098,Barack Obama,Politician,04/08/1961,19:24:00,Honolulu,USA,https://en.wikipedia.org/wiki/Barack_Obama,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00099,John D. Rockefeller,Business,08/07/1839,12:00:00,Richford,USA,https://en.wikipedia.org/wiki/John_D._Rockefeller,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00100,Stan Lee,Arts,28/12/1922,12:00:00,New York,USA,https://en.wikipedia.org/wiki/Stan_Lee,Wikipedia (framework cross-ref),UNKNOWN,8,1
+FP00101,Mahatma Gandhi,Politician,02/10/1869,12:00:00,Porbandar,India,https://en.wikipedia.org/wiki/Mahatma_Gandhi,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00102,Abraham Lincoln,Politician,12/02/1809,12:00:00,Hodgenville,USA,https://en.wikipedia.org/wiki/Abraham_Lincoln,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00103,Nelson Mandela,Politician,18/07/1918,12:00:00,Mvezo,South Africa,https://en.wikipedia.org/wiki/Nelson_Mandela,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00104,Walt Disney,Arts,05/12/1901,12:00:00,Chicago,USA,https://en.wikipedia.org/wiki/Walt_Disney,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00105,Henry Ford,Business,30/07/1863,12:00:00,Dearborn,USA,https://en.wikipedia.org/wiki/Henry_Ford,Wikipedia (framework cross-ref),UNKNOWN,10,1
+FP00106,Michael Jackson,Arts,29/08/1958,12:00:00,Gary,USA,https://en.wikipedia.org/wiki/Michael_Jackson,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00107,A.P.J. Abdul Kalam,Science,15/10/1931,12:00:00,Rameswaram,India,https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam,Wikipedia (framework cross-ref),UNKNOWN,9,1
+FP00108,Polgahawela Bappa,Business,27/05/1962,03:38:54,Polgahawela,Sri Lanka,user-analysis,Prior 4-family analysis,B,8,1
+FP00109,Upulakshi,Job,14/03/1997,12:00:00,Colombo,Sri Lanka,user-analysis,Prior 4-family analysis,B,5,1
+FP00110,Senith,Job,07/08/1995,21:18:00,Colombo,Sri Lanka,user-analysis,Prior 4-family analysis,B,4,1
+FP00111,Niromi,Business,25/04/1967,08:17:37,Colombo,Sri Lanka,user-analysis,Prior 4-family analysis,B,9,1

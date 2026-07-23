@@ -1,0 +1,112 @@
+id,name,loop_len,loops,boundary
+FP00001,Leonardo DiCaprio,0,,False
+FP00002,Taylor Swift,2,Mercury/Jupiter,False
+FP00003,Oprah Winfrey,2,Saturn/Venus,True
+FP00004,Dwayne Johnson,0,,True
+FP00005,Shakira,5,Saturn/Moon/Mercury/Jupiter/Mars,True
+FP00006,Cristiano Ronaldo,3,Saturn/Mars/Jupiter,True
+FP00007,Lionel Messi,0,,True
+FP00008,Serena Williams,0,,False
+FP00009,Tiger Woods,2,Mars/Venus,False
+FP00010,Michael Phelps,3,Mercury/Moon/Mars,True
+FP00011,Usain Bolt,3,Jupiter/Saturn/Mars,True
+FP00012,Neymar Jr,0,,False
+FP00013,Virat Kohli,2,Venus/Mercury,False
+FP00014,LeBron James,2,Mars/Saturn,True
+FP00015,Kobe Bryant,3,Moon/Mars/Mercury,False
+FP00016,Muhammad Ali,0,,False
+FP00017,Pele,2,Sun/Venus; Mars/Mercury,True
+FP00018,Diego Maradona,2,Mars/Mercury,True
+FP00019,Jennifer Aniston,3,Saturn/Jupiter/Mercury,True
+FP00020,Angelina Jolie,0,,False
+FP00021,Brad Pitt,0,,True
+FP00022,Johnny Depp,0,,True
+FP00023,Will Smith,0,,True
+FP00024,Tom Cruise,0,,False
+FP00025,Meryl Streep,2,Mercury/Venus,True
+FP00026,Denzel Washington,3,Saturn/Venus/Mars,True
+FP00027,Morgan Freeman,2,Saturn/Jupiter,True
+FP00028,Tom Hanks,2,Mars/Saturn,True
+FP00029,Steven Spielberg,0,,False
+FP00030,James Cameron,4,Moon/Saturn/Venus/Mercury,True
+FP00031,Quentin Tarantino,2,Moon/Mars,False
+FP00032,Martin Scorsese,2,Mars/Venus; Moon/Jupiter,True
+FP00033,Christopher Nolan,3,Sun/Moon/Mercury,False
+FP00034,Paul McCartney,0,,False
+FP00035,John Lennon,3,Sun/Mercury/Venus,False
+FP00036,George Harrison,4,Saturn/Venus/Jupiter/Mercury,True
+FP00037,Ringo Starr,0,,False
+FP00038,Bob Dylan,2,Mars/Saturn,True
+FP00039,Winston Churchill,3,Mars/Mercury/Venus,True
+FP00040,Franklin D. Roosevelt,3,Saturn/Mars/Mercury,False
+FP00041,Adolf Hitler,0,,False
+FP00042,Vladimir Lenin,3,Saturn/Jupiter/Venus,True
+FP00043,Joseph Stalin,2,Jupiter/Saturn,False
+FP00044,Benito Mussolini,2,Moon/Venus,True
+FP00045,Dwight D. Eisenhower,0,,False
+FP00046,John F. Kennedy,0,,True
+FP00047,Ronald Reagan,4,Saturn/Mars/Jupiter/Venus,False
+FP00048,Margaret Thatcher,3,Mercury/Venus/Mars,True
+FP00049,Indira Gandhi,2,Sun/Mars; Moon/Saturn; Jupiter/Venus,False
+FP00050,Jawaharlal Nehru,0,,True
+FP00051,Rosa Parks,0,,False
+FP00052,Martin Luther King Jr,4,Saturn/Jupiter/Mars/Venus,True
+FP00053,Malcolm X,2,Mars/Mercury,True
+FP00054,Anne Frank,4,Sun/Venus/Mars/Moon,False
+FP00055,Helen Keller,3,Moon/Saturn/Mars,False
+FP00056,Gianluigi Buffon,2,Sun/Saturn; Mercury/Jupiter,False
+FP00057,Zinedine Zidane,2,Moon/Mars,True
+FP00058,Ronaldinho,2,Sun/Jupiter,True
+FP00059,Ronaldo,0,,False
+FP00060,Roger Federer,3,Sun/Moon/Venus,True
+FP00061,Rafael Nadal,3,Mars/Jupiter/Saturn,True
+FP00062,Novak Djokovic,3,Venus/Mars/Mercury,False
+FP00063,Martina Navratilova,2,Sun/Venus; Mars/Saturn,False
+FP00064,Venus Williams,0,,True
+FP00065,Sachin Tendulkar,3,Jupiter/Saturn/Mercury,True
+FP00066,Ricky Ponting,3,Jupiter/Saturn/Mercury,False
+FP00067,Steve Smith,0,,False
+FP00068,Wasim Akram,2,Venus/Mars,True
+FP00069,Brian Lara,3,Venus/Jupiter/Mercury,False
+FP00070,Viv Richards,2,Saturn/Mercury,False
+FP00071,Imran Khan,3,Mars/Saturn/Mercury,True
+FP00072,Shane Warne,0,,True
+FP00073,Elon Musk,0,,False
+FP00074,Bill Gates,0,,False
+FP00075,Jeff Bezos,0,,True
+FP00076,Steve Jobs,4,Saturn/Venus/Jupiter/Mercury,False
+FP00077,Mark Zuckerberg,2,Venus/Mars,True
+FP00078,Larry Page,3,Jupiter/Saturn/Venus,False
+FP00079,Sergey Brin,3,Moon/Venus/Mercury,False
+FP00080,Jack Ma,2,Moon/Venus,False
+FP00081,Satya Nadella,3,Moon/Saturn/Jupiter,False
+FP00082,Tim Cook,3,Venus/Mars/Mercury,False
+FP00083,Sundar Pichai,2,Mercury/Moon,False
+FP00084,Sheryl Sandberg,0,,False
+FP00085,Susan Wojcicki,0,,True
+FP00086,Marissa Mayer,0,,True
+FP00087,Bob Iger,2,Saturn/Mercury,False
+FP00088,Mary Barra,0,,True
+FP00089,Jamie Dimon,4,Sun/Saturn/Mars/Jupiter,True
+FP00090,Lloyd Blankfein,0,,True
+FP00091,Warren Buffett,0,,True
+FP00092,Mukesh Ambani,2,Mars/Venus,True
+FP00093,Beyonce,0,,False
+FP00094,Albert Einstein,2,Jupiter/Saturn,True
+FP00095,Stephen Hawking,0,,False
+FP00096,Marie Curie,0,,False
+FP00097,Donald Trump,4,Sun/Venus/Moon/Mars,True
+FP00098,Barack Obama,3,Moon/Venus/Mercury,True
+FP00099,John D. Rockefeller,4,Sun/Mercury/Moon/Venus,False
+FP00100,Stan Lee,5,Jupiter/Venus/Mars/Saturn/Mercury,True
+FP00101,Mahatma Gandhi,0,,False
+FP00102,Abraham Lincoln,0,,True
+FP00103,Nelson Mandela,3,Moon/Venus/Mercury,True
+FP00104,Walt Disney,0,,False
+FP00105,Henry Ford,3,Moon/Saturn/Mercury,True
+FP00106,Michael Jackson,0,,True
+FP00107,A.P.J. Abdul Kalam,0,,False
+FP00108,Polgahawela Bappa,2,Venus/Mercury,False
+FP00109,Upulakshi,2,Jupiter/Saturn,True
+FP00110,Senith,5,Sun/Moon/Jupiter/Mars/Mercury,True
+FP00111,Niromi,0,,False

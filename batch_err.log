@@ -1,20 +1,103 @@
-OK Obama: loop=3 bond=50
-OK Rockefeller: loop=4 bond=33
-OK Stan Lee: loop=5 bond=25
-OK P1 Bappa: loop=2 bond=100
-OK P2 Upulakshi: loop=2 bond=100
-OK P3 Senith: loop=5 bond=25
-OK P4 Niromi: loop=0 bond=0
+OK Leonardo DiCaprio: loop=0 bond=0
+OK Taylor Swift: loop=2 bond=100
+OK Oprah Winfrey: loop=2 bond=100
+OK Dwayne Johnson: loop=0 bond=0
+OK Shakira: loop=5 bond=25
+OK Cristiano Ronaldo: loop=3 bond=50
+OK Lionel Messi: loop=0 bond=0
+OK Serena Williams: loop=0 bond=0
+OK Tiger Woods: loop=2 bond=100
+OK Michael Phelps: loop=3 bond=50
+OK Usain Bolt: loop=3 bond=50
+OK Neymar Jr: loop=0 bond=0
+OK Virat Kohli: loop=2 bond=100
+OK LeBron James: loop=2 bond=100
+OK Kobe Bryant: loop=3 bond=50
+OK Muhammad Ali: loop=0 bond=0
+OK Pele: loop=2 bond=100
+OK Diego Maradona: loop=2 bond=100
+OK Jennifer Aniston: loop=3 bond=50
+OK Angelina Jolie: loop=0 bond=0
+OK Brad Pitt: loop=0 bond=0
+OK Johnny Depp: loop=0 bond=0
+OK Will Smith: loop=0 bond=0
+OK Tom Cruise: loop=0 bond=0
+OK Meryl Streep: loop=2 bond=100
+OK Denzel Washington: loop=3 bond=50
+OK Morgan Freeman: loop=2 bond=100
+OK Tom Hanks: loop=2 bond=100
+OK Steven Spielberg: loop=0 bond=0
+OK James Cameron: loop=4 bond=33
+OK Quentin Tarantino: loop=2 bond=100
+OK Martin Scorsese: loop=2 bond=100
+OK Christopher Nolan: loop=3 bond=50
+OK Paul McCartney: loop=0 bond=0
+OK John Lennon: loop=3 bond=50
+OK George Harrison: loop=4 bond=33
+OK Ringo Starr: loop=0 bond=0
+OK Bob Dylan: loop=2 bond=100
+OK Winston Churchill: loop=3 bond=50
+OK Franklin D. Roosevelt: loop=3 bond=50
+OK Adolf Hitler: loop=0 bond=0
+OK Vladimir Lenin: loop=3 bond=50
+OK Joseph Stalin: loop=2 bond=100
+OK Benito Mussolini: loop=2 bond=100
+OK Dwight D. Eisenhower: loop=0 bond=0
+OK John F. Kennedy: loop=0 bond=0
+OK Ronald Reagan: loop=4 bond=33
+OK Margaret Thatcher: loop=3 bond=50
+OK Indira Gandhi: loop=2 bond=100
+OK Jawaharlal Nehru: loop=0 bond=0
+OK Rosa Parks: loop=0 bond=0
+OK Martin Luther King Jr: loop=4 bond=33
+OK Malcolm X: loop=2 bond=100
+OK Anne Frank: loop=4 bond=33
+OK Helen Keller: loop=3 bond=50
+OK Gianluigi Buffon: loop=2 bond=100
+OK Zinedine Zidane: loop=2 bond=100
+OK Ronaldinho: loop=2 bond=100
+OK Ronaldo: loop=0 bond=0
+OK Roger Federer: loop=3 bond=50
+OK Rafael Nadal: loop=3 bond=50
+OK Novak Djokovic: loop=3 bond=50
+OK Martina Navratilova: loop=2 bond=100
+OK Venus Williams: loop=0 bond=0
+OK Sachin Tendulkar: loop=3 bond=50
+OK Ricky Ponting: loop=3 bond=50
+OK Steve Smith: loop=0 bond=0
+OK Wasim Akram: loop=2 bond=100
+OK Brian Lara: loop=3 bond=50
+OK Viv Richards: loop=2 bond=100
+OK Imran Khan: loop=3 bond=50
+OK Shane Warne: loop=0 bond=0
 OK Elon Musk: loop=0 bond=0
 OK Bill Gates: loop=0 bond=0
 OK Jeff Bezos: loop=0 bond=0
 OK Steve Jobs: loop=4 bond=33
-OK Albert Einstein: loop=2 bond=100
-OK Warren Buffett: loop=0 bond=0
 OK Mark Zuckerberg: loop=2 bond=100
-OK Sachin Tendulkar: loop=3 bond=50
+OK Larry Page: loop=3 bond=50
+OK Sergey Brin: loop=3 bond=50
+OK Jack Ma: loop=2 bond=100
+OK Satya Nadella: loop=3 bond=50
+OK Tim Cook: loop=3 bond=50
+OK Sundar Pichai: loop=2 bond=100
+OK Sheryl Sandberg: loop=0 bond=0
+OK Susan Wojcicki: loop=0 bond=0
+OK Marissa Mayer: loop=0 bond=0
+OK Bob Iger: loop=2 bond=100
+OK Mary Barra: loop=0 bond=0
+OK Jamie Dimon: loop=4 bond=33
+OK Lloyd Blankfein: loop=0 bond=0
+OK Warren Buffett: loop=0 bond=0
 OK Mukesh Ambani: loop=2 bond=100
-OK Oprah Winfrey: loop=2 bond=100
+OK Beyonce: loop=0 bond=0
+OK Albert Einstein: loop=2 bond=100
+OK Stephen Hawking: loop=0 bond=0
+OK Marie Curie: loop=0 bond=0
+OK Donald Trump: loop=4 bond=33
+OK Barack Obama: loop=3 bond=50
+OK John D. Rockefeller: loop=4 bond=33
+OK Stan Lee: loop=5 bond=25
 OK Mahatma Gandhi: loop=0 bond=0
 OK Abraham Lincoln: loop=0 bond=0
 OK Nelson Mandela: loop=3 bond=50
@@ -22,3 +105,7 @@ OK Walt Disney: loop=0 bond=0
 OK Henry Ford: loop=3 bond=50
 OK Michael Jackson: loop=0 bond=0
 OK A.P.J. Abdul Kalam: loop=0 bond=0
+OK Polgahawela Bappa: loop=2 bond=100
+OK Upulakshi: loop=2 bond=100
+OK Senith: loop=5 bond=25
+OK Niromi: loop=0 bond=0
