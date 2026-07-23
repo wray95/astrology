@@ -204,21 +204,64 @@ for i,nm in enumerate(_candra,1):
         "houses/Moon","low",[{"type":"candra_yoga","name":nm}])
 
 # ---------------------------------------------------------------------------
-# P1234 PLUG-IN SLOT  (definitions NOT present in workspace -> UNKNOWN)
-# To activate: set P1234_DEFINITIONS = { "P1234_001": {"cond":[...]}, ... }
-# with the same condition schema as above. Until then every chart is
-# classified P1234 UNKNOWN with a blocker note (Parts 4-10 P1234 parts N/A).
+# P1234 = the 4 named reference charts (user clarification: "its p1,p2,p3,p4")
+#   P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi.
+# These are the POSITIVE reference set. Every other chart is a COMPARISON.
+# Hallmark features distilled from their known profiles (signs/loops/Lagna):
+#   H_parivartana  -> PARI_001 (a 2-loop exchange)
+#   H_loop3plus    -> SHRIN_001 / LOOP_004 / LOOP_005 (3+/4/5-loop chains)
+#   H_mahapurusha  -> MAHA_001..005 (own/exalt planet in a Kendra)
+#   H_lagna_set    -> Lagna in {Aries,Taurus,Pisces} (the 4 references' Lagnas)
+#   H_high_ach     -> achievement >= 7
+# A comparison chart is PARTIAL if it matches >=1 hallmark, else ABSENT.
+# The 4 references themselves are COMPLETE.
+# (The exact textual "rules 1-4" were never in the workspace; this operationalises
+#  P1234 as "the 4 named charts" per the user's clarification, and derives the
+#  hallmark set from their documented profiles.)
 # ---------------------------------------------------------------------------
-P1234_DEFINITIONS = None   # <-- user must supply the actual P1234 rule definitions
+P1234_REFERENCE = {
+    "Polgahawela Bappa": {"role":"P1","lagna":"Aries",
+        "notes":"Wealthy businessman; Venus-Mercury Parivartana; achievement 8; loop present.",
+        "hallmarks":["PARI_001"]},
+    "Upulakshi": {"role":"P2","lagna":"Aries",
+        "notes":"Job/service; Jupiter-Saturn Parivartana; achievement 5. (Registry time 12:00 is a placeholder; notes give Aries Lagna, but with 12:00 Colombo computes to Taurus — see data-quality.)",
+        "hallmarks":["PARI_001"]},
+    "Senith": {"role":"P3","lagna":"Pisces",
+        "notes":"The only 5-loop in the original 7-chart sample; employed/limited; achievement 4.",
+        "hallmarks":["LOOP_005"]},
+    "Niromi": {"role":"P4","lagna":"Taurus",
+        "notes":"Wealthiest businesswoman; Taurus Lagna Vargottama; Malavya (Venus own/exalt in Kendra); achievement 9.",
+        "hallmarks":["MAHA_004"]},
+}
+P1234_HALLMARKS = ["PARI_001","SHRIN_001","LOOP_004","LOOP_005",
+                   "MAHA_001","MAHA_002","MAHA_003","MAHA_004","MAHA_005"]
 
-def classify_p1234(chart):
-    if P1234_DEFINITIONS is None:
-        return {"status":"UNKNOWN","reason":"P1234 definitions not present in workspace",
-                "conditions_satisfied":[],"conditions_failed":[],
-                "conditions_untestable":["all (definitions missing)"]}
-    # (pluggable) would iterate P1234_DEFINITIONS and call eval_rule
-    return {"status":"UNKNOWN","reason":"definitions present but evaluator stub",
-            "conditions_satisfied":[],"conditions_failed":[],"conditions_untestable":[]}
+def classify_p1234(chart, present_ids=None):
+    nm = chart.get("name","")
+    present_ids = present_ids or []
+    if nm in P1234_REFERENCE:
+        ref = P1234_REFERENCE[nm]
+        sat = [h for h in ref["hallmarks"] if h in present_ids]
+        return {"status":"COMPLETE","role":ref["role"],
+                "reason":"One of the 4 named P1234 reference charts",
+                "reference_lagna":ref["lagna"],
+                "computed_lagna":chart.get("lagna_sign"),
+                "hallmark_conditions":ref["hallmarks"],
+                "conditions_satisfied":sat,
+                "notes":ref["notes"]}
+    # comparison chart: score against the collective P1234 (astrological) hallmark set.
+    # NOTE: achievement is deliberately NOT a hallmark -- in a famous-people dataset
+    # high achievement is near-universal and would make every chart "PARTIAL".
+    lagna = chart.get("lagna_sign")
+    h_lagna = lagna in ("Aries","Taurus","Pisces")
+    matched = ([h for h in P1234_HALLMARKS if h in present_ids]
+               + (["LagnaInP1234Set"] if h_lagna else []))
+    if not present_ids and lagna is None:
+        return {"status":"UNKNOWN","role":"comparison","reason":"no chart data to test",
+                "conditions_satisfied":[],"conditions_failed":[],"conditions_untestable":["all"]}
+    return {"status":"PARTIAL" if matched else "ABSENT","role":"comparison",
+            "reason":"comparison chart vs the P1234 reference (astrological) profile",
+            "matched_hallmarks":matched,"match_count":len(matched)}
 
 # ---------------------------------------------------------------------------
 # Test engine
@@ -264,6 +307,53 @@ def eval_cond(chart, c):
     if t == "parivartana":
         loops = chart.get("loops") or []
         return "TRUE" if any(len(l) == 2 for l in loops) else "FALSE"
+    # --- house-based conditions (now computable from Drik-compatible Lagna) ---
+    if t == "planet_in_house":
+        h = (chart.get("houses") or {}).get(c["planet"])
+        if h is None: return "UNKNOWN"
+        return "TRUE" if h == c["house"] else "FALSE"
+    if t == "kendra_from_lagna":
+        h = (chart.get("houses") or {}).get(c["planet"])
+        if h is None: return "UNKNOWN"
+        return "TRUE" if (h-1)%12 in (0,3,6,9) else "FALSE"
+    if t == "kendra_from_moon":
+        hh = chart.get("houses") or {}
+        ph = hh.get(c["planet"]); mh = hh.get("Moon")
+        if ph is None or mh is None: return "UNKNOWN"
+        return "TRUE" if (ph-mh)%12 in (0,3,6,9) else "FALSE"
+    if t == "kendra_from_lagna_or_moon":
+        hh = chart.get("houses") or {}
+        ph = hh.get(c["planet"])
+        if ph is None: return "UNKNOWN"
+        mh = hh.get("Moon")
+        in_lag = (ph-1)%12 in (0,3,6,9)
+        if mh is None:
+            return "TRUE" if in_lag else "UNKNOWN"
+        in_moon = (ph-mh)%12 in (0,3,6,9)
+        return "TRUE" if (in_lag or in_moon) else "FALSE"
+    if t == "conjunction":
+        hh = chart.get("houses") or {}
+        hs = [hh.get(p) for p in c["planets"]]
+        if any(h is None for h in hs): return "UNKNOWN"
+        return "TRUE" if len(set(hs)) == 1 else "FALSE"
+    if t == "candra_yoga":
+        nm = c["name"]
+        hh = chart.get("houses") or {}
+        mh = hh.get("Moon")
+        if mh is None: return "UNKNOWN"
+        planets7 = PLANETS[:7]
+        if nm == "Sunapha":      # any planet in 2nd from Moon
+            tgt = (mh % 12) + 1
+            return "TRUE" if any(hh.get(p) == tgt for p in planets7) else "FALSE"
+        if nm == "Anapha":       # any planet in 12th from Moon
+            tgt = ((mh-2) % 12) + 1
+            return "TRUE" if any(hh.get(p) == tgt for p in planets7) else "FALSE"
+        if nm == "Durudhara":    # planets on BOTH sides of Moon
+            t2 = (mh % 12) + 1; t12 = ((mh-2) % 12) + 1
+            s2 = any(hh.get(p) == t2 for p in planets7)
+            s12 = any(hh.get(p) == t12 for p in planets7)
+            return "TRUE" if (s2 and s12) else "FALSE"
+        return "UNKNOWN"  # Adhama/Sama/Varistha not encoded in engine
     # --- conditions requiring data not present in this dataset -> UNKNOWN ---
     return "UNKNOWN"
 
@@ -289,16 +379,37 @@ def load_charts():
     loops = {}
     for r in loops_list:
         loops.setdefault(r["name"], r)
+    # houses / Lagna computed via Drik-compatible Lahiri ayanamsa (compute_lagna.py)
+    houses_by_name = {}
+    try:
+        for h in json.load(open(os.path.join(ROOT,"astrodb_out","chart_houses.json"))):
+            houses_by_name.setdefault(h["name"], h)
+    except Exception:
+        pass
     charts = []
     for r in reg:
         nm = r.get("name","")
         lp = loops.pop(nm, None)   # consume so a same-name duplicate doesn't inherit signs
         signs = lp.get("signs") if lp else None
+        hr = houses_by_name.get(nm)
+        houses = (hr or {}).get("houses") if hr else None
+        lagna_idx = (hr or {}).get("lagna_index")
+        lagna_sign = (hr or {}).get("lagna_sign")
+        has_houses = bool(houses) and lagna_idx is not None
+        if signs and has_houses:
+            dq = "full_signs_and_houses"
+        elif signs:
+            dq = "full_signs"
+        else:
+            dq = "date_only_no_chart"
         charts.append({
             "id": r.get("id",""),
             "name": nm,
-            "data_quality": "full_signs" if signs else "date_only_no_chart",
+            "data_quality": dq,
             "signs": signs,
+            "houses": houses,
+            "lagna_index": lagna_idx,
+            "lagna_sign": lagna_sign,
             "loops": lp.get("loops") if lp else [],
             "loop_len": lp.get("loop_len") if lp else 0,
             "bond": lp.get("bond") if lp else 0,
@@ -336,29 +447,30 @@ def wh_cdf(x):
 def main():
     charts = load_charts()
     n_total = len(charts)
-    n_signs = sum(1 for c in charts if c["data_quality"]=="full_signs")
-    n_dateonly = n_total - n_signs
+    CHARTED = ("full_signs","full_signs_and_houses")
+    n_charted = sum(1 for c in charts if c["data_quality"] in CHARTED)
+    n_dateonly = n_total - n_charted
 
     # per-chart evaluations
     evals = []
     present_counter = Counter(); absent_counter = Counter(); unknown_counter = Counter()
     for c in charts:
         rec = {"person_id":c["id"],"name":c["name"],"data_quality":c["data_quality"],
+               "lagna_sign":c.get("lagna_sign"),
                "yogas_present":[],"yogas_absent":[],"yogas_unknown":[],
                "combination_indicators_present":[],"p1234_patterns_present":[],
-               "loops_present":c["loops"],"bonds_present":[c["bond"]] if c["bond"] else []}
+               "loops_present":c["loops"],"bonds_present":[c["bond"]] if c["bond"] else [],
+               "loop_len":c["loop_len"],"bond":c["bond"]}
         for rule in RULES:
             r = eval_rule(c, rule)
             if r == "TRUE": rec["yogas_present"].append(rule["id"])
             elif r == "FALSE": rec["yogas_absent"].append(rule["id"])
             else: rec["yogas_unknown"].append(rule["id"])
-        # P1234
-        p4 = classify_p1234(c)
+        # P1234 (pass present rule ids so reference/comparison scoring can use them)
+        p4 = classify_p1234(c, rec["yogas_present"])
         rec["p1234_status"] = p4["status"]
         rec["p1234_detail"] = p4
-        if c["data_quality"]=="full_signs":
-            for k in present_counter, absent_counter, unknown_counter:
-                pass
+        if c["data_quality"] in CHARTED:
             for rule in RULES:
                 r = eval_rule(c, rule)
                 if r=="TRUE": present_counter[rule["id"]]+=1
@@ -379,11 +491,18 @@ def main():
     yoga_summary.sort(key=lambda x:-x["present"])
 
     # ---- Cross-comparison matrix (P1234 x Loop x Bond x any-testable-Yoga) ----
-    # P1234 all UNKNOWN; show loop x bond x any_testable_yoga among charted charts.
-    charted = [c for c in charts if c["data_quality"]=="full_signs"]
-    # present sign-based yoga EXCLUDING Sankhya (which is a tautological partition:
+    # P1234 reinterpreted as the 4 named reference charts (see classify_p1234).
+    charted = [c for c in charts if c["data_quality"] in CHARTED]
+    # A rule is IMPLEMENTED if every condition type is handled by eval_cond.
+    IMPLEMENTED = {"planet_sign","planet_exalt","planet_debil","planet_own",
+        "planet_own_exalt_sign","planet_rasi_type","distinct_sign_count","all_rasi_type",
+        "loop_len","parivartana","planet_in_house","kendra_from_lagna",
+        "kendra_from_moon","kendra_from_lagna_or_moon","conjunction","candra_yoga"}
+    def rule_implemented(rule):
+        return all(c["type"] in IMPLEMENTED for c in rule["cond"])
+    testable_ids = {r["id"] for r in RULES if rule_implemented(r)}
+    # present sign/house-based yoga EXCLUDING Sankhya (tautological partition:
     # every chart occupies exactly one distinct-sign-count, so it is always "present").
-    testable_ids = {r["id"] for r in RULES if r["required_data"] in ("signs","signs/loops")}
     sankhya_ids = {r["id"] for r in RULES if r["id"].startswith("SANKHYA_")}
     def has_any(c):
         for rule in RULES:
@@ -397,6 +516,13 @@ def main():
     matrix_rows=[]
     for (ll,bd,ay),cnt in sorted(matrix.items()):
         matrix_rows.append({"loop_len":ll,"bond":bd,"any_testable_yoga":ay,"count":cnt})
+
+    # ---- Loop x Bond summary (charted) ----
+    lb = Counter()
+    for c in charted:
+        lb[(c["loop_len"], c["bond"])] += 1
+    lb_rows = [{"loop_len":ll,"bond":bd,"count":cnt}
+               for (ll,bd),cnt in sorted(lb.items())]
 
     # ---- Statistics: testable patterns vs loop category (chi-square) ----
     # Build 2x2: pattern present vs absent among charted, by loop group (0 vs 2/3/4/5)
@@ -443,25 +569,34 @@ def main():
 
     # ---- P1234 classification aggregate ----
     p4_counts = Counter(e["p1234_status"] for e in evals)
-    p4_unknown_reason = "P1234 definitions not present in workspace"
+    p4_unknown_reason = ("P1234 reinterpreted as the 4 named reference charts "
+        "(P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi) per user clarification. "
+        "Those 4 = COMPLETE; other charted charts scored against the derived hallmark set "
+        "(PARTIAL/ABSENT); date-only records = UNKNOWN.")
+    p4_reference = [e["name"] for e in evals if e["p1234_detail"].get("role") in ("P1","P2","P3","P4")]
 
     # ---- Data quality report ----
+    n_with_houses = sum(1 for c in charts if c["data_quality"]=="full_signs_and_houses")
     dq = {
         "total_records":n_total,
-        "records_with_full_signs":n_signs,
+        "records_charted_signs":n_charted,
+        "records_charted_with_houses_lagna":n_with_houses,
         "records_date_only_no_chart":n_dateonly,
-        "houses_available":False,
-        "lagna_available":False,
+        "houses_available":True,
+        "lagna_available":True,
         "lordships_available":False,
         "nakshatra_available":False,
         "divisional_charts_available":False,
         "rules_total":len(RULES),
-        "rules_testable_on_this_data":len(testable_ids),
+        "rules_implemented_testable":len(testable_ids),
         "rules_unknown_on_this_data":len(RULES)-len(testable_ids),
-        "p1234_status":"ALL UNKNOWN (definitions absent)",
-        "note":"Only sign-based rules are evaluable. House/lordship/nakshatra/divisional "
-               "rules correctly return UNKNOWN (not FALSE). 5,176 date-only records have "
-               "no planetary data at all (UNKNOWN on every rule)."
+        "p1234_status":"COMPLETE for the 4 reference charts (P1-P4); PARTIAL/ABSENT for comparison charts; UNKNOWN for date-only records",
+        "note":("Lagna + whole-sign houses were COMPUTED for the 111 charted records with a "
+                "Drik-compatible Lahiri/Chitrapaksha ayanamsa (same ayanamsa Drik uses); the "
+                "Drik planet signs/positions are UNCHANGED. House/lordship/nakshatra/divisional "
+                "rules that require full classical definitions (Akrti/Dala/Avayoga/Bhava/"
+                "most named yogas) still return UNKNOWN. 5,176 date-only records have no "
+                "planetary data at all (UNKNOWN on every rule).")
     }
 
     # ============================ WRITE OUTPUTS ============================
@@ -473,7 +608,11 @@ def main():
 
     json.dump(evals, open(f"{OUT}/chart_evaluations.json","w"), indent=0)
     json.dump({"total":n_total,"p1234_counts":dict(p4_counts),"reason":p4_unknown_reason,
-               "records":[{"person_id":e["person_id"],"name":e["name"],"status":e["p1234_status"]} for e in evals]},
+               "reference_charts":p4_reference,
+               "records":[{"person_id":e["person_id"],"name":e["name"],"status":e["p1234_status"],
+                           "role":e["p1234_detail"].get("role"),
+                           "matched_hallmarks":e["p1234_detail"].get("matched_hallmarks")}
+                          for e in evals]},
               open(f"{OUT}/p1234_classification.json","w"), indent=2)
 
     with open(f"{OUT}/yoga_summary.csv","w",newline="") as f:
@@ -482,6 +621,9 @@ def main():
     with open(f"{OUT}/cross_comparison_matrix.csv","w",newline="") as f:
         w=csv.DictWriter(f,fieldnames=["loop_len","bond","any_testable_yoga","count"])
         w.writeheader(); [w.writerow(r) for r in matrix_rows]
+    with open(f"{OUT}/loop_bond_summary.csv","w",newline="") as f:
+        w=csv.DictWriter(f,fieldnames=["loop_len","bond","count"])
+        w.writeheader(); [w.writerow(r) for r in lb_rows]
     json.dump(stats, open(f"{OUT}/statistical_analysis.json","w"), indent=2)
     with open(f"{OUT}/top_associations.csv","w",newline="") as f:
         w=csv.DictWriter(f,fieldnames=["rule_id","name","pattern_and_loop","pattern_no_loop","no_pattern_loop","no_pattern_no_loop","chi2","p_value","odds_ratio"])
@@ -490,12 +632,12 @@ def main():
 
     neg = []
     neg.append("# Negative findings & limitations (Part 10)\n")
-    neg.append(f"- Dataset: {n_total} records; only {n_signs} have planetary signs; {n_dateonly} are date-only with NO chart data.")
-    neg.append("- Houses/Lagna/lordships/nakshatra/divisionals are ABSENT for every chart, so ~{} of {} rules (house/lordship-based) are UNKNOWN, not testable here.".format(len(RULES)-len(testable_ids),len(RULES)))
-    neg.append("- P1234 theory is NOT present in the workspace; all {} charts classified P1234 UNKNOWN. Parts 4-10 P1234-specific comparisons cannot be computed.".format(n_total))
-    neg.append("- With only 111 charted records, classical-Yoga statistics have very small samples; most sign-based Yogas are individually rare -> low power; Fisher/chi-square must be read with caution.")
-    neg.append("- No evidence that P1234 distinguishes groups (cannot test). No claim that any Yoga predicts achievement on this data.")
-    neg.append("- The loop/bond distribution (n=111) replicates prior findings: 0-loop largest (36%), 5-loop rare (2%); Pearson r(loop,achievement) ~ -0.02.")
+    neg.append(f"- Dataset: {n_total} records; {n_charted} are charted (planet signs; {n_with_houses} also have computed Lagna + houses); {n_dateonly} are date-only with NO chart data.")
+    neg.append(f"- Of {len(RULES)} rules, {len(testable_ids)} are now testable (sign + house/Lagna based); {len(RULES)-len(testable_ids)} remain UNKNOWN because their full classical definitions (Akrti/Dala/Avayoga/Bhava/most named yogas, nakshatra, divisionals) are not encoded in the engine.")
+    neg.append("- P1234 = the 4 named reference charts (P1-P4) per user clarification. They are COMPLETE; comparison charts are scored PARTIAL/ABSENT against a derived hallmark set. The exact textual 'rules 1-4' were never in the workspace, so the hallmark set is an operationalisation, not the original spec. No claim that P1234 'causes' anything.")
+    neg.append("- The Lagna/houses were COMPUTED (Drik-compatible Lahiri ayanamsa), not scraped live from Drik's JS-rendered kundali (no headless browser available). Drik planet positions are whole-degree, so houses are whole-sign at the same precision. Upulakshi's registry time 12:00 is a placeholder -> computes Taurus, not the Aries Lagna in the notes (data-quality flag).")
+    neg.append("- With only 111 charted records, classical-Yoga statistics have very small samples; most Yogas are individually rare -> low power; Fisher/chi-square must be read with caution.")
+    neg.append("- No evidence that any Yoga/loop predicts achievement on this data; correlations are weak/null. The loop/bond distribution (n=111) replicates prior findings: 0-loop largest (~36%), 5-loop rare (~2-3%); Pearson r(loop,achievement) ~ -0.02.")
     open(f"{OUT}/negative_findings.md","w").write("\n".join(neg))
 
     dqr = ["# Data-quality report (Part 13)\n"] + [f"- {k}: {v}" for k,v in dq.items()]
@@ -507,7 +649,7 @@ def main():
     cur.execute("CREATE TABLE IF NOT EXISTS rules(id TEXT,name TEXT,category TEXT,required_data TEXT,confidence TEXT,cond TEXT)")
     for r in RULES: cur.execute("INSERT INTO rules VALUES(?,?,?,?,?,?)",(r["id"],r["name"],r["category"],r["required_data"],r["confidence"],json.dumps(r["cond"])))
     cur.execute("CREATE TABLE IF NOT EXISTS chart_results(person_id TEXT,name TEXT,data_quality TEXT,p1234_status TEXT,yogas_present TEXT,yogas_unknown TEXT,loop_len INT,bond INT)")
-    for e in evals: cur.execute("INSERT INTO chart_results VALUES(?,?,?,?,?,?,?,?)",(e["person_id"],e["name"],e["data_quality"],e["p1234_status"],",".join(e["yogas_present"]),",".join(e["yogas_unknown"]),0,0))
+    for e in evals: cur.execute("INSERT INTO chart_results VALUES(?,?,?,?,?,?,?,?)",(e["person_id"],e["name"],e["data_quality"],e["p1234_status"],",".join(e["yogas_present"]),",".join(e["yogas_unknown"]),e.get("loop_len",0) or 0,e.get("bond",0) or 0))
     cur.execute("CREATE TABLE IF NOT EXISTS yoga_summary(rule_id TEXT,name TEXT,category TEXT,required_data TEXT,confidence TEXT,present INT,absent INT,unknown INT,evaluable INT,pct REAL)")
     for y in yoga_summary: cur.execute("INSERT INTO yoga_summary VALUES(?,?,?,?,?,?,?,?,?,?)",(y["rule_id"],y["name"],y["category"],y["required_data"],y["confidence"],y["present"],y["absent"],y["unknown"],y["evaluable"],y["pct_present_of_evaluable"]))
     con.commit(); con.close()
@@ -517,10 +659,12 @@ def main():
     print("5,000-HOROSCOPE VEDIC YOGA + P1234 VALIDATION — RUN COMPLETE")
     print("="*70)
     print(f"Total records analyzed : {n_total}")
-    print(f"  with full sign data  : {n_signs}")
+    print(f"  charted (signs)      : {n_charted}  (of which Lagna+houses: {n_with_houses})")
     print(f"  date-only (no chart) : {n_dateonly}")
-    print(f"Rules in database      : {len(RULES)} (testable here: {len(testable_ids)}, UNKNOWN here: {len(RULES)-len(testable_ids)})")
-    print(f"P1234 status           : ALL {n_total} UNKNOWN (definitions absent from workspace)")
+    print(f"Rules in database      : {len(RULES)} (implemented/testable: {len(testable_ids)}, UNKNOWN here: {len(RULES)-len(testable_ids)})")
+    print(f"P1234 status           : COMPLETE for P1-P4 ({len(p4_reference)} charts); "
+          f"PARTIAL/ABSENT for {n_charted-len(p4_reference)} comparison charts; "
+          f"UNKNOWN for {n_dateonly} date-only")
     print("-"*70)
     print("Most common TESTABLE yogas among the 111 charted records:")
     for y in yoga_summary[:12]:

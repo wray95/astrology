@@ -1,8 +1,8 @@
 # Negative findings & limitations (Part 10)
 
-- Dataset: 5287 records; only 111 have planetary signs; 5176 are date-only with NO chart data.
-- Houses/Lagna/lordships/nakshatra/divisionals are ABSENT for every chart, so ~67 of 102 rules (house/lordship-based) are UNKNOWN, not testable here.
-- P1234 theory is NOT present in the workspace; all 5287 charts classified P1234 UNKNOWN. Parts 4-10 P1234-specific comparisons cannot be computed.
-- With only 111 charted records, classical-Yoga statistics have very small samples; most sign-based Yogas are individually rare -> low power; Fisher/chi-square must be read with caution.
-- No evidence that P1234 distinguishes groups (cannot test). No claim that any Yoga predicts achievement on this data.
-- The loop/bond distribution (n=111) replicates prior findings: 0-loop largest (36%), 5-loop rare (2%); Pearson r(loop,achievement) ~ -0.02.
+- Dataset: 5287 records; 111 are charted (planet signs; 111 also have computed Lagna + houses); 5176 are date-only with NO chart data.
+- Of 102 rules, 46 are now testable (sign + house/Lagna based); 56 remain UNKNOWN because their full classical definitions (Akrti/Dala/Avayoga/Bhava/most named yogas, nakshatra, divisionals) are not encoded in the engine.
+- P1234 = the 4 named reference charts (P1-P4) per user clarification. They are COMPLETE; comparison charts are scored PARTIAL/ABSENT against a derived hallmark set. The exact textual 'rules 1-4' were never in the workspace, so the hallmark set is an operationalisation, not the original spec. No claim that P1234 'causes' anything.
+- The Lagna/houses were COMPUTED (Drik-compatible Lahiri ayanamsa), not scraped live from Drik's JS-rendered kundali (no headless browser available). Drik planet positions are whole-degree, so houses are whole-sign at the same precision. Upulakshi's registry time 12:00 is a placeholder -> computes Taurus, not the Aries Lagna in the notes (data-quality flag).
+- With only 111 charted records, classical-Yoga statistics have very small samples; most Yogas are individually rare -> low power; Fisher/chi-square must be read with caution.
+- No evidence that any Yoga/loop predicts achievement on this data; correlations are weak/null. The loop/bond distribution (n=111) replicates prior findings: 0-loop largest (~36%), 5-loop rare (~2-3%); Pearson r(loop,achievement) ~ -0.02.

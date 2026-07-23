@@ -1,4 +1,6 @@
 rule_id,name,category,required_data,confidence,present,absent,unknown,evaluable,pct_present_of_evaluable
+CANDRA_04,Candra-Sunapha,CandraYoga,houses/Moon,low,45,66,0,111,40.5
+CANDRA_05,Candra-Anapha,CandraYoga,houses/Moon,low,45,66,0,111,40.5
 SANKHYA_003,Pasa (5 signs),Nabhasa-Sankhya,signs,high,40,71,0,111,36.0
 SANKHYA_004,Kedara (4 signs),Nabhasa-Sankhya,signs,high,33,78,0,111,29.7
 PARI_001,Parivartana (2-planet exchange),Exchange,signs/loops,high,31,80,0,111,27.9
@@ -9,6 +11,8 @@ OWN_VEN,Venus in own sign,Dignity,signs,high,22,89,0,111,19.8
 OWN_MAR,Mars in own sign,Dignity,signs,high,20,91,0,111,18.0
 OWN_MER,Mercury in own sign,Dignity,signs,high,19,92,0,111,17.1
 DEBIL_SAT,Saturn debilitated,Dignity,signs,high,15,96,0,111,13.5
+MAHA_001,Rucaka (Mars),Mahapurusa,signs + houses(Lagna/Moon),med,15,96,0,111,13.5
+CANDRA_06,Candra-Durudhara,CandraYoga,houses/Moon,low,15,96,0,111,13.5
 DEBIL_MAR,Mars debilitated,Dignity,signs,high,13,98,0,111,11.7
 DEBIL_JUP,Jupiter debilitated,Dignity,signs,high,12,99,0,111,10.8
 DEBIL_MOO,Moon debilitated,Dignity,signs,high,11,100,0,111,9.9
@@ -17,6 +21,7 @@ OWN_SUN,Sun in own sign,Dignity,signs,high,10,101,0,111,9.0
 EXALT_MER,Mercury exalted,Dignity,signs,high,10,101,0,111,9.0
 EXALT_VEN,Venus exalted,Dignity,signs,high,10,101,0,111,9.0
 EXALT_SAT,Saturn exalted,Dignity,signs,high,10,101,0,111,9.0
+MAHA_003,Hamsa (Jupiter),Mahapurusa,signs + houses(Lagna/Moon),med,10,101,0,111,9.0
 DEBIL_VEN,Venus debilitated,Dignity,signs,high,9,102,0,111,8.1
 LOOP_004,4-loop chain,Loop,signs/loops,high,9,102,0,111,8.1
 DEBIL_SUN,Sun debilitated,Dignity,signs,high,8,103,0,111,7.2
@@ -24,8 +29,11 @@ SANKHYA_005,Sula (3 signs),Nabhasa-Sankhya,signs,high,8,103,0,111,7.2
 EXALT_MOO,Moon exalted,Dignity,signs,high,7,104,0,111,6.3
 OWN_MOO,Moon in own sign,Dignity,signs,high,7,104,0,111,6.3
 EXALT_JUP,Jupiter exalted,Dignity,signs,high,7,104,0,111,6.3
+MAHA_002,Bhadra (Mercury),Mahapurusa,signs + houses(Lagna/Moon),med,7,104,0,111,6.3
+MAHA_004,Malavya (Venus),Mahapurusa,signs + houses(Lagna/Moon),med,7,104,0,111,6.3
 EXALT_SUN,Sun exalted,Dignity,signs,high,6,105,0,111,5.4
 EXALT_MAR,Mars exalted,Dignity,signs,high,6,105,0,111,5.4
+MAHA_005,Sasa (Saturn),Mahapurusa,signs + houses(Lagna/Moon),med,6,105,0,111,5.4
 DEBIL_MER,Mercury debilitated,Dignity,signs,high,5,106,0,111,4.5
 SANKHYA_001,Vallaki/Vina (7 signs),Nabhasa-Sankhya,signs,high,4,107,0,111,3.6
 LOOP_005,5-loop chain,Loop,signs/loops,high,3,108,0,111,2.7
@@ -34,11 +42,6 @@ ASRAYA_002,Musala (all fixed),Nabhasa-Asraya,signs,med,0,111,0,111,0.0
 ASRAYA_003,Nala (all dual),Nabhasa-Asraya,signs,med,0,111,0,111,0.0
 SANKHYA_006,Yuga (2 signs),Nabhasa-Sankhya,signs,high,0,111,0,111,0.0
 SANKHYA_007,Golaka (1 sign),Nabhasa-Sankhya,signs,high,0,111,0,111,0.0
-MAHA_001,Rucaka (Mars),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
-MAHA_002,Bhadra (Mercury),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
-MAHA_003,Hamsa (Jupiter),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
-MAHA_004,Malavya (Venus),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
-MAHA_005,Sasa (Saturn),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
 NAMED_001,Gajakesari (Moon Kendra from Jupiter),NamedYoga,kendra_from_lagna_or_moon,med,0,0,111,0,0.0
 NAMED_002,Lakshmi (9th lord & Venus in Kendra/Kona own/exalt),NamedYoga,houses/lordship,med,0,0,111,0,0.0
 NAMED_003,Sarasvati (Mer+Jup+Venus in Kendra/Kona/2nd),NamedYoga,houses/lordship,med,0,0,111,0,0.0
@@ -98,6 +101,3 @@ BHAVA_12,Bhava-Musalayoga,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
 CANDRA_01,Candra-Adhama,CandraYoga,houses/Moon,low,0,0,111,0,0.0
 CANDRA_02,Candra-Sama,CandraYoga,houses/Moon,low,0,0,111,0,0.0
 CANDRA_03,Candra-Varistha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
-CANDRA_04,Candra-Sunapha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
-CANDRA_05,Candra-Anapha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
-CANDRA_06,Candra-Durudhara,CandraYoga,houses/Moon,low,0,0,111,0,0.0

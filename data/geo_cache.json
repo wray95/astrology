@@ -1,0 +1,497 @@
+{
+  "Polgahawela|Sri Lanka": {
+    "lat": 7.3381,
+    "lon": 80.3003,
+    "country_code": "LK"
+  },
+  "Colombo|Sri Lanka": {
+    "lat": 6.93548,
+    "lon": 79.84868,
+    "country_code": "LK"
+  },
+  "Barranquilla|Colombia": {
+    "lat": 10.96854,
+    "lon": -74.78132,
+    "country_code": "CO"
+  },
+  "Rosario|Argentina": {
+    "lat": -32.94682,
+    "lon": -60.63932,
+    "country_code": "AR"
+  },
+  "Montego Bay|Jamaica": {
+    "lat": 18.47116,
+    "lon": -77.91883,
+    "country_code": "JM"
+  },
+  "Mogi das Cruzes|Brazil": {
+    "lat": -23.52278,
+    "lon": -46.18833,
+    "country_code": "BR"
+  },
+  "Delhi|India": {
+    "lat": 28.65195,
+    "lon": 77.23149,
+    "country_code": "IN"
+  },
+  "Tres Coracoes|Brazil": {
+    "lat": -21.69694,
+    "lon": -45.25333,
+    "country_code": "BR"
+  },
+  "Braunau am Inn|Austria": {
+    "lat": 48.25628,
+    "lon": 13.04343,
+    "country_code": "AT"
+  },
+  "Ulyanovsk|Russia": {
+    "lat": 54.32824,
+    "lon": 48.38657,
+    "country_code": "RU"
+  },
+  "Gori|Georgia": {
+    "lat": 41.98532,
+    "lon": 44.1129,
+    "country_code": "GE"
+  },
+  "Predappio|Italy": {
+    "lat": 44.10316,
+    "lon": 11.98413,
+    "country_code": "IT"
+  },
+  "Frankfurt am Main|Germany": {
+    "lat": 50.11552,
+    "lon": 8.68417,
+    "country_code": "DE"
+  },
+  "Carrara|Italy": {
+    "lat": 44.07926,
+    "lon": 10.09789,
+    "country_code": "IT"
+  },
+  "Marseille|France": {
+    "lat": 43.29695,
+    "lon": 5.38107,
+    "country_code": "FR"
+  },
+  "Porto Alegre|Brazil": {
+    "lat": -30.03283,
+    "lon": -51.23019,
+    "country_code": "BR"
+  },
+  "Rio de Janeiro|Brazil": {
+    "lat": -22.90642,
+    "lon": -43.18223,
+    "country_code": "BR"
+  },
+  "Basel|Switzerland": {
+    "lat": 47.55839,
+    "lon": 7.57327,
+    "country_code": "CH"
+  },
+  "Mallorca|Spain": {
+    "lat": 39.6078,
+    "lon": 3.01197,
+    "country_code": "ES"
+  },
+  "Belgrade|Serbia": {
+    "lat": 44.80401,
+    "lon": 20.46513,
+    "country_code": "RS"
+  },
+  "Mumbai|India": {
+    "lat": 19.07283,
+    "lon": 72.88261,
+    "country_code": "IN"
+  },
+  "Launceston|Australia": {
+    "lat": -41.43876,
+    "lon": 147.13467,
+    "country_code": "AU"
+  },
+  "Lahore|Pakistan": {
+    "lat": 31.558,
+    "lon": 74.35071,
+    "country_code": "PK"
+  },
+  "Pretoria|South Africa": {
+    "lat": -25.74486,
+    "lon": 28.18783,
+    "country_code": "ZA"
+  },
+  "Moscow|Russia": {
+    "lat": 55.75204,
+    "lon": 37.61781,
+    "country_code": "RU"
+  },
+  "Hangzhou|China": {
+    "lat": 30.29365,
+    "lon": 120.16142,
+    "country_code": "CN"
+  },
+  "Hyderabad|India": {
+    "lat": 17.38405,
+    "lon": 78.45636,
+    "country_code": "IN"
+  },
+  "Aden|Yemen": {
+    "lat": 12.77957,
+    "lon": 45.03852,
+    "country_code": "YE"
+  },
+  "Ulm|Germany": {
+    "lat": 48.39841,
+    "lon": 9.99155,
+    "country_code": "DE"
+  },
+  "Warsaw|Poland": {
+    "lat": 52.22977,
+    "lon": 21.01178,
+    "country_code": "PL"
+  },
+  "Porbandar|India": {
+    "lat": 21.64219,
+    "lon": 69.60929,
+    "country_code": "IN"
+  },
+  "Mvezo|South Africa": {
+    "lat": -31.94948,
+    "lon": 28.51793,
+    "country_code": "ZA"
+  },
+  "Rameswaram|India": {
+    "lat": 9.2885,
+    "lon": 79.31271,
+    "country_code": "IN"
+  },
+  "Los Angeles|USA": {
+    "lat": 34.05223,
+    "lon": -118.24368,
+    "country_code": "US"
+  },
+  "Reading, Pennsylvania|USA": {
+    "lat": 51.45625,
+    "lon": -0.97113,
+    "country_code": "GB"
+  },
+  "Kosciusko, Mississippi|USA": {
+    "lat": 33.058,
+    "lon": -89.58956,
+    "country_code": "US"
+  },
+  "Hayward, California|USA": {
+    "lat": 37.66882,
+    "lon": -122.0808,
+    "country_code": "US"
+  },
+  "Funchal, Madeira|Portugal": {
+    "lat": 32.66568,
+    "lon": -16.92547,
+    "country_code": "PT"
+  },
+  "Saginaw, Michigan|USA": {
+    "lat": 43.41947,
+    "lon": -83.95081,
+    "country_code": "US"
+  },
+  "Cypress, California|USA": {
+    "lat": 29.96911,
+    "lon": -95.69717,
+    "country_code": "US"
+  },
+  "Baltimore, Maryland|USA": {
+    "lat": 39.29038,
+    "lon": -76.61219,
+    "country_code": "US"
+  },
+  "Akron, Ohio|USA": {
+    "lat": 41.08144,
+    "lon": -81.51901,
+    "country_code": "US"
+  },
+  "Philadelphia, Pennsylvania|USA": {
+    "lat": 39.95238,
+    "lon": -75.16362,
+    "country_code": "US"
+  },
+  "Louisville, Kentucky|USA": {
+    "lat": 38.25424,
+    "lon": -85.75941,
+    "country_code": "US"
+  },
+  "Lanus, Buenos Aires|Argentina": {
+    "lat": -34.70757,
+    "lon": -58.39132,
+    "country_code": "AR"
+  },
+  "Sherman Oaks, California|USA": {
+    "lat": 34.15112,
+    "lon": -118.44925,
+    "country_code": "US"
+  },
+  "Los Angeles, California|USA": {
+    "lat": 34.05223,
+    "lon": -118.24368,
+    "country_code": "US"
+  },
+  "Springfield, Illinois|USA": {
+    "lat": 37.21533,
+    "lon": -93.29824,
+    "country_code": "US"
+  },
+  "Owensboro, Kentucky|USA": {
+    "lat": 37.77422,
+    "lon": -87.11333,
+    "country_code": "US"
+  },
+  "Syracuse, New York|USA": {
+    "lat": 43.04812,
+    "lon": -76.14742,
+    "country_code": "US"
+  },
+  "Summit, New Jersey|USA": {
+    "lat": 40.71562,
+    "lon": -74.36468,
+    "country_code": "US"
+  },
+  "Mount Vernon, New York|USA": {
+    "lat": 48.42122,
+    "lon": -122.33405,
+    "country_code": "US"
+  },
+  "Memphis, Tennessee|USA": {
+    "lat": 35.14953,
+    "lon": -90.04898,
+    "country_code": "US"
+  },
+  "Concord, California|USA": {
+    "lat": 37.97798,
+    "lon": -122.03107,
+    "country_code": "US"
+  },
+  "Cincinnati, Ohio|USA": {
+    "lat": 39.12711,
+    "lon": -84.51439,
+    "country_code": "US"
+  },
+  "Kapuskasing, Ontario|Canada": {
+    "lat": 49.41694,
+    "lon": -82.43308,
+    "country_code": "CA"
+  },
+  "Knoxville, Tennessee|USA": {
+    "lat": 35.96064,
+    "lon": -83.92074,
+    "country_code": "US"
+  },
+  "Queens, New York|USA": {
+    "lat": 40.68149,
+    "lon": -73.83652,
+    "country_code": "US"
+  },
+  "London|UK": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "country_code": "GB"
+  },
+  "Liverpool|UK": {
+    "lat": 53.41058,
+    "lon": -2.97794,
+    "country_code": "GB"
+  },
+  "Duluth, Minnesota|USA": {
+    "lat": 46.78327,
+    "lon": -92.10658,
+    "country_code": "US"
+  },
+  "Woodstock|UK": {
+    "lat": 42.31474,
+    "lon": -88.4487,
+    "country_code": "US"
+  },
+  "Hyde Park, New York|USA": {
+    "lat": 44.59394,
+    "lon": -72.61651,
+    "country_code": "US"
+  },
+  "Denison, Texas|USA": {
+    "lat": 42.01777,
+    "lon": -95.35528,
+    "country_code": "US"
+  },
+  "Brookline, Massachusetts|USA": {
+    "lat": 42.33176,
+    "lon": -71.12116,
+    "country_code": "US"
+  },
+  "Dixon, Illinois|USA": {
+    "lat": 41.83892,
+    "lon": -89.47955,
+    "country_code": "US"
+  },
+  "Grantham|UK": {
+    "lat": 43.48952,
+    "lon": -72.13759,
+    "country_code": "US"
+  },
+  "Allahabad|India": {
+    "lat": 36.13848,
+    "lon": 58.64241,
+    "country_code": "IR"
+  },
+  "Tuskegee, Alabama|USA": {
+    "lat": 32.42415,
+    "lon": -85.69096,
+    "country_code": "US"
+  },
+  "Atlanta, Georgia|USA": {
+    "lat": 33.749,
+    "lon": -84.38798,
+    "country_code": "US"
+  },
+  "Omaha, Nebraska|USA": {
+    "lat": 41.25626,
+    "lon": -95.94043,
+    "country_code": "US"
+  },
+  "Tuscumbia, Alabama|USA": {
+    "lat": 34.7312,
+    "lon": -87.70253,
+    "country_code": "US"
+  },
+  "Revnice|Czechoslovakia": {
+    "lat": 49.91395,
+    "lon": 14.23589,
+    "country_code": "CZ"
+  },
+  "Lynwood, California|USA": {
+    "lat": 33.93029,
+    "lon": -118.21146,
+    "country_code": "US"
+  },
+  "Tarouba, Trinidad|Trinidad and Tobago": {
+    "lat": 41.98712,
+    "lon": -8.6085,
+    "country_code": "PT"
+  },
+  "St. John's, Antigua|Antigua and Barbuda": {
+    "lat": 47.56494,
+    "lon": -52.70931,
+    "country_code": "CA"
+  },
+  "Hampton|Australia": {
+    "lat": 37.02987,
+    "lon": -76.34522,
+    "country_code": "US"
+  },
+  "Seattle|USA": {
+    "lat": 47.60621,
+    "lon": -122.33207,
+    "country_code": "US"
+  },
+  "Albuquerque|USA": {
+    "lat": 35.08449,
+    "lon": -106.65114,
+    "country_code": "US"
+  },
+  "San Francisco|USA": {
+    "lat": 37.77493,
+    "lon": -122.41942,
+    "country_code": "US"
+  },
+  "White Plains|USA": {
+    "lat": 41.03399,
+    "lon": -73.76291,
+    "country_code": "US"
+  },
+  "Lansing, Michigan|USA": {
+    "lat": 42.73253,
+    "lon": -84.55553,
+    "country_code": "US"
+  },
+  "Mobile, Alabama|USA": {
+    "lat": 30.69436,
+    "lon": -88.04305,
+    "country_code": "US"
+  },
+  "Madras|India": {
+    "lat": 44.63345,
+    "lon": -121.12949,
+    "country_code": "US"
+  },
+  "Washington, D.C.|USA": {
+    "lat": 38.89511,
+    "lon": -77.03637,
+    "country_code": "US"
+  },
+  "Santa Clara, California|USA": {
+    "lat": 22.40711,
+    "lon": -79.96581,
+    "country_code": "CU"
+  },
+  "Wausau, Wisconsin|USA": {
+    "lat": 44.95914,
+    "lon": -89.63012,
+    "country_code": "US"
+  },
+  "Hastings-on-Hudson, New York|USA": {
+    "lat": 40.99454,
+    "lon": -73.87875,
+    "country_code": "US"
+  },
+  "Flint, Michigan|USA": {
+    "lat": 43.01253,
+    "lon": -83.68746,
+    "country_code": "US"
+  },
+  "New York|USA": {
+    "lat": 40.71427,
+    "lon": -74.00597,
+    "country_code": "US"
+  },
+  "Omaha|USA": {
+    "lat": 41.25626,
+    "lon": -95.94043,
+    "country_code": "US"
+  },
+  "Houston, Texas|USA": {
+    "lat": 29.76328,
+    "lon": -95.36327,
+    "country_code": "US"
+  },
+  "Oxford|UK": {
+    "lat": 51.75222,
+    "lon": -1.25596,
+    "country_code": "GB"
+  },
+  "Honolulu|USA": {
+    "lat": 21.30694,
+    "lon": -157.85834,
+    "country_code": "US"
+  },
+  "Richford|USA": {
+    "lat": 44.99699,
+    "lon": -72.67124,
+    "country_code": "US"
+  },
+  "Hodgenville|USA": {
+    "lat": 37.57395,
+    "lon": -85.73996,
+    "country_code": "US"
+  },
+  "Chicago|USA": {
+    "lat": 41.85003,
+    "lon": -87.65005,
+    "country_code": "US"
+  },
+  "Dearborn|USA": {
+    "lat": 42.32226,
+    "lon": -83.17631,
+    "country_code": "US"
+  },
+  "Gary|USA": {
+    "lat": 41.59337,
+    "lon": -87.34643,
+    "country_code": "US"
+  }
+}

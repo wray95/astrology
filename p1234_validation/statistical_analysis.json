@@ -55,6 +55,17 @@
     "odds_ratio": 0.148
   },
   {
+    "rule_id": "MAHA_002",
+    "name": "Bhadra (Mercury)",
+    "pattern_and_loop": 1,
+    "pattern_no_loop": 6,
+    "no_pattern_loop": 69,
+    "no_pattern_no_loop": 35,
+    "chi2": 7.631,
+    "p_value": 0.0058,
+    "odds_ratio": 0.085
+  },
+  {
     "rule_id": "SANKHYA_004",
     "name": "Kedara (4 signs)",
     "pattern_and_loop": 15,
@@ -97,6 +108,17 @@
     "chi2": 4.57,
     "p_value": 0.0307,
     "odds_ratio": 3.086
+  },
+  {
+    "rule_id": "MAHA_004",
+    "name": "Malavya (Venus)",
+    "pattern_and_loop": 2,
+    "pattern_no_loop": 5,
+    "no_pattern_loop": 68,
+    "no_pattern_no_loop": 36,
+    "chi2": 3.816,
+    "p_value": 0.048,
+    "odds_ratio": 0.212
   },
   {
     "rule_id": "DEBIL_JUP",
@@ -319,6 +341,39 @@
     "odds_ratio": 0.589
   },
   {
+    "rule_id": "CANDRA_01",
+    "name": "Candra-Adhama",
+    "pattern_and_loop": 0,
+    "pattern_no_loop": 0,
+    "no_pattern_loop": 70,
+    "no_pattern_no_loop": 41,
+    "chi2": 0.106,
+    "p_value": 0.7409,
+    "odds_ratio": 0.589
+  },
+  {
+    "rule_id": "CANDRA_02",
+    "name": "Candra-Sama",
+    "pattern_and_loop": 0,
+    "pattern_no_loop": 0,
+    "no_pattern_loop": 70,
+    "no_pattern_no_loop": 41,
+    "chi2": 0.106,
+    "p_value": 0.7409,
+    "odds_ratio": 0.589
+  },
+  {
+    "rule_id": "CANDRA_03",
+    "name": "Candra-Varistha",
+    "pattern_and_loop": 0,
+    "pattern_no_loop": 0,
+    "no_pattern_loop": 70,
+    "no_pattern_no_loop": 41,
+    "chi2": 0.106,
+    "p_value": 0.7409,
+    "odds_ratio": 0.589
+  },
+  {
     "rule_id": "OWN_MAR",
     "name": "Mars in own sign",
     "pattern_and_loop": 12,
@@ -328,6 +383,28 @@
     "chi2": 0.098,
     "p_value": 0.7489,
     "odds_ratio": 0.853
+  },
+  {
+    "rule_id": "MAHA_001",
+    "name": "Rucaka (Mars)",
+    "pattern_and_loop": 10,
+    "pattern_no_loop": 5,
+    "no_pattern_loop": 60,
+    "no_pattern_no_loop": 36,
+    "chi2": 0.097,
+    "p_value": 0.7506,
+    "odds_ratio": 1.2
+  },
+  {
+    "rule_id": "CANDRA_06",
+    "name": "Candra-Durudhara",
+    "pattern_and_loop": 9,
+    "pattern_no_loop": 6,
+    "no_pattern_loop": 61,
+    "no_pattern_no_loop": 35,
+    "chi2": 0.07,
+    "p_value": 0.7812,
+    "odds_ratio": 0.861
   },
   {
     "rule_id": "DEBIL_VEN",
@@ -341,6 +418,17 @@
     "odds_ratio": 1.188
   },
   {
+    "rule_id": "MAHA_003",
+    "name": "Hamsa (Jupiter)",
+    "pattern_and_loop": 6,
+    "pattern_no_loop": 4,
+    "no_pattern_loop": 64,
+    "no_pattern_no_loop": 37,
+    "chi2": 0.044,
+    "p_value": 0.8158,
+    "odds_ratio": 0.867
+  },
+  {
     "rule_id": "EXALT_MAR",
     "name": "Mars exalted",
     "pattern_and_loop": 4,
@@ -350,6 +438,39 @@
     "chi2": 0.035,
     "p_value": 0.8299,
     "odds_ratio": 1.182
+  },
+  {
+    "rule_id": "MAHA_005",
+    "name": "Sasa (Saturn)",
+    "pattern_and_loop": 4,
+    "pattern_no_loop": 2,
+    "no_pattern_loop": 66,
+    "no_pattern_no_loop": 39,
+    "chi2": 0.035,
+    "p_value": 0.8299,
+    "odds_ratio": 1.182
+  },
+  {
+    "rule_id": "CANDRA_04",
+    "name": "Candra-Sunapha",
+    "pattern_and_loop": 28,
+    "pattern_no_loop": 17,
+    "no_pattern_loop": 42,
+    "no_pattern_no_loop": 24,
+    "chi2": 0.023,
+    "p_value": 0.8524,
+    "odds_ratio": 0.941
+  },
+  {
+    "rule_id": "CANDRA_05",
+    "name": "Candra-Anapha",
+    "pattern_and_loop": 28,
+    "pattern_no_loop": 17,
+    "no_pattern_loop": 42,
+    "no_pattern_no_loop": 24,
+    "chi2": 0.023,
+    "p_value": 0.8524,
+    "odds_ratio": 0.941
   },
   {
     "rule_id": "DEBIL_MER",

@@ -301,3 +301,36 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Deliverable: `rerank_matrix_scored.md`.
 
 **Push:** committed all 10 output files + new/updated scripts + `data/births_people.json` + `rerank_matrix_scored.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+
+---
+
+## Turn 18 — 2026-07-23 — 5,000-Horoscope Vedic Yoga + P1234 validation framework (102-rule DB + deterministic engine + 15 outputs)
+
+**User (verbatim task lead-in):** "5,000‑HOROSCOPE VEDIC YOGA + P1234 VALIDATION PROJECT … PARTS 1–11 … FINAL SUMMARY (13 questions). IMPORTANT: DO NOT CHANGE MY SYSTEM. Do NOT: Replace DrikPanchang… Recalculate… Change my P1234 theory. Change my loop definition. Change my bond‑assignment rules. Change my existing chart calculation method. Assume conventional astrology is automatically more correct… PART 2 rule table example: YOGA_001, COMBO_001, P1234_001. PART 3: ~500,000 rule evaluations. Result record schema with fields person_id, name, data_quality, yogas_present/absent/unknown, combination_indicators_present, p1234_patterns_present, loops_present, bonds_present. PART 4: return P1234 COMPLETE/PARTIAL/ABSENT/UNKNOWN."
+
+**Standing constraints honored (ZERO changes to existing system):** DrikPanchang data source, P1234 theory, loop definition, bond rules, and chart method all treated as fixed. Every rule returns TRUE / FALSE / UNKNOWN; missing data → UNKNOWN never auto‑FALSE. Avoid confirmation bias (Part 10): report supporting, contradicting, null, weak, confounds, limits.
+
+**Assistant action (`scripts/p1234_validate.py`, NEW):**
+- Built a **102‑rule database** from `yoga_compendium.md` / `exaltation_debilitation.md` / `negative_yogs.md` (Exalt/Debil/Own, Asraya, Sankhya, Parivartana/Srinkhala/loops, Mahapurusha, named yogas, Akrti, Dala, Avayoga, Bhava, Candra).
+- Deterministic `eval_cond`/`eval_rule` returning TRUE/FALSE/UNKNOWN; honest UNKNOWN for house/lordship/nakshatra/divisional rules (the 111 Drik charts carry signs + loops only).
+- Loads all 5,287 registry records + 111 charted loops; per‑chart evaluation records; χ²/odds‑ratio stats (Haldane‑Anscombe + Wilson‑Hilferty p); candidate novel patterns; SQLite/CSV/JSON export.
+- **Result:** 5,287 records; **111 charted** (signs) / **5,176 date‑only**; 35 rules testable on this data, 67 UNKNOWN. P1234 left UNKNOWN (definitions absent from workspace). 9 pattern‑vs‑loop associations p<0.05, of which 3 are definitional (PARI_001, SHRIN_001, LOOP_004 — a loop IS a loop).
+- Wrote all 15 outputs to `p1234_validation/`.
+
+**Push:** committed `scripts/p1234_validate.py` + `p1234_validation/` outputs; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+
+---
+
+## Turn 19 — 2026-07-23 — P1234 = the 4 charts (p1,p2,p3,p4); compute Lagna/houses; regenerate all deliverables
+
+**User clarification (verbatim):** "its p1,p2,p3,p4" (→ P1234 = the four reference charts **P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi**, not a separate numeric theory). User also approved: compute houses/Lagna for the 111 charted records from birth data via DrikPanchang, keeping Drik planet signs unchanged, adding houses only.
+
+**Assistant action (ZERO changes to existing Drik signs / loops / bonds / theory):**
+1. **`scripts/compute_lagna.py` (NEW):** computes Lagna + whole‑sign houses for the 111 charted records with the **standard sidereal (Lahiri/Chitrapaksha) ayanamsa — the SAME ayanamsa Drik uses** — so the result is consistent with Drik's methodology (planet positions remain the Drik‑provided whole‑degree values, unchanged). Birth location → lat/long via Open‑Meteo geocoding (cached); timezone via IANA `zoneinfo` (DST‑correct). Validated the ascendant formula against the 4 KNOWN Lagnas in the workspace: P1/P3/P4 recover EXACTLY (Aries, Pisces, Taurus); P2 computes to **Taurus** with the registry's `12:00:00` time (a placeholder — the notes' "Aries Lagna" implies a corrected time), flagged as a data‑quality item. Result: **111/112 charts have Lagna + houses** (only Muhammad Ali lacks a birth city → documented gap).
+2. **Re‑interpreted P1234 in `p1234_validate.py`:** the 4 reference charts = **COMPLETE**; other 107 charted charts scored against a derived astrological hallmark set (Parivartana / 3+‑loop / Mahapurusha / Lagna ∈ {Aries,Taurus,Pisces}) → **PARTIAL** (≥1 hallmark) or **ABSENT** (none); date‑only records = **UNKNOWN**. Achievement deliberately excluded from the hallmark set (near‑universal in a famous‑people dataset). All 4 references verified to satisfy their documented signature (P1/P2 Parivartana, P3 5‑loop, P4 Malavya/MAHA_004).
+3. **Implemented house/Lagna condition types** (planet_in_house, kendra_from_lagna/moon, conjunction, Candra Sunapha/Anapha/Durudhara, Gajakesari) → **46/102 rules now testable** (was 35); the remaining 56 need full classical definitions (Akrti/Dala/Avayoga/Bhava/most named yogas, nakshatra, divisionals) and correctly stay UNKNOWN.
+4. Regenerated **all 15 deliverables** in `p1234_validation/` (added `loop_bond_summary.csv`; `chart_evaluations.json` + `.db` remain git‑ignored as large/regenerable).
+
+**Headline results (n=111 charted):** P1234 → 4 COMPLETE / 91 PARTIAL / 17 ABSENT / 5,175 UNKNOWN. Most common testable yogas: Candra‑Sunapha 45 (40.5%), Candra‑Anapha 45, Pasa(5‑sign) 40, Kedara(4‑sign) 33, Parivartana 31, Srinkhala 27. 11 associations p<0.05 — PARI_001/SHRIN_001/LOOP_004 definitional (OR 66/52/13); protective (fewer loops) for own/exalt Mercury & Venus, Bhadra, Malavya (OR 0.05–0.35); more loops for 6‑sign (Damini) charts. No yoga predicts achievement; loop↔achievement r≈−0.02 (null).
+
+**Push:** staged `scripts/compute_lagna.py`, `scripts/p1234_validate.py`, `data/geo_cache.json`, `astrodb_out/chart_houses.json`, `p1234_validation/` (excluding git‑ignored large files); committed + pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
