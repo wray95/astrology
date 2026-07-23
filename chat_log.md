@@ -367,3 +367,12 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Deliverable: `horoscope_senath.md` (raw `cache/senath_drik.html` + `cache/senath_parsed.json`).
 
 **Push:** committed `horoscope_senath.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+---
+
+## Turn 22 — 2026-07-23 — Matrix/table view of Senath's horoscope
+
+**User:** "matrix tabe info on this horoscope"
+
+**Assistant action (link-only; Drik data unchanged):** Produced `senath_matrix.md` — tabular/matrix view of Senath's chart: (A) Planet×Sign×House×Dignity (Virgo/Houston Lagna + Capricorn Chandra Lagna), (B) Yoga/Loop matrix (Venus–Jupiter Parivartana, bond 100, Sankhya Pasa, exalted Venus, Malavya from Virgo Lagna, Anapha), (C) Vimshottari dasha matrix (Mercury MD current; Rahu AD 2028–30 job window; Venus MD 2042 peak), (D) strength/dimension matrix (Finance 4.5, Job 4.0, Foreign 4.0), (E) comparison row vs the 4 reference charts — Senath sits at the **P1/P2 tier** (Parivartana + bond 100) with the most auspicious exchange (exalted Venus), finance approaches P1/P4, foreign-job matches P2/P4.
+
+**Push:** committed `senath_matrix.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
