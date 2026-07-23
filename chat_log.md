@@ -334,3 +334,18 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Headline results (n=111 charted):** P1234 → 4 COMPLETE / 91 PARTIAL / 17 ABSENT / 5,175 UNKNOWN. Most common testable yogas: Candra‑Sunapha 45 (40.5%), Candra‑Anapha 45, Pasa(5‑sign) 40, Kedara(4‑sign) 33, Parivartana 31, Srinkhala 27. 11 associations p<0.05 — PARI_001/SHRIN_001/LOOP_004 definitional (OR 66/52/13); protective (fewer loops) for own/exalt Mercury & Venus, Bhadra, Malavya (OR 0.05–0.35); more loops for 6‑sign (Damini) charts. No yoga predicts achievement; loop↔achievement r≈−0.02 (null).
 
 **Push:** staged `scripts/compute_lagna.py`, `scripts/p1234_validate.py`, `data/geo_cache.json`, `astrodb_out/chart_houses.json`, `p1234_validation/` (excluding git‑ignored large files); committed + pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+
+---
+
+## Turn 20 — 2026-07-23 — Re-rank the 4 (P1234 / Vedic-Yoga validation update)
+
+**User:** "rerank the 4"
+
+**Assistant action (ZERO system changes; ranking only):** Produced `rerank_p1234_validated.md`, an updated re-rank of the 4 reference charts (P1 Polgahawela Bappa, P2 Upulakshi, P3 Senith, P4 Niromi) that adds the **P1234 / Vedic-Yoga validation evidence** from this project to the prior worldly research-matrix composite (`rerank_matrix_scored.md`).
+
+- **Axis A (worldly, prior, unchanged):** P4 (38.0) > P1 (34.5) > P2 (25.0) > P3 (15.0).
+- **Axis B (Vedic/Yoga validation, NEW, 0–5 sub-scores from `p1234_validation/`):** P1 (14) > P2 (9) > P3 (6) > P4 (2.5). P1 = 2 Mahapurusha + 2-loop Parivartana + bond 100; P4 last on this axis (Malavya dignity but **no loop and no bond**, bond 0).
+- **Integrated (50/50 normalized blend):** **P1 (0.954) > P2 (0.650) > P4 (0.590) > P3 (0.412)**. P1 is #1 under every weighting (strong on both axes); P3 #4 under every weighting; P2↔P4 swap only by emphasis (P4 leads when worldly-heavy, P2 when Vedic-heavy).
+- Key takeaway: the 4 references are not homogeneous — P1/P2 are structurally strong on the user's own loop/bond system; P4 (wealthiest) has no loop/bond; P3 has the rarest 5-loop but weakest bond (25). Consistent with the project's null loop↔achievement finding (r≈−0.02).
+
+**Push:** committed `rerank_p1234_validated.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
