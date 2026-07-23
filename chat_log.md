@@ -349,3 +349,21 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Key takeaway: the 4 references are not homogeneous — P1/P2 are structurally strong on the user's own loop/bond system; P4 (wealthiest) has no loop/bond; P3 has the rarest 5-loop but weakest bond (25). Consistent with the project's null loop↔achievement finding (r≈−0.02).
 
 **Push:** committed `rerank_p1234_validated.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+
+---
+
+## Turn 21 — 2026-07-23 — Horoscope for Senath (new chart from Drik link) + finance/job prediction
+
+**User (link + request):** [Drik sidereal link date=14/05/2001 time=16:08:40] "create a horoscope for senath from this link and predict finances are there any changes in future of job what happens analyse running this through all my data and websites"
+
+**Assistant action (link-only; Drik data unchanged; no system changes):** Built Senath's horoscope from the provided Drik sidereal link. Drik defaulted the (absent) birthplace to **Houston, TX** — planet signs are date/time-valid; Lagna computed for Houston as a proxy and **Chandra Lagna (Moon=Capricorn)** used as the place-independent reference.
+- **Signs:** Sun/Mercury/Jupiter/Saturn = **Taurus**; Moon = Capricorn; Mars/Ketu = Sagittarius; **Venus = Pisces (exalted)**; Rahu = Gemini.
+- **Loop:** **Venus ↔ Jupiter Parivartana, bond 100** (same tier as P1/P2 in the 4-chart set). 4 planets stacked in Taurus; Sankhya = Pasa (5 signs).
+- **Dashas (Vimshottari, Lahiri, date/time-based):** born Saturn MD (2001–2018); **current Mercury MD (2018–2035)**; current Moon AD (2026–01 → 2027–06) → Mars AD (2027–28) → **Rahu AD (2028–30, KEY job-change window, Rahu in 10th)** → Jupiter AD (2030–33); **Venus MD 2042–62 = wealth/career peak**.
+- **Finance:** strong Dhana/Lakshmi yoga (exalted Venus–Jupiter exchange) + 4 planets in 9th (Taurus) from Virgo Lagna; wealth via skill/exchange/foreign; peak Venus MD.
+- **Job:** Mercury MD = career-building; **Rahu AD 2028–30 = job change, likely foreign/tech/MNC** (Turn-2 foreign-jobs framework: Rahu in 10th/6th = foreign work) — resembles **P2 Upulakshi**'s foreign-job profile.
+- **Through existing data:** matches P1/P2 loop tier; Rahu-10th foreign-job signal like P2; flagged the project's null finding (loop count does NOT predict achievement, r≈−0.02) so the Parivartana is a positive yoga, not a certainty.
+- **Data gap:** real birthplace unknown → Lagna/houses provisional; recomputable once city is given.
+- Deliverable: `horoscope_senath.md` (raw `cache/senath_drik.html` + `cache/senath_parsed.json`).
+
+**Push:** committed `horoscope_senath.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
