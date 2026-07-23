@@ -44,3 +44,16 @@ positive throughout Mercury MD, strongest in Venus/Sun/Rahu/Jupiter ADs.
 | 2035–2042 (Ketu) | ⚠ Mixed | ❌ Weak | Caution — detach, avoid big financial commits. |
 | 2042–2062 (Venus) | ✅✅ Peak | ✅✅ Peak | Best years for career status AND wealth. |
 | 2062+ (Sun/Moon/etc.) | ✅ Good | ✅ Good | Comfortable, stable, recognised. |
+
+## 4. Astro-seek cross-check (dasha authority = Lahiri)
+- The user supplied the astro-seek Vimshottari calculator link. The calculator page is
+  reachable and **confirms Lahiri Ayanamsa** (same ayanamsa as Drik and this computation).
+- Its results endpoint (`/calculate-dasha/`) returns **403 Cloudflare** from this sandbox
+  (same block as the earlier project finding), so the live HTML table could not be pulled here.
+- The dasha above is computed by the **identical Lahiri/Vimshottari method** from the Moon's
+  nakshatra (Moon = Capricorn 24.3° from the Drik link) → equivalent to astro-seek's output.
+- **Open in your own browser** to see astro-seek's rendered table (Houston tz UTC−5, matching
+  the Drik default): `https://horoscopes.astro-seek.com/calculate-dasha/?narozeni_den=14&narozeni_mesic=5&narozeni_rok=2001&narozeni_hodina=16&narozeni_minuta=8&narozeni_sekunda=40&narozeni_city=Houston&narozeni_sirka_stupne=29&narozeni_sirka_minuty=45&narozeni_sirka_smer=N&narozeni_delka_stupne=95&narozeni_delka_minuty=22&narozeni_delka_smer=W&narozeni_timezone_form=-5&narozeni_timezone_dst_form=0&send_calculation=1`
+- **Caveat:** the dasha depends on the birth time in UTC. The link gave no birthplace, so
+  Houston (UTC−5 in May) was assumed (same as Drik's default). If Senath's real birthplace
+  has a different timezone, the UTC moment — and thus the dasha start — could shift.

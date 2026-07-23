@@ -388,3 +388,12 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Next good job years: 2027–28 then 2028–30.
 
 **Push:** committed `senath_dasha_matrix.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+---
+
+## Turn 24 — 2026-07-23 — Astro-seek Vimshottari dasha cross-check for Senath
+
+**User:** [astro-seek vimshottari-dasha calculator link] "use this"
+
+**Assistant action (standing rule: astro-seek = dasha authority, Lahiri):** Attempted to pull Senath's dasha from astro-seek. The calculator page is reachable and **confirms Lahiri Ayanamsa**, but its results endpoint (`/calculate-dasha/`) returns **403 Cloudflare** from this sandbox (same block as earlier project finding) — the live HTML table could not be fetched here. The dasha already computed (Vimshottari from Moon's nakshatra, Moon = Capricorn 24.3° from the Drik link) uses the **identical Lahiri method**, so it is equivalent to astro-seek's output. Provided the exact astro-seek GET URL (Houston tz UTC−5, matching Drik default) for the user to open in their own browser, and added an astro-seek cross-check section to `senath_dasha_matrix.md`. Flagged that the dasha depends on the birth UTC moment, so a different real birthplace/timezone would shift the dasha start.
+
+**Push:** committed `senath_dasha_matrix.md` (astor-seek section) + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
