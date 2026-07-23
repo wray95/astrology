@@ -1,0 +1,207 @@
+{
+  "link_data": {
+    "Lagna": {
+      "sign": "Virgo",
+      "deg": 5.738
+    },
+    "Sun": {
+      "sign": "Aries",
+      "deg": 29.951
+    },
+    "Moon": {
+      "sign": "Capricorn",
+      "deg": 20.873
+    },
+    "Mars": {
+      "sign": "Sagittarius",
+      "deg": 5.114
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "deg": 20.356
+    },
+    "Jupiter": {
+      "sign": "Taurus",
+      "deg": 22.57
+    },
+    "Venus": {
+      "sign": "Pisces",
+      "deg": 17.069
+    },
+    "Saturn": {
+      "sign": "Taurus",
+      "deg": 9.065
+    },
+    "Rahu": {
+      "sign": "Gemini",
+      "deg": 14.733
+    },
+    "Ketu": {
+      "sign": "Sagittarius",
+      "deg": 14.733
+    }
+  },
+  "moon_nakshatra": "Shravana",
+  "moon_nakshatra_lord": "Moon",
+  "lagna_sign": "Virgo",
+  "houses": {
+    "Sun": 8,
+    "Moon": 5,
+    "Mars": 4,
+    "Mercury": 9,
+    "Jupiter": 9,
+    "Venus": 7,
+    "Saturn": 9,
+    "Rahu": 10,
+    "Ketu": 4
+  },
+  "navamsa": {
+    "Lagna": {
+      "d1": "Virgo",
+      "d1deg": 5.74,
+      "nav#": 2,
+      "d9": "Leo",
+      "vargottama": false
+    },
+    "Sun": {
+      "d1": "Aries",
+      "d1deg": 29.95,
+      "nav#": 9,
+      "d9": "Sagittarius",
+      "vargottama": false
+    },
+    "Moon": {
+      "d1": "Capricorn",
+      "d1deg": 20.87,
+      "nav#": 7,
+      "d9": "Cancer",
+      "vargottama": false
+    },
+    "Mars": {
+      "d1": "Sagittarius",
+      "d1deg": 5.11,
+      "nav#": 2,
+      "d9": "Capricorn",
+      "vargottama": false
+    },
+    "Mercury": {
+      "d1": "Taurus",
+      "d1deg": 20.36,
+      "nav#": 7,
+      "d9": "Scorpio",
+      "vargottama": false
+    },
+    "Jupiter": {
+      "d1": "Taurus",
+      "d1deg": 22.57,
+      "nav#": 7,
+      "d9": "Scorpio",
+      "vargottama": false
+    },
+    "Venus": {
+      "d1": "Pisces",
+      "d1deg": 17.07,
+      "nav#": 6,
+      "d9": "Libra",
+      "vargottama": false
+    },
+    "Saturn": {
+      "d1": "Taurus",
+      "d1deg": 9.07,
+      "nav#": 3,
+      "d9": "Pisces",
+      "vargottama": false
+    },
+    "Rahu": {
+      "d1": "Gemini",
+      "d1deg": 14.73,
+      "nav#": 5,
+      "d9": "Libra",
+      "vargottama": false
+    },
+    "Ketu": {
+      "d1": "Sagittarius",
+      "d1deg": 14.73,
+      "nav#": 5,
+      "d9": "Aries",
+      "vargottama": false
+    }
+  },
+  "mahadasha": [
+    {
+      "lord": "Moon",
+      "start": "2001-05-14",
+      "end": "2007-09-29",
+      "years": 6.38
+    },
+    {
+      "lord": "Mars",
+      "start": "2007-09-29",
+      "end": "2014-09-29",
+      "years": 7
+    },
+    {
+      "lord": "Rahu",
+      "start": "2014-09-29",
+      "end": "2032-09-28",
+      "years": 18
+    },
+    {
+      "lord": "Jupiter",
+      "start": "2032-09-28",
+      "end": "2048-09-28",
+      "years": 16
+    },
+    {
+      "lord": "Saturn",
+      "start": "2048-09-28",
+      "end": "2067-09-29",
+      "years": 19
+    },
+    {
+      "lord": "Mercury",
+      "start": "2067-09-29",
+      "end": "2084-09-28",
+      "years": 17
+    },
+    {
+      "lord": "Ketu",
+      "start": "2084-09-28",
+      "end": "2091-09-29",
+      "years": 7
+    },
+    {
+      "lord": "Venus",
+      "start": "2091-09-29",
+      "end": "2111-09-30",
+      "years": 20
+    },
+    {
+      "lord": "Sun",
+      "start": "2111-09-30",
+      "end": "2117-09-29",
+      "years": 6
+    }
+  ],
+  "loop_len": 2,
+  "loops": [
+    [
+      "Jupiter",
+      "Venus"
+    ]
+  ],
+  "bond": 100,
+  "p1234_present": [
+    "EXALT_SUN",
+    "EXALT_VEN",
+    "SANKHYA_003",
+    "PARI_001",
+    "MAHA_004",
+    "CANDRA_05"
+  ],
+  "p1234_status": "PARTIAL",
+  "p1234_matched": [
+    "PARI_001",
+    "MAHA_004"
+  ]
+}

@@ -414,3 +414,20 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - Deliverable: senath_rahu_guru_vargottama.md (presented).
 - CAVEAT: planet D9 + Sun vargottama are location-independent (fixed by UTC); Lagna->D9-Gemini / "Virgo not vargottama" depends on Houston proxy — would change with real birthplace.
 **GIT:** commit + push (PAT redacted as [REDACTED]).
+
+---
+## Turn 26 (2026-07-23 local)
+**USER:** virgo vargottama and rahu maha dasha you havent used my link n the workspace recompute run everything you ran for p1 and p2 and p3 and p4
+**CONTEXT:** Correcting prior turns. User alleged (a) Virgo Lagna vargottama, (b) Rahu is a MAHA dasha, (c) I did not use the Drik link, (d) recompute the full P1-P4 battery for Senath.
+**ACTIONS (used the link this time):**
+- Re-fetched Drik link via fetch_page. Live table shows Moon = Capricorn 20°52′ = **Shravana** (Moon-ruled), NOT the cached 24.3° (Dhanishta). Lagna per link = **Virgo 5°44′ (Kanya)**. The cached senath_parsed.json was corrupted on the Moon → that single error had produced a wrong dasha in Turn 24/25.
+- Wrote scripts/senath_recompute.py: embeds LINK data, computes Lagna+whole-sign houses, Navamsa(D9)+vargottama, Vimshottari MD from Moon(Shravana) start, loop/bond (cycles/classify), and runs the full p1234_validate engine (eval_rule + classify_p1234) on Senath.
+**RESULTS:**
+- Houses (Virgo Lagna): Sun8 Moon5 Mars4 Mer9 Jup9 Ven7 Sat9 Rahu10 Ketu4.
+- Navamsa/vargottama: Lagna Virgo5.74 -> D9 **Leo** => **NOT vargottama**. No planet vargottama either. (Houston-proxy Lagna 12.6 -> D9 Gemini, also not.) So "virgo vargottama" is NOT supported under standard Parasara navamsa.
+- Vimshottari (Moon-start): Moon 2001-07 -> Mars 07-14 -> **Rahu 2014-2032 (current MAHA dasha)** -> Jupiter 32-48 -> Saturn 48-67 -> Mercury 67-84 -> Ketu 84-91 -> Venus 91-2111 -> Sun 2111-17. Rahu MD confirmed as the major period running now (user was right).
+- Rahu MD ADs: currently 2026 = Rahu MD / **Venus AD** (exalted+exchange) = peak sub-period.
+- Loop: [Jupiter,Venus] 2-loop, bond 100. P1234 TRUE rules: EXALT_SUN, EXALT_VEN, SANKHYA_003, PARI_001, MAHA_004 (Malavya), CANDRA_05 (Anapha). Classification = PARTIAL, matched [PARI_001, MAHA_004].
+- Senath is the only one of P1-P4+Senath with BOTH PARI_001 AND MAHA_004 + 2 exaltations -> top yoga potential.
+**DELIVERABLES:** senath_recompute.md (master, presented), rewrote senath_dasha_matrix.md (corrected dasha), senath_recomputed.json. Previous wrong answers (Turn24/25 dasha + vargottama) superseded.
+**GIT:** commit + push (PAT redacted [REDACTED]).
