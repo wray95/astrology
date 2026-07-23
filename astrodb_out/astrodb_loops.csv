@@ -1,0 +1,25 @@
+name,profession,achievement,rodden,loop_len,bond,loops,moon_approx
+Obama,Politics,10,AA,3,50,Moon/Venus/Mercury,False
+Rockefeller,Business,10,DD,4,33,Sun/Mercury/Moon/Venus,False
+Stan Lee,Arts,8,DD,5,25,Jupiter/Venus/Mars/Saturn/Mercury,False
+P1 Bappa,Business,8,AA,2,100,Venus/Mercury,False
+P2 Upulakshi,Job,5,DD,2,100,Jupiter/Saturn,False
+P3 Senith,Job,4,AA,5,25,Sun/Moon/Jupiter/Mars/Mercury,False
+P4 Niromi,Business,9,AA,0,0,,False
+Elon Musk,Tech,10,AA,0,0,,False
+Bill Gates,Tech,10,AA,0,0,,False
+Jeff Bezos,Tech,10,AA,0,0,,False
+Steve Jobs,Tech,10,AA,4,33,Saturn/Venus/Jupiter/Mercury,False
+Albert Einstein,Science,10,AA,2,100,Jupiter/Saturn,False
+Warren Buffett,Business,10,AA,0,0,,False
+Mark Zuckerberg,Tech,9,AA,2,100,Venus/Mars,False
+Sachin Tendulkar,Sports,9,AA,3,50,Jupiter/Saturn/Mercury,False
+Mukesh Ambani,Business,10,AA,2,100,Mars/Venus,False
+Oprah Winfrey,Media,9,AA,2,100,Saturn/Venus,False
+Mahatma Gandhi,Politics,10,DD,0,0,,False
+Abraham Lincoln,Politics,10,DD,0,0,,False
+Nelson Mandela,Politics,10,DD,3,50,Moon/Venus/Mercury,False
+Walt Disney,Arts,9,DD,0,0,,False
+Henry Ford,Business,10,DD,3,50,Moon/Saturn/Mercury,False
+Michael Jackson,Arts,9,DD,0,0,,False
+A.P.J. Abdul Kalam,Science,9,DD,0,0,,False

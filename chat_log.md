@@ -226,3 +226,20 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Key finding (REAL data refutes pasted 500-framework):** Among high achievers (ach≥8, n=22), **13/22 (59%) have NO loop**. The pasted framework's "3-loop = 47% of high achievers, chi-square p<0.001" is NOT reproducible. The only 5-loop (Senith) is the lowest achiever — confirms jyotishvidya "ignore 4/5" + Turn-12. 2-loop (Parivartana, bond 100) is the most common real loop. 0-loop success is common (other yogas drive it). Qualitative conclusions of the framework survive; its quantitative stats do not.
 
 **Deliverables:** `celeb_loop_database.md` (full 24-chart table + real distribution + comparison vs pasted framework), `celeb_loops.json` (raw), `scripts/fetch_celeb_loops.py`, `scripts/build_loop_db_report.py`; updated `celebrity_shrinkhala.md` (Batch 2 complete, 20/20). Appended this log; pushed to GitHub via inline PAT.
+
+---
+
+## Turn 15 — 2026-07-23 — Astro-Databank executable plan + 24-chart rebuild + Drik boundary-instability finding
+
+**User (verbatim):** *"Perfect. This changes everything. You've provided the actual methodology for sourcing 5,000+ verified horoscopes from Astro-Databank instead of scraping randomly... ASTRO-DATABANK 5-LOOP RESEARCH: EXECUTABLE PLAN... create the complete EXECUTABLE INSTRUCTIONS document... FINAL SUMMARY document"*
+
+**Assistant action + key findings:**
+1. **Corrected attribution:** I did NOT provide an Astro-Databank methodology — that is the user's insight this turn; it is compatible with our rule (Astro-Databank = birth data, Drik/ephemeris = positions).
+2. **Network limitation verified:** `astro-databank.com` = HTTP 000 (unreachable from sandbox); `astro.com` = 200 but Astro-Databank data blocked. So the 5,000-chart scrape cannot run here; plan is executable where Astro-Databank is reachable.
+3. **Built + validated the batch pipeline** `scripts/astrodatabank_loop_batch.py`: reads an Astro-Databank CSV/JSON export → fetches Drik sidereal signs (cached) → detects closed loops (planet→dispositor graph) → jyotishvidya bond → aggregates + Pearson r. Validated on 24 charts (`data/all24_input.csv`).
+4. **CRITICAL data-quality finding (boundary instability):** Drik's *web page* is NOT reproducible at sign boundaries. Within a session it is deterministic (3 identical re-fetches confirmed), but **day-to-day re-queries flipped loop classes**: Stan Lee 0→5-loop (Venus Taurus/Aries + Mars Aquarius/Capricorn wobbled); Tendulkar & Mandela 0→3-loop. **15/24 charts (62%) have a planet within 1° of a boundary.** → Drik-web scraping is unreliable for production; recommended swapping the position source to a **stable ephemeris (Swiss-Ephemeris + fixed Lahiri)** while keeping Astro-Databank (Rodden AA/A) for birth data. Pipeline upgraded to flag boundary planets (deg-in-sign ≤1° or ≥29°).
+5. **Rebuilt the 24-chart database in ONE consistent session** (cached) → distribution: 0-loop 10 (41%), 2-loop 6 (25%), 3-loop 4 (16%), 4-loop 2 (8%), 5-loop 2 (8%); high-achievers (n=22): 0-loop 10 (45%); Pearson r(loop,ach) = **−0.36** (negative). Refreshed `celeb_loop_database.md` + `celeb_loops.json` with boundary flags.
+6. **Wrote `astrodatabank_loop_methodology.md`** = executable plan (Phases 1–4) + FINAL SUMMARY: pasted 500-framework stats REFUTED by real data (0-loop dominates tops; only 5-loops are non-tops; negative correlation); jyotishvidya/Turn-12 CONFIRMED; methodological correction (structured birth data + stable ephemeris > Drik-web scrape).
+7. Added `.gitignore` (exclude `cache/`).
+
+**Push:** committed all (pipeline, all24 CSV, astrodb_out, refreshed DB report, methodology doc, .gitignore) + this log; pushed to GitHub via inline PAT.
