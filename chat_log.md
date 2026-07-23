@@ -376,3 +376,15 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 **Assistant action (link-only; Drik data unchanged):** Produced `senath_matrix.md` — tabular/matrix view of Senath's chart: (A) Planet×Sign×House×Dignity (Virgo/Houston Lagna + Capricorn Chandra Lagna), (B) Yoga/Loop matrix (Venus–Jupiter Parivartana, bond 100, Sankhya Pasa, exalted Venus, Malavya from Virgo Lagna, Anapha), (C) Vimshottari dasha matrix (Mercury MD current; Rahu AD 2028–30 job window; Venus MD 2042 peak), (D) strength/dimension matrix (Finance 4.5, Job 4.0, Foreign 4.0), (E) comparison row vs the 4 reference charts — Senath sits at the **P1/P2 tier** (Parivartana + bond 100) with the most auspicious exchange (exalted Venus), finance approaches P1/P4, foreign-job matches P2/P4.
 
 **Push:** committed `senath_matrix.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
+---
+
+## Turn 23 — 2026-07-23 — Job & money prediction matrix by dasha year (Senath)
+
+**User:** "i need job prediction money predictions good or bad during dashas years caetogerise in matrx chart table"
+
+**Assistant action (link-only; Drik data unchanged):** Produced `senath_dasha_matrix.md` — a Good/Bad (✅/⚠/❌/➖) matrix of **job and money per Mahadasha year** plus a Mercury-MD antardasha detail, derived from Senath's chart (Venus–Jupiter Dhana exchange, Rahu in 10th) + Vimshottari dashas.
+- **Mahadasha verdict:** Job & money GOOD through Mercury MD (now→2035); **only WEAK window = Ketu MD (2035–42)**; **PEAK = Venus MD (2042–62)**.
+- **Mercury MD antardashas (now-relevant):** Moon AD 2026–27 (initiation) → **Mars AD 2027–28 (income step)** → **Rahu AD 2028–30 = JOB CHANGE (foreign/tech, Rahu in 10th)** → Jupiter AD 2030–33 (expansion).
+- Next good job years: 2027–28 then 2028–30.
+
+**Push:** committed `senath_dasha_matrix.md` + this log; pushed to GitHub via inline PAT (PAT redacted here as [REDACTED]; recommend rotation).
