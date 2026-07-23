@@ -1,0 +1,103 @@
+rule_id,name,category,required_data,confidence,present,absent,unknown,evaluable,pct_present_of_evaluable
+SANKHYA_003,Pasa (5 signs),Nabhasa-Sankhya,signs,high,40,71,0,111,36.0
+SANKHYA_004,Kedara (4 signs),Nabhasa-Sankhya,signs,high,33,78,0,111,29.7
+PARI_001,Parivartana (2-planet exchange),Exchange,signs/loops,high,31,80,0,111,27.9
+SHRIN_001,Srinkhala (3-planet exchange),Exchange,signs/loops,high,27,84,0,111,24.3
+SANKHYA_002,Damini (6 signs),Nabhasa-Sankhya,signs,high,26,85,0,111,23.4
+OWN_JUP,Jupiter in own sign,Dignity,signs,high,25,86,0,111,22.5
+OWN_VEN,Venus in own sign,Dignity,signs,high,22,89,0,111,19.8
+OWN_MAR,Mars in own sign,Dignity,signs,high,20,91,0,111,18.0
+OWN_MER,Mercury in own sign,Dignity,signs,high,19,92,0,111,17.1
+DEBIL_SAT,Saturn debilitated,Dignity,signs,high,15,96,0,111,13.5
+DEBIL_MAR,Mars debilitated,Dignity,signs,high,13,98,0,111,11.7
+DEBIL_JUP,Jupiter debilitated,Dignity,signs,high,12,99,0,111,10.8
+DEBIL_MOO,Moon debilitated,Dignity,signs,high,11,100,0,111,9.9
+OWN_SAT,Saturn in own sign,Dignity,signs,high,11,100,0,111,9.9
+OWN_SUN,Sun in own sign,Dignity,signs,high,10,101,0,111,9.0
+EXALT_MER,Mercury exalted,Dignity,signs,high,10,101,0,111,9.0
+EXALT_VEN,Venus exalted,Dignity,signs,high,10,101,0,111,9.0
+EXALT_SAT,Saturn exalted,Dignity,signs,high,10,101,0,111,9.0
+DEBIL_VEN,Venus debilitated,Dignity,signs,high,9,102,0,111,8.1
+LOOP_004,4-loop chain,Loop,signs/loops,high,9,102,0,111,8.1
+DEBIL_SUN,Sun debilitated,Dignity,signs,high,8,103,0,111,7.2
+SANKHYA_005,Sula (3 signs),Nabhasa-Sankhya,signs,high,8,103,0,111,7.2
+EXALT_MOO,Moon exalted,Dignity,signs,high,7,104,0,111,6.3
+OWN_MOO,Moon in own sign,Dignity,signs,high,7,104,0,111,6.3
+EXALT_JUP,Jupiter exalted,Dignity,signs,high,7,104,0,111,6.3
+EXALT_SUN,Sun exalted,Dignity,signs,high,6,105,0,111,5.4
+EXALT_MAR,Mars exalted,Dignity,signs,high,6,105,0,111,5.4
+DEBIL_MER,Mercury debilitated,Dignity,signs,high,5,106,0,111,4.5
+SANKHYA_001,Vallaki/Vina (7 signs),Nabhasa-Sankhya,signs,high,4,107,0,111,3.6
+LOOP_005,5-loop chain,Loop,signs/loops,high,3,108,0,111,2.7
+ASRAYA_001,Rajju (all movable),Nabhasa-Asraya,signs,med,0,111,0,111,0.0
+ASRAYA_002,Musala (all fixed),Nabhasa-Asraya,signs,med,0,111,0,111,0.0
+ASRAYA_003,Nala (all dual),Nabhasa-Asraya,signs,med,0,111,0,111,0.0
+SANKHYA_006,Yuga (2 signs),Nabhasa-Sankhya,signs,high,0,111,0,111,0.0
+SANKHYA_007,Golaka (1 sign),Nabhasa-Sankhya,signs,high,0,111,0,111,0.0
+MAHA_001,Rucaka (Mars),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
+MAHA_002,Bhadra (Mercury),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
+MAHA_003,Hamsa (Jupiter),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
+MAHA_004,Malavya (Venus),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
+MAHA_005,Sasa (Saturn),Mahapurusa,signs + houses(Lagna/Moon),med,0,0,111,0,0.0
+NAMED_001,Gajakesari (Moon Kendra from Jupiter),NamedYoga,kendra_from_lagna_or_moon,med,0,0,111,0,0.0
+NAMED_002,Lakshmi (9th lord & Venus in Kendra/Kona own/exalt),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_003,Sarasvati (Mer+Jup+Venus in Kendra/Kona/2nd),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_004,Rajayoga (9th & 10th lords conjoined auspicious house),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_005,Vasumati (benefics in Upacaya),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_006,Subha Mala (benefics 5/6/7 from Lagna),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_007,Sakatayoga (Moon 6/8/12 from Jupiter),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_008,Kemadruma (no planet 2/12/4/10 from Moon),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_009,Chandra Adhiyoga (benefics 6/7/8 from Moon),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+NAMED_010,Amala (benefic in 10th from Lagna/Moon),NamedYoga,houses/lordship,med,0,0,111,0,0.0
+AKRTI_01,Akrti-Gada,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_02,Akrti-Sakata,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_03,Akrti-Vihaga,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_04,Akrti-Srngataka,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_05,Akrti-Hala,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_06,Akrti-Vajra,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_07,Akrti-Yava,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_08,Akrti-Kamala,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_09,Akrti-Vapi,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_10,Akrti-Yupa,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_11,Akrti-Isu,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_12,Akrti-Sakti,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_13,Akrti-Danda,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_14,Akrti-Nau,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_15,Akrti-Kuta,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_16,Akrti-Chatra,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_17,Akrti-Capa,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_18,Akrti-Ardha-candra,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_19,Akrti-Samudra,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+AKRTI_20,Akrti-Cakra,Nabhasa-Akrti,houses,low,0,0,111,0,0.0
+DALA_001,Mala/Srak (3 benefics only in Kendras),Nabhasa-Dala,houses,low,0,0,111,0,0.0
+DALA_002,Sarpa (3 malefics only in Kendras),Nabhasa-Dala,houses,low,0,0,111,0,0.0
+AVAYOGA_01,Avayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_02,Nisvayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_03,Mrtiyoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_04,Kuhuyoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_05,Pamarayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_06,Harsayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_07,Duskrtiyoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_08,Saralayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_09,Nirbhagyayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_10,Duryoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_11,Daridrayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+AVAYOGA_12,Vimalayoga,Avayoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_01,Bhava-Camara,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_02,Bhava-Dhenu,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_03,Bhava-Saurya,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_04,Bhava-Jaladhi,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_05,Bhava-Chatra,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_06,Bhava-Astra,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_07,Bhava-Kama,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_08,Bhava-Asura,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_09,Bhava-Bhagya,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_10,Bhava-Khyati,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_11,Bhava-Suparijata,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+BHAVA_12,Bhava-Musalayoga,BhavaYoga,houses/lordship,low,0,0,111,0,0.0
+CANDRA_01,Candra-Adhama,CandraYoga,houses/Moon,low,0,0,111,0,0.0
+CANDRA_02,Candra-Sama,CandraYoga,houses/Moon,low,0,0,111,0,0.0
+CANDRA_03,Candra-Varistha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
+CANDRA_04,Candra-Sunapha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
+CANDRA_05,Candra-Anapha,CandraYoga,houses/Moon,low,0,0,111,0,0.0
+CANDRA_06,Candra-Durudhara,CandraYoga,houses/Moon,low,0,0,111,0,0.0

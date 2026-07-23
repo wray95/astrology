@@ -4,3 +4,5 @@ __pycache__/
 data/_births_done.json
 data/_wp_titles.json
 data/_wp_titles_done.json
+p1234_validation/chart_evaluations.json
+p1234_validation/p1234_validation.db

@@ -1,0 +1,10 @@
+rule_id,name,pattern_and_loop,pattern_no_loop,no_pattern_loop,no_pattern_no_loop,chi2,p_value,odds_ratio
+PARI_001,Parivartana (2-planet exchange),31,0,39,41,23.841,0.0,66.19
+SHRIN_001,Srinkhala (3-planet exchange),27,0,43,41,19.637,0.0,52.471
+OWN_VEN,Venus in own sign,6,16,64,25,15.089,0.0002,0.146
+EXALT_MER,Mercury exalted,1,9,69,32,13.285,0.0004,0.052
+OWN_MER,Mercury in own sign,5,14,65,27,13.289,0.0004,0.148
+SANKHYA_004,Kedara (4 signs),15,18,55,23,6.251,0.012,0.348
+SANKHYA_005,Sula (3 signs),2,6,68,35,5.362,0.0196,0.172
+LOOP_004,4-loop chain,9,0,61,41,4.811,0.0267,12.821
+SANKHYA_002,Damini (6 signs),21,5,49,36,4.57,0.0307,3.086
