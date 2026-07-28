@@ -1,0 +1,3590 @@
+[
+  {
+    "name": "Senath",
+    "id": "P5",
+    "ascendant": {
+      "sign": "Virgo",
+      "deg": 28.4937,
+      "sidereal": 178.4937
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 29.817,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.817,
+        "dignity": 100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 8
+      },
+      "Moon": {
+        "sidereal": 289.1524,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 19.1524,
+        "dignity": 0,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 5
+      },
+      "Mars": {
+        "sidereal": 245.1251,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 5.1251,
+        "dignity": 0,
+        "nakshatra": "Mula",
+        "nakshatra_lord": "Ketu",
+        "house": 4
+      },
+      "Mercury": {
+        "sidereal": 50.1499,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 20.1499,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Jupiter": {
+        "sidereal": 52.5446,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 22.5446,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 346.9762,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 16.9762,
+        "dignity": 100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 7
+      },
+      "Saturn": {
+        "sidereal": 39.0526,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 9.0526,
+        "dignity": 0,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 9
+      },
+      "Rahu": {
+        "sidereal": 74.7424,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 14.7424,
+        "dignity": 0,
+        "nakshatra": "Ardra",
+        "nakshatra_lord": "Rahu",
+        "house": 10
+      },
+      "Ketu": {
+        "sidereal": 254.7424,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 14.7424,
+        "dignity": 0,
+        "nakshatra": "Purva Ashadha",
+        "nakshatra_lord": "Venus",
+        "house": 4
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shravana",
+      "lord": "Moon",
+      "balance_yrs": 3.14
+    },
+    "birthday": "2001-05-14",
+    "birth_time": "16:08:40",
+    "tz": 5.5,
+    "archetype": "Slow-Motion Titan",
+    "career": "Tech/Quant Finance",
+    "edu": "CS\u2192Finance\u2192Law",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Pisces",
+        "lagna_idx": 11,
+        "planets": {
+          "Sun": {
+            "sign": "Taurus",
+            "sidereal": 59.634,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Scorpio",
+            "sidereal": 218.3048,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Leo",
+            "sidereal": 130.2502,
+            "house": 6
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 100.2998,
+            "house": 5
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "sidereal": 105.0892,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Pisces",
+            "sidereal": 333.9524,
+            "house": 1
+          },
+          "Saturn": {
+            "sign": "Gemini",
+            "sidereal": 78.1052,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 149.4848,
+            "house": 6
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 149.4848,
+            "house": 6
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Sagittarius",
+            "sidereal": 268.353,
+            "house": 4
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 82.37159999999994,
+            "house": 10
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 46.1259,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 91.34910000000002,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "sidereal": 112.90140000000002,
+            "house": 11
+          },
+          "Venus": {
+            "sign": "Sagittarius",
+            "sidereal": 242.7858000000001,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Pisces",
+            "sidereal": 351.47339999999997,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Aquarius",
+            "sidereal": 312.6816,
+            "house": 6
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 132.6815999999999,
+            "house": 12
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Pisces",
+        "lagna_idx": 11,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 298.17,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Aries",
+            "sidereal": 11.523999999999887,
+            "house": 2
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "sidereal": 291.2510000000002,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 141.49900000000002,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Virgo",
+            "sidereal": 165.44600000000003,
+            "house": 7
+          },
+          "Venus": {
+            "sign": "Scorpio",
+            "sidereal": 229.76200000000017,
+            "house": 9
+          },
+          "Saturn": {
+            "sign": "Taurus",
+            "sidereal": 30.525999999999954,
+            "house": 3
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 27.423999999999978,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Aries",
+            "sidereal": 27.423999999999978,
+            "house": 2
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 355.60799999999995,
+            "house": 2
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 99.65760000000046,
+            "house": 6
+          },
+          "Mars": {
+            "sign": "Leo",
+            "sidereal": 123.0024000000003,
+            "house": 7
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 123.59760000000006,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Libra",
+            "sidereal": 181.07040000000006,
+            "house": 9
+          },
+          "Venus": {
+            "sign": "Taurus",
+            "sidereal": 47.42879999999968,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 217.26239999999996,
+            "house": 10
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 353.8176000000001,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 353.8176000000003,
+            "house": 2
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Sagittarius",
+        "lagna_idx": 8,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 349.02,
+            "house": 4
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 69.14400000000023,
+            "house": 7
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 307.5059999999994,
+            "house": 3
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 128.99400000000014,
+            "house": 9
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "sidereal": 272.6760000000004,
+            "house": 2
+          },
+          "Venus": {
+            "sign": "Capricorn",
+            "sidereal": 298.5720000000001,
+            "house": 2
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "sidereal": 183.15599999999995,
+            "house": 11
+          },
+          "Rahu": {
+            "sign": "Virgo",
+            "sidereal": 164.54399999999987,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Virgo",
+            "sidereal": 164.54399999999987,
+            "house": 10
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "LL(Mercury)+5L(Saturn)"
+      ],
+      "raja": [
+        "Mercury(L1)+Saturn(L5) conj H9",
+        "Jupiter(L4)+Mercury(L1) conj H9",
+        "Jupiter(L4)+Saturn(L5) conj H9"
+      ],
+      "mahapurusha": [
+        "Malavya:Venus H7 Pisces"
+      ],
+      "nbry": [],
+      "vry": [
+        "Sun(L12) in H8"
+      ]
+    },
+    "scores": {
+      "wealth": 8.5,
+      "power": 10.5,
+      "karma": 0,
+      "education": 1,
+      "composite": 6.3
+    },
+    "dasha": {
+      "current_md": "Rahu",
+      "current_ad": "Sun",
+      "next_md": "Jupiter",
+      "md_pct": 83.0
+    },
+    "d9_venus": "Sagittarius",
+    "d10_10l_house": 7
+  },
+  {
+    "name": "Niromi",
+    "id": "P4",
+    "ascendant": {
+      "sign": "Taurus",
+      "deg": 15.2952,
+      "sidereal": 45.2952
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 10.8176,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 10.8176,
+        "dignity": 100,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 12
+      },
+      "Moon": {
+        "sidereal": 199.4729,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 19.4729,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 6
+      },
+      "Mars": {
+        "sidereal": 177.7973,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 27.7973,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 353.7328,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 23.7328,
+        "dignity": -100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 11
+      },
+      "Jupiter": {
+        "sidereal": 92.8594,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 2.8594,
+        "dignity": 100,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 3
+      },
+      "Venus": {
+        "sidereal": 49.1776,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 19.1776,
+        "dignity": 75,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 1
+      },
+      "Saturn": {
+        "sidereal": 342.9838,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 12.9838,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 13.8764,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 13.8764,
+        "dignity": 0,
+        "nakshatra": "Bharani",
+        "nakshatra_lord": "Venus",
+        "house": 12
+      },
+      "Ketu": {
+        "sidereal": 193.8764,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 13.8764,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 6
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Swati",
+      "lord": "Rahu",
+      "balance_yrs": 0.71
+    },
+    "birthday": "1967-04-25",
+    "birth_time": "08:17:37",
+    "tz": 5.5,
+    "archetype": "Luxe Empire Builder",
+    "career": "Luxury/Beauty Founder",
+    "edu": "Business\u2192Real Estate",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Cancer",
+        "lagna_idx": 3,
+        "planets": {
+          "Sun": {
+            "sign": "Aries",
+            "sidereal": 21.6352,
+            "house": 10
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "sidereal": 38.94580000000002,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Pisces",
+            "sidereal": 355.5946,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Pisces",
+            "sidereal": 347.4656,
+            "house": 9
+          },
+          "Jupiter": {
+            "sign": "Libra",
+            "sidereal": 185.7188,
+            "house": 4
+          },
+          "Venus": {
+            "sign": "Cancer",
+            "sidereal": 98.3552,
+            "house": 1
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "sidereal": 325.96759999999995,
+            "house": 8
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 27.7528,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Aries",
+            "sidereal": 27.75279999999998,
+            "house": 10
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Cancer",
+            "sidereal": 97.3584,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Pisces",
+            "sidereal": 355.25610000000006,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Virgo",
+            "sidereal": 160.1757,
+            "house": 5
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 303.59519999999975,
+            "house": 10
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "sidereal": 115.7346,
+            "house": 3
+          },
+          "Venus": {
+            "sign": "Gemini",
+            "sidereal": 82.59839999999997,
+            "house": 2
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "sidereal": 206.85419999999976,
+            "house": 6
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 124.8876,
+            "house": 4
+          },
+          "Ketu": {
+            "sign": "Aquarius",
+            "sidereal": 304.8876,
+            "house": 10
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Cancer",
+        "lagna_idx": 3,
+        "planets": {
+          "Sun": {
+            "sign": "Cancer",
+            "sidereal": 108.176,
+            "house": 1
+          },
+          "Moon": {
+            "sign": "Libra",
+            "sidereal": 194.72900000000004,
+            "house": 4
+          },
+          "Mars": {
+            "sign": "Pisces",
+            "sidereal": 337.97299999999996,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Capricorn",
+            "sidereal": 297.328,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Libra",
+            "sidereal": 208.59399999999994,
+            "house": 4
+          },
+          "Venus": {
+            "sign": "Leo",
+            "sidereal": 131.77599999999995,
+            "house": 2
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "sidereal": 189.83799999999974,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 138.764,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 138.7639999999999,
+            "house": 2
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Aries",
+        "lagna_idx": 0,
+        "planets": {
+          "Sun": {
+            "sign": "Sagittarius",
+            "sidereal": 259.6224,
+            "house": 9
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 107.34960000000046,
+            "house": 4
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 307.1352000000006,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Libra",
+            "sidereal": 209.58719999999994,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 68.62559999999985,
+            "house": 3
+          },
+          "Venus": {
+            "sign": "Cancer",
+            "sidereal": 100.26240000000007,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "sidereal": 311.61119999999937,
+            "house": 11
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 333.0336,
+            "house": 12
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 333.03359999999975,
+            "house": 12
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Libra",
+        "lagna_idx": 6,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 289.05600000000004,
+            "house": 4
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 88.3739999999998,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Scorpio",
+            "sidereal": 227.83799999999974,
+            "house": 2
+          },
+          "Mercury": {
+            "sign": "Pisces",
+            "sidereal": 343.96800000000076,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Virgo",
+            "sidereal": 171.5639999999994,
+            "house": 12
+          },
+          "Venus": {
+            "sign": "Gemini",
+            "sidereal": 70.65599999999995,
+            "house": 9
+          },
+          "Saturn": {
+            "sign": "Taurus",
+            "sidereal": 59.02799999999843,
+            "house": 8
+          },
+          "Rahu": {
+            "sign": "Cancer",
+            "sidereal": 112.58400000000006,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Cancer",
+            "sidereal": 112.58399999999892,
+            "house": 10
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "LAKSHMI:5L(Mercury)+9L(Saturn)"
+      ],
+      "raja": [
+        "Saturn(L10)+Mercury(L5) conj H11"
+      ],
+      "mahapurusha": [
+        "Malavya:Venus H1 Taurus"
+      ],
+      "nbry": [],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 8.0,
+      "power": 7.5,
+      "karma": 0,
+      "education": 2,
+      "composite": 5.5
+    },
+    "dasha": {
+      "current_md": "Ketu",
+      "current_ad": "Mercury",
+      "next_md": "Venus",
+      "md_pct": 91.9
+    },
+    "d9_venus": "Gemini",
+    "d10_10l_house": 9
+  },
+  {
+    "name": "Lalith Uncle",
+    "id": "P9",
+    "ascendant": {
+      "sign": "Aries",
+      "deg": 17.3969,
+      "sidereal": 17.3969
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 134.3949,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 14.3949,
+        "dignity": 75,
+        "nakshatra": "Purva Phalguni",
+        "nakshatra_lord": "Venus",
+        "house": 5
+      },
+      "Moon": {
+        "sidereal": 131.8708,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 11.8708,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      },
+      "Mars": {
+        "sidereal": 124.9484,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 4.9484,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 154.4696,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 4.4696,
+        "dignity": 100,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 6
+      },
+      "Jupiter": {
+        "sidereal": 188.9762,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 8.9762,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 7
+      },
+      "Venus": {
+        "sidereal": 180.5074,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 0.5074,
+        "dignity": 75,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 7
+      },
+      "Saturn": {
+        "sidereal": 29.1621,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.1621,
+        "dignity": -100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 1
+      },
+      "Rahu": {
+        "sidereal": 308.9896,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 8.9896,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Ketu": {
+        "sidereal": 128.9896,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 8.9896,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Magha",
+      "lord": "Ketu",
+      "balance_yrs": 0.77
+    },
+    "birthday": "1970-08-31",
+    "birth_time": "21:55:30",
+    "tz": 5.5,
+    "archetype": "Magnetic Partner",
+    "career": "Audit/Govt Director",
+    "edu": "Accounting\u2192Eng\u2192Law",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Sagittarius",
+            "sidereal": 268.7898,
+            "house": 8
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 263.7416,
+            "house": 8
+          },
+          "Mars": {
+            "sign": "Sagittarius",
+            "sidereal": 249.8968,
+            "house": 8
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 308.9392,
+            "house": 10
+          },
+          "Jupiter": {
+            "sign": "Aries",
+            "sidereal": 17.95240000000001,
+            "house": 12
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 1.0147999999999797,
+            "house": 12
+          },
+          "Saturn": {
+            "sign": "Taurus",
+            "sidereal": 58.3242,
+            "house": 1
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "sidereal": 257.9792,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Sagittarius",
+            "sidereal": 257.9792,
+            "house": 8
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Leo",
+            "sidereal": 129.55410000000006,
+            "house": 12
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 106.83719999999994,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 44.53560000000016,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 310.2264,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Sagittarius",
+            "sidereal": 260.7858000000001,
+            "house": 4
+          },
+          "Venus": {
+            "sign": "Libra",
+            "sidereal": 184.56659999999988,
+            "house": 2
+          },
+          "Saturn": {
+            "sign": "Sagittarius",
+            "sidereal": 262.45889999999997,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "sidereal": 260.90639999999985,
+            "house": 4
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "sidereal": 80.90639999999985,
+            "house": 10
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Sagittarius",
+            "sidereal": 263.94900000000007,
+            "house": 4
+          },
+          "Moon": {
+            "sign": "Scorpio",
+            "sidereal": 238.70800000000008,
+            "house": 3
+          },
+          "Mars": {
+            "sign": "Virgo",
+            "sidereal": 169.48400000000015,
+            "house": 1
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 104.69600000000014,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 89.76200000000017,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 5.073999999999842,
+            "house": 8
+          },
+          "Saturn": {
+            "sign": "Capricorn",
+            "sidereal": 291.621,
+            "house": 5
+          },
+          "Rahu": {
+            "sign": "Libra",
+            "sidereal": 209.89599999999973,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Libra",
+            "sidereal": 209.89599999999996,
+            "house": 2
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 345.47760000000017,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Capricorn",
+            "sidereal": 284.89919999999984,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Cancer",
+            "sidereal": 118.76160000000027,
+            "house": 3
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 107.27040000000034,
+            "house": 3
+          },
+          "Jupiter": {
+            "sign": "Scorpio",
+            "sidereal": 215.42879999999968,
+            "house": 7
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 12.177599999999984,
+            "house": 12
+          },
+          "Saturn": {
+            "sign": "Pisces",
+            "sidereal": 339.8904,
+            "house": 11
+          },
+          "Rahu": {
+            "sign": "Scorpio",
+            "sidereal": 215.7503999999999,
+            "house": 7
+          },
+          "Ketu": {
+            "sign": "Scorpio",
+            "sidereal": 215.7503999999999,
+            "house": 7
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Leo",
+            "sidereal": 143.69400000000041,
+            "house": 7
+          },
+          "Moon": {
+            "sign": "Pisces",
+            "sidereal": 352.2480000000005,
+            "house": 2
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "sidereal": 296.90400000000045,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Sagittarius",
+            "sidereal": 268.1760000000013,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Virgo",
+            "sidereal": 178.57200000000012,
+            "house": 8
+          },
+          "Venus": {
+            "sign": "Taurus",
+            "sidereal": 30.443999999999505,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "sidereal": 309.7259999999999,
+            "house": 1
+          },
+          "Rahu": {
+            "sign": "Virgo",
+            "sidereal": 179.3760000000002,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Virgo",
+            "sidereal": 179.3760000000002,
+            "house": 8
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "LL(Mars)+5L(Sun)"
+      ],
+      "raja": [
+        "Mars(L1)+Sun(L5) conj H5",
+        "Moon(L4)+Mars(L1) conj H5",
+        "Moon(L4)+Sun(L5) conj H5",
+        "Venus(L7)+Jupiter(L9) conj H7"
+      ],
+      "mahapurusha": [
+        "Malavya:Venus H7 Libra"
+      ],
+      "nbry": [],
+      "vry": [
+        "Mercury(L6) in H6"
+      ]
+    },
+    "scores": {
+      "wealth": 5.5,
+      "power": 11.0,
+      "karma": 2,
+      "education": 0,
+      "composite": 5.5
+    },
+    "dasha": {
+      "current_md": "Rahu",
+      "current_ad": "Venus",
+      "next_md": "Jupiter",
+      "md_pct": 66.8
+    },
+    "d9_venus": "Libra",
+    "d10_10l_house": 11
+  },
+  {
+    "name": "Polgahawela Bappa",
+    "id": "P1",
+    "ascendant": {
+      "sign": "Aries",
+      "deg": 6.785,
+      "sidereal": 6.785
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 41.8267,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 11.8267,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 2
+      },
+      "Moon": {
+        "sidereal": 313.5011,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 13.5011,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Mars": {
+        "sidereal": 5.1169,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 5.1169,
+        "dignity": 75,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 1
+      },
+      "Mercury": {
+        "sidereal": 57.054,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 27.054,
+        "dignity": 0,
+        "nakshatra": "Mrigashira",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      },
+      "Jupiter": {
+        "sidereal": 317.2992,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 17.2992,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Venus": {
+        "sidereal": 71.2495,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 11.2495,
+        "dignity": 0,
+        "nakshatra": "Ardra",
+        "nakshatra_lord": "Rahu",
+        "house": 3
+      },
+      "Saturn": {
+        "sidereal": 288.0462,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 18.0462,
+        "dignity": 75,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 10
+      },
+      "Rahu": {
+        "sidereal": 108.9538,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 18.9538,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 4
+      },
+      "Ketu": {
+        "sidereal": 288.9538,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 18.9538,
+        "dignity": 0,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 10
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shatabhisha",
+      "lord": "Rahu",
+      "balance_yrs": 8.77
+    },
+    "birthday": "1962-05-27",
+    "birth_time": "03:38:54",
+    "tz": 5.5,
+    "archetype": "Self-Made Warlord",
+    "career": "Industrial CEO",
+    "edu": "Engineering\u2192MBA",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Aries",
+        "lagna_idx": 0,
+        "planets": {
+          "Sun": {
+            "sign": "Gemini",
+            "sidereal": 83.6534,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 267.0022,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Aries",
+            "sidereal": 10.2338,
+            "house": 1
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 114.108,
+            "house": 4
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "sidereal": 274.59839999999997,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Leo",
+            "sidereal": 142.499,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 216.0924,
+            "house": 8
+          },
+          "Rahu": {
+            "sign": "Scorpio",
+            "sidereal": 217.9076,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Scorpio",
+            "sidereal": 217.9076,
+            "house": 8
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Gemini",
+        "lagna_idx": 2,
+        "planets": {
+          "Sun": {
+            "sign": "Aries",
+            "sidereal": 16.440300000000036,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Aquarius",
+            "sidereal": 301.5099,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 46.0521,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Virgo",
+            "sidereal": 153.486,
+            "house": 4
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 335.6927999999998,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Capricorn",
+            "sidereal": 281.2455,
+            "house": 8
+          },
+          "Saturn": {
+            "sign": "Gemini",
+            "sidereal": 72.41579999999976,
+            "house": 1
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "sidereal": 260.5842,
+            "house": 7
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "sidereal": 80.58420000000024,
+            "house": 1
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Gemini",
+        "lagna_idx": 2,
+        "planets": {
+          "Sun": {
+            "sign": "Taurus",
+            "sidereal": 58.26700000000005,
+            "house": 12
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 255.01099999999997,
+            "house": 7
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 51.169000000000004,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Scorpio",
+            "sidereal": 210.53999999999996,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "sidereal": 292.99199999999973,
+            "house": 8
+          },
+          "Venus": {
+            "sign": "Pisces",
+            "sidereal": 352.495,
+            "house": 10
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "sidereal": 0.4619999999999891,
+            "house": 11
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 9.538000000000011,
+            "house": 11
+          },
+          "Ketu": {
+            "sign": "Aries",
+            "sidereal": 9.538000000000011,
+            "house": 11
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 283.84080000000006,
+            "house": 5
+          },
+          "Moon": {
+            "sign": "Aquarius",
+            "sidereal": 324.02640000000065,
+            "house": 6
+          },
+          "Mars": {
+            "sign": "Leo",
+            "sidereal": 122.8056,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Capricorn",
+            "sidereal": 289.29600000000005,
+            "house": 5
+          },
+          "Jupiter": {
+            "sign": "Taurus",
+            "sidereal": 55.18080000000009,
+            "house": 9
+          },
+          "Venus": {
+            "sign": "Sagittarius",
+            "sidereal": 269.98799999999983,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Gemini",
+            "sidereal": 73.10879999999997,
+            "house": 10
+          },
+          "Rahu": {
+            "sign": "Cancer",
+            "sidereal": 94.89120000000003,
+            "house": 11
+          },
+          "Ketu": {
+            "sign": "Cancer",
+            "sidereal": 94.89120000000003,
+            "house": 11
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 349.6020000000003,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 90.0659999999989,
+            "house": 3
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 307.014,
+            "house": 10
+          },
+          "Mercury": {
+            "sign": "Libra",
+            "sidereal": 183.24000000000024,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Aquarius",
+            "sidereal": 317.9519999999975,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Aquarius",
+            "sidereal": 314.97000000000025,
+            "house": 10
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "sidereal": 2.772000000000844,
+            "house": 12
+          },
+          "Rahu": {
+            "sign": "Taurus",
+            "sidereal": 57.228000000000065,
+            "house": 1
+          },
+          "Ketu": {
+            "sign": "Taurus",
+            "sidereal": 57.227999999999156,
+            "house": 1
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "2L(Venus)+11L(Saturn) aspect"
+      ],
+      "raja": [
+        "Moon(L4)+Jupiter(L9) conj H11"
+      ],
+      "mahapurusha": [
+        "Ruchaka:Mars H1 Aries",
+        "Sasa:Saturn H10 Capricorn"
+      ],
+      "nbry": [],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 4.5,
+      "power": 8.5,
+      "karma": 1,
+      "education": 2,
+      "composite": 4.7
+    },
+    "dasha": {
+      "current_md": "Ketu",
+      "current_ad": "Rahu",
+      "next_md": "Venus",
+      "md_pct": 46.9
+    },
+    "d9_venus": "Capricorn",
+    "d10_10l_house": 8
+  },
+  {
+    "name": "Upulakshi",
+    "id": "P2",
+    "ascendant": {
+      "sign": "Taurus",
+      "deg": 29.0751,
+      "sidereal": 59.0751
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 329.9044,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 29.9044,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 10
+      },
+      "Moon": {
+        "sidereal": 39.3278,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 9.3278,
+        "dignity": 100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 1
+      },
+      "Mars": {
+        "sidereal": 154.1431,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 4.1431,
+        "dignity": 0,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 332.4108,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 2.4108,
+        "dignity": -100,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Jupiter": {
+        "sidereal": 287.7901,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 17.7901,
+        "dignity": -100,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 325.0315,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 25.0315,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 10
+      },
+      "Saturn": {
+        "sidereal": 344.356,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 14.356,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 155.4104,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 5.4104,
+        "dignity": 0,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 5
+      },
+      "Ketu": {
+        "sidereal": 335.4104,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 5.4104,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Krittika",
+      "lord": "Sun",
+      "balance_yrs": 0.3
+    },
+    "birthday": "1997-03-14",
+    "birth_time": "12:00:00",
+    "tz": 5.5,
+    "archetype": "Enigma \u26a0\ufe0f",
+    "career": "MNC Manager",
+    "edu": "Intl Business\u2192MBA",
+    "note": "PLACEHOLDER TOB",
+    "vargas": {
+      "D2": {
+        "lagna": "Cancer",
+        "lagna_idx": 3,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 299.8088,
+            "house": 7
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 78.6556,
+            "house": 12
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 308.2862,
+            "house": 8
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 304.8216,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Scorpio",
+            "sidereal": 215.5802,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Capricorn",
+            "sidereal": 290.063,
+            "house": 7
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "sidereal": 328.712,
+            "house": 8
+          },
+          "Rahu": {
+            "sign": "Aquarius",
+            "sidereal": 310.8208,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Aquarius",
+            "sidereal": 310.82079999999996,
+            "house": 8
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Gemini",
+            "sidereal": 89.13959999999997,
+            "house": 10
+          },
+          "Moon": {
+            "sign": "Pisces",
+            "sidereal": 353.95020000000005,
+            "house": 7
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 307.28790000000004,
+            "house": 6
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 111.69720000000007,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 70.11090000000013,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Taurus",
+            "sidereal": 45.283500000000004,
+            "house": 9
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 219.20399999999972,
+            "house": 3
+          },
+          "Rahu": {
+            "sign": "Aquarius",
+            "sidereal": 318.69360000000006,
+            "house": 6
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 138.6935999999996,
+            "house": 12
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Scorpio",
+        "lagna_idx": 7,
+        "planets": {
+          "Sun": {
+            "sign": "Taurus",
+            "sidereal": 59.04399999999987,
+            "house": 7
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "sidereal": 33.27800000000002,
+            "house": 7
+          },
+          "Mars": {
+            "sign": "Cancer",
+            "sidereal": 101.43100000000004,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Gemini",
+            "sidereal": 84.10800000000017,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 357.90099999999984,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 10.315000000000055,
+            "house": 6
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "sidereal": 203.55999999999995,
+            "house": 12
+          },
+          "Rahu": {
+            "sign": "Cancer",
+            "sidereal": 114.10400000000004,
+            "house": 9
+          },
+          "Ketu": {
+            "sign": "Cancer",
+            "sidereal": 114.10399999999981,
+            "house": 9
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Pisces",
+        "lagna_idx": 11,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 357.70560000000023,
+            "house": 1
+          },
+          "Moon": {
+            "sign": "Scorpio",
+            "sidereal": 223.86720000000014,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Cancer",
+            "sidereal": 99.4344000000001,
+            "house": 5
+          },
+          "Mercury": {
+            "sign": "Taurus",
+            "sidereal": 57.85919999999987,
+            "house": 3
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 66.96240000000034,
+            "house": 4
+          },
+          "Venus": {
+            "sign": "Sagittarius",
+            "sidereal": 240.7559999999994,
+            "house": 10
+          },
+          "Saturn": {
+            "sign": "Pisces",
+            "sidereal": 344.54399999999987,
+            "house": 1
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 129.84960000000046,
+            "house": 6
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 129.84959999999955,
+            "house": 6
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 354.2639999999992,
+            "house": 2
+          },
+          "Moon": {
+            "sign": "Libra",
+            "sidereal": 199.66800000000012,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Sagittarius",
+            "sidereal": 248.58599999999933,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 144.64800000000105,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 347.40599999999904,
+            "house": 2
+          },
+          "Venus": {
+            "sign": "Gemini",
+            "sidereal": 61.88999999999942,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Leo",
+            "sidereal": 141.36000000000058,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Aquarius",
+            "sidereal": 324.6239999999998,
+            "house": 1
+          },
+          "Ketu": {
+            "sign": "Aquarius",
+            "sidereal": 324.6239999999998,
+            "house": 1
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "LAKSHMI:5L(Mercury)+9L(Saturn)"
+      ],
+      "raja": [
+        "Sun(L4)+Venus(L1) conj H10",
+        "Saturn(L10)+Mercury(L5) conj H11"
+      ],
+      "mahapurusha": [],
+      "nbry": [],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 3.5,
+      "power": 6.5,
+      "karma": 4,
+      "education": 4,
+      "composite": 4.6
+    },
+    "dasha": {
+      "current_md": "Rahu",
+      "current_ad": "Venus",
+      "next_md": "Jupiter",
+      "md_pct": 66.4
+    },
+    "d9_venus": "Taurus",
+    "d10_10l_house": 7
+  },
+  {
+    "name": "Lakshi Amma",
+    "id": "P8",
+    "ascendant": {
+      "sign": "Sagittarius",
+      "deg": 11.3873,
+      "sidereal": 251.3873
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 209.6971,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 29.6971,
+        "dignity": -100,
+        "nakshatra": "Vishakha",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Moon": {
+        "sidereal": 208.2233,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 28.2233,
+        "dignity": 0,
+        "nakshatra": "Vishakha",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Mars": {
+        "sidereal": 232.2506,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 22.2506,
+        "dignity": 75,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 12
+      },
+      "Mercury": {
+        "sidereal": 216.1578,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 6.1578,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 12
+      },
+      "Jupiter": {
+        "sidereal": 346.8221,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 16.8221,
+        "dignity": 75,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 4
+      },
+      "Venus": {
+        "sidereal": 229.8449,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 19.8449,
+        "dignity": 0,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 12
+      },
+      "Saturn": {
+        "sidereal": 293.6443,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 23.6443,
+        "dignity": 75,
+        "nakshatra": "Dhanishtha",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      },
+      "Rahu": {
+        "sidereal": 80.4308,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 20.4308,
+        "dignity": 0,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 7
+      },
+      "Ketu": {
+        "sidereal": 260.4308,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 20.4308,
+        "dignity": 0,
+        "nakshatra": "Purva Ashadha",
+        "nakshatra_lord": "Venus",
+        "house": 1
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Vishakha",
+      "lord": "Jupiter",
+      "balance_yrs": 6.13
+    },
+    "birthday": "1963-11-16",
+    "birth_time": "09:04:15",
+    "tz": 5.5,
+    "archetype": "Oracle of Depth",
+    "career": "Psychologist/Analyst",
+    "edu": "Psychology\u2192Finance",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Leo",
+        "lagna_idx": 4,
+        "planets": {
+          "Sun": {
+            "sign": "Taurus",
+            "sidereal": 59.39420000000001,
+            "house": 10
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "sidereal": 56.44659999999999,
+            "house": 10
+          },
+          "Mars": {
+            "sign": "Cancer",
+            "sidereal": 104.50119999999998,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Gemini",
+            "sidereal": 72.31560000000002,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 333.64419999999996,
+            "house": 8
+          },
+          "Venus": {
+            "sign": "Cancer",
+            "sidereal": 99.68979999999999,
+            "house": 12
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 227.28859999999997,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Virgo",
+            "sidereal": 160.8616,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Virgo",
+            "sidereal": 160.86159999999995,
+            "house": 2
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Cancer",
+        "lagna_idx": 3,
+        "planets": {
+          "Sun": {
+            "sign": "Gemini",
+            "sidereal": 87.27390000000014,
+            "house": 12
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 74.00970000000007,
+            "house": 12
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "sidereal": 290.2554,
+            "house": 7
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 145.42020000000002,
+            "house": 2
+          },
+          "Jupiter": {
+            "sign": "Sagittarius",
+            "sidereal": 241.39889999999968,
+            "house": 6
+          },
+          "Venus": {
+            "sign": "Sagittarius",
+            "sidereal": 268.6041,
+            "house": 6
+          },
+          "Saturn": {
+            "sign": "Leo",
+            "sidereal": 122.79869999999983,
+            "house": 2
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 3.877200000000016,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Libra",
+            "sidereal": 183.8771999999999,
+            "house": 4
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Pisces",
+        "lagna_idx": 11,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 296.971,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Capricorn",
+            "sidereal": 282.2330000000002,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Virgo",
+            "sidereal": 162.50599999999986,
+            "house": 7
+          },
+          "Mercury": {
+            "sign": "Aries",
+            "sidereal": 1.5779999999999745,
+            "house": 2
+          },
+          "Jupiter": {
+            "sign": "Scorpio",
+            "sidereal": 228.22099999999955,
+            "house": 9
+          },
+          "Venus": {
+            "sign": "Leo",
+            "sidereal": 138.44900000000007,
+            "house": 6
+          },
+          "Saturn": {
+            "sign": "Taurus",
+            "sidereal": 56.442999999999756,
+            "house": 3
+          },
+          "Rahu": {
+            "sign": "Gemini",
+            "sidereal": 84.30799999999999,
+            "house": 4
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "sidereal": 84.30799999999999,
+            "house": 4
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Capricorn",
+        "lagna_idx": 9,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 352.7304000000004,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Aquarius",
+            "sidereal": 317.3591999999999,
+            "house": 2
+          },
+          "Mars": {
+            "sign": "Virgo",
+            "sidereal": 174.01440000000002,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 147.78720000000067,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Taurus",
+            "sidereal": 43.73040000000037,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Cancer",
+            "sidereal": 116.27759999999944,
+            "house": 7
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "sidereal": 207.46320000000014,
+            "house": 10
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 130.33920000000012,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 130.33919999999944,
+            "house": 8
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 341.82600000000093,
+            "house": 2
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 253.39799999999923,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Sagittarius",
+            "sidereal": 255.03600000000006,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Aries",
+            "sidereal": 9.468000000000757,
+            "house": 3
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "sidereal": 289.3259999999973,
+            "house": 12
+          },
+          "Venus": {
+            "sign": "Cancer",
+            "sidereal": 110.6939999999995,
+            "house": 6
+          },
+          "Saturn": {
+            "sign": "Pisces",
+            "sidereal": 338.65799999999945,
+            "house": 2
+          },
+          "Rahu": {
+            "sign": "Leo",
+            "sidereal": 145.84799999999996,
+            "house": 7
+          },
+          "Ketu": {
+            "sign": "Leo",
+            "sidereal": 145.84799999999814,
+            "house": 7
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "2L(Saturn)+11L(Venus) aspect"
+      ],
+      "raja": [
+        "Mercury(L7)+Mars(L5) conj H12"
+      ],
+      "mahapurusha": [
+        "Hamsa:Jupiter H4 Pisces"
+      ],
+      "nbry": [],
+      "vry": [
+        "Venus(L6) in H12",
+        "Mars(L12) in H12"
+      ]
+    },
+    "scores": {
+      "wealth": 3.5,
+      "power": 10.5,
+      "karma": -1,
+      "education": 0,
+      "composite": 4.2
+    },
+    "dasha": {
+      "current_md": "Venus",
+      "current_ad": "Saturn",
+      "next_md": "Sun",
+      "md_pct": 67.2
+    },
+    "d9_venus": "Sagittarius",
+    "d10_10l_house": 9
+  },
+  {
+    "name": "Dewli",
+    "id": "P6",
+    "ascendant": {
+      "sign": "Libra",
+      "deg": 26.0209,
+      "sidereal": 206.0209
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 170.9929,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 20.9929,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 12
+      },
+      "Moon": {
+        "sidereal": 226.8565,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 16.8565,
+        "dignity": -100,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 2
+      },
+      "Mars": {
+        "sidereal": 29.1461,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.1461,
+        "dignity": 75,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 7
+      },
+      "Mercury": {
+        "sidereal": 185.1386,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 5.1386,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 1
+      },
+      "Jupiter": {
+        "sidereal": 182.1556,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 2.1556,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 1
+      },
+      "Venus": {
+        "sidereal": 216.1487,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 6.1487,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 2
+      },
+      "Saturn": {
+        "sidereal": 105.5457,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 15.5457,
+        "dignity": 0,
+        "nakshatra": "Pushya",
+        "nakshatra_lord": "Saturn",
+        "house": 10
+      },
+      "Rahu": {
+        "sidereal": 349.552,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 19.552,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 6
+      },
+      "Ketu": {
+        "sidereal": 169.552,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 19.552,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 12
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Jyeshtha",
+      "lord": "Mercury",
+      "balance_yrs": 16.76
+    },
+    "birthday": "2005-10-08",
+    "birth_time": "08:22:00",
+    "tz": 5.5,
+    "archetype": "Fighter",
+    "career": "Strategy Consultant",
+    "edu": "Business\u2192Law",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 341.9858,
+            "house": 11
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 93.71300000000002,
+            "house": 3
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 58.2922,
+            "house": 1
+          },
+          "Mercury": {
+            "sign": "Aries",
+            "sidereal": 10.277199999999993,
+            "house": 12
+          },
+          "Jupiter": {
+            "sign": "Aries",
+            "sidereal": 4.311199999999985,
+            "house": 12
+          },
+          "Venus": {
+            "sign": "Gemini",
+            "sidereal": 72.29739999999998,
+            "house": 2
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 211.0914,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 339.10400000000004,
+            "house": 11
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 339.104,
+            "house": 11
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Taurus",
+        "lagna_idx": 1,
+        "planets": {
+          "Sun": {
+            "sign": "Cancer",
+            "sidereal": 98.9360999999999,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 241.70850000000019,
+            "house": 8
+          },
+          "Mars": {
+            "sign": "Sagittarius",
+            "sidereal": 262.3149,
+            "house": 8
+          },
+          "Mercury": {
+            "sign": "Scorpio",
+            "sidereal": 226.24739999999997,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Libra",
+            "sidereal": 199.4004,
+            "house": 6
+          },
+          "Venus": {
+            "sign": "Leo",
+            "sidereal": 145.3382999999999,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 229.91129999999998,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "sidereal": 265.9680000000003,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "sidereal": 85.96799999999985,
+            "house": 2
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Sagittarius",
+        "lagna_idx": 8,
+        "planets": {
+          "Sun": {
+            "sign": "Sagittarius",
+            "sidereal": 269.92899999999986,
+            "house": 1
+          },
+          "Moon": {
+            "sign": "Cancer",
+            "sidereal": 108.56500000000005,
+            "house": 8
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "sidereal": 291.461,
+            "house": 2
+          },
+          "Mercury": {
+            "sign": "Taurus",
+            "sidereal": 51.38599999999997,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Aries",
+            "sidereal": 21.55600000000004,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 1.48700000000008,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Pisces",
+            "sidereal": 335.4569999999999,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "sidereal": 255.52000000000044,
+            "house": 1
+          },
+          "Ketu": {
+            "sign": "Sagittarius",
+            "sidereal": 255.51999999999998,
+            "house": 1
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Sagittarius",
+        "lagna_idx": 8,
+        "planets": {
+          "Sun": {
+            "sign": "Leo",
+            "sidereal": 143.82960000000003,
+            "house": 9
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "sidereal": 44.556000000000495,
+            "house": 6
+          },
+          "Mars": {
+            "sign": "Pisces",
+            "sidereal": 339.5064,
+            "house": 4
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 123.32639999999992,
+            "house": 9
+          },
+          "Jupiter": {
+            "sign": "Taurus",
+            "sidereal": 51.73439999999937,
+            "house": 6
+          },
+          "Venus": {
+            "sign": "Leo",
+            "sidereal": 147.5688,
+            "house": 9
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "sidereal": 13.096799999999803,
+            "house": 5
+          },
+          "Rahu": {
+            "sign": "Cancer",
+            "sidereal": 109.24799999999959,
+            "house": 8
+          },
+          "Ketu": {
+            "sign": "Cancer",
+            "sidereal": 109.24799999999959,
+            "house": 8
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Leo",
+        "lagna_idx": 4,
+        "planets": {
+          "Sun": {
+            "sign": "Virgo",
+            "sidereal": 179.5739999999987,
+            "house": 2
+          },
+          "Moon": {
+            "sign": "Capricorn",
+            "sidereal": 291.39000000000124,
+            "house": 6
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 308.7660000000001,
+            "house": 7
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 308.3159999999989,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Leo",
+            "sidereal": 129.33599999999933,
+            "house": 1
+          },
+          "Venus": {
+            "sign": "Aries",
+            "sidereal": 8.921999999998661,
+            "house": 9
+          },
+          "Saturn": {
+            "sign": "Scorpio",
+            "sidereal": 212.7420000000002,
+            "house": 4
+          },
+          "Rahu": {
+            "sign": "Cancer",
+            "sidereal": 93.12000000000262,
+            "house": 12
+          },
+          "Ketu": {
+            "sign": "Cancer",
+            "sidereal": 93.11999999999898,
+            "house": 12
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "2L(Mars)+11L(Sun) aspect"
+      ],
+      "raja": [
+        "Moon(L10)+Venus(L1) conj H2"
+      ],
+      "mahapurusha": [
+        "Ruchaka:Mars H7 Aries"
+      ],
+      "nbry": [
+        "Moon deb Scorpio H2: deblord(Mars) kendra"
+      ],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 2.5,
+      "power": 4.0,
+      "karma": 2,
+      "education": 3,
+      "composite": 3.0
+    },
+    "dasha": {
+      "current_md": "Ketu",
+      "current_ad": "Rahu",
+      "next_md": "Venus",
+      "md_pct": 56.1
+    },
+    "d9_venus": "Leo",
+    "d10_10l_house": 6
+  },
+  {
+    "name": "Sineth",
+    "id": "P7",
+    "ascendant": {
+      "sign": "Leo",
+      "deg": 18.1745,
+      "sidereal": 138.1745
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 351.8092,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 21.8092,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Moon": {
+        "sidereal": 307.1684,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 7.1684,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 7
+      },
+      "Mars": {
+        "sidereal": 287.4272,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 17.4272,
+        "dignity": 100,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 6
+      },
+      "Mercury": {
+        "sidereal": 339.9175,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 9.9175,
+        "dignity": -100,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 8
+      },
+      "Jupiter": {
+        "sidereal": 169.8088,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 19.8088,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 2
+      },
+      "Venus": {
+        "sidereal": 353.1611,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 23.1611,
+        "dignity": 100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Saturn": {
+        "sidereal": 86.6521,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 26.6521,
+        "dignity": 0,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 359.391,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 29.391,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Ketu": {
+        "sidereal": 179.391,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 29.391,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shatabhisha",
+      "lord": "Rahu",
+      "balance_yrs": 17.32
+    },
+    "birthday": "2005-04-05",
+    "birth_time": "16:05:48",
+    "tz": 5.5,
+    "archetype": "Phoenix",
+    "career": "Quant Finance",
+    "edu": "Finance\u2192CS\u2192PhD",
+    "note": "Lagna TBD",
+    "vargas": {
+      "D2": {
+        "lagna": "Capricorn",
+        "lagna_idx": 9,
+        "planets": {
+          "Sun": {
+            "sign": "Pisces",
+            "sidereal": 343.61839999999995,
+            "house": 3
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 254.33680000000004,
+            "house": 12
+          },
+          "Mars": {
+            "sign": "Scorpio",
+            "sidereal": 214.85440000000006,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Aquarius",
+            "sidereal": 319.83500000000004,
+            "house": 2
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 339.6176,
+            "house": 3
+          },
+          "Venus": {
+            "sign": "Pisces",
+            "sidereal": 346.32219999999995,
+            "house": 3
+          },
+          "Saturn": {
+            "sign": "Virgo",
+            "sidereal": 173.3042,
+            "house": 9
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 358.78200000000004,
+            "house": 3
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 358.782,
+            "house": 3
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 286.28279999999995,
+            "house": 5
+          },
+          "Moon": {
+            "sign": "Sagittarius",
+            "sidereal": 244.51560000000018,
+            "house": 4
+          },
+          "Mars": {
+            "sign": "Gemini",
+            "sidereal": 66.8448000000003,
+            "house": 10
+          },
+          "Mercury": {
+            "sign": "Virgo",
+            "sidereal": 179.25750000000016,
+            "house": 1
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 88.27919999999995,
+            "house": 10
+          },
+          "Venus": {
+            "sign": "Capricorn",
+            "sidereal": 298.4498999999996,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Taurus",
+            "sidereal": 59.86890000000005,
+            "house": 9
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 354.51900000000023,
+            "house": 7
+          },
+          "Ketu": {
+            "sign": "Virgo",
+            "sidereal": 174.519,
+            "house": 1
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 278.09199999999964,
+            "house": 12
+          },
+          "Moon": {
+            "sign": "Libra",
+            "sidereal": 191.6840000000002,
+            "house": 9
+          },
+          "Mars": {
+            "sign": "Pisces",
+            "sidereal": 354.2720000000004,
+            "house": 2
+          },
+          "Mercury": {
+            "sign": "Virgo",
+            "sidereal": 159.17500000000018,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Sagittarius",
+            "sidereal": 258.08799999999997,
+            "house": 11
+          },
+          "Venus": {
+            "sign": "Capricorn",
+            "sidereal": 291.6109999999999,
+            "house": 12
+          },
+          "Saturn": {
+            "sign": "Leo",
+            "sidereal": 146.52100000000007,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 353.9100000000003,
+            "house": 2
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 353.90999999999985,
+            "house": 2
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Gemini",
+        "lagna_idx": 2,
+        "planets": {
+          "Sun": {
+            "sign": "Virgo",
+            "sidereal": 163.42079999999987,
+            "house": 4
+          },
+          "Moon": {
+            "sign": "Virgo",
+            "sidereal": 172.04160000000047,
+            "house": 4
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 58.25280000000021,
+            "house": 12
+          },
+          "Mercury": {
+            "sign": "Scorpio",
+            "sidereal": 238.02000000000044,
+            "house": 6
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "sidereal": 115.41119999999955,
+            "house": 2
+          },
+          "Venus": {
+            "sign": "Libra",
+            "sidereal": 195.86639999999898,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Capricorn",
+            "sidereal": 279.6504,
+            "house": 8
+          },
+          "Rahu": {
+            "sign": "Pisces",
+            "sidereal": 345.384,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Pisces",
+            "sidereal": 345.384,
+            "house": 10
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Aries",
+        "lagna_idx": 0,
+        "planets": {
+          "Sun": {
+            "sign": "Scorpio",
+            "sidereal": 228.55199999999968,
+            "house": 8
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 70.10399999999936,
+            "house": 3
+          },
+          "Mars": {
+            "sign": "Aquarius",
+            "sidereal": 325.6320000000014,
+            "house": 11
+          },
+          "Mercury": {
+            "sign": "Scorpio",
+            "sidereal": 235.0500000000029,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "sidereal": 108.52800000000025,
+            "house": 4
+          },
+          "Venus": {
+            "sign": "Aquarius",
+            "sidereal": 309.66599999999744,
+            "house": 11
+          },
+          "Saturn": {
+            "sign": "Virgo",
+            "sidereal": 159.1260000000002,
+            "house": 6
+          },
+          "Rahu": {
+            "sign": "Aquarius",
+            "sidereal": 323.46000000000276,
+            "house": 11
+          },
+          "Ketu": {
+            "sign": "Aquarius",
+            "sidereal": 323.4599999999991,
+            "house": 11
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [
+        "2L(Mercury)+11L(Mercury) conj H8"
+      ],
+      "raja": [
+        "Venus(L10)+Sun(L1) conj H8"
+      ],
+      "mahapurusha": [],
+      "nbry": [],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 5.0,
+      "power": 1.5,
+      "karma": 0,
+      "education": 1,
+      "composite": 2.4
+    },
+    "dasha": {
+      "current_md": "Jupiter",
+      "current_ad": "Saturn",
+      "next_md": "Saturn",
+      "md_pct": 24.2
+    },
+    "d9_venus": "Capricorn",
+    "d10_10l_house": 2
+  },
+  {
+    "name": "Senith",
+    "id": "P3",
+    "ascendant": {
+      "sign": "Pisces",
+      "deg": 9.1345,
+      "sidereal": 339.1345
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 110.8826,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 20.8826,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 5
+      },
+      "Moon": {
+        "sidereal": 248.0081,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 8.0081,
+        "dignity": 0,
+        "nakshatra": "Mula",
+        "nakshatra_lord": "Ketu",
+        "house": 10
+      },
+      "Mars": {
+        "sidereal": 166.6248,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 16.6248,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 7
+      },
+      "Mercury": {
+        "sidereal": 121.8795,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 1.8795,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 6
+      },
+      "Jupiter": {
+        "sidereal": 221.7727,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 11.7727,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 107.2063,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 17.2063,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 5
+      },
+      "Saturn": {
+        "sidereal": 330.116,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 0.116,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 1
+      },
+      "Rahu": {
+        "sidereal": 186.393,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 6.393,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 8
+      },
+      "Ketu": {
+        "sidereal": 6.393,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 6.393,
+        "dignity": 0,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 2
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Mula",
+      "lord": "Ketu",
+      "balance_yrs": 2.8
+    },
+    "birthday": "1995-08-07",
+    "birth_time": "21:18:00",
+    "tz": 5.5,
+    "archetype": "Sage",
+    "career": "Academic Researcher",
+    "edu": "PhD\u2192Jyotish",
+    "note": "",
+    "vargas": {
+      "D2": {
+        "lagna": "Aquarius",
+        "lagna_idx": 10,
+        "planets": {
+          "Sun": {
+            "sign": "Scorpio",
+            "sidereal": 221.7652,
+            "house": 10
+          },
+          "Moon": {
+            "sign": "Leo",
+            "sidereal": 136.01620000000003,
+            "house": 7
+          },
+          "Mars": {
+            "sign": "Pisces",
+            "sidereal": 333.2496,
+            "house": 2
+          },
+          "Mercury": {
+            "sign": "Sagittarius",
+            "sidereal": 243.759,
+            "house": 11
+          },
+          "Jupiter": {
+            "sign": "Gemini",
+            "sidereal": 83.54539999999997,
+            "house": 5
+          },
+          "Venus": {
+            "sign": "Scorpio",
+            "sidereal": 214.4126,
+            "house": 10
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "sidereal": 300.23199999999997,
+            "house": 1
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 12.786000000000001,
+            "house": 3
+          },
+          "Ketu": {
+            "sign": "Aries",
+            "sidereal": 12.786,
+            "house": 3
+          }
+        }
+      },
+      "D9": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Capricorn",
+            "sidereal": 277.9434,
+            "house": 5
+          },
+          "Moon": {
+            "sign": "Gemini",
+            "sidereal": 72.07290000000012,
+            "house": 10
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 59.6232,
+            "house": 9
+          },
+          "Mercury": {
+            "sign": "Aries",
+            "sidereal": 16.915499999999838,
+            "house": 8
+          },
+          "Jupiter": {
+            "sign": "Libra",
+            "sidereal": 195.95429999999988,
+            "house": 2
+          },
+          "Venus": {
+            "sign": "Sagittarius",
+            "sidereal": 244.85670000000005,
+            "house": 4
+          },
+          "Saturn": {
+            "sign": "Cancer",
+            "sidereal": 91.04399999999987,
+            "house": 11
+          },
+          "Rahu": {
+            "sign": "Scorpio",
+            "sidereal": 237.53700000000003,
+            "house": 3
+          },
+          "Ketu": {
+            "sign": "Taurus",
+            "sidereal": 57.537,
+            "house": 9
+          }
+        }
+      },
+      "D10": {
+        "lagna": "Virgo",
+        "lagna_idx": 5,
+        "planets": {
+          "Sun": {
+            "sign": "Aries",
+            "sidereal": 28.826000000000022,
+            "house": 8
+          },
+          "Moon": {
+            "sign": "Aquarius",
+            "sidereal": 320.08100000000013,
+            "house": 6
+          },
+          "Mars": {
+            "sign": "Scorpio",
+            "sidereal": 226.24800000000005,
+            "house": 3
+          },
+          "Mercury": {
+            "sign": "Leo",
+            "sidereal": 138.79499999999985,
+            "house": 12
+          },
+          "Jupiter": {
+            "sign": "Taurus",
+            "sidereal": 57.72699999999986,
+            "house": 9
+          },
+          "Venus": {
+            "sign": "Pisces",
+            "sidereal": 352.0630000000001,
+            "house": 7
+          },
+          "Saturn": {
+            "sign": "Gemini",
+            "sidereal": 61.159999999999854,
+            "house": 10
+          },
+          "Rahu": {
+            "sign": "Gemini",
+            "sidereal": 63.930000000000064,
+            "house": 10
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "sidereal": 63.93,
+            "house": 10
+          }
+        }
+      },
+      "D24": {
+        "lagna": "Scorpio",
+        "lagna_idx": 7,
+        "planets": {
+          "Sun": {
+            "sign": "Leo",
+            "sidereal": 141.1823999999997,
+            "house": 10
+          },
+          "Moon": {
+            "sign": "Libra",
+            "sidereal": 192.19440000000031,
+            "house": 12
+          },
+          "Mars": {
+            "sign": "Taurus",
+            "sidereal": 38.99519999999984,
+            "house": 7
+          },
+          "Mercury": {
+            "sign": "Taurus",
+            "sidereal": 45.10799999999972,
+            "house": 7
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "sidereal": 282.54479999999967,
+            "house": 3
+          },
+          "Venus": {
+            "sign": "Taurus",
+            "sidereal": 52.95119999999997,
+            "house": 7
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "sidereal": 2.7839999999996508,
+            "house": 6
+          },
+          "Rahu": {
+            "sign": "Virgo",
+            "sidereal": 153.4319999999998,
+            "house": 11
+          },
+          "Ketu": {
+            "sign": "Virgo",
+            "sidereal": 153.432,
+            "house": 11
+          }
+        }
+      },
+      "D60": {
+        "lagna": "Libra",
+        "lagna_idx": 6,
+        "planets": {
+          "Sun": {
+            "sign": "Virgo",
+            "sidereal": 172.95600000000013,
+            "house": 12
+          },
+          "Moon": {
+            "sign": "Leo",
+            "sidereal": 120.48600000000079,
+            "house": 11
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "sidereal": 277.4879999999994,
+            "house": 4
+          },
+          "Mercury": {
+            "sign": "Cancer",
+            "sidereal": 112.76999999999953,
+            "house": 10
+          },
+          "Jupiter": {
+            "sign": "Pisces",
+            "sidereal": 346.36199999999917,
+            "house": 6
+          },
+          "Venus": {
+            "sign": "Aquarius",
+            "sidereal": 312.3779999999997,
+            "house": 5
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "sidereal": 6.959999999999127,
+            "house": 7
+          },
+          "Rahu": {
+            "sign": "Aries",
+            "sidereal": 23.579999999999927,
+            "house": 7
+          },
+          "Ketu": {
+            "sign": "Aries",
+            "sidereal": 23.579999999999984,
+            "house": 7
+          }
+        }
+      }
+    },
+    "yogas": {
+      "dhana": [],
+      "raja": [],
+      "mahapurusha": [],
+      "nbry": [],
+      "vry": []
+    },
+    "scores": {
+      "wealth": 2.5,
+      "power": 1.0,
+      "karma": 0,
+      "education": -1,
+      "composite": 1.0
+    },
+    "dasha": {
+      "current_md": "Moon",
+      "current_ad": "Rahu",
+      "next_md": "Mars",
+      "md_pct": 20.5
+    },
+    "d9_venus": "Sagittarius",
+    "d10_10l_house": 12
+  }
+]

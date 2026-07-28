@@ -1,0 +1,109 @@
+{
+  "name": "P9",
+  "birth": "1970-08-31T21:55:30+05:30",
+  "city": "Kandy, Sri Lanka",
+  "lat": 7.2931,
+  "lon": 80.635,
+  "ascendant": {
+    "sign": "Leo",
+    "sidereal": 146.8666,
+    "nakshatra": "Uttara Phalguni"
+  },
+  "planets": {
+    "Sun": {
+      "sidereal": 134.4008,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 14.4008,
+      "dignity": 75,
+      "nakshatra": "Purva Phalguni",
+      "nakshatra_lord": "Venus",
+      "house": 1
+    },
+    "Moon": {
+      "sidereal": 131.8768,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 11.8768,
+      "dignity": 0,
+      "nakshatra": "Magha",
+      "nakshatra_lord": "Ketu",
+      "house": 1
+    },
+    "Mars": {
+      "sidereal": 124.9542,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 4.9542,
+      "dignity": 0,
+      "nakshatra": "Magha",
+      "nakshatra_lord": "Ketu",
+      "house": 1
+    },
+    "Mercury": {
+      "sidereal": 154.4751,
+      "sign": "Virgo",
+      "sign_idx": 5,
+      "deg_in_sign": 4.4751,
+      "dignity": 100,
+      "nakshatra": "Uttara Phalguni",
+      "nakshatra_lord": "Sun",
+      "house": 2
+    },
+    "Jupiter": {
+      "sidereal": 188.9797,
+      "sign": "Libra",
+      "sign_idx": 6,
+      "deg_in_sign": 8.9797,
+      "dignity": 0,
+      "nakshatra": "Swati",
+      "nakshatra_lord": "Rahu",
+      "house": 3
+    },
+    "Venus": {
+      "sidereal": 180.5116,
+      "sign": "Libra",
+      "sign_idx": 6,
+      "deg_in_sign": 0.5116,
+      "dignity": 75,
+      "nakshatra": "Chitra",
+      "nakshatra_lord": "Mars",
+      "house": 3
+    },
+    "Saturn": {
+      "sidereal": 29.1607,
+      "sign": "Aries",
+      "sign_idx": 0,
+      "deg_in_sign": 29.1607,
+      "dignity": -100,
+      "nakshatra": "Krittika",
+      "nakshatra_lord": "Sun",
+      "house": 9
+    },
+    "Rahu": {
+      "sidereal": 314.4008,
+      "sign": "Aquarius",
+      "sign_idx": 10,
+      "deg_in_sign": 14.4008,
+      "dignity": 0,
+      "nakshatra": "Shatabhisha",
+      "nakshatra_lord": "Rahu",
+      "house": 7
+    },
+    "Ketu": {
+      "sidereal": 134.4008,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 14.4008,
+      "dignity": 0,
+      "nakshatra": "Purva Phalguni",
+      "nakshatra_lord": "Venus",
+      "house": 1
+    }
+  },
+  "dasha": {
+    "moon_nakshatra": "Magha",
+    "moon_nakshatra_lord": "Ketu",
+    "balance": 0.7647
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "name": "P9",
+  "birth": "1970-08-31T21:55:30+05:30",
+  "city": "Kandy, Sri Lanka",
+  "lat": 7.2931,
+  "lon": 80.635,
+  "ascendant": {
+    "sign": "Leo",
+    "sidereal": 146.8666,
+    "nakshatra": "Uttara Phalguni"
+  },
+  "planets": {
+    "Sun": {
+      "sidereal": 134.4008,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 14.4008,
+      "dignity": 75,
+      "nakshatra": "Purva Phalguni",
+      "nakshatra_lord": "Venus",
+      "house": 1
+    },
+    "Moon": {
+      "sidereal": 131.8768,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 11.8768,
+      "dignity": 0,
+      "nakshatra": "Magha",
+      "nakshatra_lord": "Ketu",
+      "house": 1
+    },
+    "Mars": {
+      "sidereal": 124.9542,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 4.9542,
+      "dignity": 0,
+      "nakshatra": "Magha",
+      "nakshatra_lord": "Ketu",
+      "house": 1
+    },
+    "Mercury": {
+      "sidereal": 154.4751,
+      "sign": "Virgo",
+      "sign_idx": 5,
+      "deg_in_sign": 4.4751,
+      "dignity": 100,
+      "nakshatra": "Uttara Phalguni",
+      "nakshatra_lord": "Sun",
+      "house": 2
+    },
+    "Jupiter": {
+      "sidereal": 188.9797,
+      "sign": "Libra",
+      "sign_idx": 6,
+      "deg_in_sign": 8.9797,
+      "dignity": 0,
+      "nakshatra": "Swati",
+      "nakshatra_lord": "Rahu",
+      "house": 3
+    },
+    "Venus": {
+      "sidereal": 180.5116,
+      "sign": "Libra",
+      "sign_idx": 6,
+      "deg_in_sign": 0.5116,
+      "dignity": 75,
+      "nakshatra": "Chitra",
+      "nakshatra_lord": "Mars",
+      "house": 3
+    },
+    "Saturn": {
+      "sidereal": 29.1607,
+      "sign": "Aries",
+      "sign_idx": 0,
+      "deg_in_sign": 29.1607,
+      "dignity": -100,
+      "nakshatra": "Krittika",
+      "nakshatra_lord": "Sun",
+      "house": 9
+    },
+    "Rahu": {
+      "sidereal": 314.4008,
+      "sign": "Aquarius",
+      "sign_idx": 10,
+      "deg_in_sign": 14.4008,
+      "dignity": 0,
+      "nakshatra": "Shatabhisha",
+      "nakshatra_lord": "Rahu",
+      "house": 7
+    },
+    "Ketu": {
+      "sidereal": 134.4008,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "deg_in_sign": 14.4008,
+      "dignity": 0,
+      "nakshatra": "Purva Phalguni",
+      "nakshatra_lord": "Venus",
+      "house": 1
+    }
+  },
+  "dasha": {
+    "moon_nakshatra": "Magha",
+    "moon_nakshatra_lord": "Ketu",
+    "balance": 0.7647
+  },
+  "_id": "P9",
+  "p_id": "P9",
+  "d9_avg_dignity": 42.9,
+  "rodden": "B",
+  "d9": {
+    "Sun": {
+      "sidereal": 129.6072,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "dignity": 75
+    },
+    "Moon": {
+      "sidereal": 106.8912,
+      "sign": "Cancer",
+      "sign_idx": 3,
+      "dignity": 75
+    },
+    "Mars": {
+      "sidereal": 44.5878,
+      "sign": "Taurus",
+      "sign_idx": 1,
+      "dignity": 0
+    },
+    "Mercury": {
+      "sidereal": 310.2759,
+      "sign": "Aquarius",
+      "sign_idx": 10,
+      "dignity": 0
+    },
+    "Jupiter": {
+      "sidereal": 260.8173,
+      "sign": "Sagittarius",
+      "sign_idx": 8,
+      "dignity": 75
+    },
+    "Venus": {
+      "sidereal": 184.6044,
+      "sign": "Libra",
+      "sign_idx": 6,
+      "dignity": 75
+    },
+    "Saturn": {
+      "sidereal": 262.4463,
+      "sign": "Sagittarius",
+      "sign_idx": 8,
+      "dignity": 0
+    },
+    "Rahu": {
+      "sidereal": 309.6072,
+      "sign": "Aquarius",
+      "sign_idx": 10,
+      "dignity": 0
+    },
+    "Ketu": {
+      "sidereal": 129.6072,
+      "sign": "Leo",
+      "sign_idx": 4,
+      "dignity": 0
+    }
+  },
+  "d1_avg_dignity": 21.4,
+  "houses": {
+    "Sun": 1,
+    "Moon": 1,
+    "Mars": 1,
+    "Mercury": 2,
+    "Jupiter": 3,
+    "Venus": 3,
+    "Saturn": 9,
+    "Rahu": 7,
+    "Ketu": 1
+  },
+  "shrinkhala": {
+    "d1": {},
+    "d9": {},
+    "d1_d9_nexus": false
+  },
+  "_yogas": {
+    "anapha": {
+      "planets": [
+        "Mars"
+      ],
+      "active": true
+    },
+    "chandra_mangala": {
+      "active": true
+    },
+    "dhana": [
+      {
+        "houses": "1L-2L",
+        "planets": [
+          "Sun",
+          "Mercury"
+        ],
+        "score": 150
+      },
+      {
+        "houses": "1L-11L",
+        "planets": [
+          "Sun",
+          "Mercury"
+        ],
+        "score": 150
+      }
+    ],
+    "durudhara": {
+      "active": true
+    },
+    "lakshmi": {
+      "score": 90,
+      "active": true
+    },
+    "neecha_bhanga": [
+      {
+        "planet": "Saturn",
+        "sign": "Aries",
+        "conditions": [
+          "C1_deb_lord_kendra",
+          "C2_exalted_in_kendra"
+        ],
+        "count": 2,
+        "score": 140,
+        "d9_exalted": false,
+        "full_nbry": true
+      }
+    ],
+    "shrinkhala": {
+      "active": true,
+      "planets": [
+        "Mars",
+        "Moon",
+        "Sun",
+        "Mercury"
+      ],
+      "span": 29.52,
+      "count": 4
+    },
+    "sunapha": {
+      "planets": [
+        "Jupiter",
+        "Venus"
+      ],
+      "active": true
+    }
+  },
+  "_nexus_score": 61.6
+}
