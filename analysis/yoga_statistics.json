@@ -1,0 +1,73 @@
+{
+  "total": 13355,
+  "yoga_frequencies": {
+    "dhana": {
+      "count": 12015,
+      "pct": 89.97
+    },
+    "shrinkhala": {
+      "count": 10877,
+      "pct": 81.45
+    },
+    "vipareeta_raja": {
+      "count": 7588,
+      "pct": 56.82
+    },
+    "sanyasa": {
+      "count": 7007,
+      "pct": 52.47
+    },
+    "budha_aditya": {
+      "count": 6792,
+      "pct": 50.86
+    },
+    "kemadruma": {
+      "count": 5990,
+      "pct": 44.85
+    },
+    "saraswati": {
+      "count": 5966,
+      "pct": 44.67
+    },
+    "neecha_bhanga": {
+      "count": 5203,
+      "pct": 38.96
+    },
+    "parivartana": {
+      "count": 5135,
+      "pct": 38.45
+    },
+    "gajakesari": {
+      "count": 4526,
+      "pct": 33.89
+    },
+    "mahapurusha": {
+      "count": 4411,
+      "pct": 33.03
+    },
+    "sunapha": {
+      "count": 4403,
+      "pct": 32.97
+    },
+    "anapha": {
+      "count": 4340,
+      "pct": 32.5
+    },
+    "chandra_mangala": {
+      "count": 4233,
+      "pct": 31.7
+    },
+    "dka": {
+      "count": 4129,
+      "pct": 30.92
+    },
+    "lakshmi": {
+      "count": 3282,
+      "pct": 24.58
+    },
+    "durudhara": {
+      "count": 1378,
+      "pct": 10.32
+    }
+  }
+}

@@ -1,0 +1,878 @@
+[
+  {
+    "name": "Obama",
+    "profession": "Politics",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Cancer",
+      "Moon": "Taurus",
+      "Mars": "Leo",
+      "Mercury": "Cancer",
+      "Jupiter": "Capricorn",
+      "Venus": "Gemini",
+      "Saturn": "Capricorn",
+      "Rahu": "Leo",
+      "Ketu": "Aquarius"
+    },
+    "degrees": {
+      "Sun": 19.0,
+      "Moon": 7.0,
+      "Mars": 29.0,
+      "Mercury": 8.0,
+      "Jupiter": 7.0,
+      "Venus": 8.0,
+      "Saturn": 2.0,
+      "Rahu": 4.0,
+      "Ketu": 4.0
+    },
+    "boundary": true,
+    "loop_len": 3,
+    "loops": [
+      [
+        "Moon",
+        "Venus",
+        "Mercury"
+      ]
+    ],
+    "bond": 50
+  },
+  {
+    "name": "Rockefeller",
+    "profession": "Business",
+    "achievement": 10,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Gemini",
+      "Moon": "Taurus",
+      "Mars": "Virgo",
+      "Mercury": "Cancer",
+      "Jupiter": "Virgo",
+      "Venus": "Leo",
+      "Saturn": "Scorpio",
+      "Rahu": "Aquarius",
+      "Ketu": "Leo"
+    },
+    "degrees": {
+      "Sun": 24.0,
+      "Moon": 24.0,
+      "Mars": 14.0,
+      "Mercury": 6.0,
+      "Jupiter": 18.0,
+      "Venus": 8.0,
+      "Saturn": 12.0,
+      "Rahu": 27.0,
+      "Ketu": 27.0
+    },
+    "boundary": false,
+    "loop_len": 4,
+    "loops": [
+      [
+        "Sun",
+        "Mercury",
+        "Moon",
+        "Venus"
+      ]
+    ],
+    "bond": 33
+  },
+  {
+    "name": "Stan Lee",
+    "profession": "Arts",
+    "achievement": 8,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Sagittarius",
+      "Moon": "Aries",
+      "Mars": "Aquarius",
+      "Mercury": "Sagittarius",
+      "Jupiter": "Libra",
+      "Venus": "Scorpio",
+      "Saturn": "Virgo",
+      "Rahu": "Virgo",
+      "Ketu": "Pisces"
+    },
+    "degrees": {
+      "Sun": 13.0,
+      "Moon": 10.0,
+      "Mars": 19.0,
+      "Mercury": 25.0,
+      "Jupiter": 19.0,
+      "Venus": 4.0,
+      "Saturn": 26.0,
+      "Rahu": 1.0,
+      "Ketu": 1.0
+    },
+    "boundary": true,
+    "loop_len": 5,
+    "loops": [
+      [
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ]
+    ],
+    "bond": 25
+  },
+  {
+    "name": "P1 Bappa",
+    "profession": "Business",
+    "achievement": 8,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Taurus",
+      "Moon": "Aquarius",
+      "Mars": "Aries",
+      "Mercury": "Taurus",
+      "Jupiter": "Aquarius",
+      "Venus": "Gemini",
+      "Saturn": "Capricorn",
+      "Rahu": "Cancer",
+      "Ketu": "Capricorn"
+    },
+    "degrees": {
+      "Sun": 12.0,
+      "Moon": 19.0,
+      "Mars": 5.0,
+      "Mercury": 27.0,
+      "Jupiter": 17.0,
+      "Venus": 11.0,
+      "Saturn": 18.0,
+      "Rahu": 18.0,
+      "Ketu": 18.0
+    },
+    "boundary": false,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Venus",
+        "Mercury"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "P2 Upulakshi",
+    "profession": "Job",
+    "achievement": 5,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Pisces",
+      "Moon": "Taurus",
+      "Mars": "Virgo",
+      "Mercury": "Pisces",
+      "Jupiter": "Capricorn",
+      "Venus": "Aquarius",
+      "Saturn": "Pisces",
+      "Rahu": "Virgo",
+      "Ketu": "Pisces"
+    },
+    "degrees": {
+      "Sun": 0.0,
+      "Moon": 15.0,
+      "Mars": 3.0,
+      "Mercury": 3.0,
+      "Jupiter": 17.0,
+      "Venus": 25.0,
+      "Saturn": 14.0,
+      "Rahu": 5.0,
+      "Ketu": 5.0
+    },
+    "boundary": true,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Jupiter",
+        "Saturn"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "P3 Senith",
+    "profession": "Job",
+    "achievement": 4,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Cancer",
+      "Moon": "Sagittarius",
+      "Mars": "Virgo",
+      "Mercury": "Leo",
+      "Jupiter": "Scorpio",
+      "Venus": "Cancer",
+      "Saturn": "Pisces",
+      "Rahu": "Libra",
+      "Ketu": "Aries"
+    },
+    "degrees": {
+      "Sun": 21.0,
+      "Moon": 13.0,
+      "Mars": 16.0,
+      "Mercury": 2.0,
+      "Jupiter": 11.0,
+      "Venus": 17.0,
+      "Saturn": 0.0,
+      "Rahu": 6.0,
+      "Ketu": 6.0
+    },
+    "boundary": true,
+    "loop_len": 5,
+    "loops": [
+      [
+        "Sun",
+        "Moon",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ]
+    ],
+    "bond": 25
+  },
+  {
+    "name": "P4 Niromi",
+    "profession": "Business",
+    "achievement": 9,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Aries",
+      "Moon": "Libra",
+      "Mars": "Virgo",
+      "Mercury": "Pisces",
+      "Jupiter": "Cancer",
+      "Venus": "Taurus",
+      "Saturn": "Pisces",
+      "Rahu": "Aries",
+      "Ketu": "Libra"
+    },
+    "degrees": {
+      "Sun": 11.0,
+      "Moon": 26.0,
+      "Mars": 27.0,
+      "Mercury": 24.0,
+      "Jupiter": 2.0,
+      "Venus": 19.0,
+      "Saturn": 13.0,
+      "Rahu": 13.0,
+      "Ketu": 13.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Elon Musk",
+    "profession": "Tech",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Gemini",
+      "Moon": "Leo",
+      "Mars": "Capricorn",
+      "Mercury": "Gemini",
+      "Jupiter": "Scorpio",
+      "Venus": "Taurus",
+      "Saturn": "Taurus",
+      "Rahu": "Capricorn",
+      "Ketu": "Cancer"
+    },
+    "degrees": {
+      "Sun": 12.0,
+      "Moon": 21.0,
+      "Mars": 27.0,
+      "Mercury": 21.0,
+      "Jupiter": 4.0,
+      "Venus": 26.0,
+      "Saturn": 7.0,
+      "Rahu": 23.0,
+      "Ketu": 23.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Bill Gates",
+    "profession": "Tech",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Libra",
+      "Moon": "Pisces",
+      "Mars": "Virgo",
+      "Mercury": "Virgo",
+      "Jupiter": "Leo",
+      "Venus": "Libra",
+      "Saturn": "Libra",
+      "Rahu": "Scorpio",
+      "Ketu": "Taurus"
+    },
+    "degrees": {
+      "Sun": 11.0,
+      "Moon": 8.0,
+      "Mars": 16.0,
+      "Mercury": 22.0,
+      "Jupiter": 4.0,
+      "Venus": 26.0,
+      "Saturn": 28.0,
+      "Rahu": 26.0,
+      "Ketu": 26.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Jeff Bezos",
+    "profession": "Tech",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Sagittarius",
+      "Moon": "Sagittarius",
+      "Mars": "Capricorn",
+      "Mercury": "Sagittarius",
+      "Jupiter": "Pisces",
+      "Venus": "Aquarius",
+      "Saturn": "Capricorn",
+      "Rahu": "Gemini",
+      "Ketu": "Sagittarius"
+    },
+    "degrees": {
+      "Sun": 28.0,
+      "Moon": 5.0,
+      "Mars": 6.0,
+      "Mercury": 11.0,
+      "Jupiter": 18.0,
+      "Venus": 1.0,
+      "Saturn": 28.0,
+      "Rahu": 17.0,
+      "Ketu": 17.0
+    },
+    "boundary": true,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Steve Jobs",
+    "profession": "Tech",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Aquarius",
+      "Moon": "Pisces",
+      "Mars": "Aries",
+      "Mercury": "Capricorn",
+      "Jupiter": "Gemini",
+      "Venus": "Sagittarius",
+      "Saturn": "Libra",
+      "Rahu": "Sagittarius",
+      "Ketu": "Gemini"
+    },
+    "degrees": {
+      "Sun": 12.0,
+      "Moon": 12.0,
+      "Mars": 5.0,
+      "Mercury": 21.0,
+      "Jupiter": 27.0,
+      "Venus": 27.0,
+      "Saturn": 27.0,
+      "Rahu": 9.0,
+      "Ketu": 9.0
+    },
+    "boundary": false,
+    "loop_len": 4,
+    "loops": [
+      [
+        "Saturn",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    ],
+    "bond": 33
+  },
+  {
+    "name": "Albert Einstein",
+    "profession": "Science",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Pisces",
+      "Moon": "Scorpio",
+      "Mars": "Capricorn",
+      "Mercury": "Pisces",
+      "Jupiter": "Aquarius",
+      "Venus": "Pisces",
+      "Saturn": "Pisces",
+      "Rahu": "Capricorn",
+      "Ketu": "Cancer"
+    },
+    "degrees": {
+      "Sun": 1.0,
+      "Moon": 25.0,
+      "Mars": 4.0,
+      "Mercury": 11.0,
+      "Jupiter": 5.0,
+      "Venus": 25.0,
+      "Saturn": 12.0,
+      "Rahu": 9.0,
+      "Ketu": 9.0
+    },
+    "boundary": true,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Jupiter",
+        "Saturn"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "Warren Buffett",
+    "profession": "Business",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Leo",
+      "Moon": "Scorpio",
+      "Mars": "Gemini",
+      "Mercury": "Virgo",
+      "Jupiter": "Gemini",
+      "Venus": "Virgo",
+      "Saturn": "Sagittarius",
+      "Rahu": "Aries",
+      "Ketu": "Libra"
+    },
+    "degrees": {
+      "Sun": 13.0,
+      "Moon": 11.0,
+      "Mars": 8.0,
+      "Mercury": 10.0,
+      "Jupiter": 20.0,
+      "Venus": 29.0,
+      "Saturn": 12.0,
+      "Rahu": 3.0,
+      "Ketu": 3.0
+    },
+    "boundary": true,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "profession": "Tech",
+    "achievement": 9,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Taurus",
+      "Moon": "Libra",
+      "Mars": "Libra",
+      "Mercury": "Aries",
+      "Jupiter": "Sagittarius",
+      "Venus": "Aries",
+      "Saturn": "Libra",
+      "Rahu": "Taurus",
+      "Ketu": "Scorpio"
+    },
+    "degrees": {
+      "Sun": 0.0,
+      "Moon": 25.0,
+      "Mars": 25.0,
+      "Mercury": 5.0,
+      "Jupiter": 18.0,
+      "Venus": 21.0,
+      "Saturn": 18.0,
+      "Rahu": 13.0,
+      "Ketu": 13.0
+    },
+    "boundary": true,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Venus",
+        "Mars"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "profession": "Sports",
+    "achievement": 9,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Sagittarius",
+      "Moon": "Sagittarius",
+      "Mars": "Aries",
+      "Mercury": "Sagittarius",
+      "Jupiter": "Capricorn",
+      "Venus": "Capricorn",
+      "Saturn": "Gemini",
+      "Rahu": "Sagittarius",
+      "Ketu": "Gemini"
+    },
+    "degrees": {
+      "Sun": 9.0,
+      "Moon": 9.0,
+      "Mars": 6.0,
+      "Mercury": 0.0,
+      "Jupiter": 19.0,
+      "Venus": 16.0,
+      "Saturn": 7.0,
+      "Rahu": 4.0,
+      "Ketu": 4.0
+    },
+    "boundary": true,
+    "loop_len": 3,
+    "loops": [
+      [
+        "Jupiter",
+        "Saturn",
+        "Mercury"
+      ]
+    ],
+    "bond": 50
+  },
+  {
+    "name": "Mukesh Ambani",
+    "profession": "Business",
+    "achievement": 10,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Aries",
+      "Moon": "Sagittarius",
+      "Mars": "Taurus",
+      "Mercury": "Aries",
+      "Jupiter": "Leo",
+      "Venus": "Aries",
+      "Saturn": "Scorpio",
+      "Rahu": "Libra",
+      "Ketu": "Aries"
+    },
+    "degrees": {
+      "Sun": 6.0,
+      "Moon": 12.0,
+      "Mars": 27.0,
+      "Mercury": 24.0,
+      "Jupiter": 29.0,
+      "Venus": 7.0,
+      "Saturn": 20.0,
+      "Rahu": 27.0,
+      "Ketu": 27.0
+    },
+    "boundary": true,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Mars",
+        "Venus"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "Oprah Winfrey",
+    "profession": "Media",
+    "achievement": 9,
+    "rodden": "AA",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Capricorn",
+      "Moon": "Scorpio",
+      "Mars": "Scorpio",
+      "Mercury": "Capricorn",
+      "Jupiter": "Taurus",
+      "Venus": "Capricorn",
+      "Saturn": "Libra",
+      "Rahu": "Sagittarius",
+      "Ketu": "Gemini"
+    },
+    "degrees": {
+      "Sun": 16.0,
+      "Moon": 15.0,
+      "Mars": 0.0,
+      "Mercury": 26.0,
+      "Jupiter": 23.0,
+      "Venus": 16.0,
+      "Saturn": 15.0,
+      "Rahu": 29.0,
+      "Ketu": 29.0
+    },
+    "boundary": true,
+    "loop_len": 2,
+    "loops": [
+      [
+        "Saturn",
+        "Venus"
+      ]
+    ],
+    "bond": 100
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "profession": "Politics",
+    "achievement": 10,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Virgo",
+      "Moon": "Leo",
+      "Mars": "Libra",
+      "Mercury": "Libra",
+      "Jupiter": "Aries",
+      "Venus": "Libra",
+      "Saturn": "Scorpio",
+      "Rahu": "Cancer",
+      "Ketu": "Capricorn"
+    },
+    "degrees": {
+      "Sun": 17.0,
+      "Moon": 7.0,
+      "Mars": 26.0,
+      "Mercury": 12.0,
+      "Jupiter": 28.0,
+      "Venus": 25.0,
+      "Saturn": 20.0,
+      "Rahu": 12.0,
+      "Ketu": 12.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Abraham Lincoln",
+    "profession": "Politics",
+    "achievement": 10,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Aquarius",
+      "Moon": "Capricorn",
+      "Mars": "Libra",
+      "Mercury": "Aquarius",
+      "Jupiter": "Pisces",
+      "Venus": "Pisces",
+      "Saturn": "Scorpio",
+      "Rahu": "Libra",
+      "Ketu": "Aries"
+    },
+    "degrees": {
+      "Sun": 2.0,
+      "Moon": 8.0,
+      "Mars": 4.0,
+      "Mercury": 19.0,
+      "Jupiter": 0.0,
+      "Venus": 16.0,
+      "Saturn": 11.0,
+      "Rahu": 15.0,
+      "Ketu": 15.0
+    },
+    "boundary": true,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Nelson Mandela",
+    "profession": "Politics",
+    "achievement": 10,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Cancer",
+      "Moon": "Libra",
+      "Mars": "Virgo",
+      "Mercury": "Cancer",
+      "Jupiter": "Gemini",
+      "Venus": "Gemini",
+      "Saturn": "Cancer",
+      "Rahu": "Scorpio",
+      "Ketu": "Taurus"
+    },
+    "degrees": {
+      "Sun": 2.0,
+      "Moon": 29.0,
+      "Mars": 19.0,
+      "Mercury": 23.0,
+      "Jupiter": 8.0,
+      "Venus": 0.0,
+      "Saturn": 22.0,
+      "Rahu": 27.0,
+      "Ketu": 27.0
+    },
+    "boundary": true,
+    "loop_len": 3,
+    "loops": [
+      [
+        "Moon",
+        "Venus",
+        "Mercury"
+      ]
+    ],
+    "bond": 50
+  },
+  {
+    "name": "Walt Disney",
+    "profession": "Arts",
+    "achievement": 9,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Scorpio",
+      "Moon": "Virgo",
+      "Mars": "Sagittarius",
+      "Mercury": "Scorpio",
+      "Jupiter": "Sagittarius",
+      "Venus": "Capricorn",
+      "Saturn": "Sagittarius",
+      "Rahu": "Libra",
+      "Ketu": "Aries"
+    },
+    "degrees": {
+      "Sun": 20.0,
+      "Moon": 22.0,
+      "Mars": 16.0,
+      "Mercury": 5.0,
+      "Jupiter": 22.0,
+      "Venus": 7.0,
+      "Saturn": 22.0,
+      "Rahu": 19.0,
+      "Ketu": 19.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "Henry Ford",
+    "profession": "Business",
+    "achievement": 10,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Cancer",
+      "Moon": "Capricorn",
+      "Mars": "Leo",
+      "Mercury": "Cancer",
+      "Jupiter": "Virgo",
+      "Venus": "Virgo",
+      "Saturn": "Virgo",
+      "Rahu": "Scorpio",
+      "Ketu": "Taurus"
+    },
+    "degrees": {
+      "Sun": 15.0,
+      "Moon": 17.0,
+      "Mars": 6.0,
+      "Mercury": 11.0,
+      "Jupiter": 28.0,
+      "Venus": 0.0,
+      "Saturn": 9.0,
+      "Rahu": 11.0,
+      "Ketu": 11.0
+    },
+    "boundary": true,
+    "loop_len": 3,
+    "loops": [
+      [
+        "Moon",
+        "Saturn",
+        "Mercury"
+      ]
+    ],
+    "bond": 50
+  },
+  {
+    "name": "Michael Jackson",
+    "profession": "Arts",
+    "achievement": 9,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Leo",
+      "Moon": "Aquarius",
+      "Mars": "Aries",
+      "Mercury": "Leo",
+      "Jupiter": "Libra",
+      "Venus": "Cancer",
+      "Saturn": "Scorpio",
+      "Rahu": "Libra",
+      "Ketu": "Aries"
+    },
+    "degrees": {
+      "Sun": 12.0,
+      "Moon": 17.0,
+      "Mars": 28.0,
+      "Mercury": 2.0,
+      "Jupiter": 5.0,
+      "Venus": 23.0,
+      "Saturn": 25.0,
+      "Rahu": 1.0,
+      "Ketu": 1.0
+    },
+    "boundary": true,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  },
+  {
+    "name": "A.P.J. Abdul Kalam",
+    "profession": "Science",
+    "achievement": 9,
+    "rodden": "DD",
+    "moon_approx": false,
+    "signs": {
+      "Sun": "Virgo",
+      "Moon": "Scorpio",
+      "Mars": "Libra",
+      "Mercury": "Virgo",
+      "Jupiter": "Cancer",
+      "Venus": "Libra",
+      "Saturn": "Sagittarius",
+      "Rahu": "Pisces",
+      "Ketu": "Virgo"
+    },
+    "degrees": {
+      "Sun": 28.0,
+      "Moon": 25.0,
+      "Mars": 26.0,
+      "Mercury": 26.0,
+      "Jupiter": 25.0,
+      "Venus": 8.0,
+      "Saturn": 24.0,
+      "Rahu": 11.0,
+      "Ketu": 11.0
+    },
+    "boundary": false,
+    "loop_len": 0,
+    "loops": [],
+    "bond": 0
+  }
+]

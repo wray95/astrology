@@ -1,0 +1,105 @@
+{
+  "source": {
+    "title": "Negative Yogs in Astrology Explained",
+    "doc_id": "YOG-18092022",
+    "author": "Kiran Sharma",
+    "text_source": "Phal Deepika",
+    "scribd_url": "https://www.scribd.com/document/808367372/YOG-18092022",
+    "uploaded_by": "ankittanmay"
+  },
+  "general_principle": "If the lord of a house AND the house itself are aspected or conjoined by malefics, and those malefics are also placed in that house, they produce negative results. The dusthana houses 6,8,12 reduce auspiciousness when linked to benefic houses/lords. Conversely, when a malefic-house lord sits in its own malefic house (6th lord in 6th, 8th lord in 8th, 12th lord in 12th), the negativity cancels and a positive yoga results.",
+  "natural_malefics": ["Saturn", "Mars", "Rahu", "Ketu", "Sun"],
+  "malefic_houses": [6, 8, 12],
+  "yogas": [
+    {
+      "id": 1,
+      "name": "Duryog / Daridra Yoga (Avyogi)",
+      "type": "negative",
+      "house_focus": "Lagna / Lagnesh",
+      "condition": "Lagna or Lagnesh is conjoined/aspected by a malefic, OR Lagnesh is in a malefic house.",
+      "effects": ["Born in bad company", "Lacks bodily comforts", "Disease or allegations on character", "Poor or defamed"],
+      "remedy_note": "Only a powerful Lagna & Lagnesh can nullify the bad effect (Mantreshwar)."
+    },
+    {
+      "id": 2,
+      "name": "Nishvya Yoga",
+      "type": "negative",
+      "house_focus": 2,
+      "condition": "2nd house or 2nd lord is aspected/conjoined by malefics AND 2nd lord is in 6/8/12.",
+      "effects": ["Owns nothing of its own", "Lives in poverty", "Dental and eye problems", "Harsh language", "Discomfort", "Uneducated", "Property snatched by enemies"]
+    },
+    {
+      "id": 3,
+      "name": "Mriti Yoga",
+      "type": "negative",
+      "house_focus": 3,
+      "condition": "3rd house/lord is aspected/conjoined by malefics AND 3rd lord is in malefic houses.",
+      "effects": ["Defeat", "Lazy and lethargic", "Wrong deeds", "Shameless", "No happiness from siblings", "Repents later"]
+    },
+    {
+      "id": 4,
+      "name": "Kuhu Yoga",
+      "type": "negative",
+      "house_focus": 4,
+      "condition": "4th house/lord is aspected/conjoined by malefics AND 4th lord is in 6/8/12.",
+      "effects": ["No happiness from mother/friends", "Deprived of property and vehicles", "4th-house karakas afflicted", "Lives away from own place"]
+    },
+    {
+      "id": 5,
+      "name": "Paamar Yoga",
+      "type": "negative",
+      "house_focus": 5,
+      "condition": "5th house/lord is aspected/conjoined by malefics AND 5th lord is in malefic houses.",
+      "effects": ["Deprived of life's happiness/comforts", "Liar, fool, cheats others", "No progeny pleasure (Santan Sukh) or short-lived children", "Pitra Drohi (enemy of ancestors)", "Atheist and anarchist", "Cares only for own living"]
+    },
+    {
+      "id": 6,
+      "name": "Harsha Yoga",
+      "type": "positive_cancellation",
+      "house_focus": 6,
+      "condition": "6th lord/house is conjoined/aspected by a malefic -> NOT bad (minus x minus = plus).",
+      "effects": ["Full happiness", "Comfort of wealth", "Comfort of children", "Comfort of friends"]
+    },
+    {
+      "id": 7,
+      "name": "Dushkriti Yoga",
+      "type": "negative",
+      "house_focus": 7,
+      "condition": "7th house/lord is aspected/conjoined by malefics AND 7th lord is in 6/8/12.",
+      "effects": ["Discomforts of the 7th house", "Separation from spouse or sickly/cruel spouse", "Illicit relationship", "Discarded by friends/siblings", "Government punishments", "Defame", "Secretory-gland issues"]
+    },
+    {
+      "id": 8,
+      "name": "Saral Yoga",
+      "type": "positive_cancellation",
+      "house_focus": 8,
+      "condition": "8th lord is in the 8th house -> negative impacts nullify.",
+      "effects": ["Strong intellect", "Educated", "Prosperous", "Wealthy", "Clean-hearted", "Famous"],
+      "notes": ["Saturn in 8th -> long life", "Mars in 8th -> injuries/discomforts"]
+    },
+    {
+      "id": 9,
+      "name": "Nirbhagya Yoga",
+      "type": "negative",
+      "house_focus": 9,
+      "condition": "9th house/lord is aspected/conjoined by malefics AND 9th lord is in 6/8/12.",
+      "effects": ["Misfortune", "Disrespect to elders/saints/gurus", "Loses paternal property on his own"]
+    },
+    {
+      "id": 10,
+      "name": "Daridra Yoga",
+      "type": "negative",
+      "house_focus": 11,
+      "condition": "11th house/lord is aspected/conjoined by malefics AND 11th lord is in 6/8/12.",
+      "effects": ["Bears loans", "Ear problems", "Deprived of elders' comfort", "No appreciation", "Always at others' service like a servant", "Bears losses"]
+    },
+    {
+      "id": 11,
+      "name": "Vimal Yoga",
+      "type": "positive_cancellation",
+      "house_focus": 12,
+      "condition": "12th lord is in the 12th house -> negative impacts nullify.",
+      "effects": ["Comfort", "Independence", "Famous for good deeds/qualities", "Least effort for most return", "Wealth prospers exponentially"]
+    }
+  ]
+}

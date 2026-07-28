@@ -1,0 +1,39 @@
+[
+  {
+    "id": "P5",
+    "name": "Senath",
+    "data_quality": "full_signs_and_houses",
+    "group": "P1234-reference-P5",
+    "source": "Drik link planetary-positions-sidereal.html?date=14/05/2001&time=16:08:40 (Lahiri/Chitrapaksha)",
+    "signs": {
+      "Sun": "Aries",
+      "Moon": "Capricorn",
+      "Mars": "Sagittarius",
+      "Mercury": "Taurus",
+      "Jupiter": "Taurus",
+      "Venus": "Pisces",
+      "Saturn": "Taurus",
+      "Rahu": "Gemini",
+      "Ketu": "Sagittarius"
+    },
+    "houses": {
+      "Sun": 8,
+      "Moon": 5,
+      "Mars": 4,
+      "Mercury": 9,
+      "Jupiter": 9,
+      "Venus": 7,
+      "Saturn": 9,
+      "Rahu": 10,
+      "Ketu": 4
+    },
+    "lagna_sign": "Virgo",
+    "lagna_index": 5,
+    "loops": [["Jupiter", "Venus"]],
+    "loop_len": 2,
+    "bond": 100,
+    "profession": "",
+    "achievement": "",
+    "notes": "Virgo Lagna (Drik link 5°44'). Venus-Jupiter Parivartana (bond 100). Malavya (exalted Venus in 7th from Virgo Lagna). Sun+Venus exalted. Rahu in 10th (Gemini). Birth Moon = Capricorn 20°52' Shravana -> Rahu Mahadasha 2014-2032 (current)."
+  }
+]

@@ -1,0 +1,13 @@
+id,name,birth_local,timezone,lat,lon,engine_nakshatra,engine_lord,engine_balance_y,appliedjyotish_nakshatra,appliedjyotish_lord,appliedjyotish_balance,website_available,root_cause
+P1,Bappa,1962-05-27 03:38,UTC+5.5,6.9271,79.8612,Shatabhisha,Rahu,8.0476,Shatabhisha,Rahu,Unknown,NOT ACCESSIBLE,Website blocked (CSRF). Independent calc only.
+P2,Upulakshi,1997-03-14 12:00,UTC+6.0,6.9271,79.8612,Krittika,Sun,0.0160,Krittika?,Sun?,Unknown,NOT ACCESSIBLE,Website blocked (CSRF). Independent calc only.
+P3,Senith,1995-08-07 21:18,UTC+5.5,7.2906,80.6337,Mula,Ketu,2.8143,Unknown,Unknown,Unknown,NOT ACCESSIBLE,Website blocked (CSRF). Independent calc only.
+P4,Niromi,1967-04-25 08:17,UTC+5.5,6.9271,79.8612,Swati,Rahu,1.8942,Unknown,Unknown,Unknown,NOT ACCESSIBLE,Website blocked (CSRF). Independent calc only.
+P5,Senath,2001-05-14 16:08,UTC+6.0,6.9271,79.8612,Shravana,Moon,3.6252,Shravana,Moon,Unknown,Astro-seek cross-check only,Astro-seek nakshatra matches. Dates differ (~9mo) due to ayanamsa formula.
+P6,Dewli,2005-10-08 08:22,UTC+6.0,6.9167,79.9,Jyeshtha,Mercury,16.0501,Jyeshtha,Mercury,16Y 9M 2D,AppliedJyotish PDF,Nak+Lord+MD+AD=MATCH. Balance differs ~8mo (ayanamsa precision).
+
+SUMMARY
+Charts with website access: 1/6 (P6 via PDF)
+Charts with astro-seek cross-check: 1/6 (P5)
+Charts relying on engine only: 4/6 (P1,P2,P3,P4)
+Root cause of differences: Ayanamsa formula (J2000 linear vs IAU 2006 precise) + JPL DE421 vs Swiss Ephemeris

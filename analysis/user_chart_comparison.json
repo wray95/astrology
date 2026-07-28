@@ -1,0 +1,682 @@
+[
+  {
+    "id": "P4",
+    "name": "Niromi",
+    "nexus_score": 63.1,
+    "percentile": 90.6,
+    "key_yogas": [
+      "MP:Malavaya",
+      "NBRY:Mercury(0full)",
+      "Dhana(2)",
+      "Lakshmi",
+      "ChandraMangala"
+    ],
+    "d1_dignity": 25.0,
+    "d9_dignity": 28.6,
+    "ascendant": "Leo",
+    "moon_nakshatra": "Swati",
+    "moon_lord": "Rahu",
+    "yogas_detail": {
+      "chandra_mangala": {
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "1L-2L",
+          "planets": [
+            "Sun",
+            "Mercury"
+          ],
+          "score": 150
+        },
+        {
+          "houses": "1L-11L",
+          "planets": [
+            "Sun",
+            "Mercury"
+          ],
+          "score": 150
+        }
+      ],
+      "kemadruma": {
+        "active": true,
+        "cancelled": true
+      },
+      "lakshmi": {
+        "score": 60,
+        "active": true
+      },
+      "mahapurusha": [
+        {
+          "yoga": "Malavaya",
+          "planet": "Venus",
+          "house": 10,
+          "score": 115
+        }
+      ],
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C2_exalted_in_kendra"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        }
+      ],
+      "sanyasa": {
+        "indicators": [
+          "saturn_ketu_connected"
+        ],
+        "active": false
+      },
+      "vipareeta_raja": [
+        {
+          "house": 8,
+          "lord": "Jupiter",
+          "placed_in": 12
+        },
+        {
+          "house": 6,
+          "lord": "Saturn",
+          "placed_in": 8
+        }
+      ]
+    }
+  },
+  {
+    "id": "P5",
+    "name": "Senath",
+    "nexus_score": 60.6,
+    "percentile": 87.3,
+    "key_yogas": [
+      "MP:Malavaya",
+      "DKA",
+      "Gajakesari",
+      "Dhana(1)",
+      "Pari(1/0maha)",
+      "ChandraMangala"
+    ],
+    "d1_dignity": 28.6,
+    "d9_dignity": 14.3,
+    "ascendant": "Gemini",
+    "moon_nakshatra": "Shravana",
+    "moon_lord": "Moon",
+    "yogas_detail": {
+      "chandra_mangala": {
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "2L-11L",
+          "planets": [
+            "Moon",
+            "Mars"
+          ],
+          "score": 50
+        }
+      ],
+      "dka": {
+        "planets": [
+          "Saturn",
+          "Jupiter"
+        ],
+        "score": 60,
+        "active": true
+      },
+      "gajakesari": {
+        "score": 80,
+        "active": true
+      },
+      "mahapurusha": [
+        {
+          "yoga": "Malavaya",
+          "planet": "Venus",
+          "house": 10,
+          "score": 123
+        }
+      ],
+      "parivartana": [
+        {
+          "planets": [
+            "Jupiter",
+            "Venus"
+          ],
+          "type": "2-planet",
+          "houses": [
+            12,
+            10
+          ],
+          "maha": false,
+          "dainya": true,
+          "kahala": false,
+          "score": 50
+        }
+      ],
+      "sanyasa": {
+        "indicators": [
+          "saturn_ketu_connected"
+        ],
+        "active": false
+      },
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Sun",
+          "Saturn",
+          "Mercury",
+          "Jupiter"
+        ],
+        "span": 22.74,
+        "count": 4
+      },
+      "sunapha": {
+        "planets": [
+          "Venus"
+        ],
+        "active": true
+      },
+      "vipareeta_raja": [
+        {
+          "house": 8,
+          "lord": "Saturn",
+          "placed_in": 12
+        }
+      ]
+    }
+  },
+  {
+    "id": "P8",
+    "name": "Lakshi Amma",
+    "nexus_score": 58.5,
+    "percentile": 83.1,
+    "key_yogas": [
+      "MP:Sasa",
+      "NBRY:Sun(1full)",
+      "Dhana(3)"
+    ],
+    "d1_dignity": 17.9,
+    "d9_dignity": 28.6,
+    "ascendant": "Cancer",
+    "moon_nakshatra": "Vishakha",
+    "moon_lord": "Jupiter",
+    "yogas_detail": {
+      "chandra_mangala": {
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "1L-2L",
+          "planets": [
+            "Moon",
+            "Sun"
+          ],
+          "score": 50
+        },
+        {
+          "houses": "1L-11L",
+          "planets": [
+            "Moon",
+            "Venus"
+          ],
+          "score": 50
+        },
+        {
+          "houses": "2L-11L",
+          "planets": [
+            "Sun",
+            "Venus"
+          ],
+          "score": 50
+        }
+      ],
+      "kemadruma": {
+        "active": true,
+        "cancelled": true
+      },
+      "mahapurusha": [
+        {
+          "yoga": "Sasa",
+          "planet": "Saturn",
+          "house": 7,
+          "score": 115
+        }
+      ],
+      "neecha_bhanga": [
+        {
+          "planet": "Sun",
+          "sign": "Libra",
+          "conditions": [
+            "C2_exalted_in_kendra",
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 3,
+          "score": 180,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ],
+      "saraswati": {
+        "count": 3,
+        "active": true
+      },
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Moon",
+          "Sun",
+          "Mercury",
+          "Venus"
+        ],
+        "span": 21.62,
+        "count": 4
+      }
+    }
+  },
+  {
+    "id": "P1",
+    "name": "Polgahawela Bappa",
+    "nexus_score": 58.3,
+    "percentile": 83.8,
+    "key_yogas": [
+      "DKA",
+      "Dhana(2)",
+      "Pari(1/0maha)",
+      "BudhaAditya"
+    ],
+    "d1_dignity": 25.0,
+    "d9_dignity": 39.3,
+    "ascendant": "Gemini",
+    "moon_nakshatra": "Shatabhisha",
+    "moon_lord": "Rahu",
+    "yogas_detail": {
+      "anapha": {
+        "planets": [
+          "Jupiter"
+        ],
+        "active": true
+      },
+      "budha_aditya": {
+        "score": 60,
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "1L-11L",
+          "planets": [
+            "Mercury",
+            "Mars"
+          ],
+          "score": 150
+        },
+        {
+          "houses": "5L-9L",
+          "planets": [
+            "Venus",
+            "Saturn"
+          ],
+          "score": 125
+        }
+      ],
+      "dka": {
+        "planets": [
+          "Saturn",
+          "Jupiter"
+        ],
+        "score": 97,
+        "active": true
+      },
+      "durudhara": {
+        "active": true
+      },
+      "parivartana": [
+        {
+          "planets": [
+            "Mercury",
+            "Venus"
+          ],
+          "type": "2-planet",
+          "houses": [
+            12,
+            1
+          ],
+          "maha": false,
+          "dainya": true,
+          "kahala": false,
+          "score": 50
+        }
+      ],
+      "sanyasa": {
+        "indicators": [
+          "moon_saturn_aspect"
+        ],
+        "active": false
+      },
+      "saraswati": {
+        "count": 2,
+        "active": true
+      },
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Mars",
+          "Sun",
+          "Mercury",
+          "Venus"
+        ],
+        "span": 66.13,
+        "count": 4
+      },
+      "sunapha": {
+        "planets": [
+          "Mars"
+        ],
+        "active": true
+      },
+      "vipareeta_raja": [
+        {
+          "house": 8,
+          "lord": "Saturn",
+          "placed_in": 8
+        }
+      ]
+    }
+  },
+  {
+    "id": "P7",
+    "name": "Sineth",
+    "nexus_score": 48.4,
+    "percentile": 61.4,
+    "key_yogas": [
+      "NBRY:Mercury(1full)",
+      "Gajakesari",
+      "Dhana(2)",
+      "Pari(1/0maha)",
+      "BudhaAditya",
+      "ChandraMangala"
+    ],
+    "d1_dignity": 14.3,
+    "d9_dignity": 14.3,
+    "ascendant": "Leo",
+    "moon_nakshatra": "Shatabhisha",
+    "moon_lord": "Rahu",
+    "yogas_detail": {
+      "budha_aditya": {
+        "score": 35,
+        "active": true
+      },
+      "chandra_mangala": {
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "1L-2L",
+          "planets": [
+            "Sun",
+            "Mercury"
+          ],
+          "score": 50
+        },
+        {
+          "houses": "1L-11L",
+          "planets": [
+            "Sun",
+            "Mercury"
+          ],
+          "score": 50
+        }
+      ],
+      "gajakesari": {
+        "score": 80,
+        "active": true
+      },
+      "kemadruma": {
+        "active": true,
+        "cancelled": true
+      },
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": true,
+          "full_nbry": true
+        }
+      ],
+      "parivartana": [
+        {
+          "planets": [
+            "Mercury",
+            "Jupiter"
+          ],
+          "type": "2-planet",
+          "houses": [
+            8,
+            2
+          ],
+          "maha": false,
+          "dainya": true,
+          "kahala": false,
+          "score": 50
+        }
+      ],
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Mars",
+          "Moon",
+          "Mercury",
+          "Sun"
+        ],
+        "span": 64.38,
+        "count": 4
+      }
+    }
+  },
+  {
+    "id": "P2",
+    "name": "Upulakshi",
+    "nexus_score": 29.1,
+    "percentile": 12.4,
+    "key_yogas": [
+      "NBRY:Mercury,Jupiter(1full)",
+      "Dhana(1)",
+      "Pari(1/0maha)"
+    ],
+    "d1_dignity": -14.3,
+    "d9_dignity": 10.7,
+    "ascendant": "Gemini",
+    "moon_nakshatra": "Krittika",
+    "moon_lord": "Sun",
+    "yogas_detail": {
+      "dhana": [
+        {
+          "houses": "5L-9L",
+          "planets": [
+            "Venus",
+            "Saturn"
+          ],
+          "score": 50
+        }
+      ],
+      "kemadruma": {
+        "active": true,
+        "cancelled": true
+      },
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C5_deb_in_kendra"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        },
+        {
+          "planet": "Jupiter",
+          "sign": "Capricorn",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C2_exalted_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ],
+      "parivartana": [
+        {
+          "planets": [
+            "Saturn",
+            "Jupiter"
+          ],
+          "type": "2-planet",
+          "houses": [
+            10,
+            8
+          ],
+          "maha": false,
+          "dainya": true,
+          "kahala": true,
+          "score": 50
+        }
+      ],
+      "sanyasa": {
+        "indicators": [
+          "saturn_ketu_connected"
+        ],
+        "active": false
+      },
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Jupiter",
+          "Venus",
+          "Sun",
+          "Mercury"
+        ],
+        "span": 44.59,
+        "count": 4
+      }
+    }
+  },
+  {
+    "id": "P3",
+    "name": "Senith",
+    "nexus_score": 25.0,
+    "percentile": 7.1,
+    "key_yogas": [],
+    "d1_dignity": 0.0,
+    "d9_dignity": 0.0,
+    "ascendant": "Aries",
+    "moon_nakshatra": "Mula",
+    "moon_lord": "Ketu",
+    "yogas_detail": {
+      "kemadruma": {
+        "active": true,
+        "cancelled": true
+      },
+      "saraswati": {
+        "count": 2,
+        "active": true
+      },
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Venus",
+          "Sun",
+          "Mercury",
+          "Mars"
+        ],
+        "span": 59.42,
+        "count": 4
+      },
+      "vipareeta_raja": [
+        {
+          "house": 8,
+          "lord": "Mars",
+          "placed_in": 6
+        },
+        {
+          "house": 12,
+          "lord": "Jupiter",
+          "placed_in": 8
+        }
+      ]
+    }
+  },
+  {
+    "id": "P6",
+    "name": "Dewli",
+    "nexus_score": 24.7,
+    "percentile": 6.6,
+    "key_yogas": [
+      "NBRY:Moon(0full)",
+      "Dhana(1)",
+      "ChandraMangala"
+    ],
+    "d1_dignity": 0.0,
+    "d9_dignity": -14.3,
+    "ascendant": "Pisces",
+    "moon_nakshatra": "Anuradha",
+    "moon_lord": "Saturn",
+    "yogas_detail": {
+      "anapha": {
+        "planets": [
+          "Venus"
+        ],
+        "active": true
+      },
+      "chandra_mangala": {
+        "active": true
+      },
+      "dhana": [
+        {
+          "houses": "5L-9L",
+          "planets": [
+            "Moon",
+            "Mars"
+          ],
+          "score": 150
+        }
+      ],
+      "neecha_bhanga": [
+        {
+          "planet": "Moon",
+          "sign": "Scorpio",
+          "conditions": [
+            "C3_depositor_aspect"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        }
+      ],
+      "shrinkhala": {
+        "active": true,
+        "planets": [
+          "Sun",
+          "Jupiter",
+          "Mercury",
+          "Venus"
+        ],
+        "span": 45.15,
+        "count": 4
+      }
+    }
+  }
+]

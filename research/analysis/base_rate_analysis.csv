@@ -1,0 +1,6 @@
+yoga_type,person,adult_lifespan_years,yoga_ruling_mahadasha,yoga_md_years,base_rate_percent,observed_event_percent,ratio_observed_to_base,signal_present
+Moon-Saturn Parivartana,Indira Gandhi,67 (age 0-67),Saturn MD,19,28.4,83.3,2.93,TRUE
+Jupiter-Venus Parivartana,Indira Gandhi,67,Jupiter MD,16,23.9,16.7,0.70,FALSE
+Sun-Mars Parivartana,Indira Gandhi,67,Mars MD,7,10.4,0.0,0.00,FALSE
+Saturn-Venus Parivartana,Oprah Winfrey,64 (age 30-94),Venus MD,20,31.3,25.0,0.80,FALSE
+Moon-Jupiter Exchange,Oprah Winfrey,N/A,N/A,N/A,N/A,N/A,FALSE_CLAIM

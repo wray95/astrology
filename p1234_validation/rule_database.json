@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "EXALT_SUN",
+    "name": "Sun exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Sun"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_SUN",
+    "name": "Sun debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Sun"
+      }
+    ]
+  },
+  {
+    "id": "OWN_SUN",
+    "name": "Sun in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Sun"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_MOO",
+    "name": "Moon exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Moon"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_MOO",
+    "name": "Moon debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Moon"
+      }
+    ]
+  },
+  {
+    "id": "OWN_MOO",
+    "name": "Moon in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Moon"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_MAR",
+    "name": "Mars exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Mars"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_MAR",
+    "name": "Mars debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Mars"
+      }
+    ]
+  },
+  {
+    "id": "OWN_MAR",
+    "name": "Mars in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Mars"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_MER",
+    "name": "Mercury exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Mercury"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_MER",
+    "name": "Mercury debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Mercury"
+      }
+    ]
+  },
+  {
+    "id": "OWN_MER",
+    "name": "Mercury in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Mercury"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_JUP",
+    "name": "Jupiter exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Jupiter"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_JUP",
+    "name": "Jupiter debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Jupiter"
+      }
+    ]
+  },
+  {
+    "id": "OWN_JUP",
+    "name": "Jupiter in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Jupiter"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_VEN",
+    "name": "Venus exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Venus"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_VEN",
+    "name": "Venus debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Venus"
+      }
+    ]
+  },
+  {
+    "id": "OWN_VEN",
+    "name": "Venus in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Venus"
+      }
+    ]
+  },
+  {
+    "id": "EXALT_SAT",
+    "name": "Saturn exalted",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_exalt",
+        "planet": "Saturn"
+      }
+    ]
+  },
+  {
+    "id": "DEBIL_SAT",
+    "name": "Saturn debilitated",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_debil",
+        "planet": "Saturn"
+      }
+    ]
+  },
+  {
+    "id": "OWN_SAT",
+    "name": "Saturn in own sign",
+    "source": "exaltation_debilitation.md (BPHS via astrokarak.com)",
+    "category": "Dignity",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "planet_own",
+        "planet": "Saturn"
+      }
+    ]
+  },
+  {
+    "id": "ASRAYA_001",
+    "name": "Rajju (all movable)",
+    "source": "yoga_compendium.md \u00a71c",
+    "category": "Nabhasa-Asraya",
+    "required_data": "signs",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "all_rasi_type",
+        "rtype": "movable"
+      }
+    ]
+  },
+  {
+    "id": "ASRAYA_002",
+    "name": "Musala (all fixed)",
+    "source": "yoga_compendium.md \u00a71c",
+    "category": "Nabhasa-Asraya",
+    "required_data": "signs",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "all_rasi_type",
+        "rtype": "fixed"
+      }
+    ]
+  },
+  {
+    "id": "ASRAYA_003",
+    "name": "Nala (all dual)",
+    "source": "yoga_compendium.md \u00a71c",
+    "category": "Nabhasa-Asraya",
+    "required_data": "signs",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "all_rasi_type",
+        "rtype": "dual"
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_001",
+    "name": "Vallaki/Vina (7 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 7
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_002",
+    "name": "Damini (6 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 6
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_003",
+    "name": "Pasa (5 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 5
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_004",
+    "name": "Kedara (4 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 4
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_005",
+    "name": "Sula (3 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_006",
+    "name": "Yuga (2 signs)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "id": "SANKHYA_007",
+    "name": "Golaka (1 sign)",
+    "source": "yoga_compendium.md \u00a71b",
+    "category": "Nabhasa-Sankhya",
+    "required_data": "signs",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "distinct_sign_count",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "id": "PARI_001",
+    "name": "Parivartana (2-planet exchange)",
+    "source": "yoga_compendium.md \u00a73",
+    "category": "Exchange",
+    "required_data": "signs/loops",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "parivartana"
+      }
+    ]
+  },
+  {
+    "id": "SHRIN_001",
+    "name": "Srinkhala (3-planet exchange)",
+    "source": "yoga_compendium.md \u00a73",
+    "category": "Exchange",
+    "required_data": "signs/loops",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "loop_len",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "id": "LOOP_004",
+    "name": "4-loop chain",
+    "source": "existing loop system",
+    "category": "Loop",
+    "required_data": "signs/loops",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "loop_len",
+        "n": 4
+      }
+    ]
+  },
+  {
+    "id": "LOOP_005",
+    "name": "5-loop chain",
+    "source": "existing loop system",
+    "category": "Loop",
+    "required_data": "signs/loops",
+    "confidence": "high",
+    "cond": [
+      {
+        "type": "loop_len",
+        "n": 5
+      }
+    ]
+  },
+  {
+    "id": "MAHA_001",
+    "name": "Rucaka (Mars)",
+    "source": "yoga_compendium.md \u00a74",
+    "category": "Mahapurusa",
+    "required_data": "signs + houses(Lagna/Moon)",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "planet_own_exalt_sign",
+        "planet": "Mars"
+      },
+      {
+        "type": "kendra_from_lagna",
+        "planet": "Mars"
+      }
+    ]
+  },
+  {
+    "id": "MAHA_002",
+    "name": "Bhadra (Mercury)",
+    "source": "yoga_compendium.md \u00a74",
+    "category": "Mahapurusa",
+    "required_data": "signs + houses(Lagna/Moon)",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "planet_own_exalt_sign",
+        "planet": "Mercury"
+      },
+      {
+        "type": "kendra_from_lagna",
+        "planet": "Mercury"
+      }
+    ]
+  },
+  {
+    "id": "MAHA_003",
+    "name": "Hamsa (Jupiter)",
+    "source": "yoga_compendium.md \u00a74",
+    "category": "Mahapurusa",
+    "required_data": "signs + houses(Lagna/Moon)",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "planet_own_exalt_sign",
+        "planet": "Jupiter"
+      },
+      {
+        "type": "kendra_from_lagna",
+        "planet": "Jupiter"
+      }
+    ]
+  },
+  {
+    "id": "MAHA_004",
+    "name": "Malavya (Venus)",
+    "source": "yoga_compendium.md \u00a74",
+    "category": "Mahapurusa",
+    "required_data": "signs + houses(Lagna/Moon)",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "planet_own_exalt_sign",
+        "planet": "Venus"
+      },
+      {
+        "type": "kendra_from_lagna",
+        "planet": "Venus"
+      }
+    ]
+  },
+  {
+    "id": "MAHA_005",
+    "name": "Sasa (Saturn)",
+    "source": "yoga_compendium.md \u00a74",
+    "category": "Mahapurusa",
+    "required_data": "signs + houses(Lagna/Moon)",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "planet_own_exalt_sign",
+        "planet": "Saturn"
+      },
+      {
+        "type": "kendra_from_lagna",
+        "planet": "Saturn"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_001",
+    "name": "Gajakesari (Moon Kendra from Jupiter)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "kendra_from_lagna_or_moon",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "kendra_from_moon"
+      },
+      {
+        "type": "planet",
+        "planet": "Jupiter"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_002",
+    "name": "Lakshmi (9th lord & Venus in Kendra/Kona own/exalt)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "lord_in_kendra_kona_own_exalt"
+      },
+      {
+        "type": "planet",
+        "planet": "Venus"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_003",
+    "name": "Sarasvati (Mer+Jup+Venus in Kendra/Kona/2nd)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "three_benefics_kendra_kona_2nd"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_004",
+    "name": "Rajayoga (9th & 10th lords conjoined auspicious house)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "lords_9_10_conjoined_auspicious"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_005",
+    "name": "Vasumati (benefics in Upacaya)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "benefics_in_upacaya"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_006",
+    "name": "Subha Mala (benefics 5/6/7 from Lagna)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "benefics_5_6_7_from_lagna"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_007",
+    "name": "Sakatayoga (Moon 6/8/12 from Jupiter)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "moon_6_8_12_from_jupiter"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_008",
+    "name": "Kemadruma (no planet 2/12/4/10 from Moon)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "kemadruma"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_009",
+    "name": "Chandra Adhiyoga (benefics 6/7/8 from Moon)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "benefics_6_7_8_from_moon"
+      }
+    ]
+  },
+  {
+    "id": "NAMED_010",
+    "name": "Amala (benefic in 10th from Lagna/Moon)",
+    "source": "yoga_compendium.md \u00a72/\u00a75",
+    "category": "NamedYoga",
+    "required_data": "houses/lordship",
+    "confidence": "med",
+    "cond": [
+      {
+        "type": "type",
+        "planet": "benefic_10th_from_lagna_moon"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_01",
+    "name": "Akrti-Gada",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Gada"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_02",
+    "name": "Akrti-Sakata",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Sakata"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_03",
+    "name": "Akrti-Vihaga",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Vihaga"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_04",
+    "name": "Akrti-Srngataka",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Srngataka"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_05",
+    "name": "Akrti-Hala",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Hala"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_06",
+    "name": "Akrti-Vajra",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Vajra"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_07",
+    "name": "Akrti-Yava",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Yava"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_08",
+    "name": "Akrti-Kamala",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Kamala"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_09",
+    "name": "Akrti-Vapi",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Vapi"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_10",
+    "name": "Akrti-Yupa",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Yupa"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_11",
+    "name": "Akrti-Isu",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Isu"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_12",
+    "name": "Akrti-Sakti",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Sakti"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_13",
+    "name": "Akrti-Danda",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Danda"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_14",
+    "name": "Akrti-Nau",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Nau"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_15",
+    "name": "Akrti-Kuta",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Kuta"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_16",
+    "name": "Akrti-Chatra",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Chatra"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_17",
+    "name": "Akrti-Capa",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Capa"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_18",
+    "name": "Akrti-Ardha-candra",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Ardha-candra"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_19",
+    "name": "Akrti-Samudra",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Samudra"
+      }
+    ]
+  },
+  {
+    "id": "AKRTI_20",
+    "name": "Akrti-Cakra",
+    "source": "yoga_compendium.md \u00a71a",
+    "category": "Nabhasa-Akrti",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "house_distribution",
+        "pattern": "Cakra"
+      }
+    ]
+  },
+  {
+    "id": "DALA_001",
+    "name": "Mala/Srak (3 benefics only in Kendras)",
+    "source": "yoga_compendium.md \u00a71d",
+    "category": "Nabhasa-Dala",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "benefics_only_kendra"
+      }
+    ]
+  },
+  {
+    "id": "DALA_002",
+    "name": "Sarpa (3 malefics only in Kendras)",
+    "source": "yoga_compendium.md \u00a71d",
+    "category": "Nabhasa-Dala",
+    "required_data": "houses",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "malefics_only_kendra"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_01",
+    "name": "Avayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Avayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_02",
+    "name": "Nisvayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Nisvayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_03",
+    "name": "Mrtiyoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Mrtiyoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_04",
+    "name": "Kuhuyoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Kuhuyoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_05",
+    "name": "Pamarayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Pamarayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_06",
+    "name": "Harsayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Harsayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_07",
+    "name": "Duskrtiyoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Duskrtiyoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_08",
+    "name": "Saralayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Saralayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_09",
+    "name": "Nirbhagyayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Nirbhagyayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_10",
+    "name": "Duryoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Duryoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_11",
+    "name": "Daridrayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Daridrayoga"
+      }
+    ]
+  },
+  {
+    "id": "AVAYOGA_12",
+    "name": "Vimalayoga",
+    "source": "negative_yogs.md / \u00a77",
+    "category": "Avayoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "avayoga",
+        "name": "Vimalayoga"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_01",
+    "name": "Bhava-Camara",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Camara"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_02",
+    "name": "Bhava-Dhenu",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Dhenu"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_03",
+    "name": "Bhava-Saurya",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Saurya"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_04",
+    "name": "Bhava-Jaladhi",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Jaladhi"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_05",
+    "name": "Bhava-Chatra",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Chatra"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_06",
+    "name": "Bhava-Astra",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Astra"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_07",
+    "name": "Bhava-Kama",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Kama"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_08",
+    "name": "Bhava-Asura",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Asura"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_09",
+    "name": "Bhava-Bhagya",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Bhagya"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_10",
+    "name": "Bhava-Khyati",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Khyati"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_11",
+    "name": "Bhava-Suparijata",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Suparijata"
+      }
+    ]
+  },
+  {
+    "id": "BHAVA_12",
+    "name": "Bhava-Musalayoga",
+    "source": "yoga_compendium.md \u00a76",
+    "category": "BhavaYoga",
+    "required_data": "houses/lordship",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "bhava_yoga",
+        "name": "Musalayoga"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_01",
+    "name": "Candra-Adhama",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Adhama"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_02",
+    "name": "Candra-Sama",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Sama"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_03",
+    "name": "Candra-Varistha",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Varistha"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_04",
+    "name": "Candra-Sunapha",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Sunapha"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_05",
+    "name": "Candra-Anapha",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Anapha"
+      }
+    ]
+  },
+  {
+    "id": "CANDRA_06",
+    "name": "Candra-Durudhara",
+    "source": "yoga_compendium.md \u00a72",
+    "category": "CandraYoga",
+    "required_data": "houses/Moon",
+    "confidence": "low",
+    "cond": [
+      {
+        "type": "candra_yoga",
+        "name": "Durudhara"
+      }
+    ]
+  }
+]

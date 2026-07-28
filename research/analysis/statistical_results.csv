@@ -1,0 +1,6 @@
+yoga_type,sample_size,control_size,event_clustering_pvalue,base_rate_correction_applied,corrected_pvalue,effect_size,interpretation
+Parivartana Moon-Saturn (Indira),1,N/A,0.0035,Yes (Bonferroni x3),0.0105,2.9x base rate,PARTIALLY SUPPORTED — N=1, signal is real for Indira but cannot generalize
+Parivartana Jupiter-Venus (Indira),1,N/A,~1.0,Yes (Bonferroni x3),~1.0,0.7x base rate,UNSUPPORTED — no signal, at or below base rate
+Parivartana Saturn-Venus (Oprah),1,N/A,~1.0,Yes (Bonferroni x3),~1.0,1.0x base rate,UNSUPPORTED — exactly at base rate
+Moon-Jupiter Exchange (Claim),0,N/A,N/A,N/A,N/A,N/A,FALSE CLAIM — yoga does not exist in chart
+Shrinkhala/Mukkiraga,0,N/A,N/A,N/A,N/A,N/A,NOT FOUND — neither tested person has it

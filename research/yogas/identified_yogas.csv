@@ -1,0 +1,11 @@
+name,yoga_type,planets_involved,d1_present,d9_present,dasha_ruling_lord,strength_score,notes
+Indira Gandhi,Parivartana,Sun-Mars,TRUE,UNKNOWN,Sun AND Mars,2,"D1 confirmed. D9 needs computation. Two lords involved."
+Indira Gandhi,Parivartana,Moon-Saturn,TRUE,UNKNOWN,Moon AND Saturn,2,"D1 confirmed. Moon-Saturn exchange. Saturn MD clustered Indira's events."
+Indira Gandhi,Parivartana,Jupiter-Venus,TRUE,UNKNOWN,Jupiter AND Venus,2,"D1 confirmed. Three simultaneous Parivartanas."
+Indira Gandhi,Shrinkhala,NONE,FALSE,N/A,N/A,0,No 3+ planet chain found.
+Indira Gandhi,Mukkiraga(3-planet),NONE,FALSE,N/A,N/A,0,No 3-planet Shrinkhala found.
+Indira Gandhi,Moon-Jupiter,NONE,FALSE,N/A,N/A,0,Moon in Capricorn. Jupiter in Taurus. No exchange.
+Oprah Winfrey,Parivartana,Saturn-Venus,TRUE,UNKNOWN,Saturn AND Venus,2,"D1 confirmed. NOT Moon-Jupiter as claimed. Saturn in Libra (Venus's sign), Venus in Capricorn (Saturn's sign)."
+Oprah Winfrey,Shrinkhala,NONE,FALSE,N/A,N/A,0,No 3+ planet chain found.
+Oprah Winfrey,Mukkiraga(3-planet),NONE,FALSE,N/A,N/A,0,No 3-planet Shrinkhala found.
+Oprah Winfrey,Moon-Jupiter,NONE,FALSE,N/A,N/A,0,"Moon in Scorpio. Jupiter in Taurus. CLAIM IS FALSE. No Moon-Jupiter exchange exists."

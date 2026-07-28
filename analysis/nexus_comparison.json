@@ -1,0 +1,130 @@
+{
+  "total_charts": 13355,
+  "nexus_distribution": {
+    "min": 0,
+    "p25": 35.2,
+    "median": 44.4,
+    "p75": 53.7,
+    "p90": 62.6,
+    "max": 99.7
+  },
+  "p1p7_comparison": [
+    {
+      "id": "P4",
+      "name": "Niromi",
+      "nexus_score": 63.1,
+      "percentile": 90.6,
+      "key_yogas": [
+        "MP:Malavaya",
+        "NBRY:Mercury(0full)",
+        "Dhana(2)",
+        "Lakshmi",
+        "ChandraMangala"
+      ],
+      "d1_dignity": 25.0,
+      "d9_dignity": 28.6,
+      "ascendant": "Leo",
+      "moon_nakshatra": "Swati",
+      "moon_lord": "Rahu"
+    },
+    {
+      "id": "P5",
+      "name": "Senath",
+      "nexus_score": 60.6,
+      "percentile": 87.3,
+      "key_yogas": [
+        "MP:Malavaya",
+        "DKA",
+        "Gajakesari",
+        "Dhana(1)",
+        "Pari(1/0maha)",
+        "ChandraMangala"
+      ],
+      "d1_dignity": 28.6,
+      "d9_dignity": 14.3,
+      "ascendant": "Gemini",
+      "moon_nakshatra": "Shravana",
+      "moon_lord": "Moon"
+    },
+    {
+      "id": "P1",
+      "name": "Polgahawela Bappa",
+      "nexus_score": 58.3,
+      "percentile": 83.8,
+      "key_yogas": [
+        "DKA",
+        "Dhana(2)",
+        "Pari(1/0maha)",
+        "BudhaAditya"
+      ],
+      "d1_dignity": 25.0,
+      "d9_dignity": 39.3,
+      "ascendant": "Gemini",
+      "moon_nakshatra": "Shatabhisha",
+      "moon_lord": "Rahu"
+    },
+    {
+      "id": "P7",
+      "name": "Sineth",
+      "nexus_score": 48.4,
+      "percentile": 61.4,
+      "key_yogas": [
+        "NBRY:Mercury(1full)",
+        "Gajakesari",
+        "Dhana(2)",
+        "Pari(1/0maha)",
+        "BudhaAditya",
+        "ChandraMangala"
+      ],
+      "d1_dignity": 14.3,
+      "d9_dignity": 14.3,
+      "ascendant": "Leo",
+      "moon_nakshatra": "Shatabhisha",
+      "moon_lord": "Rahu"
+    },
+    {
+      "id": "P2",
+      "name": "Upulakshi",
+      "nexus_score": 29.1,
+      "percentile": 12.4,
+      "key_yogas": [
+        "NBRY:Mercury,Jupiter(1full)",
+        "Dhana(1)",
+        "Pari(1/0maha)"
+      ],
+      "d1_dignity": -14.3,
+      "d9_dignity": 10.7,
+      "ascendant": "Gemini",
+      "moon_nakshatra": "Krittika",
+      "moon_lord": "Sun"
+    },
+    {
+      "id": "P3",
+      "name": "Senith",
+      "nexus_score": 25.0,
+      "percentile": 7.1,
+      "key_yogas": [],
+      "d1_dignity": 0.0,
+      "d9_dignity": 0.0,
+      "ascendant": "Aries",
+      "moon_nakshatra": "Mula",
+      "moon_lord": "Ketu"
+    },
+    {
+      "id": "P6",
+      "name": "Dewli",
+      "nexus_score": 24.7,
+      "percentile": 6.6,
+      "key_yogas": [
+        "NBRY:Moon(0full)",
+        "Dhana(1)",
+        "ChandraMangala"
+      ],
+      "d1_dignity": 0.0,
+      "d9_dignity": -14.3,
+      "ascendant": "Pisces",
+      "moon_nakshatra": "Anuradha",
+      "moon_lord": "Saturn"
+    }
+  ]
+}

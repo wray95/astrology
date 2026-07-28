@@ -1,0 +1,434 @@
+{
+  "total_with_debilitation": 5203,
+  "total_with_full_nbry": 3097,
+  "pct_full_nbry": 23.19,
+  "sample": [
+    {
+      "name": "Aaron Pryor",
+      "neecha_bhanga": [
+        {
+          "planet": "Sun",
+          "sign": "Libra",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        },
+        {
+          "planet": "Moon",
+          "sign": "Scorpio",
+          "conditions": [
+            "C5_deb_in_kendra"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        }
+      ]
+    },
+    {
+      "name": "Abdulrahman al",
+      "neecha_bhanga": [
+        {
+          "planet": "Venus",
+          "sign": "Virgo",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Abigail Johnson",
+      "neecha_bhanga": [
+        {
+          "planet": "Jupiter",
+          "sign": "Capricorn",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Abraham Kasparian",
+      "neecha_bhanga": [
+        {
+          "planet": "Sun",
+          "sign": "Libra",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Adger W. Cowans",
+      "neecha_bhanga": [
+        {
+          "planet": "Venus",
+          "sign": "Virgo",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C2_exalted_in_kendra",
+            "C4_exalted_conjunct",
+            "C5_deb_in_kendra",
+            "C7_conjunct_exalted"
+          ],
+          "count": 5,
+          "score": 200,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Adrienne Rich",
+      "neecha_bhanga": [
+        {
+          "planet": "Mars",
+          "sign": "Cancer",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C2_exalted_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Aidan Solomon",
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Aissa Wayne Gionis",
+      "neecha_bhanga": [
+        {
+          "planet": "Moon",
+          "sign": "Scorpio",
+          "conditions": [
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        },
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C2_exalted_in_kendra"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        }
+      ]
+    },
+    {
+      "name": "Al Jarreau",
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C2_exalted_in_kendra"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        },
+        {
+          "planet": "Saturn",
+          "sign": "Aries",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra",
+            "C7_conjunct_exalted"
+          ],
+          "count": 3,
+          "score": 180,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Al Pacino",
+      "neecha_bhanga": [
+        {
+          "planet": "Mercury",
+          "sign": "Pisces",
+          "conditions": [
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        },
+        {
+          "planet": "Saturn",
+          "sign": "Aries",
+          "conditions": [
+            "C3_depositor_aspect",
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 3,
+          "score": 180,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Al Unser",
+      "neecha_bhanga": [
+        {
+          "planet": "Saturn",
+          "sign": "Aries",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alaina Reed Hall",
+      "neecha_bhanga": [
+        {
+          "planet": "Sun",
+          "sign": "Libra",
+          "conditions": [
+            "C2_exalted_in_kendra",
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 3,
+          "score": 180,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alan Dershowitz",
+      "neecha_bhanga": [
+        {
+          "planet": "Moon",
+          "sign": "Scorpio",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alan Ladd Jr.",
+      "neecha_bhanga": [
+        {
+          "planet": "Sun",
+          "sign": "Libra",
+          "conditions": [
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        },
+        {
+          "planet": "Venus",
+          "sign": "Virgo",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C2_exalted_in_kendra",
+            "C3_depositor_aspect"
+          ],
+          "count": 3,
+          "score": 180,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Albert Sacco Jr.",
+      "neecha_bhanga": [
+        {
+          "planet": "Jupiter",
+          "sign": "Capricorn",
+          "conditions": [
+            "C2_exalted_in_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alberto Fujimori",
+      "neecha_bhanga": [
+        {
+          "planet": "Mars",
+          "sign": "Cancer",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alessandro Nivola",
+      "neecha_bhanga": [
+        {
+          "planet": "Mars",
+          "sign": "Cancer",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Grant",
+      "neecha_bhanga": [
+        {
+          "planet": "Jupiter",
+          "sign": "Capricorn",
+          "conditions": [
+            "C4_exalted_conjunct",
+            "C7_conjunct_exalted"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Kerry",
+      "neecha_bhanga": [
+        {
+          "planet": "Moon",
+          "sign": "Scorpio",
+          "conditions": [
+            "C3_depositor_aspect"
+          ],
+          "count": 1,
+          "score": 100,
+          "d9_exalted": false,
+          "full_nbry": false
+        },
+        {
+          "planet": "Jupiter",
+          "sign": "Capricorn",
+          "conditions": [
+            "C1_deb_lord_kendra",
+            "C3_depositor_aspect"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        },
+        {
+          "planet": "Venus",
+          "sign": "Virgo",
+          "conditions": [
+            "C3_depositor_aspect",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    },
+    {
+      "name": "Alexis Arquette",
+      "neecha_bhanga": [
+        {
+          "planet": "Saturn",
+          "sign": "Aries",
+          "conditions": [
+            "C2_exalted_in_kendra",
+            "C5_deb_in_kendra"
+          ],
+          "count": 2,
+          "score": 140,
+          "d9_exalted": false,
+          "full_nbry": true
+        }
+      ]
+    }
+  ]
+}

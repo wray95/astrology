@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Elizabeth Taylor",
+    "label": "multiple",
+    "m": 8,
+    "asc": "Leo",
+    "h7": "Aquarius",
+    "h7l": "Saturn",
+    "sc2": 14,
+    "scd": 16,
+    "scp": 13,
+    "p2m": 9.0,
+    "div": 5.6,
+    "stab": 95.3,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "Mars 7H",
+      "7L dust+malef7H",
+      "Venus DUAL"
+    ],
+    "rd": [
+      "Ketu 7H",
+      "Sun 7H",
+      "3 malefic 7H"
+    ],
+    "rp": [
+      "1 benefic 7H",
+      "7L Saturn dign",
+      "Venus EXALT"
+    ]
+  },
+  {
+    "name": "Jennifer Lopez",
+    "label": "multiple",
+    "m": 4,
+    "asc": "Virgo",
+    "h7": "Pisces",
+    "h7l": "Jupiter",
+    "sc2": 8,
+    "scd": 0,
+    "scp": 8,
+    "p2m": 4.8,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "7H DUAL",
+      "7L DUAL",
+      "2p 11H"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty",
+      "7L benefic",
+      "Venus OWN"
+    ]
+  },
+  {
+    "name": "Tom Cruise",
+    "label": "multiple",
+    "m": 3,
+    "asc": "Cancer",
+    "h7": "Capricorn",
+    "h7l": "Saturn",
+    "sc2": 1,
+    "scd": 2,
+    "scp": 9,
+    "p2m": 0,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "2p 11H"
+    ],
+    "rd": [
+      "1 malefic 7H"
+    ],
+    "rp": [
+      "7L Saturn dign",
+      "Jupiter asp 7H"
+    ]
+  },
+  {
+    "name": "Kim Kardashian",
+    "label": "multiple",
+    "m": 3,
+    "asc": "Gemini",
+    "h7": "Sagittarius",
+    "h7l": "Jupiter",
+    "sc2": 6,
+    "scd": 0,
+    "scp": 4,
+    "p2m": 4.8,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "7H DUAL",
+      "7L DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty",
+      "7L benefic"
+    ]
+  },
+  {
+    "name": "Brad Pitt",
+    "label": "multiple",
+    "m": 2,
+    "asc": "Leo",
+    "h7": "Aquarius",
+    "h7l": "Saturn",
+    "sc2": 0,
+    "scd": 3,
+    "scp": 11,
+    "p2m": 0,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [],
+    "rd": [
+      "7L dustH6"
+    ],
+    "rp": [
+      "7H empty",
+      "7L Saturn dign",
+      "Jupiter asp 7H"
+    ]
+  },
+  {
+    "name": "Ben Affleck",
+    "label": "multiple",
+    "m": 2,
+    "asc": "Aries",
+    "h7": "Libra",
+    "h7l": "Venus",
+    "sc2": 5,
+    "scd": 0,
+    "scp": 5,
+    "p2m": 3.0,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "7L DUAL",
+      "Venus DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "1 benefic 7H",
+      "7L benefic"
+    ]
+  },
+  {
+    "name": "Angelina Jolie",
+    "label": "divorce",
+    "m": 1,
+    "asc": "Gemini",
+    "h7": "Sagittarius",
+    "h7l": "Jupiter",
+    "sc2": 6,
+    "scd": 0,
+    "scp": 9,
+    "p2m": 1.8,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "7H DUAL",
+      "7L DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty",
+      "7L Jupiter dign",
+      "7L benefic"
+    ]
+  },
+  {
+    "name": "Johnny Depp",
+    "label": "divorce",
+    "m": 1,
+    "asc": "Cancer",
+    "h7": "Capricorn",
+    "h7l": "Saturn",
+    "sc2": 1,
+    "scd": 5,
+    "scp": 9,
+    "p2m": 0,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "3p 11H"
+    ],
+    "rd": [
+      "1 malefic 7H"
+    ],
+    "rp": [
+      "7L Saturn dign",
+      "Venus OWN"
+    ]
+  },
+  {
+    "name": "Britney Spears",
+    "label": "divorce",
+    "m": 3,
+    "asc": "Leo",
+    "h7": "Aquarius",
+    "h7l": "Saturn",
+    "sc2": 3,
+    "scd": 0,
+    "scp": 2,
+    "p2m": 2.4,
+    "div": 0,
+    "stab": 100,
+    "ok": false,
+    "v": "STABLE",
+    "r2": [
+      "7L DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty"
+    ]
+  },
+  {
+    "name": "Barack Obama",
+    "label": "stable",
+    "m": 1,
+    "asc": "Aries",
+    "h7": "Libra",
+    "h7l": "Venus",
+    "sc2": 5,
+    "scd": 0,
+    "scp": 4,
+    "p2m": 3.6,
+    "div": 0,
+    "stab": 100,
+    "ok": true,
+    "v": "STABLE",
+    "r2": [
+      "7L DUAL",
+      "Venus DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty",
+      "7L benefic"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "label": "stable",
+    "m": 1,
+    "asc": "Cancer",
+    "h7": "Capricorn",
+    "h7l": "Saturn",
+    "sc2": 5,
+    "scd": 6,
+    "scp": 7,
+    "p2m": 1.8,
+    "div": 0.4,
+    "stab": 99.3,
+    "ok": true,
+    "v": "STABLE",
+    "r2": [
+      "7L DUAL",
+      "2p 11H"
+    ],
+    "rd": [
+      "7L dustH12"
+    ],
+    "rp": [
+      "1 benefic 7H",
+      "Venus OWN"
+    ]
+  },
+  {
+    "name": "Victoria Beckham",
+    "label": "stable",
+    "m": 1,
+    "asc": "Taurus",
+    "h7": "Scorpio",
+    "h7l": "Mars",
+    "sc2": 3,
+    "scd": 3,
+    "scp": 2,
+    "p2m": 2.4,
+    "div": 1.4,
+    "stab": 98.9,
+    "ok": true,
+    "v": "STABLE",
+    "r2": [
+      "7L DUAL"
+    ],
+    "rd": [],
+    "rp": [
+      "7H empty"
+    ]
+  }
+]

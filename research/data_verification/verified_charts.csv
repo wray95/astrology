@@ -1,0 +1,7 @@
+name,source,rodden_grade,verification_status,birth_date,birth_time,birth_place,notes
+Bappa,Prior 4-family analysis,B,PARTIALLY_VERIFIED,1962-05-27,03:38:54,"Polgahawela, Sri Lanka","No independent birth record located. Chart engine gives Moon=Shatabhisha."
+Upulakshi,Prior 4-family analysis,B,UNRELIABLE,1997-03-14,12:00:00,"Colombo, Sri Lanka","PLACEHOLDER NOON TIME. Real TOB unknown. EXCLUDED from testing."
+Senith,Prior 4-family analysis / Astro-seek,B,CORRECTED,1995-08-07,21:18:00,"Colombo, Sri Lanka","Moon=Mula/Ketu per JPL DE421 engine. Previously reported as Purva Ashadha/Venus in error."
+Niromi,Prior 4-family analysis,B,PARTIALLY_VERIFIED,1967-04-25,08:17:37,"Colombo, Sri Lanka","No independent birth record located. Chart engine gives Moon=Swati/Rahu."
+Senath,Drik Panchang / Astro-seek link,B,PARTIALLY_VERIFIED,2001-05-14,16:08:40,"Colombo, Sri Lanka","Multiple source disagreement on Moon nakshatra (Hasta vs Shravana). Engine resolves to Shravana."
+Dewli,AppliedJyotish PDF,B,PARTIALLY_VERIFIED,2005-10-08,08:22:03,"Sri Jayawardenepura Kotte, Sri Lanka","Time differs from Drik Panchang link (07:52). AppliedJyotish PDF = authoritative for this chart."
