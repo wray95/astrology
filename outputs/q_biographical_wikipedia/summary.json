@@ -1,0 +1,20 @@
+{
+  "people": 5010,
+  "retrieved_pages": 5010,
+  "fields": [
+    "birth_date",
+    "death_date",
+    "spouse",
+    "marriage_date",
+    "children",
+    "occupation",
+    "career_active",
+    "debut",
+    "incarceration",
+    "education",
+    "employer",
+    "wealth"
+  ],
+  "method": "Wikipedia API raw infobox/extract collection",
+  "warning": "Fields may be blank, ambiguous or template-formatted; no dates were inferred. Manual/source verification required."
+}
