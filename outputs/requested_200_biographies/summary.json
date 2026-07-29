@@ -1,0 +1,6 @@
+{
+  "records": 200,
+  "source_selection": "first 200 records of famous_people_birth_data.json",
+  "unknown_policy": "null; no wealth, marriage or dates inferred",
+  "source": "Wikipedia API plus repository source URLs"
+}
