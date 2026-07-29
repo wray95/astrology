@@ -1,0 +1,530 @@
+{
+  "name": "MrBeast (Jimmy Donaldson)",
+  "birth_date": "1998-05-07",
+  "birth_time": "12:00",
+  "birth_place": "Wichita, KS, US",
+  "latitude": 37.687,
+  "longitude": -97.33,
+  "timezone": "-05:00",
+  "rodden_rating": "C (Unrated)",
+  "profession": "YouTuber / Digital Entrepreneur",
+  "industry": "Content Creation / Philanthropy",
+  "provided_moon_nakshatra": "Pushya (dependent on precise birth time)",
+  "wealth_status": "Rich (+3)",
+  "social_impact": "Good (+2)",
+  "source_url": "",
+  "source_note": "Public Records / Biography",
+  "birth_time_used": false,
+  "dataset_role": "separate benchmark; not P-series and not included in Q-series cohort",
+  "date_only_reference": {
+    "date": "1998-05-07",
+    "reference_time": "UTC noon midpoint (not birth time)",
+    "interval_utc": [
+      "00:00",
+      "24:00"
+    ],
+    "midpoint_planets": {
+      "Sun": {
+        "longitude": 22.90049633,
+        "sign": "Aries",
+        "degree": 22.90049633,
+        "retrograde": false,
+        "speed_deg_day": 0.96755184,
+        "nakshatra": "Bharani"
+      },
+      "Moon": {
+        "longitude": 157.98079082,
+        "sign": "Virgo",
+        "degree": 7.98079082,
+        "retrograde": false,
+        "speed_deg_day": 11.79206833,
+        "nakshatra": "Uttara Phalguni"
+      },
+      "Mercury": {
+        "longitude": 356.53518366,
+        "sign": "Pisces",
+        "degree": 26.53518366,
+        "retrograde": false,
+        "speed_deg_day": 1.10808633,
+        "nakshatra": "Revati"
+      },
+      "Venus": {
+        "longitude": 340.33959081,
+        "sign": "Pisces",
+        "degree": 10.33959081,
+        "retrograde": false,
+        "speed_deg_day": 1.13163979,
+        "nakshatra": "Uttara Bhadrapada"
+      },
+      "Mars": {
+        "longitude": 24.19051509,
+        "sign": "Aries",
+        "degree": 24.19051509,
+        "retrograde": false,
+        "speed_deg_day": 0.72632609,
+        "nakshatra": "Bharani"
+      },
+      "Jupiter": {
+        "longitude": 326.92769649,
+        "sign": "Aquarius",
+        "degree": 26.92769649,
+        "retrograde": false,
+        "speed_deg_day": 0.18299386,
+        "nakshatra": "Purva Bhadrapada"
+      },
+      "Saturn": {
+        "longitude": 2.51611499,
+        "sign": "Aries",
+        "degree": 2.51611499,
+        "retrograde": false,
+        "speed_deg_day": 0.12150657,
+        "nakshatra": "Ashwini"
+      },
+      "Uranus": {
+        "longitude": 288.86939844,
+        "sign": "Capricorn",
+        "degree": 18.86939844,
+        "retrograde": false,
+        "speed_deg_day": 0.0082853,
+        "nakshatra": "Shravana"
+      },
+      "Neptune": {
+        "longitude": 278.32876783,
+        "sign": "Capricorn",
+        "degree": 8.32876783,
+        "retrograde": true,
+        "speed_deg_day": -0.0016827,
+        "nakshatra": "Uttara Ashadha"
+      },
+      "Pluto": {
+        "longitude": 223.41360078,
+        "sign": "Scorpio",
+        "degree": 13.41360078,
+        "retrograde": true,
+        "speed_deg_day": -0.02509779,
+        "nakshatra": "Anuradha"
+      },
+      "Rahu_mean": {
+        "longitude": 133.19459914,
+        "sign": "Leo",
+        "degree": 13.19459914,
+        "retrograde": true,
+        "speed_deg_day": -0.05299202,
+        "nakshatra": "Magha"
+      },
+      "Ketu": {
+        "longitude": 313.19459914,
+        "sign": "Aquarius",
+        "degree": 13.19459914,
+        "retrograde": true,
+        "speed_deg_day": -0.05299202,
+        "nakshatra": "Shatabhisha"
+      }
+    },
+    "daily_interval": {
+      "Sun": {
+        "longitude_utc_00": 22.41665528,
+        "longitude_utc_24": 23.38420978,
+        "sign_at_00": "Aries",
+        "sign_at_24": "Aries",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Moon": {
+        "longitude_utc_00": 152.08228596,
+        "longitude_utc_24": 163.87698437,
+        "sign_at_00": "Virgo",
+        "sign_at_24": "Virgo",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Mercury": {
+        "longitude_utc_00": 355.98684808,
+        "longitude_utc_24": 357.09487959,
+        "sign_at_00": "Pisces",
+        "sign_at_24": "Pisces",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Venus": {
+        "longitude_utc_00": 339.7739955,
+        "longitude_utc_24": 340.90563621,
+        "sign_at_00": "Pisces",
+        "sign_at_24": "Pisces",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Mars": {
+        "longitude_utc_00": 23.82724108,
+        "longitude_utc_24": 24.55356831,
+        "sign_at_00": "Aries",
+        "sign_at_24": "Aries",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Jupiter": {
+        "longitude_utc_00": 326.83599584,
+        "longitude_utc_24": 327.01898896,
+        "sign_at_00": "Aquarius",
+        "sign_at_24": "Aquarius",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Saturn": {
+        "longitude_utc_00": 2.45530815,
+        "longitude_utc_24": 2.57681428,
+        "sign_at_00": "Aries",
+        "sign_at_24": "Aries",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Uranus": {
+        "longitude_utc_00": 288.86515287,
+        "longitude_utc_24": 288.87343814,
+        "sign_at_00": "Capricorn",
+        "sign_at_24": "Capricorn",
+        "sign_stable": true,
+        "retrograde_at_midpoint": false,
+        "retrograde_stable": true
+      },
+      "Neptune": {
+        "longitude_utc_00": 278.32954175,
+        "longitude_utc_24": 278.32785905,
+        "sign_at_00": "Capricorn",
+        "sign_at_24": "Capricorn",
+        "sign_stable": true,
+        "retrograde_at_midpoint": true,
+        "retrograde_stable": true
+      },
+      "Pluto": {
+        "longitude_utc_00": 223.42612279,
+        "longitude_utc_24": 223.40102525,
+        "sign_at_00": "Scorpio",
+        "sign_at_24": "Scorpio",
+        "sign_stable": true,
+        "retrograde_at_midpoint": true,
+        "retrograde_stable": true
+      },
+      "Rahu_mean": {
+        "longitude_utc_00": 133.22109514,
+        "longitude_utc_24": 133.16810313,
+        "sign_at_00": "Leo",
+        "sign_at_24": "Leo",
+        "sign_stable": true,
+        "retrograde_at_midpoint": true,
+        "retrograde_stable": true
+      },
+      "Ketu": {
+        "longitude_utc_00": 313.22109514,
+        "longitude_utc_24": 313.16810313,
+        "sign_at_00": "Aquarius",
+        "sign_at_24": "Aquarius",
+        "sign_stable": true,
+        "retrograde_at_midpoint": true,
+        "retrograde_stable": true
+      }
+    },
+    "conjunctions_midpoint": [
+      {
+        "a": "Sun",
+        "b": "Mars",
+        "separation": 1.29,
+        "aspect": 0,
+        "orb": 1.29
+      },
+      {
+        "a": "Sun",
+        "b": "Jupiter",
+        "separation": 55.9728,
+        "aspect": 60,
+        "orb": 4.0272
+      },
+      {
+        "a": "Sun",
+        "b": "Uranus",
+        "separation": 94.0311,
+        "aspect": 90,
+        "orb": 4.0311
+      },
+      {
+        "a": "Moon",
+        "b": "Venus",
+        "separation": 177.6412,
+        "aspect": 180,
+        "orb": 2.3588
+      },
+      {
+        "a": "Moon",
+        "b": "Neptune",
+        "separation": 120.348,
+        "aspect": 120,
+        "orb": 0.348
+      },
+      {
+        "a": "Moon",
+        "b": "Pluto",
+        "separation": 65.4328,
+        "aspect": 60,
+        "orb": 5.4328
+      },
+      {
+        "a": "Mercury",
+        "b": "Saturn",
+        "separation": 5.9809,
+        "aspect": 0,
+        "orb": 5.9809
+      },
+      {
+        "a": "Mercury",
+        "b": "Uranus",
+        "separation": 67.6658,
+        "aspect": 60,
+        "orb": 7.6658
+      },
+      {
+        "a": "Venus",
+        "b": "Neptune",
+        "separation": 62.0108,
+        "aspect": 60,
+        "orb": 2.0108
+      },
+      {
+        "a": "Venus",
+        "b": "Pluto",
+        "separation": 116.926,
+        "aspect": 120,
+        "orb": 3.074
+      },
+      {
+        "a": "Mars",
+        "b": "Jupiter",
+        "separation": 57.2628,
+        "aspect": 60,
+        "orb": 2.7372
+      },
+      {
+        "a": "Mars",
+        "b": "Uranus",
+        "separation": 95.3211,
+        "aspect": 90,
+        "orb": 5.3211
+      },
+      {
+        "a": "Saturn",
+        "b": "Neptune",
+        "separation": 84.1873,
+        "aspect": 90,
+        "orb": 5.8127
+      },
+      {
+        "a": "Uranus",
+        "b": "Pluto",
+        "separation": 65.4558,
+        "aspect": 60,
+        "orb": 5.4558
+      },
+      {
+        "a": "Neptune",
+        "b": "Pluto",
+        "separation": 54.9152,
+        "aspect": 60,
+        "orb": 5.0848
+      },
+      {
+        "a": "Pluto",
+        "b": "Rahu_mean",
+        "separation": 90.219,
+        "aspect": 90,
+        "orb": 0.219
+      },
+      {
+        "a": "Pluto",
+        "b": "Ketu",
+        "separation": 89.781,
+        "aspect": 90,
+        "orb": 0.219
+      },
+      {
+        "a": "Rahu_mean",
+        "b": "Ketu",
+        "separation": 180.0,
+        "aspect": 180,
+        "orb": 0.0
+      }
+    ],
+    "major_aspects_midpoint": [
+      {
+        "a": "Sun",
+        "b": "Mars",
+        "separation": 1.29,
+        "aspect": 0,
+        "orb": 1.29
+      },
+      {
+        "a": "Sun",
+        "b": "Jupiter",
+        "separation": 55.9728,
+        "aspect": 60,
+        "orb": 4.0272
+      },
+      {
+        "a": "Sun",
+        "b": "Uranus",
+        "separation": 94.0311,
+        "aspect": 90,
+        "orb": 4.0311
+      },
+      {
+        "a": "Moon",
+        "b": "Venus",
+        "separation": 177.6412,
+        "aspect": 180,
+        "orb": 2.3588
+      },
+      {
+        "a": "Moon",
+        "b": "Neptune",
+        "separation": 120.348,
+        "aspect": 120,
+        "orb": 0.348
+      },
+      {
+        "a": "Moon",
+        "b": "Pluto",
+        "separation": 65.4328,
+        "aspect": 60,
+        "orb": 5.4328
+      },
+      {
+        "a": "Mercury",
+        "b": "Saturn",
+        "separation": 5.9809,
+        "aspect": 0,
+        "orb": 5.9809
+      },
+      {
+        "a": "Venus",
+        "b": "Neptune",
+        "separation": 62.0108,
+        "aspect": 60,
+        "orb": 2.0108
+      },
+      {
+        "a": "Venus",
+        "b": "Pluto",
+        "separation": 116.926,
+        "aspect": 120,
+        "orb": 3.074
+      },
+      {
+        "a": "Mars",
+        "b": "Jupiter",
+        "separation": 57.2628,
+        "aspect": 60,
+        "orb": 2.7372
+      },
+      {
+        "a": "Mars",
+        "b": "Uranus",
+        "separation": 95.3211,
+        "aspect": 90,
+        "orb": 5.3211
+      },
+      {
+        "a": "Saturn",
+        "b": "Neptune",
+        "separation": 84.1873,
+        "aspect": 90,
+        "orb": 5.8127
+      },
+      {
+        "a": "Uranus",
+        "b": "Pluto",
+        "separation": 65.4558,
+        "aspect": 60,
+        "orb": 5.4558
+      },
+      {
+        "a": "Neptune",
+        "b": "Pluto",
+        "separation": 54.9152,
+        "aspect": 60,
+        "orb": 5.0848
+      },
+      {
+        "a": "Pluto",
+        "b": "Rahu_mean",
+        "separation": 90.219,
+        "aspect": 90,
+        "orb": 0.219
+      },
+      {
+        "a": "Pluto",
+        "b": "Ketu",
+        "separation": 89.781,
+        "aspect": 90,
+        "orb": 0.219
+      },
+      {
+        "a": "Rahu_mean",
+        "b": "Ketu",
+        "separation": 180.0,
+        "aspect": 180,
+        "orb": 0.0
+      }
+    ],
+    "combustion_midpoint_8.5deg": [
+      "Mars"
+    ],
+    "lunar": {
+      "phase_angle_deg": 135.080294,
+      "phase": "Waxing Gibbous",
+      "tithi_midpoint": 12,
+      "tithi_is_time_sensitive": true,
+      "yoga_midpoint": 14,
+      "yoga_is_time_sensitive": true,
+      "karana_midpoint": 23,
+      "karana_is_time_sensitive": true,
+      "nakshatra_midpoint": "Uttara Phalguni",
+      "nakshatra_is_time_sensitive": true,
+      "eclipse_proximity_proxy": false,
+      "eclipse_proxy_definition": "Sun-Moon elongation <=18 degrees from New/Full Moon; not an eclipse catalogue or visibility calculation"
+    },
+    "limitations": [
+      "No birth time used",
+      "No Ascendant, houses, D1, D9 or time-dependent natal chart",
+      "UTC noon is a reproducible reference instant only; it is not an assumed birth time",
+      "Moon, combustion, aspects and lunar calendar fields may change within the civil date",
+      "Birth location is retained as metadata but cannot determine geocentric planetary longitude without a time"
+    ]
+  },
+  "saturn_returns": {
+    "first": {
+      "date": "2027-07-04",
+      "age_years": 29.159,
+      "saturn_longitude": 2.524203,
+      "angular_error_deg": 0.008088,
+      "window_years": [
+        25,
+        35
+      ]
+    },
+    "second": {
+      "date": "2057-04-26",
+      "age_years": 58.972,
+      "saturn_longitude": 2.45581,
+      "angular_error_deg": 0.060305,
+      "window_years": [
+        54,
+        65
+      ]
+    }
+  }
+}
