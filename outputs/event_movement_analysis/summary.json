@@ -1,0 +1,24 @@
+{
+  "source": "research/events/documented_events.csv",
+  "events": 10,
+  "people": 2,
+  "q_linked_events": 0,
+  "event_class_counts": {
+    "positive_or_gain": 6,
+    "negative_or_loss": 3,
+    "unclassified": 1
+  },
+  "saturn_retrograde_counts": {
+    "positive_or_gain|retrograde=False": 3,
+    "positive_or_gain|retrograde=True": 3,
+    "negative_or_loss|retrograde=False": 2,
+    "negative_or_loss|retrograde=True": 1,
+    "unclassified|retrograde=True": 1
+  },
+  "limitations": [
+    "Only 10 events for 2 reference people are present",
+    "No Q-series events are present",
+    "No causal inference",
+    "Date-only midpoint features are not exact event-time observations"
+  ]
+}

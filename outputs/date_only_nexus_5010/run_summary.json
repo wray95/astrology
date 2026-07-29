@@ -1,0 +1,17 @@
+{
+  "method": "Date-only NEXUS / transit reference charts",
+  "input": "data/births_people.json",
+  "counts": {
+    "people": 5010,
+    "unique_dates": 5010,
+    "date_duplicates": 0
+  },
+  "forbidden_fields": [
+    "birth_time",
+    "ascendant",
+    "houses",
+    "D1",
+    "D9"
+  ],
+  "generated_utc": "2026-07-29T15:09:23.301094+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "q_people": 5010,
+  "excluded_named_p_records_in_source": 0,
+  "natal_saturn_sign_counts": {
+    "Aquarius": 463,
+    "Aries": 347,
+    "Cancer": 396,
+    "Capricorn": 528,
+    "Gemini": 333,
+    "Leo": 387,
+    "Libra": 448,
+    "Pisces": 361,
+    "Sagittarius": 509,
+    "Scorpio": 445,
+    "Taurus": 355,
+    "Virgo": 438
+  },
+  "event_timeline_records_linked": 0,
+  "return_precision": "date-only nearest daily UTC-noon estimate; not an exact time",
+  "generated_utc": "2026-07-29T16:01:29.578650+00:00"
+}
