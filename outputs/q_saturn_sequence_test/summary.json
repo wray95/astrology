@@ -1,0 +1,78 @@
+{
+  "candidate_events": {
+    "n": 161,
+    "same_sign": 19,
+    "exact_3deg": 4,
+    "retrograde": 60
+  },
+  "matched_controls": {
+    "n": 450,
+    "same_sign": 38,
+    "exact_3deg": 7,
+    "retrograde": 171
+  },
+  "by_event_type": {
+    "death": {
+      "events": {
+        "n": 134,
+        "same_sign": 17,
+        "exact_3deg": 4,
+        "retrograde": 49
+      },
+      "controls": {
+        "n": 390,
+        "same_sign": 36,
+        "exact_3deg": 7,
+        "retrograde": 146
+      }
+    },
+    "debut_or_career_start": {
+      "events": {
+        "n": 20,
+        "same_sign": 1,
+        "exact_3deg": 0,
+        "retrograde": 8
+      },
+      "controls": {
+        "n": 39,
+        "same_sign": 0,
+        "exact_3deg": 0,
+        "retrograde": 16
+      }
+    },
+    "incarceration_or_conviction_candidate": {
+      "events": {
+        "n": 1,
+        "same_sign": 0,
+        "exact_3deg": 0,
+        "retrograde": 0
+      },
+      "controls": {
+        "n": 3,
+        "same_sign": 0,
+        "exact_3deg": 0,
+        "retrograde": 0
+      }
+    },
+    "marriage_or_spouse_date_candidate": {
+      "events": {
+        "n": 6,
+        "same_sign": 1,
+        "exact_3deg": 0,
+        "retrograde": 3
+      },
+      "controls": {
+        "n": 18,
+        "same_sign": 2,
+        "exact_3deg": 0,
+        "retrograde": 9
+      }
+    }
+  },
+  "limitations": [
+    "Candidate extraction only; not manually verified",
+    "Controls are preliminary age-window random dates, not final matched design",
+    "No Q wealth/success/failure labels are available",
+    "Association is not causation"
+  ]
+}
