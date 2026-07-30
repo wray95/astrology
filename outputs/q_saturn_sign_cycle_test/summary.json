@@ -1,0 +1,185 @@
+{
+  "candidate_event_rows": 161,
+  "by_natal_saturn_sign": {
+    "Aquarius": {
+      "events_total": 9,
+      "phases": {
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 1,
+        "post_sign_180d": 1,
+        "outside_window": 6
+      },
+      "event_types": {
+        "death": 6,
+        "debut_or_career_start": 2,
+        "marriage_or_spouse_date_candidate": 1
+      }
+    },
+    "Aries": {
+      "events_total": 5,
+      "phases": {
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 0,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 5
+      },
+      "event_types": {
+        "death": 5
+      }
+    },
+    "Cancer": {
+      "events_total": 18,
+      "phases": {
+        "pre_ingress_180d": 2,
+        "natal_sign_phase": 2,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 1,
+        "outside_window": 13
+      },
+      "event_types": {
+        "death": 15,
+        "debut_or_career_start": 2,
+        "marriage_or_spouse_date_candidate": 1
+      }
+    },
+    "Capricorn": {
+      "events_total": 10,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 1,
+        "post_sign_180d": 0,
+        "outside_window": 7
+      },
+      "event_types": {
+        "death": 9,
+        "debut_or_career_start": 1
+      }
+    },
+    "Gemini": {
+      "events_total": 12,
+      "phases": {
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 11
+      },
+      "event_types": {
+        "death": 11,
+        "debut_or_career_start": 1
+      }
+    },
+    "Leo": {
+      "events_total": 16,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 3,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 12
+      },
+      "event_types": {
+        "death": 12,
+        "debut_or_career_start": 3,
+        "marriage_or_spouse_date_candidate": 1
+      }
+    },
+    "Libra": {
+      "events_total": 15,
+      "phases": {
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 0,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 15
+      },
+      "event_types": {
+        "death": 13,
+        "debut_or_career_start": 2
+      }
+    },
+    "Pisces": {
+      "events_total": 12,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 2,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 9
+      },
+      "event_types": {
+        "death": 11,
+        "debut_or_career_start": 1
+      }
+    },
+    "Sagittarius": {
+      "events_total": 21,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 1,
+        "post_sign_180d": 0,
+        "outside_window": 18
+      },
+      "event_types": {
+        "death": 19,
+        "debut_or_career_start": 2
+      }
+    },
+    "Scorpio": {
+      "events_total": 13,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 2,
+        "exact_return_3deg": 1,
+        "post_sign_180d": 0,
+        "outside_window": 9
+      },
+      "event_types": {
+        "death": 9,
+        "debut_or_career_start": 1,
+        "incarceration_or_conviction_candidate": 1,
+        "marriage_or_spouse_date_candidate": 2
+      }
+    },
+    "Taurus": {
+      "events_total": 14,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 12
+      },
+      "event_types": {
+        "death": 10,
+        "debut_or_career_start": 3,
+        "marriage_or_spouse_date_candidate": 1
+      }
+    },
+    "Virgo": {
+      "events_total": 16,
+      "phases": {
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 14
+      },
+      "event_types": {
+        "death": 14,
+        "debut_or_career_start": 2
+      }
+    }
+  },
+  "outcome_labels": {
+    "wealth": 0,
+    "king_or_political_peak": 0,
+    "downfall_or_financial_loss": 0,
+    "verified_rags_to_riches": 0
+  },
+  "interpretation": "Sign-cycle timing rows are available; real-world outcome labels are not available for Q."
+}
