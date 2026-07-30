@@ -1,0 +1,126 @@
+{
+  "total_people": 5010,
+  "total_events": 1812,
+  "total_bios": 200,
+  "top_people": [
+    [
+      "Axel Springer",
+      8
+    ],
+    [
+      "Betty Furness",
+      7
+    ],
+    [
+      "Ernest Noel",
+      7
+    ],
+    [
+      "Ferenc Moln\u00e1r",
+      6
+    ],
+    [
+      "Arthur Kornberg",
+      6
+    ],
+    [
+      "George Stephenson",
+      5
+    ],
+    [
+      "Allen Funt",
+      5
+    ],
+    [
+      "Gary Ayles",
+      5
+    ],
+    [
+      "Tobe Hooper",
+      4
+    ],
+    [
+      "Gary Coleman",
+      4
+    ],
+    [
+      "Astor Piazzolla",
+      4
+    ],
+    [
+      "Max Shulman",
+      4
+    ],
+    [
+      "Turhan Bey",
+      4
+    ],
+    [
+      "Lyman Hall",
+      4
+    ],
+    [
+      "Turk Broda",
+      4
+    ],
+    [
+      "William Howard Stein",
+      4
+    ],
+    [
+      "Amalia Aguilar",
+      4
+    ],
+    [
+      "Henry Armetta",
+      4
+    ],
+    [
+      "Buddy Guy",
+      4
+    ],
+    [
+      "Johnny Mantz",
+      4
+    ],
+    [
+      "Jean Servais",
+      4
+    ],
+    [
+      "Jim McKay",
+      4
+    ],
+    [
+      "Wade Boteler",
+      4
+    ],
+    [
+      "Fran\u00e7ois Guizot",
+      4
+    ],
+    [
+      "Mary Badham",
+      4
+    ]
+  ],
+  "sign_event_rates": {
+    "Gemini": 0.43,
+    "Leo": 0.42,
+    "Scorpio": 0.32,
+    "Virgo": 0.38,
+    "Cancer": 0.38,
+    "Sagittarius": 0.38,
+    "Aries": 0.32,
+    "Libra": 0.39,
+    "Capricorn": 0.3,
+    "Aquarius": 0.34,
+    "Taurus": 0.37,
+    "Pisces": 0.36
+  },
+  "return_events": {
+    "1st Return": 159,
+    "2nd Return": 50,
+    "3rd Return": 42
+  }
+}
