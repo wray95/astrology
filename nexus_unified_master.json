@@ -3092,7 +3092,7 @@
    "Mars+Rahu",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Jeff Bezos",
@@ -3168,7 +3168,7 @@
    "Mars+Saturn",
    "Mercury+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Bill Gates",
@@ -3241,7 +3241,7 @@
    "Mars+Mercury",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Mark Zuckerberg",
@@ -3315,7 +3315,7 @@
    "Mars+Saturn",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Warren Buffett",
@@ -3386,7 +3386,7 @@
    "Mars+Jupiter",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Bernard Arnault",
@@ -3460,7 +3460,7 @@
    "Mars+Venus",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Steve Jobs",
@@ -3531,7 +3531,7 @@
    "Jupiter+Ketu",
    "Venus+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Larry Ellison",
@@ -3611,7 +3611,7 @@
    "Mercury+Venus",
    "Jupiter+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Larry Page",
@@ -3683,7 +3683,7 @@
    "Moon+Rahu",
    "Mars+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Sergey Brin",
@@ -3753,7 +3753,7 @@
   "conjunctions": [
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Steve Ballmer",
@@ -3823,7 +3823,7 @@
   "conjunctions": [
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Michael Bloomberg",
@@ -3897,7 +3897,7 @@
    "Mars+Saturn",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Carlos Slim Helu",
@@ -3969,7 +3969,7 @@
    "Mars+Jupiter",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Amancio Ortega",
@@ -4041,7 +4041,7 @@
    "Jupiter+Rahu",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Mukesh Ambani",
@@ -4116,7 +4116,7 @@
    "Mercury+Ketu",
    "Venus+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Gautam Adani",
@@ -4188,7 +4188,7 @@
    "Venus+Rahu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Jensen Huang",
@@ -4262,7 +4262,7 @@
    "Mercury+Ketu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Michael Dell",
@@ -4335,7 +4335,7 @@
    "Moon+Ketu",
    "Mercury+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Phil Knight",
@@ -4408,7 +4408,7 @@
    "Mars+Saturn",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Mark Shuttleworth",
@@ -4479,7 +4479,7 @@
    "Sun+Mercury",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Richard Branson",
@@ -4551,7 +4551,7 @@
    "Moon+Saturn",
    "Mars+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Jack Ma",
@@ -4622,7 +4622,7 @@
    "Sun+Mercury",
    "Mars+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Pony Ma",
@@ -4695,7 +4695,7 @@
    "Moon+Mars",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Masayoshi Son",
@@ -4767,7 +4767,7 @@
    "Mars+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Tadashi Yanai",
@@ -4839,7 +4839,7 @@
    "Sun+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Dieter Schwarz",
@@ -4913,7 +4913,7 @@
    "Mercury+Venus",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Klaus-Michael Kuehne",
@@ -4985,7 +4985,7 @@
    "Mars+Rahu",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Stefan Quandt",
@@ -5058,7 +5058,7 @@
    "Mars+Mercury",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Susanne Klatten",
@@ -5131,7 +5131,7 @@
    "Moon+Ketu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Francois Pinault",
@@ -5203,7 +5203,7 @@
    "Sun+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Alain Wertheimer",
@@ -5276,7 +5276,7 @@
    "Mars+Ketu",
    "Mercury+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Gerard Wertheimer",
@@ -5347,7 +5347,7 @@
    "Mars+Saturn",
    "Jupiter+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Giovanni Ferrero",
@@ -5417,7 +5417,7 @@
   "conjunctions": [
    "Mars+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Giorgio Armani",
@@ -5492,7 +5492,7 @@
    "Moon+Mercury",
    "Mars+Mercury"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Silvio Berlusconi",
@@ -5563,7 +5563,7 @@
    "Sun+Mercury",
    "Moon+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "James Ratcliffe",
@@ -5634,7 +5634,7 @@
    "Sun+Mercury",
    "Moon+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Ray Dalio",
@@ -5707,7 +5707,7 @@
    "Mercury+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Ken Griffin",
@@ -5783,7 +5783,7 @@
    "Jupiter+Ketu",
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Stephen Schwarzman",
@@ -5856,7 +5856,7 @@
    "Moon+Ketu",
    "Jupiter+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "David Rubenstein",
@@ -5928,7 +5928,7 @@
    "Mercury+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Leon Black",
@@ -6001,7 +6001,7 @@
    "Mercury+Ketu",
    "Venus+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Carl Icahn",
@@ -6073,7 +6073,7 @@
    "Moon+Jupiter",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "George Soros",
@@ -6141,7 +6141,7 @@
    }
   },
   "conjunctions": [],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Ben Horowitz",
@@ -6215,7 +6215,7 @@
    "Mars+Rahu",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "John Doerr",
@@ -6287,7 +6287,7 @@
    "Sun+Mercury",
    "Mars+Mercury"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Reid Hoffman",
@@ -6363,7 +6363,7 @@
    "Mars+Ketu",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Travis Kalanick",
@@ -6436,7 +6436,7 @@
    "Mars+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Garrett Camp",
@@ -6511,7 +6511,7 @@
    "Mars+Venus",
    "Mercury+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Brian Chesky",
@@ -6587,7 +6587,7 @@
    "Jupiter+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Joe Gebbia",
@@ -6660,7 +6660,7 @@
    "Jupiter+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Nathan Blecharczyk",
@@ -6731,7 +6731,7 @@
    "Sun+Venus",
    "Jupiter+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Evan Spiegel",
@@ -6802,7 +6802,7 @@
    "Mercury+Venus",
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Bobby Murphy",
@@ -6872,7 +6872,7 @@
   "conjunctions": [
    "Sun+Mercury"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Dustin Moskovitz",
@@ -6945,7 +6945,7 @@
    "Mars+Saturn",
    "Venus+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Eduardo Saverin",
@@ -7016,7 +7016,7 @@
    "Moon+Ketu",
    "Mars+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Jan Koum",
@@ -7086,7 +7086,7 @@
   "conjunctions": [
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Brian Acton",
@@ -7157,7 +7157,7 @@
    "Sun+Mercury",
    "Moon+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Palmer Luckey",
@@ -7235,7 +7235,7 @@
    "Mercury+Venus",
    "Jupiter+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "John Collison",
@@ -7308,7 +7308,7 @@
    "Moon+Rahu",
    "Jupiter+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Patrick Collison",
@@ -7380,7 +7380,7 @@
    "Sun+Ketu",
    "Moon+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Whitney Wolfe Herd",
@@ -7453,7 +7453,7 @@
    "Mars+Venus",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Melanie Perkins",
@@ -7524,7 +7524,7 @@
    "Sun+Venus",
    "Jupiter+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Changpeng Zhao",
@@ -7595,7 +7595,7 @@
    "Sun+Mars",
    "Jupiter+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Vitalik Buterin",
@@ -7668,7 +7668,7 @@
    "Mars+Venus",
    "Mercury+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Satoshi Nakamoto",
@@ -7740,7 +7740,7 @@
    "Sun+Jupiter",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Satya Nadella",
@@ -7812,7 +7812,7 @@
    "Mars+Ketu",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Sundar Pichai",
@@ -7887,7 +7887,7 @@
    "Mars+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Tim Cook",
@@ -7958,7 +7958,7 @@
    "Sun+Mercury",
    "Jupiter+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Andy Jassy",
@@ -8028,7 +8028,7 @@
   "conjunctions": [
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Dara Khosrowshahi",
@@ -8102,7 +8102,7 @@
    "Jupiter+Ketu",
    "Venus+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Arvind Krishna",
@@ -8180,7 +8180,7 @@
    "Jupiter+Ketu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Shantanu Narayen",
@@ -8250,7 +8250,7 @@
   "conjunctions": [
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Lisa Su",
@@ -8323,7 +8323,7 @@
    "Moon+Jupiter",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Safra Catz",
@@ -8401,7 +8401,7 @@
    "Jupiter+Ketu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Ginni Rometty",
@@ -8476,7 +8476,7 @@
    "Mars+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Meg Whitman",
@@ -8548,7 +8548,7 @@
    "Mercury+Jupiter",
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Sheryl Sandberg",
@@ -8620,7 +8620,7 @@
    "Moon+Rahu",
    "Mercury+Jupiter"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Marissa Mayer",
@@ -8694,7 +8694,7 @@
    "Mercury+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Susan Wojcicki",
@@ -8769,7 +8769,7 @@
    "Mars+Venus",
    "Mercury+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Bhavish Aggarwal",
@@ -8843,7 +8843,7 @@
    "Mercury+Venus",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Vijay Shekhar Sharma",
@@ -8917,7 +8917,7 @@
    "Mars+Saturn",
    "Venus+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Kunal Bahl",
@@ -8993,7 +8993,7 @@
    "Mercury+Saturn",
    "Jupiter+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Rohit Bansal",
@@ -9064,7 +9064,7 @@
    "Sun+Mercury",
    "Venus+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Deepinder Goyal",
@@ -9136,7 +9136,7 @@
    "Mars+Venus",
    "Mercury+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Sriharsha Majety",
@@ -9206,7 +9206,7 @@
   "conjunctions": [
    "Moon+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Kalyan Krishnamurthy",
@@ -9277,7 +9277,7 @@
    "Mercury+Jupiter",
    "Venus+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Sachin Bansal",
@@ -9352,7 +9352,7 @@
    "Mercury+Rahu",
    "Jupiter+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Binny Bansal",
@@ -9428,7 +9428,7 @@
    "Mercury+Jupiter",
    "Venus+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Byju Raveendran",
@@ -9499,7 +9499,7 @@
    "Mercury+Venus",
    "Jupiter+Saturn"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Ritesh Agarwal",
@@ -9574,7 +9574,7 @@
    "Mercury+Venus",
    "Jupiter+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Falguni Nayar",
@@ -9649,7 +9649,7 @@
    "Mercury+Ketu",
    "Saturn+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Radhakishan Damani",
@@ -9720,7 +9720,7 @@
    "Sun+Venus",
    "Moon+Mars"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Kumar Mangalam Birla",
@@ -9790,7 +9790,7 @@
   "conjunctions": [
    "Jupiter+Venus"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Uday Kotak",
@@ -9866,7 +9866,7 @@
    "Mercury+Ketu",
    "Venus+Ketu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "name": "Azim Premji",
@@ -9938,7 +9938,7 @@
    "Mars+Venus",
    "Saturn+Rahu"
   ],
-  "_source": "billionaire_noon_analysis.json/charts"
+  "_source": "billionaire_noon_analysis.json"
  },
  {
   "planet": "Sun",
@@ -9946,7 +9946,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 22,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
@@ -9954,7 +9954,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 18,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
@@ -9962,7 +9962,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 13,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
@@ -9970,7 +9970,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 14,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
@@ -9978,7 +9978,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 13,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
@@ -9986,7 +9986,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 23,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
@@ -9994,7 +9994,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 18,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
@@ -10002,7 +10002,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 18,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10010,7 +10010,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10018,7 +10018,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 13,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
@@ -10026,7 +10026,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 15,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
@@ -10034,7 +10034,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
@@ -10042,7 +10042,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10050,7 +10050,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10058,7 +10058,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 24,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10066,7 +10066,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10074,7 +10074,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10082,7 +10082,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10090,7 +10090,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10098,7 +10098,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 13,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10106,7 +10106,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 14,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10114,7 +10114,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10122,7 +10122,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
@@ -10130,7 +10130,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 12,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
@@ -10138,7 +10138,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
@@ -10146,7 +10146,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
@@ -10154,7 +10154,7 @@
   "career": "Other",
   "ratio": 2.3,
   "n": 12,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10162,7 +10162,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 22,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10170,7 +10170,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 22,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10178,7 +10178,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 21,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10186,7 +10186,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 21,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10194,7 +10194,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 21,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10202,7 +10202,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 21,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
@@ -10210,7 +10210,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 21,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
@@ -10218,7 +10218,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
@@ -10226,7 +10226,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10234,7 +10234,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10242,7 +10242,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
@@ -10250,7 +10250,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
@@ -10258,7 +10258,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 20,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
@@ -10266,7 +10266,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 19,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
@@ -10274,7 +10274,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 18,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10282,7 +10282,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10290,7 +10290,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
@@ -10298,7 +10298,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
@@ -10306,7 +10306,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 17,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
@@ -10314,7 +10314,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
@@ -10322,7 +10322,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
@@ -10330,7 +10330,7 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
@@ -10338,217 +10338,217 @@
   "career": "Other",
   "ratio": 2.2,
   "n": 16,
-  "_source": "career_wealth_map.json/top_planet_sign_career"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
   "sign": "Aquarius",
   "ratio": 7.3,
   "n_rich": 6,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
   "sign": "Capricorn",
   "ratio": 6.3,
   "n_rich": 6,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
   "sign": "Capricorn",
   "ratio": 6.3,
   "n_rich": 6,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
   "sign": "Taurus",
   "ratio": 6.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
   "sign": "Aquarius",
   "ratio": 6.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
   "sign": "Capricorn",
   "ratio": 5.8,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
   "sign": "Cancer",
   "ratio": 5.5,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mercury",
   "sign": "Leo",
   "ratio": 5.5,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
   "sign": "Sagittarius",
   "ratio": 5.5,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
   "sign": "Gemini",
   "ratio": 5.5,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
   "sign": "Leo",
   "ratio": 5.4,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
   "sign": "Virgo",
   "ratio": 5.4,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
   "sign": "Aquarius",
   "ratio": 5.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
   "sign": "Capricorn",
   "ratio": 5.2,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Mars",
   "sign": "Aries",
   "ratio": 5.2,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
   "sign": "Leo",
   "ratio": 5.2,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
   "sign": "Leo",
   "ratio": 5.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
   "sign": "Scorpio",
   "ratio": 5.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Moon",
   "sign": "Sagittarius",
   "ratio": 5.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
   "sign": "Aries",
   "ratio": 5.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
   "sign": "Libra",
   "ratio": 5.1,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
   "sign": "Cancer",
   "ratio": 4.8,
   "n_rich": 5,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Sun",
   "sign": "Gemini",
   "ratio": 4.6,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
   "sign": "Scorpio",
   "ratio": 4.6,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Jupiter",
   "sign": "Gemini",
   "ratio": 4.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
   "sign": "Taurus",
   "ratio": 4.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Saturn",
   "sign": "Sagittarius",
   "ratio": 4.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Rahu",
   "sign": "Libra",
   "ratio": 4.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Ketu",
   "sign": "Aries",
   "ratio": 4.3,
   "n_rich": 3,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "planet": "Venus",
   "sign": "Capricorn",
   "ratio": 4.2,
   "n_rich": 4,
-  "_source": "career_wealth_map.json/top_planet_sign_wealth"
+  "_source": "career_wealth_map.json"
  },
  {
   "name": "Beyonce",
@@ -23380,7 +23380,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Leo",
   "year": 1867,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Antoni Gaudi",
@@ -23388,7 +23388,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Gemini",
   "year": 1852,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Zaha Hadid",
@@ -23396,7 +23396,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Pisces",
   "year": 1950,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Le Corbusier",
@@ -23404,7 +23404,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Cancer",
   "year": 1887,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "I. M. Pei",
@@ -23412,7 +23412,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Sagittarius",
   "year": 1917,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Oscar Niemeyer",
@@ -23420,7 +23420,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Gemini",
   "year": 1907,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Frank Gehry",
@@ -23428,7 +23428,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Taurus",
   "year": 1929,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Norman Foster",
@@ -23436,7 +23436,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Capricorn",
   "year": 1935,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Renzo Piano",
@@ -23444,7 +23444,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "year": 1937,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Rem Koolhaas",
@@ -23452,7 +23452,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Gemini",
   "year": 1944,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Tadao Ando",
@@ -23460,7 +23460,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Leo",
   "year": 1941,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Maya Lin",
@@ -23468,7 +23468,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
   "year": 1959,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Louis Sullivan",
@@ -23476,7 +23476,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Pisces",
   "year": 1856,
-  "_source": "deep_research_groups.json/Architect"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Steve Wozniak",
@@ -23484,7 +23484,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Pisces",
   "year": 1950,
-  "_source": "deep_research_groups.json/Tech Founder"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Tim Berners-Lee",
@@ -23492,7 +23492,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Sagittarius",
   "year": 1955,
-  "_source": "deep_research_groups.json/Tech Founder"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Linus Torvalds",
@@ -23500,7 +23500,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aquarius",
   "year": 1969,
-  "_source": "deep_research_groups.json/Tech Founder"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Gordon Moore",
@@ -23508,7 +23508,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Taurus",
   "year": 1929,
-  "_source": "deep_research_groups.json/Tech Founder"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Alfred Hitchcock",
@@ -23516,7 +23516,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Sagittarius",
   "year": 1899,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Stanley Kubrick",
@@ -23524,7 +23524,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Taurus",
   "year": 1928,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Akira Kurosawa",
@@ -23532,7 +23532,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Taurus",
   "year": 1910,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Federico Fellini",
@@ -23540,7 +23540,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Libra",
   "year": 1920,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Ingmar Bergman",
@@ -23548,7 +23548,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Scorpio",
   "year": 1918,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Francis Ford Coppola",
@@ -23556,7 +23556,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Libra",
   "year": 1939,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Orson Welles",
@@ -23564,7 +23564,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Capricorn",
   "year": 1915,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Charlie Chaplin",
@@ -23572,7 +23572,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Gemini",
   "year": 1889,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Hayao Miyazaki",
@@ -23580,7 +23580,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
   "year": 1941,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Satyajit Ray",
@@ -23588,7 +23588,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Libra",
   "year": 1921,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "George Lucas",
@@ -23596,7 +23596,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Cancer",
   "year": 1944,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "David Lynch",
@@ -23604,7 +23604,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Gemini",
   "year": 1946,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Ridley Scott",
@@ -23612,7 +23612,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Scorpio",
   "year": 1937,
-  "_source": "deep_research_groups.json/Film Director"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Genghis Khan",
@@ -23620,7 +23620,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Cancer",
   "year": 1162,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Saladin",
@@ -23628,7 +23628,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Sagittarius",
   "year": 1137,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Erwin Rommel",
@@ -23636,7 +23636,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
   "year": 1891,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "George S. Patton",
@@ -23644,7 +23644,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
   "year": 1885,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Horatio Nelson",
@@ -23652,7 +23652,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Cancer",
   "year": 1758,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Vo Nguyen Giap",
@@ -23660,7 +23660,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
   "year": 1911,
-  "_source": "deep_research_groups.json/Military Commander"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Ludwig van Beethoven",
@@ -23668,7 +23668,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "year": 1770,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Wolfgang Amadeus Mozart",
@@ -23676,7 +23676,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
   "year": 1756,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Johann Sebastian Bach",
@@ -23684,7 +23684,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Gemini",
   "year": 1685,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Frederic Chopin",
@@ -23692,7 +23692,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
   "year": 1810,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Pyotr Ilyich Tchaikovsky",
@@ -23700,7 +23700,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "year": 1840,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Franz Schubert",
@@ -23708,7 +23708,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Gemini",
   "year": 1797,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Johannes Brahms",
@@ -23716,7 +23716,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Gemini",
   "year": 1833,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Antonio Vivaldi",
@@ -23724,7 +23724,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Scorpio",
   "year": 1678,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Giuseppe Verdi",
@@ -23732,7 +23732,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Cancer",
   "year": 1813,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Richard Wagner",
@@ -23740,7 +23740,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Cancer",
   "year": 1813,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Claude Debussy",
@@ -23748,7 +23748,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Scorpio",
   "year": 1862,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Igor Stravinsky",
@@ -23756,7 +23756,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Scorpio",
   "year": 1882,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Sergei Rachmaninoff",
@@ -23764,7 +23764,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Taurus",
   "year": 1873,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Giacomo Puccini",
@@ -23772,7 +23772,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "year": 1858,
-  "_source": "deep_research_groups.json/Composer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Michael Jordan",
@@ -23780,7 +23780,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Cancer",
   "year": 1963,
-  "_source": "deep_research_groups.json/Athlete"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Tom Brady",
@@ -23788,7 +23788,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
   "year": 1977,
-  "_source": "deep_research_groups.json/Athlete"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Lewis Hamilton",
@@ -23796,7 +23796,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Taurus",
   "year": 1985,
-  "_source": "deep_research_groups.json/Athlete"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Leonardo da Vinci",
@@ -23804,7 +23804,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Sagittarius",
   "year": 1452,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Michelangelo",
@@ -23812,7 +23812,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Virgo",
   "year": 1475,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Vincent van Gogh",
@@ -23820,7 +23820,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Gemini",
   "year": 1853,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Pablo Picasso",
@@ -23828,7 +23828,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
   "year": 1881,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Claude Monet",
@@ -23836,7 +23836,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "year": 1840,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Salvador Dali",
@@ -23844,7 +23844,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
   "year": 1904,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Frida Kahlo",
@@ -23852,7 +23852,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Cancer",
   "year": 1907,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Andy Warhol",
@@ -23860,7 +23860,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Taurus",
   "year": 1928,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Jackson Pollock",
@@ -23868,7 +23868,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "year": 1912,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Rembrandt van Rijn",
@@ -23876,7 +23876,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
   "year": 1606,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Gustav Klimt",
@@ -23884,7 +23884,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Sagittarius",
   "year": 1862,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Edvard Munch",
@@ -23892,7 +23892,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "year": 1863,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Banksy",
@@ -23900,7 +23900,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
   "year": 1974,
-  "_source": "deep_research_groups.json/Artist"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Christopher Columbus",
@@ -23908,7 +23908,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Capricorn",
   "year": 1451,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Ferdinand Magellan",
@@ -23916,7 +23916,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Gemini",
   "year": 1480,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Marco Polo",
@@ -23924,7 +23924,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Leo",
   "year": 1254,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "James Cook",
@@ -23932,7 +23932,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Aquarius",
   "year": 1728,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Roald Amundsen",
@@ -23940,7 +23940,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Taurus",
   "year": 1872,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Ernest Shackleton",
@@ -23948,7 +23948,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Aries",
   "year": 1874,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Edmund Hillary",
@@ -23956,7 +23956,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Scorpio",
   "year": 1919,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Jacques Cousteau",
@@ -23964,7 +23964,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
   "year": 1910,
-  "_source": "deep_research_groups.json/Explorer"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Benjamin Franklin",
@@ -23972,7 +23972,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Taurus",
   "year": 1706,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Richard Feynman",
@@ -23980,7 +23980,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
   "year": 1918,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Blaise Pascal",
@@ -23988,7 +23988,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Libra",
   "year": 1623,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Rabindranath Tagore",
@@ -23996,7 +23996,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Sagittarius",
   "year": 1861,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Martin Luther King Jr.",
@@ -24004,7 +24004,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Taurus",
   "year": 1929,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Mother Teresa",
@@ -24012,7 +24012,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
   "year": 1910,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Niels Bohr",
@@ -24020,7 +24020,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Virgo",
   "year": 1885,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Max Planck",
@@ -24028,7 +24028,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aquarius",
   "year": 1858,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Linus Pauling",
@@ -24036,7 +24036,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Scorpio",
   "year": 1901,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Gabriel Garcia Marquez",
@@ -24044,7 +24044,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Gemini",
   "year": 1927,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Toni Morrison",
@@ -24052,7 +24052,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Pisces",
   "year": 1931,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "John von Neumann",
@@ -24060,728 +24060,728 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
   "year": 1903,
-  "_source": "deep_research_groups.json/Polymath/Nobel"
+  "_source": "deep_research_groups.json"
  },
  {
   "name": "Joaquin Guzman",
   "subcat": "Drug Lord",
   "moon_nak": "Rohini",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Ismael Zambada Garcia",
   "subcat": "Drug Lord",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Frank Costello",
   "subcat": "Mafia",
   "moon_nak": "Ashlesha",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Carlo Gambino",
   "subcat": "Mafia",
   "moon_nak": "Ashwini",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Paul Castellano",
   "subcat": "Mafia",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Sammy Gravano",
   "subcat": "Mafia",
   "moon_nak": "Shatabhisha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Vito Genovese",
   "subcat": "Mafia",
   "moon_nak": "Chitra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Tony Accardo",
   "subcat": "Mafia",
   "moon_nak": "Ardra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Sam Giancana",
   "subcat": "Mafia",
   "moon_nak": "Purva Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Santo Trafficante Jr.",
   "subcat": "Mafia",
   "moon_nak": "Chitra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Carlos Marcello",
   "subcat": "Mafia",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Henry Hill",
   "subcat": "Mafia",
   "moon_nak": "Uttara Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Richard Kuklinski",
   "subcat": "Hitman",
   "moon_nak": "Pushya",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Arthur Shawcross",
   "subcat": "Serial Killer",
   "moon_nak": "Ashwini",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Ed Gein",
   "subcat": "Serial Killer",
   "moon_nak": "Jyeshtha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Albert Fish",
   "subcat": "Serial Killer",
   "moon_nak": "Uttara Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "David Berkowitz",
   "subcat": "Serial Killer",
   "moon_nak": "Uttara Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Dennis Rader",
   "subcat": "Serial Killer",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Gary Ridgway",
   "subcat": "Serial Killer",
   "moon_nak": "Swati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "H.H. Holmes",
   "subcat": "Serial Killer",
   "moon_nak": "Ashlesha",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Jim Jones",
   "subcat": "Cult Leader",
   "moon_nak": "Uttara Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "David Koresh",
   "subcat": "Cult Leader",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Marshall Applewhite",
   "subcat": "Cult Leader",
   "moon_nak": "Krittika",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Shoko Asahara",
   "subcat": "Cult Leader",
   "moon_nak": "Mrigashira",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Pol Pot",
   "subcat": "Dictator",
   "moon_nak": "Revati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Idi Amin",
   "subcat": "Dictator",
   "moon_nak": "Purva Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Saddam Hussein",
   "subcat": "Dictator",
   "moon_nak": "Anuradha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Osama bin Laden",
   "subcat": "Terrorist",
   "moon_nak": "Ardra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Timothy McVeigh",
   "subcat": "Terrorist",
   "moon_nak": "Purva Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Ted Kaczynski",
   "subcat": "Terrorist",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Dzhokhar Tsarnaev",
   "subcat": "Terrorist",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Tamerlan Tsarnaev",
   "subcat": "Terrorist",
   "moon_nak": "Rohini",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Seung-Hui Cho",
   "subcat": "Mass Shooter",
   "moon_nak": "Punarvasu",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Dylan Klebold",
   "subcat": "Mass Shooter",
   "moon_nak": "Dhanishtha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Eric Harris",
   "subcat": "Mass Shooter",
   "moon_nak": "Mrigashira",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Adam Lanza",
   "subcat": "Mass Shooter",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Anders Behring Breivik",
   "subcat": "Terrorist",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Lee Harvey Oswald",
   "subcat": "Assassin",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "John Wilkes Booth",
   "subcat": "Assassin",
   "moon_nak": "Anuradha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Charles J. Guiteau",
   "subcat": "Assassin",
   "moon_nak": "Mrigashira",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Leon Czolgosz",
   "subcat": "Assassin",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Gavrilo Princip",
   "subcat": "Assassin",
   "moon_nak": "Ashwini",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Sunny Balwani",
   "subcat": "Corporate Fraud",
   "moon_nak": "Jyeshtha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Billy McFarland",
   "subcat": "Fraudster",
   "moon_nak": "Dhanishtha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Anna Sorokin",
   "subcat": "Fraudster",
   "moon_nak": "Ashwini",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Simon Leviev",
   "subcat": "Fraudster",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Martin Shkreli",
   "subcat": "Corporate Fraud",
   "moon_nak": "Ashwini",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Allen Stanford",
   "subcat": "Corporate Fraud",
   "moon_nak": "Rohini",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Charles Ponzi",
   "subcat": "Fraudster",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Victor Lustig",
   "subcat": "Fraudster",
   "moon_nak": "Mrigashira",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Frank Abagnale",
   "subcat": "Fraudster",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Bernard Ebbers",
   "subcat": "Corporate Fraud",
   "moon_nak": "Swati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "John Rigas",
   "subcat": "Corporate Fraud",
   "moon_nak": "Mrigashira",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Lou Pearlman",
   "subcat": "Corporate Fraud",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Trevor Milton",
   "subcat": "Corporate Fraud",
   "moon_nak": "Uttara Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Adam Neumann",
   "subcat": "Corporate Fraud",
   "moon_nak": "Punarvasu",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Do Kwon",
   "subcat": "Corporate Fraud",
   "moon_nak": "Ashlesha",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Barry Minkow",
   "subcat": "Corporate Fraud",
   "moon_nak": "Uttara Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Nick Leeson",
   "subcat": "Corporate Fraud",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Jerome Kerviel",
   "subcat": "Corporate Fraud",
   "moon_nak": "Hasta",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Kweku Adoboli",
   "subcat": "Corporate Fraud",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Dennis Rodman",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Bharani",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Antoine Walker",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Purva Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Lenny Dykstra",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Curt Schilling",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Jyeshtha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Wayne Newton",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Swati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "David Cassidy",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Shatabhisha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Gary Busey",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Chitra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Corey Haim",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Purva Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Dustin Diamond",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Ashlesha",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Tila Tequila",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Heidi Fleiss",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Uttara Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Joe Exotic",
   "subcat": "Bankrupt Celebrity",
   "moon_nak": "Punarvasu",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Tupac Shakur",
   "subcat": "Musician/Fallen",
   "moon_nak": "Uttara Bhadrapada",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "The Notorious B.I.G.",
   "subcat": "Musician/Fallen",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Eazy-E",
   "subcat": "Musician/Fallen",
   "moon_nak": "Hasta",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Rick James",
   "subcat": "Musician/Fallen",
   "moon_nak": "Swati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Vanilla Ice",
   "subcat": "Musician/Fallen",
   "moon_nak": "Hasta",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "DMX",
   "subcat": "Musician/Fallen",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Coolio",
   "subcat": "Musician/Fallen",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Sean Kingston",
   "subcat": "Musician/Fallen",
   "moon_nak": "Krittika",
   "moon_dignity": 100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Damon Dash",
   "subcat": "Musician/Fallen",
   "moon_nak": "Magha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Iggy Azalea",
   "subcat": "Musician/Fallen",
   "moon_nak": "Anuradha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Amanda Bynes",
   "subcat": "Troubled Celebrity",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Anna Nicole Smith",
   "subcat": "Troubled Celebrity",
   "moon_nak": "Chitra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Janice Dickinson",
   "subcat": "Troubled Celebrity",
   "moon_nak": "Anuradha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Tom Girardi",
   "subcat": "Corporate Fraud",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Jen Shah",
   "subcat": "Fraudster",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Joe Giudice",
   "subcat": "Fraudster",
   "moon_nak": "Uttara Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Mike Sorrentino",
   "subcat": "Fraudster",
   "moon_nak": "Mula",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Richard Hatch",
   "subcat": "Fraudster",
   "moon_nak": "Uttara Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "L. Ron Hubbard",
   "subcat": "Cult Leader",
   "moon_nak": "Purva Phalguni",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Keith Raniere",
   "subcat": "Cult Leader",
   "moon_nak": "Chitra",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Allison Mack",
   "subcat": "Cult Member",
   "moon_nak": "Vishakha",
   "moon_dignity": -100,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Ghislaine Maxwell",
   "subcat": "Sex Criminal",
   "moon_nak": "Ashlesha",
   "moon_dignity": 75,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Jeffrey Epstein",
   "subcat": "Sex Criminal",
   "moon_nak": "Revati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "John McAfee",
   "subcat": "Fugitive",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Kim Dotcom",
   "subcat": "Fugitive",
   "moon_nak": "Purva Ashadha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Ross Ulbricht",
   "subcat": "Fugitive",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Julian Assange",
   "subcat": "Fugitive",
   "moon_nak": "Swati",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Edward Snowden",
   "subcat": "Fugitive",
   "moon_nak": "Vishakha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Chelsea Manning",
   "subcat": "Fugitive",
   "moon_nak": "Vishakha",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Aaron Swartz",
   "subcat": "Fugitive",
   "moon_nak": "Shravana",
   "moon_dignity": 0,
-  "_source": "expanded_criminal_validation.json/expanded_charts"
+  "_source": "expanded_criminal_validation.json"
  },
  {
   "name": "Auguste Lumiere",
@@ -25288,7 +25288,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bartholomew Roberts",
@@ -25297,7 +25297,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Leo",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Zheng Yi Sao",
@@ -25306,7 +25306,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Leo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Grace O'Malley",
@@ -25315,7 +25315,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Henry Morgan",
@@ -25324,7 +25324,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aquarius",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "William Kidd",
@@ -25333,7 +25333,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Anne Bonny",
@@ -25342,7 +25342,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Libra",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mary Read",
@@ -25351,7 +25351,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Gemini",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Cheung Po Tsai",
@@ -25360,7 +25360,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Francois l'Olonnais",
@@ -25369,7 +25369,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Gemini",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hayreddin Barbarossa",
@@ -25378,7 +25378,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Leo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Dragut",
@@ -25387,7 +25387,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sayyida al Hurra",
@@ -25396,7 +25396,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Andrea Doria",
@@ -25405,7 +25405,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Pisces",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Koxinga",
@@ -25414,7 +25414,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Virgo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Pier Gerlofs Donia",
@@ -25423,7 +25423,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Gemini",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Admiral Yi Sun-sin",
@@ -25432,7 +25432,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Michiel de Ruyter",
@@ -25441,7 +25441,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Leo",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "John Paul Jones",
@@ -25450,7 +25450,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Aquarius",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Zheng He",
@@ -25459,7 +25459,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Taurus",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Pirate & Sea Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Miyamoto Musashi",
@@ -25468,7 +25468,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Scorpio",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hattori Hanzo",
@@ -25477,7 +25477,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Aquarius",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Guan Yu",
@@ -25486,7 +25486,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Gemini",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Attila the Hun",
@@ -25495,7 +25495,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Richard the Lionheart",
@@ -25504,7 +25504,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Libra",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Khalid ibn al-Walid",
@@ -25513,7 +25513,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Pisces",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Subutai",
@@ -25522,7 +25522,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Belisarius",
@@ -25531,7 +25531,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Scorpio",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "El Cid",
@@ -25540,7 +25540,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "William Wallace",
@@ -25549,7 +25549,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Robert the Bruce",
@@ -25558,7 +25558,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Vlad the Impaler",
@@ -25567,7 +25567,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Capricorn",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Skanderbeg",
@@ -25576,7 +25576,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Cancer",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Shaka Zulu",
@@ -25585,7 +25585,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Yue Fei",
@@ -25594,7 +25594,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Napoleon Bonaparte",
@@ -25603,7 +25603,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "George Patton",
@@ -25612,7 +25612,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Georgy Zhukov",
@@ -25621,7 +25621,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Capricorn",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Timur",
@@ -25630,7 +25630,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Babur",
@@ -25639,7 +25639,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Aries",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Akbar the Great",
@@ -25648,7 +25648,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aquarius",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Suleiman the Magnificent",
@@ -25657,7 +25657,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Virgo",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mehmed II",
@@ -25666,7 +25666,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Capricorn",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mustafa Kemal Ataturk",
@@ -25675,7 +25675,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Scorpio",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sitting Bull",
@@ -25684,7 +25684,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Leo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Crazy Horse",
@@ -25693,7 +25693,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Aquarius",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Geronimo",
@@ -25702,7 +25702,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Tecumseh",
@@ -25711,7 +25711,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charlemagne",
@@ -25720,7 +25720,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Libra",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alfred the Great",
@@ -25729,7 +25729,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Taurus",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Frederick Barbarossa",
@@ -25738,7 +25738,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Gustavus Adolphus",
@@ -25747,7 +25747,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Aries",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charles XII of Sweden",
@@ -25756,7 +25756,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Legendary Warrior"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ip Man",
@@ -25765,7 +25765,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Pisces",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Martial Arts Master"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Gichin Funakoshi",
@@ -25774,7 +25774,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Cancer",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Martial Arts Master"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Morihei Ueshiba",
@@ -25783,7 +25783,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Libra",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Martial Arts Master"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jigoro Kano",
@@ -25792,7 +25792,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Capricorn",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Martial Arts Master"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mas Oyama",
@@ -25801,7 +25801,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Martial Arts Master"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Oda Nobunaga",
@@ -25810,7 +25810,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Toyotomi Hideyoshi",
@@ -25819,7 +25819,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Taurus",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Tokugawa Ieyasu",
@@ -25828,7 +25828,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Takeda Shingen",
@@ -25837,7 +25837,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Pisces",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Uesugi Kenshin",
@@ -25846,7 +25846,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Libra",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Minamoto no Yoshitsune",
@@ -25855,7 +25855,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Japanese Daimyo"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Maharana Pratap",
@@ -25864,7 +25864,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Pisces",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Indian Warrior King"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Chhatrapati Shivaji",
@@ -25873,7 +25873,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Indian Warrior King"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bajirao I",
@@ -25882,7 +25882,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Leo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Indian Warrior King"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Lachit Borphukan",
@@ -25891,7 +25891,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Libra",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Indian Warrior King"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ranjit Singh",
@@ -25900,7 +25900,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Indian Warrior King"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ada Lovelace",
@@ -25909,7 +25909,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Gemini",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alan Turing",
@@ -25918,7 +25918,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Carl Friedrich Gauss",
@@ -25927,7 +25927,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Cancer",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Leonhard Euler",
@@ -25936,7 +25936,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Aries",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Srinivasa Ramanujan",
@@ -25945,7 +25945,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Emmy Noether",
@@ -25954,7 +25954,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Scorpio",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Kurt Godel",
@@ -25963,7 +25963,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Grace Hopper",
@@ -25972,7 +25972,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Cancer",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hypatia",
@@ -25981,7 +25981,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Henri Poincare",
@@ -25990,7 +25990,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Taurus",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "David Hilbert",
@@ -25999,7 +25999,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bernhard Riemann",
@@ -26008,7 +26008,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Scorpio",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Evariste Galois",
@@ -26017,7 +26017,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sophie Germain",
@@ -26026,7 +26026,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Cancer",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Donald Knuth",
@@ -26035,7 +26035,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Scorpio",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Edsger Dijkstra",
@@ -26044,7 +26044,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Aries",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Barbara Liskov",
@@ -26053,7 +26053,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Libra",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Terence Tao",
@@ -26062,7 +26062,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Scorpio",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Katherine Johnson",
@@ -26071,7 +26071,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Scorpio",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Claude Shannon",
@@ -26080,7 +26080,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Capricorn",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Mathematician/Computer Scientist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Edward Jenner",
@@ -26089,7 +26089,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Capricorn",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Louis Pasteur",
@@ -26098,7 +26098,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Capricorn",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Robert Koch",
@@ -26107,7 +26107,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jonas Salk",
@@ -26116,7 +26116,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Aquarius",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Joseph Lister",
@@ -26125,7 +26125,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Libra",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Galen",
@@ -26134,7 +26134,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Aquarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Andreas Vesalius",
@@ -26143,7 +26143,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Leo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "William Harvey",
@@ -26152,7 +26152,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ignaz Semmelweis",
@@ -26161,7 +26161,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rosalind Franklin",
@@ -26170,7 +26170,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Libra",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Elizabeth Blackwell",
@@ -26179,7 +26179,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Aquarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Tu Youyou",
@@ -26188,7 +26188,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Christiaan Barnard",
@@ -26197,7 +26197,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alexander Fleming",
@@ -26206,7 +26206,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Physician/Medical Pioneer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Galileo Galilei",
@@ -26215,7 +26215,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Isaac Newton",
@@ -26224,7 +26224,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Johannes Kepler",
@@ -26233,7 +26233,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Nicolaus Copernicus",
@@ -26242,7 +26242,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Scorpio",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "James Clerk Maxwell",
@@ -26251,7 +26251,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Leo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Michael Faraday",
@@ -26260,7 +26260,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Virgo",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Edwin Hubble",
@@ -26269,7 +26269,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Gemini",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Subrahmanyan Chandrasekhar",
@@ -26278,7 +26278,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Aries",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Chien-Shiung Wu",
@@ -26287,7 +26287,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Lise Meitner",
@@ -26296,7 +26296,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Capricorn",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Erwin Schrodinger",
@@ -26305,7 +26305,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Cancer",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Werner Heisenberg",
@@ -26314,7 +26314,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Libra",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Paul Dirac",
@@ -26323,7 +26323,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Libra",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Enrico Fermi",
@@ -26332,7 +26332,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Libra",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "J. Robert Oppenheimer",
@@ -26341,7 +26341,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Virgo",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Vera Rubin",
@@ -26350,7 +26350,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Taurus",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Arthur Eddington",
@@ -26359,7 +26359,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Antoine Lavoisier",
@@ -26368,7 +26368,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Aries",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Dmitry Mendeleev",
@@ -26377,7 +26377,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Gemini",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Dorothy Hodgkin",
@@ -26386,7 +26386,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Taurus",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alexander von Humboldt",
@@ -26395,7 +26395,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Scorpio",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rachel Carson",
@@ -26404,7 +26404,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Cancer",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jane Goodall",
@@ -26413,7 +26413,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Capricorn",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Physicist/Astronomer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Dante Alighieri",
@@ -26422,7 +26422,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Capricorn",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "William Shakespeare",
@@ -26431,7 +26431,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Leo Tolstoy",
@@ -26440,7 +26440,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Virgo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Fyodor Dostoevsky",
@@ -26449,7 +26449,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aquarius",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Victor Hugo",
@@ -26458,7 +26458,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mark Twain",
@@ -26467,7 +26467,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Taurus",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Edgar Allan Poe",
@@ -26476,7 +26476,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Libra",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Virginia Woolf",
@@ -26485,7 +26485,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Scorpio",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "George Orwell",
@@ -26494,7 +26494,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "James Joyce",
@@ -26503,7 +26503,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Scorpio",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jane Austen",
@@ -26512,7 +26512,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Emily Dickinson",
@@ -26521,7 +26521,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Leo",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Maya Angelou",
@@ -26530,7 +26530,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Taurus",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jorge Luis Borges",
@@ -26539,7 +26539,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Haruki Murakami",
@@ -26548,7 +26548,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hans Christian Andersen",
@@ -26557,7 +26557,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Capricorn",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jules Verne",
@@ -26566,7 +26566,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Libra",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "H. G. Wells",
@@ -26575,7 +26575,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Virgo",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Isaac Asimov",
@@ -26584,7 +26584,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mary Shelley",
@@ -26593,7 +26593,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Taurus",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Franz Kafka",
@@ -26602,7 +26602,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Libra",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Marcel Proust",
@@ -26611,7 +26611,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Gemini",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charles Dickens",
@@ -26620,7 +26620,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Miguel de Cervantes",
@@ -26629,7 +26629,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Oscar Wilde",
@@ -26638,7 +26638,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Anton Chekhov",
@@ -26647,7 +26647,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Capricorn",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hermann Hesse",
@@ -26656,7 +26656,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Aquarius",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Chinua Achebe",
@@ -26665,7 +26665,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Wole Soyinka",
@@ -26674,7 +26674,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Capricorn",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "James Baldwin",
@@ -26683,7 +26683,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Leo",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rumi",
@@ -26692,7 +26692,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Aquarius",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alexander Pushkin",
@@ -26701,7 +26701,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Aries",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Murasaki Shikibu",
@@ -26710,7 +26710,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Virgo",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Matsuo Basho",
@@ -26719,7 +26719,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Writer/Poet"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Emperor Taizong of Tang",
@@ -26728,7 +26728,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Scorpio",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Wu Zetian",
@@ -26737,7 +26737,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Cancer",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "King Sejong the Great",
@@ -26746,7 +26746,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Marcus Aurelius",
@@ -26755,7 +26755,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Cancer",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Constantine the Great",
@@ -26764,7 +26764,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Gemini",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Justinian I",
@@ -26773,7 +26773,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hongwu Emperor",
@@ -26782,7 +26782,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Peter the Great",
@@ -26791,7 +26791,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Aquarius",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Henry VIII",
@@ -26800,7 +26800,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Ancient Ruler"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Andrew Carnegie",
@@ -26809,7 +26809,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Taurus",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jamsetji Tata",
@@ -26818,7 +26818,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alfred Nobel",
@@ -26827,7 +26827,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Gemini",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "J.P. Morgan",
@@ -26836,7 +26836,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Cornelius Vanderbilt",
@@ -26845,7 +26845,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Leo",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mansa Musa",
@@ -26854,7 +26854,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Cosimo de Medici",
@@ -26863,7 +26863,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Taurus",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hetty Green",
@@ -26872,7 +26872,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "John Jacob Astor",
@@ -26881,7 +26881,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Pisces",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Howard Hughes",
@@ -26890,7 +26890,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Philanthropist/Tycoon"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Harriet Tubman",
@@ -26899,7 +26899,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Aquarius",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Frederick Douglass",
@@ -26908,7 +26908,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Aries",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Cesar Chavez",
@@ -26917,7 +26917,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Gemini",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Desmond Tutu",
@@ -26926,7 +26926,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Pisces",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Florence Nightingale",
@@ -26935,7 +26935,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Pisces",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sojourner Truth",
@@ -26944,7 +26944,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Gemini",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Susan B. Anthony",
@@ -26953,7 +26953,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Pisces",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rigoberta Menchu",
@@ -26962,7 +26962,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Steve Biko",
@@ -26971,7 +26971,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Taurus",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Thomas Sankara",
@@ -26980,7 +26980,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Pisces",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Patrice Lumumba",
@@ -26989,7 +26989,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Cancer",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ruby Bridges",
@@ -26998,7 +26998,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Malala Yousafzai",
@@ -27007,7 +27007,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Leo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Activist/Humanitarian"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Al Capone",
@@ -27016,7 +27016,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Pablo Escobar",
@@ -27025,7 +27025,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Pisces",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Lucky Luciano",
@@ -27034,7 +27034,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Capricorn",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charles Manson",
@@ -27043,7 +27043,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Capricorn",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Jesse James",
@@ -27052,7 +27052,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Virgo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Billy the Kid",
@@ -27061,7 +27061,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Capricorn",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "John Dillinger",
@@ -27070,7 +27070,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Virgo",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bonnie Parker",
@@ -27079,7 +27079,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Clyde Barrow",
@@ -27088,7 +27088,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ned Kelly",
@@ -27097,7 +27097,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Aries",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Guy Fawkes",
@@ -27106,7 +27106,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Leo",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Meyer Lansky",
@@ -27115,7 +27115,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Libra",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bugsy Siegel",
@@ -27124,7 +27124,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Cancer",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Griselda Blanco",
@@ -27133,7 +27133,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Leo",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Notorious Criminal"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Vasco da Gama",
@@ -27142,7 +27142,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Amelia Earhart",
@@ -27151,7 +27151,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Capricorn",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Ibn Battuta",
@@ -27160,7 +27160,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "David Livingstone",
@@ -27169,7 +27169,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Cancer",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sacagawea",
@@ -27178,7 +27178,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Meriwether Lewis",
@@ -27187,7 +27187,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Leo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "William Clark",
@@ -27196,7 +27196,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Francis Drake",
@@ -27205,7 +27205,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Abel Tasman",
@@ -27214,7 +27214,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Scorpio",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Explorer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Yuri Gagarin",
@@ -27223,7 +27223,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Capricorn",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Neil Armstrong",
@@ -27232,7 +27232,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Aries",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Buzz Aldrin",
@@ -27241,7 +27241,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Aries",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charles Lindbergh",
@@ -27250,7 +27250,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Libra",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Valentina Tereshkova",
@@ -27259,7 +27259,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "John Glenn",
@@ -27268,7 +27268,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sally Ride",
@@ -27277,7 +27277,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Aquarius",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Chris Hadfield",
@@ -27286,7 +27286,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Virgo",
   "sun_sign": "Leo",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Chuck Yeager",
@@ -27295,7 +27295,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Bessie Coleman",
@@ -27304,7 +27304,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Taurus",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Wernher von Braun",
@@ -27313,7 +27313,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sergei Korolev",
@@ -27322,7 +27322,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Astronaut/Aviator"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Joseph Haydn",
@@ -27331,7 +27331,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Composer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Raphael",
@@ -27340,7 +27340,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aries",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rembrandt",
@@ -27349,7 +27349,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
   "sun_sign": "Cancer",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Johannes Vermeer",
@@ -27358,7 +27358,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Aries",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Caravaggio",
@@ -27367,7 +27367,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Cancer",
   "sun_sign": "Virgo",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Sandro Botticelli",
@@ -27376,7 +27376,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Auguste Rodin",
@@ -27385,7 +27385,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Aquarius",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Henri Matisse",
@@ -27394,7 +27394,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Paul Cezanne",
@@ -27403,7 +27403,7 @@
   "moon_sign": "Aquarius",
   "rahu_sign": "Pisces",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hokusai",
@@ -27412,7 +27412,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Artist"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Thomas Edison",
@@ -27421,7 +27421,7 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Libra",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Nikola Tesla",
@@ -27430,7 +27430,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
   "sun_sign": "Gemini",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Alexander Graham Bell",
@@ -27439,7 +27439,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Virgo",
   "sun_sign": "Aquarius",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "James Watt",
@@ -27448,7 +27448,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
   "sun_sign": "Capricorn",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Johannes Gutenberg",
@@ -27457,7 +27457,7 @@
   "moon_sign": "Scorpio",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Guglielmo Marconi",
@@ -27466,7 +27466,7 @@
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
   "sun_sign": "Aries",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Charles Babbage",
@@ -27475,7 +27475,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Virgo",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Karl Benz",
@@ -27484,7 +27484,7 @@
   "moon_sign": "Taurus",
   "rahu_sign": "Scorpio",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Eli Whitney",
@@ -27493,7 +27493,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Aquarius",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Louis Braille",
@@ -27502,7 +27502,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Libra",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Hedy Lamarr",
@@ -27511,7 +27511,7 @@
   "moon_sign": "Cancer",
   "rahu_sign": "Aquarius",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Igor Sikorsky",
@@ -27520,7 +27520,7 @@
   "moon_sign": "Pisces",
   "rahu_sign": "Gemini",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Rudolf Diesel",
@@ -27529,7 +27529,7 @@
   "moon_sign": "Aries",
   "rahu_sign": "Aquarius",
   "sun_sign": "Pisces",
-  "_source": "historical_groups_final.json/Inventor/Engineer"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Christopher Wren",
@@ -27538,7 +27538,7 @@
   "moon_sign": "Capricorn",
   "rahu_sign": "Aries",
   "sun_sign": "Libra",
-  "_source": "historical_groups_final.json/Architect"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Filippo Brunelleschi",
@@ -27547,7 +27547,7 @@
   "moon_sign": "Gemini",
   "rahu_sign": "Capricorn",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Architect"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Andrea Palladio",
@@ -27556,7 +27556,7 @@
   "moon_sign": "Libra",
   "rahu_sign": "Sagittarius",
   "sun_sign": "Scorpio",
-  "_source": "historical_groups_final.json/Architect"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Gustave Eiffel",
@@ -27565,7 +27565,7 @@
   "moon_sign": "Virgo",
   "rahu_sign": "Cancer",
   "sun_sign": "Sagittarius",
-  "_source": "historical_groups_final.json/Architect"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Mimar Sinan",
@@ -27574,1689 +27574,1079 @@
   "moon_sign": "Sagittarius",
   "rahu_sign": "Capricorn",
   "sun_sign": "Taurus",
-  "_source": "historical_groups_final.json/Architect"
+  "_source": "historical_groups_final.json"
  },
  {
   "name": "Frank James",
   "moon_nak": "Bharani",
   "moon_sign": "Aries",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Butch Cassidy",
   "moon_nak": "Uttara Bhadrapada",
   "moon_sign": "Pisces",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Sundance Kid",
   "moon_nak": "Vishakha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Doc Holliday",
   "moon_nak": "Purva Bhadrapada",
   "moon_sign": "Pisces",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Belle Starr",
   "moon_nak": "Dhanishtha",
   "moon_sign": "Aquarius",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Sam Bass",
   "moon_nak": "Ashwini",
   "moon_sign": "Aries",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Cole Younger",
   "moon_nak": "Anuradha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "John Wesley Hardin",
   "moon_nak": "Uttara Ashadha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ma Barker",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Charles Pretty Boy Floyd",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Outlaw"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Albert Anastasia",
   "moon_nak": "Punarvasu",
   "moon_sign": "Cancer",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Dutch Schultz",
   "moon_nak": "Jyeshtha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "George Bugs Moran",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Arnold Rothstein",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Frank Nitti",
   "moon_nak": "Swati",
   "moon_sign": "Libra",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "George Machine Gun Kelly",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Aquarius",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Tommy Lucchese",
   "moon_nak": "Vishakha",
   "moon_sign": "Libra",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Joseph Bonanno",
   "moon_nak": "Mrigashira",
   "moon_sign": "Taurus",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Vincent Gigante",
   "moon_nak": "Punarvasu",
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Carmine Galante",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Joe Masseria",
   "moon_nak": "Mrigashira",
   "moon_sign": "Taurus",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Salvatore Maranzano",
   "moon_nak": "Ashlesha",
   "moon_sign": "Cancer",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Raymond Patriarca",
   "moon_nak": "Uttara Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Nicky Scarfo",
   "moon_nak": "Shravana",
   "moon_sign": "Capricorn",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Mafia"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Rodney Alcala",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Dean Corll",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Wayne Williams",
   "moon_nak": "Ardra",
   "moon_sign": "Gemini",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Randy Kraft",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "William Bonin",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Patrick Kearney",
   "moon_nak": "Dhanishtha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Robert Hansen",
   "moon_nak": "Purva Ashadha",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Belle Gunness",
   "moon_nak": "Krittika",
   "moon_sign": "Taurus",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Harold Shipman",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Fred West",
   "moon_nak": "Uttara Ashadha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Rosemary West",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Peter Sutcliffe",
   "moon_nak": "Punarvasu",
   "moon_sign": "Gemini",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ian Brady",
   "moon_nak": "Purva Ashadha",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Myra Hindley",
   "moon_nak": "Anuradha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Andrei Chikatilo",
   "moon_nak": "Swati",
   "moon_sign": "Libra",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Alexander Pichushkin",
   "moon_nak": "Vishakha",
   "moon_sign": "Libra",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Serial Killer"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Amado Carrillo Fuentes",
   "moon_nak": "Mrigashira",
   "moon_sign": "Gemini",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Miguel \u00c1ngel F\u00e9lix Gallardo",
   "moon_nak": "Purva Bhadrapada",
   "moon_sign": "Aquarius",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ernesto Fonseca Carrillo",
   "moon_nak": "Swati",
   "moon_sign": "Libra",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Rafael Caro Quintero",
   "moon_nak": "Purva Ashadha",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Juan Garc\u00eda \u00c1brego",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Osiel C\u00e1rdenas Guill\u00e9n",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Nemesio Oseguera Cervantes",
   "moon_nak": "Punarvasu",
   "moon_sign": "Gemini",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Arturo Beltr\u00e1n Leyva",
   "moon_nak": "Bharani",
   "moon_sign": "Aries",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Carlos Lehder",
   "moon_nak": "Purva Bhadrapada",
   "moon_sign": "Aquarius",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jorge Luis Ochoa V\u00e1squez",
   "moon_nak": "Krittika",
   "moon_sign": "Taurus",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Fabio Ochoa V\u00e1squez",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Drug Lord"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Heinrich Himmler",
   "moon_nak": "Uttara Bhadrapada",
   "moon_sign": "Pisces",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Joseph Goebbels",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Hermann G\u00f6ring",
   "moon_nak": "Vishakha",
   "moon_sign": "Libra",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Reinhard Heydrich",
   "moon_nak": "Anuradha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Nicolae Ceau\u0219escu",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Enver Hoxha",
   "moon_nak": "Punarvasu",
   "moon_sign": "Gemini",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Slobodan Milo\u0161evi\u0107",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Radovan Karad\u017ei\u0107",
   "moon_nak": "Chitra",
   "moon_sign": "Virgo",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ratko Mladi\u0107",
   "moon_nak": "Uttara Ashadha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Charles Taylor",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jean-B\u00e9del Bokassa",
   "moon_nak": "Magha",
   "moon_sign": "Leo",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Mengistu Haile Mariam",
   "moon_nak": "Chitra",
   "moon_sign": "Virgo",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Omar al-Bashir",
   "moon_nak": "Purva Bhadrapada",
   "moon_sign": "Aquarius",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Muammar Gaddafi",
   "moon_nak": "Uttara Bhadrapada",
   "moon_sign": "Pisces",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Robert Mugabe",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ferdinand Marcos",
   "moon_nak": "Punarvasu",
   "moon_sign": "Gemini",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Dictator"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "John Nash",
   "moon_nak": "Ashwini",
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Scientist/Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Kurt G\u00f6del",
   "moon_nak": "Ardra",
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Scientist/Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ren\u00e9 Descartes",
   "moon_nak": "Bharani",
   "moon_sign": "Aries",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Scientist/Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Orville Wright",
   "moon_nak": "Hasta",
   "moon_sign": "Virgo",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Inventor/Tech"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Wilbur Wright",
   "moon_nak": "Uttara Phalguni",
   "moon_sign": "Virgo",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Inventor/Tech"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Michael Milken",
   "moon_nak": "Uttara Phalguni",
   "moon_sign": "Virgo",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ivan Boesky",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "John Paulson",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jim Simons",
   "moon_nak": "Shatabhisha",
   "moon_sign": "Aquarius",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Bill Ackman",
   "moon_nak": "Shravana",
   "moon_sign": "Capricorn",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jesse Livermore",
   "moon_nak": "Dhanishtha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Aquarius",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jay Gould",
   "moon_nak": "Chitra",
   "moon_sign": "Libra",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jim Fisk",
   "moon_nak": "Krittika",
   "moon_sign": "Aries",
   "rahu_sign": "Taurus",
-  "_source": "mega_cross_reference.json/Investor/Tycoon"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Gordon Ramsay",
   "moon_nak": "Purva Phalguni",
   "moon_sign": "Leo",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Anthony Bourdain",
   "moon_nak": "Uttara Ashadha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Scorpio",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Marco Pierre White",
   "moon_nak": "Shravana",
   "moon_sign": "Capricorn",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Auguste Escoffier",
   "moon_nak": "Dhanishtha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Libra",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Julia Child",
   "moon_nak": "Uttara Phalguni",
   "moon_sign": "Virgo",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Wolfgang Puck",
   "moon_nak": "Jyeshtha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Pisces",
-  "_source": "mega_cross_reference.json/Chef"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Bobby Fischer",
   "moon_nak": "Ashwini",
   "moon_sign": "Aries",
   "rahu_sign": "Leo",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Garry Kasparov",
   "moon_nak": "Jyeshtha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Magnus Carlsen",
   "moon_nak": "Bharani",
   "moon_sign": "Aries",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Mikhail Tal",
   "moon_nak": "Uttara Phalguni",
   "moon_sign": "Virgo",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Paul Morphy",
   "moon_nak": "Dhanishtha",
   "moon_sign": "Aquarius",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Edward O. Thorp",
   "moon_nak": "Uttara Ashadha",
   "moon_sign": "Capricorn",
   "rahu_sign": "Aquarius",
-  "_source": "mega_cross_reference.json/Chess/Game Genius"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Latrell Sprewell",
   "moon_nak": "Jyeshtha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Aquarius",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Vince Young",
   "moon_nak": "Ashlesha",
   "moon_sign": "Cancer",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Warren Sapp",
   "moon_nak": "Mrigashira",
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Evander Holyfield",
   "moon_nak": "Punarvasu",
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Lawrence Taylor",
   "moon_nak": "Mula",
   "moon_sign": "Sagittarius",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Boris Becker",
   "moon_nak": "Pushya",
   "moon_sign": "Cancer",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Bankrupt Athlete"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Aldrich Ames",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Virgo",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Robert Hanssen",
   "moon_nak": "Shatabhisha",
   "moon_sign": "Aquarius",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Jonathan Pollard",
   "moon_nak": "Vishakha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Julius Rosenberg",
   "moon_nak": "Mrigashira",
   "moon_sign": "Taurus",
   "rahu_sign": "Sagittarius",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ethel Rosenberg",
   "moon_nak": "Rohini",
   "moon_sign": "Taurus",
   "rahu_sign": "Capricorn",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Benedict Arnold",
   "moon_nak": "Jyeshtha",
   "moon_sign": "Scorpio",
   "rahu_sign": "Gemini",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Vidkun Quisling",
   "moon_nak": "Mrigashira",
   "moon_sign": "Gemini",
   "rahu_sign": "Cancer",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Kim Philby",
   "moon_nak": "Krittika",
   "moon_sign": "Taurus",
   "rahu_sign": "Aries",
-  "_source": "mega_cross_reference.json/Spy/Traitor"
+  "_source": "mega_cross_reference.json"
  },
  {
   "name": "Ray Kroc",
   "bday": "1902-10-05",
   "place": "Oak Park, Illinois, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Colonel Sanders",
   "bday": "1890-09-09",
   "place": "Henryville, Indiana, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Sam Walton",
   "bday": "1918-03-29",
   "place": "Kingfisher, Oklahoma, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Martha Stewart",
   "bday": "1941-08-03",
   "place": "Jersey City, New Jersey, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Mary Kay Ash",
   "bday": "1918-05-12",
   "place": "Hot Wells, Texas, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Est\u00e9e Lauder",
   "bday": "1908-07-01",
   "place": "Queens, New York, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Sara Blakely",
   "bday": "1971-02-27",
   "place": "Clearwater, Florida, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Vera Wang",
   "bday": "1949-06-27",
   "place": "New York City, New York, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Arianna Huffington",
   "bday": "1950-07-15",
   "place": "Athens, Greece",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Momofuku Ando",
   "bday": "1910-03-05",
   "place": "Chiayi, Taiwan",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Harland Sanders",
   "bday": "1890-09-09",
   "place": "Henryville, Indiana, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Founder"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "J.K. Rowling",
   "bday": "1965-07-31",
   "place": "Yate, Gloucestershire, England, UK",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Charles Bukowski",
   "bday": "1920-08-16",
   "place": "Andernach, Germany",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Tom Clancy",
   "bday": "1947-04-12",
   "place": "Baltimore, Maryland, USA",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "George R.R. Martin",
   "bday": "1948-09-20",
   "place": "Bayonne, New Jersey, USA",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Bram Stoker",
   "bday": "1847-11-08",
   "place": "Clontarf, Dublin, Ireland",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Daniel Defoe",
   "bday": "1660-09-13",
   "place": "London, England, UK",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "James Michener",
   "bday": "1907-02-03",
   "place": "New York City, New York, USA",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Alex Haley",
   "bday": "1921-08-11",
   "place": "Ithaca, New York, USA",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Stieg Larsson",
   "bday": "1954-08-15",
   "place": "Skelleftehamn, Sweden",
-  "_source": "new_groups_summary.json/Author"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Samuel L. Jackson",
   "bday": "1948-12-21",
   "place": "Washington, D.C., USA",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Bryan Cranston",
   "bday": "1956-03-07",
   "place": "Hollywood, Los Angeles, California, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Alan Rickman",
   "bday": "1946-02-21",
   "place": "Hammersmith, London, England, UK",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Harrison Ford",
   "bday": "1942-07-13",
   "place": "Chicago, Illinois, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Christoph Waltz",
   "bday": "1956-10-04",
   "place": "Vienna, Austria",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Judi Dench",
   "bday": "1934-12-09",
   "place": "York, North Yorkshire, England, UK",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Patrick Stewart",
   "bday": "1940-07-13",
   "place": "Mirfield, West Yorkshire, England, UK",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Gene Hackman",
   "bday": "1930-01-30",
   "place": "San Bernardino, California, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Kathy Bates",
   "bday": "1948-06-28",
   "place": "Memphis, Tennessee, USA",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Ian McKellen",
   "bday": "1939-05-25",
   "place": "Burnley, Lancashire, England, UK",
-  "_source": "new_groups_summary.json/Late Bloomer Actor"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Grandma Moses",
   "bday": "1860-09-07",
   "place": "Greenwich, New York, USA",
-  "_source": "new_groups_summary.json/Artist"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Paul Gauguin",
   "bday": "1848-06-07",
   "place": "Paris, France",
-  "_source": "new_groups_summary.json/Artist"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Wassily Kandinsky",
   "bday": "1866-12-16",
   "place": "Moscow, Russia",
-  "_source": "new_groups_summary.json/Artist"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Bob Ross",
   "bday": "1942-10-29",
   "place": "Daytona Beach, Florida, USA",
-  "_source": "new_groups_summary.json/Artist"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "George Washington",
   "bday": "1732-02-22",
   "place": "Westmoreland County, Virginia, USA",
-  "_source": "new_groups_summary.json/Statesman/Leader"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Theodore Roosevelt",
   "bday": "1858-10-27",
   "place": "New York City, New York, USA",
-  "_source": "new_groups_summary.json/Statesman/Leader"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Lee Kuan Yew",
   "bday": "1923-09-16",
   "place": "Singapore",
-  "_source": "new_groups_summary.json/Statesman/Leader"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Mikhail Gorbachev",
   "bday": "1931-03-02",
   "place": "Privolnoye, Russian SFSR, Soviet Union",
-  "_source": "new_groups_summary.json/Statesman/Leader"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Immanuel Kant",
   "bday": "1724-04-22",
   "place": "K\u00f6nigsberg, Prussia",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Friedrich Nietzsche",
   "bday": "1844-10-15",
   "place": "R\u00f6cken, Prussia, Germany",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Karl Marx",
   "bday": "1818-05-05",
   "place": "Trier, Kingdom of Prussia",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Jean-Paul Sartre",
   "bday": "1905-06-21",
   "place": "Paris, France",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Voltaire",
   "bday": "1694-11-21",
   "place": "Paris, France",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Jean-Jacques Rousseau",
   "bday": "1712-06-28",
   "place": "Geneva, Switzerland",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "John Locke",
   "bday": "1632-08-29",
   "place": "Wrington, Somerset, England, UK",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "David Hume",
   "bday": "1711-05-07",
   "place": "Edinburgh, Scotland, UK",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Arthur Schopenhauer",
   "bday": "1788-02-22",
   "place": "Danzig, Polish-Lithuanian Commonwealth",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Baruch Spinoza",
   "bday": "1632-11-24",
   "place": "Amsterdam, Netherlands",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "S\u00f8ren Kierkegaard",
   "bday": "1813-05-05",
   "place": "Copenhagen, Denmark",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Hannah Arendt",
   "bday": "1906-10-14",
   "place": "Linden, Hanover, Germany",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Michel Foucault",
   "bday": "1926-10-15",
   "place": "Poitiers, France",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Bertrand Russell",
   "bday": "1872-05-18",
   "place": "Trellech, Monmouthshire, Wales, UK",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Ludwig Wittgenstein",
   "bday": "1889-04-26",
   "place": "Vienna, Austria",
-  "_source": "new_groups_summary.json/Philosopher"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Antoni Gaud\u00ed",
   "bday": "1852-06-25",
   "place": "Reus, Catalonia, Spain",
-  "_source": "new_groups_summary.json/Architect"
+  "_source": "new_groups_summary.json"
  },
  {
   "name": "Mae Jemison",
   "bday": "1956-10-17",
   "place": "Decatur, Alabama, USA",
-  "_source": "new_groups_summary.json/Astronaut"
- },
- {
-  "planet": "Sun",
-  "sign": "Taurus",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 22,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Leo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 18,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Scorpio",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 13,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Cancer",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 14,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 13,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Libra",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 23,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Scorpio",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 18,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Sagittarius",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 18,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Cancer",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Aquarius",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 13,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Taurus",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 15,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 24,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Pisces",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Aries",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Cancer",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Libra",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 13,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Cancer",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 14,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Leo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 12,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Libra",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Aries",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Pisces",
-  "career": "Other",
-  "ratio": 2.3,
-  "n": 12,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 22,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Sagittarius",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 22,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Leo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 21,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Capricorn",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 21,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Leo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 21,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Aries",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 21,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Scorpio",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 21,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Cancer",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Libra",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Sagittarius",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Pisces",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Pisces",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 20,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 19,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 18,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Taurus",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Aries",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Libra",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 17,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Scorpio",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Aquarius",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Virgo",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Gemini",
-  "career": "Other",
-  "ratio": 2.2,
-  "n": 16,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Aquarius",
-  "ratio": 7.3,
-  "n_rich": 6,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Capricorn",
-  "ratio": 6.3,
-  "n_rich": 6,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Capricorn",
-  "ratio": 6.3,
-  "n_rich": 6,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Taurus",
-  "ratio": 6.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Aquarius",
-  "ratio": 6.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Capricorn",
-  "ratio": 5.8,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Cancer",
-  "ratio": 5.5,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mercury",
-  "sign": "Leo",
-  "ratio": 5.5,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Sagittarius",
-  "ratio": 5.5,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Gemini",
-  "ratio": 5.5,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Leo",
-  "ratio": 5.4,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Virgo",
-  "ratio": 5.4,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Aquarius",
-  "ratio": 5.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Capricorn",
-  "ratio": 5.2,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Mars",
-  "sign": "Aries",
-  "ratio": 5.2,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Leo",
-  "ratio": 5.2,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Leo",
-  "ratio": 5.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Scorpio",
-  "ratio": 5.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Moon",
-  "sign": "Sagittarius",
-  "ratio": 5.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Aries",
-  "ratio": 5.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Libra",
-  "ratio": 5.1,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Cancer",
-  "ratio": 4.8,
-  "n_rich": 5,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Sun",
-  "sign": "Gemini",
-  "ratio": 4.6,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Scorpio",
-  "ratio": 4.6,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Jupiter",
-  "sign": "Gemini",
-  "ratio": 4.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Taurus",
-  "ratio": 4.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Saturn",
-  "sign": "Sagittarius",
-  "ratio": 4.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Rahu",
-  "sign": "Libra",
-  "ratio": 4.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Ketu",
-  "sign": "Aries",
-  "ratio": 4.3,
-  "n_rich": 3,
-  "_source": "nexus_unified_master.json"
- },
- {
-  "planet": "Venus",
-  "sign": "Capricorn",
-  "ratio": 4.2,
-  "n_rich": 4,
-  "_source": "nexus_unified_master.json"
+  "_source": "new_groups_summary.json"
  },
  {
   "person_id": "Othe_0000",
@@ -29330,7 +28720,7 @@
    "net_astrological_score": 11
   },
   "correlation_notes": "Senath: NAS=11 | Neutral/Neutral | Other",
-  "_source": "nexus_unified_master.json"
+  "_source": "nexus_v4_benchmark.json"
  },
  {
   "person_id": "Othe_0001",
@@ -29361,7 +28751,7 @@
    "net_astrological_score": 8
   },
   "correlation_notes": "Lalith Uncle: NAS=8 | Neutral/Neutral | Other",
-  "_source": "nexus_unified_master.json"
+  "_source": "nexus_v4_benchmark.json"
  },
  {
   "person_id": "Othe_0006",
@@ -29387,7 +28777,7 @@
    "net_astrological_score": 7
   },
   "correlation_notes": "Dewli: NAS=7 | Neutral/Neutral | Other",
-  "_source": "nexus_unified_master.json"
+  "_source": "nexus_v4_benchmark.json"
  },
  {
   "person_id": "Othe_0004",
@@ -29420,7 +28810,7 @@
    "net_astrological_score": 5
   },
   "correlation_notes": "Lakshi Amma: NAS=5 | Neutral/Neutral | Other",
-  "_source": "nexus_unified_master.json"
+  "_source": "nexus_v4_benchmark.json"
  },
  {
   "person_id": "Othe_0007",
@@ -29492,7 +28882,7 @@
    "net_astrological_score": 2
   },
   "correlation_notes": "Sineth: NAS=2 | Neutral/Neutral | Other",
-  "_source": "nexus_unified_master.json"
+  "_source": "nexus_v4_benchmark.json"
  },
  {
   "name": "P9 Lalith Uncle",
@@ -29500,7 +28890,7 @@
   "planet": "Saturn",
   "conditions": 4,
   "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-7th-Mercury",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P8 Lakshi Amma",
@@ -29508,7 +28898,7 @@
   "planet": "Sun",
   "conditions": 4,
   "detail": "C6:debplanet-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect, C8:friend-conj-Moon",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P6 Dewli",
@@ -29516,7 +28906,7 @@
   "planet": "Moon",
   "conditions": 2,
   "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P4 Niromi",
@@ -29524,7 +28914,7 @@
   "planet": "Mercury",
   "conditions": 1,
   "detail": "C2:deblord-kendra-moon",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P2 Upulakshi",
@@ -29532,7 +28922,7 @@
   "planet": "Jupiter",
   "conditions": 1,
   "detail": "C3:exlord-kendra-lagna",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P7 Sineth",
@@ -29540,243 +28930,243 @@
   "planet": "Mercury",
   "conditions": 1,
   "detail": "C8:friend-conj-Sun",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P5 Senath",
   "source": "P1-P9",
   "exchange": "Jupiter\u2194Venus (Taurus\u2194Pisces)",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P1 Polgahawela Bappa",
   "source": "P1-P9",
   "exchange": "Mercury\u2194Venus (Taurus\u2194Gemini)",
-  "_source": "nexus_unified_master.json"
+  "_source": "shrinkhala_nbry_report.json"
  },
  {
   "name": "P1 Bappa",
   "score": 12.0,
   "src": "P1-P9",
   "tier": "A",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "P9 Lalith",
   "score": 12.0,
   "src": "P1-P9",
   "tier": "A",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Sid Meier",
   "score": 12.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Guido van Rossum",
   "score": 10.5,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Sam Altman",
   "score": 8.5,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "MrBeast",
   "score": 8.0,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Dario Amodei",
   "score": 8.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Marques Brownlee",
   "score": 7.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Shigeru Miyamoto",
   "score": 7.0,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Bram Moolenaar",
   "score": 6.5,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Jimmy Wales",
   "score": 6.5,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Tsutomu Shimomura",
   "score": 6.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "P8 Lakshi",
   "score": 5.5,
   "src": "P1-P9",
   "tier": "A",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Bruce Schneier",
   "score": 5.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Hideo Kojima",
   "score": 4.5,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "John Carmack",
   "score": 4.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Geoffrey Hinton",
   "score": 4.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Yann LeCun",
   "score": 2.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "PewDiePie",
   "score": 1.5,
   "src": "TECH",
   "tier": "AA",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "P3 Senith",
   "score": 1.5,
   "src": "P1-P9",
   "tier": "A",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Moxie Marlinspike",
   "score": 1.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Eben Upton",
   "score": 1.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Margaret Hamilton",
   "score": 1.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Markus Persson",
   "score": 1.0,
   "src": "TECH",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Gabe Newell",
   "score": 1.0,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Kevin Mitnick",
   "score": 0.0,
   "src": "TECH",
   "tier": "AA",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Demis Hassabis",
   "score": -0.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Charli DAmelio",
   "score": -0.5,
   "src": "BATCH3",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_all_batches.json"
  },
  {
   "name": "Jennifer Doudna",
   "score": 6.0,
   "src": "BATCH4",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_definitive.json"
  },
  {
   "name": "Emmanuelle Charpentier",
   "score": 5.0,
   "src": "BATCH4",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_definitive.json"
  },
  {
   "name": "Anthony Fauci",
   "score": 5.0,
   "src": "BATCH4",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_definitive.json"
  },
  {
   "name": "Shonda Rhimes",
   "score": 4.0,
   "src": "BATCH4",
   "tier": "A*",
-  "_source": "nexus_unified_master.json"
+  "_source": "stacked_definitive.json"
  },
  {
   "name": "Bernie Madoff",
@@ -29794,6 +29184,6 @@
   "score": 4.5,
   "wealth": "Poor",
   "social": "Bad",
-  "_source": "nexus_unified_master.json"
+  "_source": "verified_15_tier_a.json"
  }
 ]
