@@ -1,0 +1,20 @@
+{
+  "q_people": 5010,
+  "financial_outcomes_verified": 0,
+  "features_applied": [
+    "Jupiter return/sign/degree baseline",
+    "Saturn pre-ingress/sign/exact-return windows",
+    "Venus degree/return baseline",
+    "Rahu/Ketu sign/degree and node-return baseline",
+    "candidate event-date movement fields from prior pipeline"
+  ],
+  "features_not_applied": [
+    "2nd/6th/10th/11th houses",
+    "house lords",
+    "Dasha/Antardasha",
+    "D9",
+    "D10",
+    "house-based yogas"
+  ],
+  "reason": "Birth times are unavailable and Q financial outcome dates are not yet verified."
+}
