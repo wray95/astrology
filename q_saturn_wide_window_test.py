@@ -20,8 +20,11 @@ for e in events:
  if best:
   p=best[1];ing=date.fromisoformat(p['saturn_ingress']);ex=date.fromisoformat(p['saturn_exit']);
   phase='core_natal_sign' if ing<=d<=ex else ('lead_3y_before_ingress' if d<ing else 'lag_3y_after_exit')
-  rows.append({**e,'natal_saturn_sign':p['natal_saturn_sign'],'saturn_ingress':p['saturn_ingress'],'saturn_exit':p['saturn_exit'],'wide_3y_phase':phase,'wide_window_start':(ing-timedelta(days=3*365)).isoformat(),'wide_window_end':(ex+timedelta(days=3*365)).isoformat()})
-c=Counter(r['wide_3y_phase'] for r in rows);summary={'usable_candidate_events':len(events),'events_in_3y_lead_core_lag_windows':len(rows),'phase_counts':dict(c),'event_type_counts':dict(Counter(r['event_type'] for r in rows)),'outcome_labels_available':{'q_wealth':0,'q_rags_to_riches':0,'q_downfall':0},'interpretation':'Widened timing screen; not an outcome test and not causal.'}
+  rows.append({**e,'natal_saturn_sign':p['natal_saturn_sign'],'natal_saturn_degree':p['natal_saturn_degree'],'saturn_ingress':p['saturn_ingress'],'saturn_exit':p['saturn_exit'],'wide_3y_phase':phase,'wide_window_start':(ing-timedelta(days=3*365)).isoformat(),'wide_window_end':(ex+timedelta(days=3*365)).isoformat()})
+c=Counter(r['wide_3y_phase'] for r in rows);by_sign={}
+for s in sorted(set(r['natal_saturn_sign'] for r in rows)):
+ z=[r for r in rows if r['natal_saturn_sign']==s];by_sign[s]=dict(Counter(r['wide_3y_phase'] for r in z))
+summary={'usable_candidate_events':len(events),'events_in_3y_lead_core_lag_windows':len(rows),'phase_counts':dict(c),'event_type_counts':dict(Counter(r['event_type'] for r in rows)),'by_natal_saturn_sign':by_sign,'outcome_labels_available':{'q_wealth':0,'q_rags_to_riches':0,'q_downfall':0},'interpretation':'Widened timing screen; not an outcome test and not causal.'}
 json.dump(summary,open(OUT+'/summary.json','w'),indent=2)
 with open(OUT+'/events.csv','w',newline='') as f:
  w=csv.DictWriter(f,fieldnames=rows[0].keys() if rows else ['q_id']);w.writeheader();w.writerows(rows)
