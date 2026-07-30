@@ -1,0 +1,50 @@
+{
+  "p_charts": [
+    {
+      "id": "P1",
+      "name": "Polgahawela Bappa",
+      "saturn": "Capricorn"
+    },
+    {
+      "id": "P2",
+      "name": "Upulakshi",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P3",
+      "name": "Senith",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P4",
+      "name": "Niromi",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P5",
+      "name": "Senath",
+      "saturn": "Taurus"
+    },
+    {
+      "id": "P6",
+      "name": "Dewli",
+      "saturn": "Cancer"
+    },
+    {
+      "id": "P7",
+      "name": "Sineth",
+      "saturn": "Gemini"
+    },
+    {
+      "id": "P8",
+      "name": "Lakshi Amma",
+      "saturn": "Capricorn"
+    },
+    {
+      "id": "P9",
+      "name": "Lalith Uncle",
+      "saturn": "Aries"
+    }
+  ],
+  "q_series_total": 5010
+}
