@@ -1,0 +1,213 @@
+{
+  "events": 161,
+  "controls": 450,
+  "features_tested": 18,
+  "results": [
+    {
+      "feature": "Saturn_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 4,
+      "event_rate": 0.024844720496894408,
+      "control_count": 4,
+      "control_rate": 0.008888888888888889,
+      "risk_ratio_continuity_corrected": 2.7839506172839505,
+      "odds_ratio": 2.840764331210191,
+      "fisher_p": 0.21705312965822707
+    },
+    {
+      "feature": "Mars_retrograde",
+      "description": "retrograde",
+      "event_count": 19,
+      "event_rate": 0.11801242236024845,
+      "control_count": 35,
+      "control_rate": 0.07777777777777778,
+      "risk_ratio_continuity_corrected": 1.5292123109024516,
+      "odds_ratio": 1.5865191146881288,
+      "fisher_p": 0.14465305360528252
+    },
+    {
+      "feature": "Mars_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 15,
+      "event_rate": 0.09316770186335403,
+      "control_count": 28,
+      "control_rate": 0.06222222222222222,
+      "risk_ratio_continuity_corrected": 1.5140784058912715,
+      "odds_ratio": 1.5484344422700587,
+      "fisher_p": 0.20896795161426296
+    },
+    {
+      "feature": "Mars_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 4,
+      "event_rate": 0.024844720496894408,
+      "control_count": 9,
+      "control_rate": 0.02,
+      "risk_ratio_continuity_corrected": 1.3187134502923976,
+      "odds_ratio": 1.2484076433121019,
+      "fisher_p": 0.752038680324139
+    },
+    {
+      "feature": "Saturn_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 19,
+      "event_rate": 0.11801242236024845,
+      "control_count": 42,
+      "control_rate": 0.09333333333333334,
+      "risk_ratio_continuity_corrected": 1.277342047930283,
+      "odds_ratio": 1.2997987927565393,
+      "fisher_p": 0.3618560389037263
+    },
+    {
+      "feature": "Jupiter_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 16,
+      "event_rate": 0.09937888198757763,
+      "control_count": 36,
+      "control_rate": 0.08,
+      "risk_ratio_continuity_corrected": 1.258498224251649,
+      "odds_ratio": 1.2689655172413794,
+      "fisher_p": 0.5101818104161427
+    },
+    {
+      "feature": "Venus_retrograde",
+      "description": "retrograde",
+      "event_count": 14,
+      "event_rate": 0.08695652173913043,
+      "control_count": 39,
+      "control_rate": 0.08666666666666667,
+      "risk_ratio_continuity_corrected": 1.02195655571183,
+      "odds_ratio": 1.0036630036630036,
+      "fisher_p": 1.0
+    },
+    {
+      "feature": "Rahu_mean_retrograde",
+      "description": "retrograde",
+      "event_count": 161,
+      "event_rate": 1.0,
+      "control_count": 450,
+      "control_rate": 1.0,
+      "risk_ratio_continuity_corrected": 0.9980200326112275,
+      "odds_ratio": NaN,
+      "fisher_p": 1.0
+    },
+    {
+      "feature": "Ketu_retrograde",
+      "description": "retrograde",
+      "event_count": 161,
+      "event_rate": 1.0,
+      "control_count": 450,
+      "control_rate": 1.0,
+      "risk_ratio_continuity_corrected": 0.9980200326112275,
+      "odds_ratio": NaN,
+      "fisher_p": 1.0
+    },
+    {
+      "feature": "Jupiter_retrograde",
+      "description": "retrograde",
+      "event_count": 51,
+      "event_rate": 0.3167701863354037,
+      "control_count": 145,
+      "control_rate": 0.32222222222222224,
+      "risk_ratio_continuity_corrected": 0.9853845827499894,
+      "odds_ratio": 0.9752351097178683,
+      "fisher_p": 0.9219497159851979
+    },
+    {
+      "feature": "Saturn_retrograde",
+      "description": "retrograde",
+      "event_count": 60,
+      "event_rate": 0.37267080745341613,
+      "control_count": 180,
+      "control_rate": 0.4,
+      "risk_ratio_continuity_corrected": 0.9331247221367258,
+      "odds_ratio": 0.8910891089108911,
+      "fisher_p": 0.5733749901486216
+    },
+    {
+      "feature": "Rahu_mean_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 3,
+      "event_rate": 0.018633540372670808,
+      "control_count": 11,
+      "control_rate": 0.024444444444444446,
+      "risk_ratio_continuity_corrected": 0.847289318303811,
+      "odds_ratio": 0.7577675489067894,
+      "fisher_p": 1.0
+    },
+    {
+      "feature": "Ketu_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 3,
+      "event_rate": 0.018633540372670808,
+      "control_count": 11,
+      "control_rate": 0.024444444444444446,
+      "risk_ratio_continuity_corrected": 0.847289318303811,
+      "odds_ratio": 0.7577675489067894,
+      "fisher_p": 1.0
+    },
+    {
+      "feature": "Rahu_mean_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 13,
+      "event_rate": 0.08074534161490683,
+      "control_count": 56,
+      "control_rate": 0.12444444444444444,
+      "risk_ratio_continuity_corrected": 0.6651917404129793,
+      "odds_ratio": 0.6180019305019305,
+      "fisher_p": 0.14824672895262264
+    },
+    {
+      "feature": "Ketu_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 13,
+      "event_rate": 0.08074534161490683,
+      "control_count": 56,
+      "control_rate": 0.12444444444444444,
+      "risk_ratio_continuity_corrected": 0.6651917404129793,
+      "odds_ratio": 0.6180019305019305,
+      "fisher_p": 0.14824672895262264
+    },
+    {
+      "feature": "Venus_same_natal_sign",
+      "description": "same natal sign",
+      "event_count": 8,
+      "event_rate": 0.049689440993788817,
+      "control_count": 40,
+      "control_rate": 0.08888888888888889,
+      "risk_ratio_continuity_corrected": 0.5842859320225575,
+      "odds_ratio": 0.5359477124183006,
+      "fisher_p": 0.1263871691968028
+    },
+    {
+      "feature": "Venus_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 1,
+      "event_rate": 0.006211180124223602,
+      "control_count": 7,
+      "control_rate": 0.015555555555555555,
+      "risk_ratio_continuity_corrected": 0.5567901234567901,
+      "odds_ratio": 0.39553571428571427,
+      "fisher_p": 0.6877534806369909
+    },
+    {
+      "feature": "Jupiter_within_3deg",
+      "description": "within 3 degrees",
+      "event_count": 0,
+      "event_rate": 0.0,
+      "control_count": 14,
+      "control_rate": 0.03111111111111111,
+      "risk_ratio_continuity_corrected": 0.09599829714772243,
+      "odds_ratio": 0.0,
+      "fisher_p": 0.02644560201700413
+    }
+  ],
+  "purpose": "hypothesis discovery only",
+  "limitations": [
+    "Candidate events not fully verified",
+    "Events dominated by death/career extraction",
+    "No wealth/success/failure labels",
+    "Multiple testing not confirmatory",
+    "Controls preliminary and rows are not independent"
+  ]
+}
