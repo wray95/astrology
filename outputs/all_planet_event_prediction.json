@@ -1,0 +1,122 @@
+{
+  "saturn_screened_events": 10,
+  "saturn_patterns": {
+    "career_peak": {
+      "count": 1,
+      "signs": {
+        "Aquarius": 1
+      },
+      "retro_rate": 0.0
+    },
+    "military_victory": {
+      "count": 1,
+      "signs": {
+        "Taurus": 1
+      },
+      "retro_rate": 1.0
+    },
+    "political_crisis": {
+      "count": 1,
+      "signs": {
+        "Gemini": 1
+      },
+      "retro_rate": 0.0
+    },
+    "electoral_defeat": {
+      "count": 1,
+      "signs": {
+        "Cancer": 1
+      },
+      "retro_rate": 1.0
+    },
+    "comeback": {
+      "count": 1,
+      "signs": {
+        "Virgo": 1
+      },
+      "retro_rate": 1.0
+    },
+    "death": {
+      "count": 1,
+      "signs": {
+        "Libra": 1
+      },
+      "retro_rate": 0.0
+    },
+    "career_breakthrough": {
+      "count": 1,
+      "signs": {
+        "Scorpio": 1
+      },
+      "retro_rate": 0.0
+    },
+    "business_milestone": {
+      "count": 1,
+      "signs": {
+        "Sagittarius": 1
+      },
+      "retro_rate": 1.0
+    },
+    "career_closure": {
+      "count": 1,
+      "signs": {
+        "Virgo": 1
+      },
+      "retro_rate": 1.0
+    },
+    "recognition": {
+      "count": 1,
+      "signs": {
+        "Sagittarius": 1
+      },
+      "retro_rate": 0.0
+    }
+  },
+  "p_predictions": {
+    "P1": {
+      "natal_saturn": "Capricorn",
+      "first_return": 1991,
+      "second_return": 2021
+    },
+    "P2": {
+      "natal_saturn": "Pisces",
+      "first_return": 2026,
+      "second_return": 2056
+    },
+    "P3": {
+      "natal_saturn": "Pisces",
+      "first_return": 2024,
+      "second_return": 2054
+    },
+    "P4": {
+      "natal_saturn": "Pisces",
+      "first_return": 1996,
+      "second_return": 2026
+    },
+    "P5": {
+      "natal_saturn": "Taurus",
+      "first_return": 2030,
+      "second_return": 2060
+    },
+    "P6": {
+      "natal_saturn": "Cancer",
+      "first_return": 2034,
+      "second_return": 2064
+    },
+    "P7": {
+      "natal_saturn": "Gemini",
+      "first_return": 2034,
+      "second_return": 2064
+    },
+    "P8": {
+      "natal_saturn": "Capricorn",
+      "first_return": 1992,
+      "second_return": 2022
+    },
+    "P9": {
+      "natal_saturn": "Aries",
+      "first_return": 1999,
+      "second_return": 2029
+    }
+  }
+}
