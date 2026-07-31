@@ -313,6 +313,6 @@ for r in results:
         print(f"  • {y}")
 
 # Save
-with open('/home/user/dataset/benchmark_12_computed.json', 'w') as f:
+with open('dataset/benchmark_12_computed.json', 'w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved to /home/user/dataset/benchmark_12_computed.json")
+print(f"\nSaved to dataset/benchmark_12_computed.json")

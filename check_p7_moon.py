@@ -4,7 +4,7 @@ from skyfield.api import load, wgs84
 from skyfield.framelib import ecliptic_frame
 from datetime import datetime, timedelta
 
-ephem = load('/home/user/de421.bsp')
+ephem = load(''de421.bsp'')
 ts = load.timescale()
 earth = ephem['earth']
 moon = ephem['moon']

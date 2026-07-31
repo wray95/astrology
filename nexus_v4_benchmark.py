@@ -27,7 +27,7 @@ DUSTHANA = {6,8,12}
 # ============================================================
 def load_all():
     charts = []
-    data_dir = '/home/user/dataset'
+    data_dir = 'dataset'
     sources = [
         ('p1p9_absolute_final_rerank.json', 'list'),
         ('benchmark_10_domain.json', 'list'),
@@ -618,7 +618,7 @@ print(f"  4-Loop: {total_4} charts ({total_4/len(output)*100:.1f}%)")
 print(f"  5-Loop: {total_5} charts ({total_5/len(output)*100:.1f}%)")
 
 # Save
-with open('/home/user/dataset/nexus_v4_benchmark.json', 'w') as f:
+with open('dataset/nexus_v4_benchmark.json', 'w') as f:
     json.dump(output, f, indent=2)
-print(f"\nSaved → /home/user/dataset/nexus_v4_benchmark.json")
+print(f"\nSaved → dataset/nexus_v4_benchmark.json")
 print(f"Total records: {len(output)}")

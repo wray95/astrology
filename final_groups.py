@@ -258,6 +258,6 @@ for gname, s in sorted(all_group_stats.items(), key=lambda x: -x[1]['n']):
 out = {}
 for gname, members in NEW_GROUPS:
     out[gname] = [{"name":n,"bday":b,"place":p} for n,b,p in members]
-with open('/home/user/dataset/new_groups_summary.json','w') as f:
+with open('dataset/new_groups_summary.json','w') as f:
     json.dump(out, f, indent=2)
 print(f"\nSaved")

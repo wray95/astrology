@@ -49,7 +49,7 @@ def get_moon_geocentric(birth_utc, lat, lon):
     from skyfield.api import load
     from skyfield.framelib import ecliptic_frame
     
-    ephem = load('/home/user/de421.bsp')
+    ephem = load('de421.bsp')
     ts = load.timescale()
     earth = ephem['earth']
     moon = ephem['moon']

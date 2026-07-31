@@ -263,7 +263,7 @@ print("NEXUS v2.1 — 112 CELEBRITY CHARTS + 12 LABELED BENCHMARK")
 print("="*100)
 
 # --- LOAD 112 celebrity charts ---
-with open('/home/user/astrology/astrodb_out/chart_houses.json') as f:
+with open('astrodb_out/chart_houses.json') as f:
     celeb_charts = json.load(f)
 
 print(f"\nLoaded {len(celeb_charts)} celebrity charts")
@@ -395,8 +395,8 @@ for i, c in enumerate(computed_112[-10:], 1):
           f"D:{len(y['dhana'])} R:{len(y['raja'])} MP:{len(y['mahapurusha'])} V:{len(y['vry'])} N:{len(y['nbry'])}")
 
 # --- SAVE ALL ---
-out_112 = '/home/user/dataset/celebrity_112_nexus_v2.json'
-out_12 = '/home/user/dataset/benchmark_12_nexus_v2.json'
+out_112 = 'dataset/celebrity_112_nexus_v2.json'
+out_12 = 'dataset/benchmark_12_nexus_v2.json'
 
 with open(out_112, 'w') as f:
     json.dump(computed_112, f, indent=2)

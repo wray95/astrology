@@ -474,6 +474,6 @@ out = {"charts": all_charts, "stats": {
     "rahu_sign_distribution": dict(rs_counter.most_common()),
     "top_conjunctions": dict(conj_counter.most_common(15)),
 }}
-with open('/home/user/dataset/billionaire_noon_analysis.json', 'w') as f:
+with open('dataset/billionaire_noon_analysis.json', 'w') as f:
     json.dump(out, f, indent=2)
-print(f"\nSaved → /home/user/dataset/billionaire_noon_analysis.json")
+print(f"\nSaved → dataset/billionaire_noon_analysis.json")

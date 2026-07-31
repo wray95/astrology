@@ -1,9 +1,9 @@
 {
   "total_charts": 829,
   "career_groups": {
-    "Criminal": 68,
+    "Criminal": 69,
     "Business/Finance": 38,
-    "Other": 356,
+    "Other": 355,
     "Athletics": 16,
     "Arts/Entertainment": 108,
     "Humanitarian/Spiritual": 29,
@@ -24,7 +24,7 @@
       "sign": "Leo",
       "career": "Other",
       "ratio": 2.3,
-      "n": 18
+      "n": 17
     },
     {
       "planet": "Sun",
@@ -52,14 +52,14 @@
       "sign": "Libra",
       "career": "Other",
       "ratio": 2.3,
-      "n": 23
+      "n": 22
     },
     {
       "planet": "Moon",
       "sign": "Scorpio",
       "career": "Other",
       "ratio": 2.3,
-      "n": 18
+      "n": 17
     },
     {
       "planet": "Moon",
@@ -87,7 +87,7 @@
       "sign": "Taurus",
       "career": "Other",
       "ratio": 2.3,
-      "n": 15
+      "n": 14
     },
     {
       "planet": "Mercury",
@@ -101,7 +101,7 @@
       "sign": "Virgo",
       "career": "Other",
       "ratio": 2.3,
-      "n": 20
+      "n": 19
     },
     {
       "planet": "Jupiter",
@@ -115,14 +115,14 @@
       "sign": "Virgo",
       "career": "Other",
       "ratio": 2.3,
-      "n": 24
+      "n": 23
     },
     {
       "planet": "Jupiter",
       "sign": "Pisces",
       "career": "Other",
       "ratio": 2.3,
-      "n": 20
+      "n": 19
     },
     {
       "planet": "Venus",
@@ -143,21 +143,21 @@
       "sign": "Libra",
       "career": "Other",
       "ratio": 2.3,
-      "n": 20
+      "n": 19
     },
     {
       "planet": "Saturn",
       "sign": "Gemini",
       "career": "Other",
       "ratio": 2.3,
-      "n": 13
+      "n": 12
     },
     {
       "planet": "Saturn",
       "sign": "Cancer",
       "career": "Other",
       "ratio": 2.3,
-      "n": 14
+      "n": 13
     },
     {
       "planet": "Saturn",
@@ -211,13 +211,6 @@
     {
       "planet": "Mars",
       "sign": "Sagittarius",
-      "career": "Other",
-      "ratio": 2.2,
-      "n": 22
-    },
-    {
-      "planet": "Mars",
-      "sign": "Leo",
       "career": "Other",
       "ratio": 2.2,
       "n": 21
@@ -238,28 +231,21 @@
     },
     {
       "planet": "Saturn",
-      "sign": "Aries",
-      "career": "Other",
-      "ratio": 2.2,
-      "n": 21
-    },
-    {
-      "planet": "Saturn",
       "sign": "Scorpio",
       "career": "Other",
       "ratio": 2.2,
       "n": 21
     },
     {
-      "planet": "Mercury",
-      "sign": "Cancer",
+      "planet": "Mars",
+      "sign": "Leo",
       "career": "Other",
       "ratio": 2.2,
       "n": 20
     },
     {
       "planet": "Mercury",
-      "sign": "Libra",
+      "sign": "Cancer",
       "career": "Other",
       "ratio": 2.2,
       "n": 20
@@ -272,22 +258,8 @@
       "n": 20
     },
     {
-      "planet": "Venus",
-      "sign": "Pisces",
-      "career": "Other",
-      "ratio": 2.2,
-      "n": 20
-    },
-    {
-      "planet": "Rahu",
-      "sign": "Pisces",
-      "career": "Other",
-      "ratio": 2.2,
-      "n": 20
-    },
-    {
-      "planet": "Ketu",
-      "sign": "Virgo",
+      "planet": "Saturn",
+      "sign": "Aries",
       "career": "Other",
       "ratio": 2.2,
       "n": 20
@@ -300,11 +272,39 @@
       "n": 19
     },
     {
-      "planet": "Sun",
+      "planet": "Mercury",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 19
+    },
+    {
+      "planet": "Venus",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 18
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 18
+    },
+    {
+      "planet": "Ketu",
       "sign": "Virgo",
       "career": "Other",
       "ratio": 2.2,
       "n": 18
+    },
+    {
+      "planet": "Sun",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 17
     },
     {
       "planet": "Mars",
@@ -335,13 +335,6 @@
       "n": 17
     },
     {
-      "planet": "Mars",
-      "sign": "Scorpio",
-      "career": "Other",
-      "ratio": 2.2,
-      "n": 16
-    },
-    {
       "planet": "Jupiter",
       "sign": "Aquarius",
       "career": "Other",
@@ -356,11 +349,18 @@
       "n": 16
     },
     {
-      "planet": "Rahu",
-      "sign": "Gemini",
+      "planet": "Mars",
+      "sign": "Scorpio",
       "career": "Other",
       "ratio": 2.2,
-      "n": 16
+      "n": 15
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Aries",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 15
     }
   ],
   "top_planet_sign_wealth": [
@@ -389,16 +389,28 @@
       "n_rich": 4
     },
     {
+      "planet": "Mars",
+      "sign": "Capricorn",
+      "ratio": 6.1,
+      "n_rich": 4
+    },
+    {
       "planet": "Venus",
       "sign": "Aquarius",
       "ratio": 6.1,
       "n_rich": 4
     },
     {
-      "planet": "Mars",
+      "planet": "Moon",
       "sign": "Capricorn",
-      "ratio": 5.8,
-      "n_rich": 4
+      "ratio": 5.5,
+      "n_rich": 5
+    },
+    {
+      "planet": "Mars",
+      "sign": "Aries",
+      "ratio": 5.5,
+      "n_rich": 5
     },
     {
       "planet": "Mercury",
@@ -425,6 +437,18 @@
       "n_rich": 5
     },
     {
+      "planet": "Sun",
+      "sign": "Leo",
+      "ratio": 5.4,
+      "n_rich": 4
+    },
+    {
+      "planet": "Moon",
+      "sign": "Scorpio",
+      "ratio": 5.4,
+      "n_rich": 4
+    },
+    {
       "planet": "Jupiter",
       "sign": "Leo",
       "ratio": 5.4,
@@ -443,34 +467,10 @@
       "n_rich": 3
     },
     {
-      "planet": "Moon",
-      "sign": "Capricorn",
-      "ratio": 5.2,
-      "n_rich": 5
-    },
-    {
-      "planet": "Mars",
-      "sign": "Aries",
-      "ratio": 5.2,
-      "n_rich": 5
-    },
-    {
       "planet": "Venus",
       "sign": "Leo",
       "ratio": 5.2,
       "n_rich": 5
-    },
-    {
-      "planet": "Sun",
-      "sign": "Leo",
-      "ratio": 5.1,
-      "n_rich": 4
-    },
-    {
-      "planet": "Moon",
-      "sign": "Scorpio",
-      "ratio": 5.1,
-      "n_rich": 4
     },
     {
       "planet": "Moon",
@@ -509,14 +509,14 @@
       "n_rich": 3
     },
     {
-      "planet": "Jupiter",
-      "sign": "Gemini",
-      "ratio": 4.3,
+      "planet": "Saturn",
+      "sign": "Taurus",
+      "ratio": 4.6,
       "n_rich": 3
     },
     {
-      "planet": "Saturn",
-      "sign": "Taurus",
+      "planet": "Jupiter",
+      "sign": "Gemini",
       "ratio": 4.3,
       "n_rich": 3
     },

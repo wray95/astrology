@@ -2,7 +2,7 @@
 """
 VEDIC ASTROLOGY RESEARCH PIPELINE — BATCH PROCESSOR
 Computes D1, D9, Vimshottari Dasha, Shrinkhala for all charts.
-Outputs: /home/user/dataset/famous_NNN.json, research/ files.
+Outputs: dataset/famous_NNN.json, research/ files.
 """
 import json, os, csv, math, time
 from datetime import datetime, timedelta
@@ -48,7 +48,7 @@ os.makedirs("/home/user/research", exist_ok=True)
 from skyfield.api import load
 from skyfield.framelib import ecliptic_frame
 
-ephem = load('/home/user/de421.bsp')
+ephem = load('de421.bsp')
 ts = load.timescale()
 earth = ephem['earth']
 BODIES = {
@@ -277,7 +277,7 @@ def compute_chart(name, iso_str, lat, lon, city, rodden, gender):
 # ============================================================
 import pandas as pd
 
-csv_path = "/home/user/dataset/sources.csv"
+csv_path = "dataset/sources.csv"
 df = pd.read_csv(csv_path)
 # Filter: must have lat/lon, be in DE421 range (1900-2050), and have parseable date
 df = df[df['lat'].notna() & df['lon'].notna()]
@@ -314,7 +314,7 @@ for batch_idx in range(0, len(results), BATCH_SIZE):
     batch = results[batch_idx:batch_idx + BATCH_SIZE]
     start = batch_idx // BATCH_SIZE * BATCH_SIZE + 1
     end = min(start + BATCH_SIZE - 1, len(results))
-    fname = f"/home/user/dataset/famous_{start:04d}_{end:04d}.json"
+    fname = f"dataset/famous_{start:04d}_{end:04d}.json"
     with open(fname, 'w') as f:
         json.dump(batch, f, indent=1)
 

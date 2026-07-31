@@ -312,7 +312,7 @@ for c in EXPANDED_CRIMINALS:
 print(f"Computed: {len(expanded)} new charts")
 
 # Load existing billionaire and criminal data
-with open('/home/user/dataset/billionaire_noon_analysis.json') as f:
+with open('dataset/billionaire_noon_analysis.json') as f:
     bil_data = json.load(f)
 
 # ============================================================
@@ -453,6 +453,6 @@ output = {
                          "moon_nak": c['planets']['Moon']['nakshatra'],
                          "moon_dignity": c['planets']['Moon']['dignity']} for c in expanded],
 }
-with open('/home/user/dataset/expanded_criminal_validation.json', 'w') as f:
+with open('dataset/expanded_criminal_validation.json', 'w') as f:
     json.dump(output, f, indent=2)
-print(f"\nSaved → /home/user/dataset/expanded_criminal_validation.json")
+print(f"\nSaved → dataset/expanded_criminal_validation.json")

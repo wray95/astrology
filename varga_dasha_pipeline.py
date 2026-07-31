@@ -642,6 +642,6 @@ for e in collapse_events:
     print(f"  💀 {e['name']} | {e['year']} | {e['md']}/{e['ad']} | {e['event'][:60]}")
 
 # --- SAVE ---
-with open('/home/user/dataset/varga_dasha_10.json', 'w') as f:
+with open('dataset/varga_dasha_10.json', 'w') as f:
     json.dump(all_results, f, indent=2, default=str)
-print(f"\nSaved → /home/user/dataset/varga_dasha_10.json")
+print(f"\nSaved → dataset/varga_dasha_10.json")

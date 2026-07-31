@@ -244,7 +244,7 @@ for pid, c in sorted_c:
     print(f"  {pid} {c['name']:22s} Jupiter D9: {jd9:+d} {tag}")
 
 # Save
-with open("/home/user/dataset/p1p9_swiss_ranked.json", "w") as f:
+with open("dataset/p1p9_swiss_ranked.json", "w") as f:
     json.dump(dict(sorted_c), f, indent=2)
 print("\nSaved dataset/p1p9_swiss_ranked.json")
 print("Engine: pyswisseph + Lahiri + Whole Sign + MD-lord-first AD ✓")

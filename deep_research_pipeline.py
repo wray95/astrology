@@ -446,6 +446,6 @@ for gname, charts in all_data.items():
                        "rahu_sign":c['planets']['Rahu']['sign'],
                        "year":c['birth_year']} for c in charts]
 
-with open('/home/user/dataset/deep_research_groups.json','w') as f:
+with open('dataset/deep_research_groups.json','w') as f:
     json.dump(output, f, indent=2)
-print(f"\nSaved → /home/user/dataset/deep_research_groups.json")
+print(f"\nSaved → dataset/deep_research_groups.json")

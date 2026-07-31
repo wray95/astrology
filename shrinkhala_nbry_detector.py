@@ -228,7 +228,7 @@ all_charts = []
 sources = []
 
 # P1-P9
-path = '/home/user/dataset/p1p9_absolute_final_rerank.json'
+path = 'dataset/p1p9_absolute_final_rerank.json'
 if os.path.exists(path):
     with open(path) as f:
         charts = json.load(f)
@@ -237,7 +237,7 @@ if os.path.exists(path):
         all_charts.extend(charts); sources.append(f"P1-P9 ({len(charts)})")
 
 # Domain 10
-path = '/home/user/dataset/benchmark_10_domain.json'
+path = 'dataset/benchmark_10_domain.json'
 if os.path.exists(path):
     with open(path) as f:
         charts = json.load(f)
@@ -246,7 +246,7 @@ if os.path.exists(path):
         all_charts.extend(charts); sources.append(f"Domain10 ({len(charts)})")
 
 # Benchmark 12
-path = '/home/user/dataset/benchmark_12_nexus_v2.json'
+path = 'dataset/benchmark_12_nexus_v2.json'
 if os.path.exists(path):
     with open(path) as f:
         charts = json.load(f)
@@ -255,7 +255,7 @@ if os.path.exists(path):
         all_charts.extend(charts); sources.append(f"Bench12 ({len(charts)})")
 
 # Celebrity 112
-path = '/home/user/dataset/celebrity_112_nexus_v2.json'
+path = 'dataset/celebrity_112_nexus_v2.json'
 if os.path.exists(path):
     with open(path) as f:
         charts = json.load(f)
@@ -264,7 +264,7 @@ if os.path.exists(path):
         all_charts.extend(charts); sources.append(f"Celeb112 ({len(charts)})")
 
 # Billionaire noon
-path = '/home/user/dataset/billionaire_noon_analysis.json'
+path = 'dataset/billionaire_noon_analysis.json'
 if os.path.exists(path):
     with open(path) as f:
         data = json.load(f)
@@ -412,11 +412,11 @@ for c in all_charts:
         print(f"  (none)")
 
 # Save
-with open('/home/user/dataset/shrinkhala_nbry_report.json','w') as f:
+with open('dataset/shrinkhala_nbry_report.json','w') as f:
     json.dump({
         'shrinkhala': shrinkhala_found,
         'nbry': nbry_found,
         'parivartana': parivartana_found,
         'source_stats': {k: dict(v) for k,v in source_stats.items()}
     }, f, indent=2)
-print(f"\nSaved → /home/user/dataset/shrinkhala_nbry_report.json")
+print(f"\nSaved → dataset/shrinkhala_nbry_report.json")

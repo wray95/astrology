@@ -602,6 +602,6 @@ output = {g: [{"name": c['name'], "moon_nak": c['planets']['Moon']['nakshatra'],
                "moon_sign": c['planets']['Moon']['sign'],
                "rahu_sign": c['planets']['Rahu']['sign']} for c in charts]
           for g, charts in group_data.items()}
-with open('/home/user/dataset/mega_cross_reference.json', 'w') as f:
+with open('dataset/mega_cross_reference.json', 'w') as f:
     json.dump(output, f, indent=2)
-print(f"\nSaved → /home/user/dataset/mega_cross_reference.json")
+print(f"\nSaved → dataset/mega_cross_reference.json")

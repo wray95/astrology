@@ -554,9 +554,9 @@ print(f"\n  At least 1 debilitated planet: B={b_has_deb/len(billionaires)*100:.1
 out = {
     "billionaire_count": len(billionaires),
     "bad_broke_count": len(bad_broke),
-    "billionaire_stats": {k: dict(v) for k,v in b_stats["moon_naks"].most_common()},
-    "bad_broke_stats": {k: dict(v) for k,v in bb_stats["moon_naks"].most_common()},
+    "billionaire_stats": dict(b_stats["moon_naks"]),
+    "bad_broke_stats": dict(bb_stats["moon_naks"]),
 }
-with open('/home/user/dataset/billionaire_vs_criminal_stats.json', 'w') as f:
+with open('dataset/billionaire_vs_criminal_stats.json', 'w') as f:
     json.dump(out, f, indent=2)
-print(f"\nSaved → /home/user/dataset/billionaire_vs_criminal_stats.json")
+print(f"\nSaved → dataset/billionaire_vs_criminal_stats.json")

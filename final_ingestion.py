@@ -518,8 +518,8 @@ for gname, charts in all_results.items():
                            "rahu_sign":c['planets']['Rahu']['sign'],
                            "sun_sign":c['planets']['Sun']['sign']} for c in charts]
 
-with open('/home/user/dataset/historical_groups_final.json','w') as f:
+with open('dataset/historical_groups_final.json','w') as f:
     json.dump(dataset_out, f, indent=2)
 
-print(f"\nSaved → /home/user/dataset/historical_groups_final.json")
+print(f"\nSaved → dataset/historical_groups_final.json")
 print(f"Total historical charts: {total}")

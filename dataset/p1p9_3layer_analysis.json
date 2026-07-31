@@ -190,8 +190,8 @@
     },
     "composite_wealth_score": 10.0,
     "predicted_industries": [
-      "Software",
       "AI",
+      "Software",
       "Data Science"
     ],
     "wealth_mechanisms": [
@@ -523,8 +523,8 @@
     },
     "composite_wealth_score": 5.0,
     "predicted_industries": [
-      "Government",
       "Military",
+      "Government",
       "Politics"
     ],
     "wealth_mechanisms": [
@@ -616,8 +616,8 @@
     },
     "composite_wealth_score": 5.0,
     "predicted_industries": [
-      "Government",
       "Military",
+      "Government",
       "Politics"
     ],
     "wealth_mechanisms": [

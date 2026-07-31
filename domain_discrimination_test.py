@@ -424,6 +424,6 @@ print(f"  Fraud critical flags avg: {sum(len([f for f in c['fraud_flags'] if '�
 print(f"  Non-fraud critical flags avg: {sum(len([f for f in c['fraud_flags'] if '⛔' in f]) for c in non_fraud)/len(non_fraud):.1f}")
 
 # Save
-with open('/home/user/dataset/benchmark_10_domain.json', 'w') as f:
+with open('dataset/benchmark_10_domain.json', 'w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved → /home/user/dataset/benchmark_10_domain.json")
+print(f"\nSaved → dataset/benchmark_10_domain.json")

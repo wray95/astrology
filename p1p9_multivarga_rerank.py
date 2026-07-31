@@ -547,6 +547,6 @@ for c in all_p:
     print(f"  {c['id']} {c['name']:<20} {d['current_md']} MD / {d['current_ad']} AD ({d['md_pct']}% thru) {next_info}")
 
 # Save
-with open('/home/user/dataset/p1p9_multivarga_reranked.json', 'w') as f:
+with open('dataset/p1p9_multivarga_reranked.json', 'w') as f:
     json.dump(all_p, f, indent=2)
-print(f"\nSaved → /home/user/dataset/p1p9_multivarga_reranked.json")
+print(f"\nSaved → dataset/p1p9_multivarga_reranked.json")

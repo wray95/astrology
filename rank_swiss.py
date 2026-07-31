@@ -1,6 +1,6 @@
 import json
 
-with open('/home/user/dataset/p1p9_swiss.json') as f:
+with open('dataset/p1p9_swiss.json') as f:
     charts = json.load(f)
 
 SIGNS = ['Aries','Taurus','Gemini','Cancer','Leo','Virgo','Libra','Scorpio','Sagittarius','Capricorn','Aquarius','Pisces']
@@ -113,6 +113,6 @@ for pid, c in sorted_c:
     elif jd9 == 75: tag = "OWN"
     print(f"  {pid} {c['name']:22s} Jupiter D9: {jd9:+d} {tag}")
 
-with open("/home/user/dataset/p1p9_swiss_ranked.json", "w") as f:
+with open("dataset/p1p9_swiss_ranked.json", "w") as f:
     json.dump(dict(sorted_c), f, indent=2)
 print("\nSaved to dataset/p1p9_swiss_ranked.json")

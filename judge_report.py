@@ -11,7 +11,7 @@ from datetime import datetime
 # ============================================================
 # 1. LOAD ALL DATA
 # ============================================================
-DATASET_DIR = '/home/user/dataset'
+DATASET_DIR = 'dataset'
 all_charts = []
 
 def load_json(path):
@@ -723,7 +723,7 @@ report = {
     'top_20': [(c['name'], len(c['found'])) for _, c in ranked[:20]],
 }
 
-with open('/home/user/dataset/judge_report.json', 'w') as f:
+with open('dataset/judge_report.json', 'w') as f:
     json.dump(report, f, indent=2)
 
-print(f"\nReport saved → /home/user/dataset/judge_report.json")
+print(f"\nReport saved → dataset/judge_report.json")

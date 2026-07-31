@@ -212,6 +212,6 @@ for pid,ps in sorted(p_scores.items(), key=lambda x:-x[1]):
     print(f"  {pid} ({ps}): {len(above)} above, {len(below)} below")
 
 # Save
-with open('/home/user/dataset/verified_15_tier_a.json','w') as f:
+with open('dataset/verified_15_tier_a.json','w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved → /home/user/dataset/verified_15_tier_a.json")
+print(f"\nSaved → dataset/verified_15_tier_a.json")

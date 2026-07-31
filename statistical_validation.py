@@ -7,7 +7,7 @@ import json, math
 from collections import defaultdict
 
 # Load v4 benchmark
-with open('/home/user/dataset/nexus_v4_benchmark.json') as f:
+with open('dataset/nexus_v4_benchmark.json') as f:
     data = json.load(f)
 
 print("="*70)

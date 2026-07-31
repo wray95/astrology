@@ -416,6 +416,6 @@ for i, r in enumerate(results, 1):
         print(f"    {mech} (weight={weight})")
 
 # Save
-with open('/home/user/dataset/p1p9_3layer_analysis.json','w') as f:
+with open('dataset/p1p9_3layer_analysis.json','w') as f:
     json.dump(results, f, indent=2, default=str)
-print(f"\nSaved → /home/user/dataset/p1p9_3layer_analysis.json")
+print(f"\nSaved → dataset/p1p9_3layer_analysis.json")

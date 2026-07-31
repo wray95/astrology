@@ -15,23 +15,23 @@ print("GRAPHIFY: Classical Astrology Claims → Statistical Cross-Validation")
 print("="*100)
 
 # Load domain charts (10: VC/Academic/Fraud with full vargas)
-with open('/home/user/dataset/benchmark_10_domain.json') as f:
+with open('dataset/benchmark_10_domain.json') as f:
     domain_10 = json.load(f)
 
 # Load 112 celebrity charts (111 computed)
-with open('/home/user/dataset/celebrity_112_nexus_v2.json') as f:
+with open('dataset/celebrity_112_nexus_v2.json') as f:
     celeb_112 = json.load(f)
 
 # Load 12 AA benchmark
-with open('/home/user/dataset/benchmark_12_nexus_v2.json') as f:
+with open('dataset/benchmark_12_nexus_v2.json') as f:
     benchmark_12 = json.load(f)
 
 # Load P1-P9 multivarga
-with open('/home/user/dataset/p1p9_multivarga_reranked.json') as f:
+with open('dataset/p1p9_multivarga_reranked.json') as f:
     p1p9 = json.load(f)
 
 # Billionaire vs criminal stats
-with open('/home/user/dataset/billionaire_noon_analysis.json') as f:
+with open('dataset/billionaire_noon_analysis.json') as f:
     billionaire_99 = json.load(f)
 
 print(f"Loaded: {len(domain_10)} domain | {len(celeb_112)} celebrity | {len(benchmark_12)} AA benchmark | {len(p1p9)} P1-P9")
@@ -469,6 +469,6 @@ for i, r in enumerate(results, 1):
     print(f"{i:<5} {r['id']:<5} {r['claim']:<50} {r['effect']:>+6.0f}% {r['sig']:>5} {r['direction']:<15} {r['source']}")
 
 # Save
-with open('/home/user/dataset/classical_claims_validation.json', 'w') as f:
+with open('dataset/classical_claims_validation.json', 'w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved → /home/user/dataset/classical_claims_validation.json")
+print(f"\nSaved → dataset/classical_claims_validation.json")

@@ -13,7 +13,7 @@ PLANETS = ['Sun','Moon','Mars','Mercury','Jupiter','Venus','Saturn','Rahu','Ketu
 # Load all data
 def load_all():
     charts = []
-    data_dir = '/home/user/dataset'
+    data_dir = 'dataset'
     for fn in os.listdir(data_dir):
         if not fn.endswith('.json'): continue
         path = os.path.join(data_dir, fn)
@@ -258,6 +258,6 @@ out = {
     'top_planet_sign_career': [{'planet':r['planet'],'sign':r['sign'],'career':r['career'],'ratio':round(r['ratio'],1),'n':r['n_career']} for r in all_results[:50]],
     'top_planet_sign_wealth': [{'planet':r['planet'],'sign':r['sign'],'ratio':round(r['ratio'],1),'n_rich':r['n_rich']} for r in wealth_results[:30]],
 }
-with open('/home/user/dataset/career_wealth_map.json','w') as f:
+with open('dataset/career_wealth_map.json','w') as f:
     json.dump(out, f, indent=2)
-print(f"\nSaved → /home/user/dataset/career_wealth_map.json")
+print(f"\nSaved → dataset/career_wealth_map.json")

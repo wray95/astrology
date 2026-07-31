@@ -17,7 +17,7 @@ import math
 # ============================================================
 # 1. EPHEMERIS SETUP
 # ============================================================
-ephem = load('/home/user/de421.bsp')
+ephem = load(''de421.bsp'')
 ts = load.timescale()
 earth = ephem['earth']
 moon = ephem['moon']

@@ -2,7 +2,7 @@
 """Refined 12-chart benchmark: cleaner yoga detection, discriminative scoring"""
 import json
 
-with open('/home/user/dataset/benchmark_12_computed.json') as f:
+with open('dataset/benchmark_12_computed.json') as f:
     charts = json.load(f)
 
 SIGNS = ['Aries','Taurus','Gemini','Cancer','Leo','Virgo','Libra','Scorpio','Sagittarius','Capricorn','Aquarius','Pisces']

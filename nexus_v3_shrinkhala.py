@@ -96,7 +96,7 @@ def compute_shrinkhala_strength(loop, planets_dict):
 def load_all_charts():
     """Load every chart from all saved JSON files"""
     all_charts = []
-    dataset_dir = '/home/user/dataset'
+    dataset_dir = 'dataset'
     
     files_to_load = [
         'p1p9_absolute_final_rerank.json',
@@ -402,7 +402,7 @@ RECOMMENDATION:
 """)
 
 # Save
-with open('/home/user/dataset/shrinkhala_v3_report.json','w') as f:
+with open('dataset/shrinkhala_v3_report.json','w') as f:
     json.dump({
         'total_charts': total_charts,
         'total_loops': total_loops,
@@ -419,4 +419,4 @@ with open('/home/user/dataset/shrinkhala_v3_report.json','w') as f:
                              for l in sorted(all_loops_detail, key=lambda x: -x['strength'])[:50]],
     }, f, indent=2)
 
-print(f"Saved → /home/user/dataset/shrinkhala_v3_report.json")
+print(f"Saved → dataset/shrinkhala_v3_report.json")

@@ -245,7 +245,7 @@ print(f"Computed: {len(film_charts)}")
 import os, glob
 import os, glob
 all_db = []
-data_dir = '/home/user/dataset'
+data_dir = 'dataset'
 for fn in ['nexus_v4_benchmark.json']:
     path = os.path.join(data_dir, fn)
     if os.path.exists(path):
@@ -339,6 +339,6 @@ for nak, count in moon_naks.most_common(15):
 
 # Save
 film_out = [{"name":c['name'],"moon_nak":c['planets']['Moon']['nakshatra'],"moon_sign":c['planets']['Moon']['sign']} for c in film_charts]
-with open('/home/user/dataset/film_actor_dataset.json','w') as f:
+with open('dataset/film_actor_dataset.json','w') as f:
     json.dump(film_out, f, indent=2)
-print(f"\nSaved → /home/user/dataset/film_actor_dataset.json")
+print(f"\nSaved → dataset/film_actor_dataset.json")
