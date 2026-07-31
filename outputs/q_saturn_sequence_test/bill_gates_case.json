@@ -1,0 +1,12 @@
+{
+  "name": "Bill Gates",
+  "birth_date": "1955-10-28",
+  "natal_saturn": {"sign": "Libra", "degree": 28.26038052},
+  "leadership_event": {"date": "1981-06-25", "event": "Microsoft reorganized; Bill Gates became president and chairman", "source_status": "Microsoft historical timeline"},
+  "msdos_context": "Microsoft entered the IBM PC/MS-DOS operating-system business in 1981",
+  "saturn_at_1981_event": {"sign": "Virgo", "interpretation": "pre-ingress transition, not natal-sign phase"},
+  "saturn_libra_ingress_estimate": "1982-10-06",
+  "exact_first_saturn_return_estimate": "1984-12-05",
+  "pattern_classification": "pre-ingress leadership event followed by natal-sign ingress and later exact return",
+  "causal_status": "hypothesis only"
+}

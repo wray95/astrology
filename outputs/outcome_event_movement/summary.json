@@ -1,0 +1,11 @@
+{
+  "q_people": 5010,
+  "candidate_event_rows": 1812,
+  "exact_day_or_month_rows": 161,
+  "outcome_status_counts": {
+    "wealth_unknown": 5010,
+    "poor_unknown": 5010,
+    "success_unknown": 5010
+  },
+  "warning": "Candidates extracted from infobox fields are not verified event records; no wealth/poverty/success/failure values were inferred."
+}

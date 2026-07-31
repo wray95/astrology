@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Enrico Fermi",
+    "field": "Physics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Virgo",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Paul Dirac",
+    "field": "Physics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Hasta",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "J. Robert Oppenheimer",
+    "field": "Physics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Punarvasu",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Hans Bethe",
+    "field": "Physics",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Bardeen",
+    "field": "Physics",
+    "sat_sign": "Pisces",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Richard Feynman",
+    "field": "Physics",
+    "sat_sign": "Cancer",
+    "moon_nak": "Rohini",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Julian Schwinger",
+    "field": "Physics",
+    "sat_sign": "Cancer",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Chen-Ning Yang",
+    "field": "Physics",
+    "sat_sign": "Virgo",
+    "moon_nak": "Dhanishtha",
+    "sun_sign": "Virgo",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Abdus Salam",
+    "field": "Physics",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Murray Gell-Mann",
+    "field": "Physics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Shravana",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Peter Higgs",
+    "field": "Physics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Shravana",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Steven Weinberg",
+    "field": "Physics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Carl Sagan",
+    "field": "Physics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Libra",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Stephen Hawking",
+    "field": "Physics",
+    "sat_sign": "Aries",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Kip Thorne",
+    "field": "Physics",
+    "sat_sign": "Aries",
+    "moon_nak": "Revati",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "S. Chandrasekhar",
+    "field": "Physics",
+    "sat_sign": "Aries",
+    "moon_nak": "Bharani",
+    "sun_sign": "Libra",
+    "venus_dig": -100,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Maria Goeppert Mayer",
+    "field": "Physics",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Emilio Segr\u00e8",
+    "field": "Physics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Capricorn",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Luis Alvarez",
+    "field": "Physics",
+    "sat_sign": "Aries",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Charles Townes",
+    "field": "Physics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Gerardus 't Hooft",
+    "field": "Physics",
+    "sat_sign": "Cancer",
+    "moon_nak": "Hasta",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "David Gross",
+    "field": "Physics",
+    "sat_sign": "Aries",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Frank Wilczek",
+    "field": "Physics",
+    "sat_sign": "Virgo",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Roger Penrose",
+    "field": "Physics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Rohini",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Anton Zeilinger",
+    "field": "Physics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Taurus",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John von Neumann",
+    "field": "Mathematics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Revati",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Andrey Kolmogorov",
+    "field": "Mathematics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Aries",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Kurt G\u00f6del",
+    "field": "Mathematics",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Ardra",
+    "sun_sign": "Aries",
+    "venus_dig": 75,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Alan Turing",
+    "field": "Mathematics",
+    "sat_sign": "Taurus",
+    "moon_nak": "Chitra",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Claude Shannon",
+    "field": "Mathematics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Revati",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Laurent Schwartz",
+    "field": "Mathematics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jean-Pierre Serre",
+    "field": "Mathematics",
+    "sat_sign": "Libra",
+    "moon_nak": "Mula",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Alexander Grothendieck",
+    "field": "Mathematics",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Ardra",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Nash",
+    "field": "Mathematics",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Revati",
+    "sun_sign": "Taurus",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Michael Atiyah",
+    "field": "Mathematics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Hasta",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Paul Cohen",
+    "field": "Mathematics",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Swati",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Stephen Smale",
+    "field": "Mathematics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "John Milnor",
+    "field": "Mathematics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Atle Selberg",
+    "field": "Mathematics",
+    "sat_sign": "Cancer",
+    "moon_nak": "Revati",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Shiing-Shen Chern",
+    "field": "Mathematics",
+    "sat_sign": "Aries",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Grigori Perelman",
+    "field": "Mathematics",
+    "sat_sign": "Pisces",
+    "moon_nak": "Revati",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Terence Tao",
+    "field": "Mathematics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Maryam Mirzakhani",
+    "field": "Mathematics",
+    "sat_sign": "Cancer",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Edward Witten",
+    "field": "Mathematics",
+    "sat_sign": "Virgo",
+    "moon_nak": "Mrigashira",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Yau Shing-Tung",
+    "field": "Mathematics",
+    "sat_sign": "Leo",
+    "moon_nak": "Mrigashira",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Grace Hopper",
+    "field": "Computer Science",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Backus",
+    "field": "Computer Science",
+    "sat_sign": "Libra",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Scorpio",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Edsger Dijkstra",
+    "field": "Computer Science",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Swati",
+    "sun_sign": "Aries",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Donald Knuth",
+    "field": "Computer Science",
+    "sat_sign": "Pisces",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Tony Hoare",
+    "field": "Computer Science",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Niklaus Wirth",
+    "field": "Computer Science",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Ken Thompson",
+    "field": "Computer Science",
+    "sat_sign": "Taurus",
+    "moon_nak": "Shravana",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Dennis Ritchie",
+    "field": "Computer Science",
+    "sat_sign": "Taurus",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Leo",
+    "venus_dig": 75,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Vint Cerf",
+    "field": "Computer Science",
+    "sat_sign": "Taurus",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "field": "Computer Science",
+    "sat_sign": "Libra",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Taurus",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Linus Torvalds",
+    "field": "Computer Science",
+    "sat_sign": "Aries",
+    "moon_nak": "Magha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Barbara Liskov",
+    "field": "Computer Science",
+    "sat_sign": "Aries",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Frances Allen",
+    "field": "Computer Science",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Juris Hartmanis",
+    "field": "Computer Science",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Shravana",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Richard Karp",
+    "field": "Computer Science",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Butler Lampson",
+    "field": "Computer Science",
+    "sat_sign": "Taurus",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Alan Kay",
+    "field": "Computer Science",
+    "sat_sign": "Aries",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Adi Shamir",
+    "field": "Computer Science",
+    "sat_sign": "Virgo",
+    "moon_nak": "Mula",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Ron Rivest",
+    "field": "Computer Science",
+    "sat_sign": "Cancer",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Leonard Adleman",
+    "field": "Computer Science",
+    "sat_sign": "Gemini",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Barbara McClintock",
+    "field": "Biology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Swati",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Ernst Mayr",
+    "field": "Biology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Theodosius Dobzhansky",
+    "field": "Biology",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Salvador Luria",
+    "field": "Biology",
+    "sat_sign": "Taurus",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "George Palade",
+    "field": "Biology",
+    "sat_sign": "Taurus",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jacques Monod",
+    "field": "Biology",
+    "sat_sign": "Pisces",
+    "moon_nak": "Shravana",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Francois Jacob",
+    "field": "Biology",
+    "sat_sign": "Leo",
+    "moon_nak": "Ardra",
+    "sun_sign": "Gemini",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Seymour Benzer",
+    "field": "Biology",
+    "sat_sign": "Virgo",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Virgo",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Edward O. Wilson",
+    "field": "Biology",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Pushya",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "James Watson",
+    "field": "Biology",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Swati",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Francis Crick",
+    "field": "Biology",
+    "sat_sign": "Gemini",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Maurice Wilkins",
+    "field": "Biology",
+    "sat_sign": "Cancer",
+    "moon_nak": "Magha",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Rosalind Franklin",
+    "field": "Biology",
+    "sat_sign": "Leo",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Lynn Margulis",
+    "field": "Biology",
+    "sat_sign": "Pisces",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Richard Dawkins",
+    "field": "Biology",
+    "sat_sign": "Aries",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Craig Venter",
+    "field": "Biology",
+    "sat_sign": "Cancer",
+    "moon_nak": "Rohini",
+    "sun_sign": "Virgo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Shinya Yamanaka",
+    "field": "Biology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Swati",
+    "sun_sign": "Leo",
+    "venus_dig": 75,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Svante P\u00e4\u00e4bo",
+    "field": "Biology",
+    "sat_sign": "Libra",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Elizabeth Blackburn",
+    "field": "Biology",
+    "sat_sign": "Leo",
+    "moon_nak": "Hasta",
+    "sun_sign": "Scorpio",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Carol Greider",
+    "field": "Biology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Linus Pauling",
+    "field": "Chemistry",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Punarvasu",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Glenn Seaborg",
+    "field": "Chemistry",
+    "sat_sign": "Aries",
+    "moon_nak": "Krittika",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Dorothy Hodgkin",
+    "field": "Chemistry",
+    "sat_sign": "Aries",
+    "moon_nak": "Ardra",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Melvin Calvin",
+    "field": "Chemistry",
+    "sat_sign": "Aries",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Robert Burns Woodward",
+    "field": "Chemistry",
+    "sat_sign": "Cancer",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Manfred Eigen",
+    "field": "Chemistry",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Magha",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Aaron Klug",
+    "field": "Chemistry",
+    "sat_sign": "Libra",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Walter Gilbert",
+    "field": "Chemistry",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Purva Phalguni",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Paul Berg",
+    "field": "Chemistry",
+    "sat_sign": "Libra",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Gemini",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Roald Hoffmann",
+    "field": "Chemistry",
+    "sat_sign": "Pisces",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Cancer",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "K. Barry Sharpless",
+    "field": "Chemistry",
+    "sat_sign": "Aries",
+    "moon_nak": "Krittika",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Harry Kroto",
+    "field": "Chemistry",
+    "sat_sign": "Aries",
+    "moon_nak": "Pushya",
+    "sun_sign": "Virgo",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Mario Molina",
+    "field": "Chemistry",
+    "sat_sign": "Taurus",
+    "moon_nak": "Magha",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Emmanuelle Charpentier",
+    "field": "Chemistry",
+    "sat_sign": "Pisces",
+    "moon_nak": "Magha",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Frances Arnold",
+    "field": "Chemistry",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "George Hitchings",
+    "field": "Medicine",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Hasta",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Gertrude Elion",
+    "field": "Medicine",
+    "sat_sign": "Cancer",
+    "moon_nak": "Mrigashira",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Baruch Blumberg",
+    "field": "Medicine",
+    "sat_sign": "Libra",
+    "moon_nak": "Swati",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "J. Michael Bishop",
+    "field": "Medicine",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Dhanishtha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Harold Varmus",
+    "field": "Medicine",
+    "sat_sign": "Aries",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Stanley B. Prusiner",
+    "field": "Medicine",
+    "sat_sign": "Taurus",
+    "moon_nak": "Swati",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Barry Marshall",
+    "field": "Medicine",
+    "sat_sign": "Virgo",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Virgo",
+    "venus_dig": 0,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Robin Warren",
+    "field": "Medicine",
+    "sat_sign": "Pisces",
+    "moon_nak": "Pushya",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Peter Medawar",
+    "field": "Medicine",
+    "sat_sign": "Gemini",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Christian Anfinsen",
+    "field": "Medicine",
+    "sat_sign": "Gemini",
+    "moon_nak": "Mula",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Julius Axelrod",
+    "field": "Medicine",
+    "sat_sign": "Taurus",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Taurus",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Bernard Katz",
+    "field": "Medicine",
+    "sat_sign": "Aries",
+    "moon_nak": "Shravana",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Ren\u00e9 Favaloro",
+    "field": "Medicine",
+    "sat_sign": "Virgo",
+    "moon_nak": "Ardra",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Albert Sabin",
+    "field": "Medicine",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Leo",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jonas Salk",
+    "field": "Medicine",
+    "sat_sign": "Gemini",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Thomas Starzl",
+    "field": "Medicine",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Shravana",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Rosalyn Sussman Yalow",
+    "field": "Medicine",
+    "sat_sign": "Leo",
+    "moon_nak": "Uttara Ashadha",
+    "sun_sign": "Cancer",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Rita Levi-Montalcini",
+    "field": "Medicine",
+    "sat_sign": "Pisces",
+    "moon_nak": "Rohini",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Vane",
+    "field": "Medicine",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Shravana",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Harald zur Hausen",
+    "field": "Medicine",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Chitra",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Wernher von Braun",
+    "field": "Engineering",
+    "sat_sign": "Aries",
+    "moon_nak": "Krittika",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Frank Whittle",
+    "field": "Engineering",
+    "sat_sign": "Pisces",
+    "moon_nak": "Dhanishtha",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Clarence Johnson",
+    "field": "Engineering",
+    "sat_sign": "Pisces",
+    "moon_nak": "Hasta",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jack Kilby",
+    "field": "Engineering",
+    "sat_sign": "Libra",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Robert Noyce",
+    "field": "Engineering",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Pushya",
+    "sun_sign": "Scorpio",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Alec Issigonis",
+    "field": "Engineering",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Mula",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Burt Rutan",
+    "field": "Engineering",
+    "sat_sign": "Taurus",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Denise Scott Brown",
+    "field": "Engineering",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Mrigashira",
+    "sun_sign": "Virgo",
+    "venus_dig": -100,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Niels Amdahl",
+    "field": "Engineering",
+    "sat_sign": "Virgo",
+    "moon_nak": "Punarvasu",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Gordon Moore",
+    "field": "Engineering",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Chitra",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Marcian Hoff",
+    "field": "Engineering",
+    "sat_sign": "Pisces",
+    "moon_nak": "Magha",
+    "sun_sign": "Libra",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Federico Faggin",
+    "field": "Engineering",
+    "sat_sign": "Taurus",
+    "moon_nak": "Bharani",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Shuji Nakamura",
+    "field": "Engineering",
+    "sat_sign": "Libra",
+    "moon_nak": "Uttara Ashadha",
+    "sun_sign": "Taurus",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Nick Holonyak",
+    "field": "Engineering",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Pushya",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Charles Kao",
+    "field": "Engineering",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Rohini",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Yakov Zeldovich",
+    "field": "Engineering",
+    "sat_sign": "Taurus",
+    "moon_nak": "Pushya",
+    "sun_sign": "Aquarius",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Sergey Korolev",
+    "field": "Engineering",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Mula",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Hedy Lamarr",
+    "field": "Engineering",
+    "sat_sign": "Gemini",
+    "moon_nak": "Pushya",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John S. Bell",
+    "field": "Engineering",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Ralph Baer",
+    "field": "Engineering",
+    "sat_sign": "Virgo",
+    "moon_nak": "Ardra",
+    "sun_sign": "Aquarius",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Milton Friedman",
+    "field": "Economics",
+    "sat_sign": "Taurus",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "W. Arthur Lewis",
+    "field": "Economics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Paul Samuelson",
+    "field": "Economics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Rohini",
+    "sun_sign": "Taurus",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Kenneth Arrow",
+    "field": "Economics",
+    "sat_sign": "Virgo",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Tjalling Koopmans",
+    "field": "Economics",
+    "sat_sign": "Aries",
+    "moon_nak": "Mrigashira",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Robert Solow",
+    "field": "Economics",
+    "sat_sign": "Libra",
+    "moon_nak": "Rohini",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 100
+  },
+  {
+    "name": "James Buchanan Jr.",
+    "field": "Economics",
+    "sat_sign": "Leo",
+    "moon_nak": "Uttara Ashadha",
+    "sun_sign": "Virgo",
+    "venus_dig": 0,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Gary Becker",
+    "field": "Economics",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Amartya Sen",
+    "field": "Economics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Krittika",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Joseph Stiglitz",
+    "field": "Economics",
+    "sat_sign": "Taurus",
+    "moon_nak": "Revati",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Daniel Kahneman",
+    "field": "Economics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Swati",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Elinor Ostrom",
+    "field": "Economics",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Paul Krugman",
+    "field": "Economics",
+    "sat_sign": "Libra",
+    "moon_nak": "Magha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 100,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Jean Tirole",
+    "field": "Economics",
+    "sat_sign": "Virgo",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Richard Thaler",
+    "field": "Economics",
+    "sat_sign": "Gemini",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "B.F. Skinner",
+    "field": "Psychology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Bharani",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Carl Rogers",
+    "field": "Psychology",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Mula",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Abraham Maslow",
+    "field": "Psychology",
+    "sat_sign": "Pisces",
+    "moon_nak": "Revati",
+    "sun_sign": "Pisces",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Bowlby",
+    "field": "Psychology",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Erik Erikson",
+    "field": "Psychology",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Chitra",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Albert Bandura",
+    "field": "Psychology",
+    "sat_sign": "Libra",
+    "moon_nak": "Pushya",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Ulric Neisser",
+    "field": "Psychology",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Swati",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Aaron Beck",
+    "field": "Psychology",
+    "sat_sign": "Leo",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Cancer",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Herbert A. Simon",
+    "field": "Psychology",
+    "sat_sign": "Gemini",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jerome Bruner",
+    "field": "Psychology",
+    "sat_sign": "Gemini",
+    "moon_nak": "Ardra",
+    "sun_sign": "Virgo",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Karl Popper",
+    "field": "Philosophy",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Bharani",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "field": "Philosophy",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Dhanishtha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Hannah Arendt",
+    "field": "Philosophy",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Magha",
+    "sun_sign": "Virgo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "field": "Philosophy",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Uttara Bhadrapada",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "W. V. O. Quine",
+    "field": "Philosophy",
+    "sat_sign": "Pisces",
+    "moon_nak": "Krittika",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "A. J. Ayer",
+    "field": "Philosophy",
+    "sat_sign": "Aries",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Libra",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Albert Camus",
+    "field": "Philosophy",
+    "sat_sign": "Taurus",
+    "moon_nak": "Shatabhisha",
+    "sun_sign": "Libra",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John Rawls",
+    "field": "Philosophy",
+    "sat_sign": "Virgo",
+    "moon_nak": "Ashlesha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Thomas Kuhn",
+    "field": "Philosophy",
+    "sat_sign": "Virgo",
+    "moon_nak": "Bharani",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "J\u00fcrgen Habermas",
+    "field": "Philosophy",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "John McCarthy",
+    "field": "AI/ML",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Leo",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Marvin Minsky",
+    "field": "AI/ML",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Mula",
+    "sun_sign": "Cancer",
+    "venus_dig": -100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Allen Newell",
+    "field": "AI/ML",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Hasta",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Geoffrey Hinton",
+    "field": "AI/ML",
+    "sat_sign": "Cancer",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Yann LeCun",
+    "field": "AI/ML",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Purva Ashadha",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Yoshua Bengio",
+    "field": "AI/ML",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Judea Pearl",
+    "field": "AI/ML",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Leo",
+    "venus_dig": -100,
+    "mercury_dig": 100
+  },
+  {
+    "name": "Fei-Fei Li",
+    "field": "AI/ML",
+    "sat_sign": "Cancer",
+    "moon_nak": "Uttara Phalguni",
+    "sun_sign": "Gemini",
+    "venus_dig": 0,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Demis Hassabis",
+    "field": "AI/ML",
+    "sat_sign": "Cancer",
+    "moon_nak": "Pushya",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Stuart Russell",
+    "field": "AI/ML",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Rohini",
+    "sun_sign": "Capricorn",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Peter Norvig",
+    "field": "AI/ML",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Bharani",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Bernhard Sch\u00f6lkopf",
+    "field": "AI/ML",
+    "sat_sign": "Pisces",
+    "moon_nak": "Hasta",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Andrew Ng",
+    "field": "AI/ML",
+    "sat_sign": "Cancer",
+    "moon_nak": "Mula",
+    "sun_sign": "Aries",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Michael I. Jordan",
+    "field": "AI/ML",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Swati",
+    "sun_sign": "Cancer",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "Leslie Valiant",
+    "field": "AI/ML",
+    "sat_sign": "Leo",
+    "moon_nak": "Purva Bhadrapada",
+    "sun_sign": "Pisces",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Fred Hoyle",
+    "field": "Other",
+    "sat_sign": "Gemini",
+    "moon_nak": "Vishakha",
+    "sun_sign": "Gemini",
+    "venus_dig": 75,
+    "mercury_dig": 75
+  },
+  {
+    "name": "George Gamow",
+    "field": "Other",
+    "sat_sign": "Capricorn",
+    "moon_nak": "Chitra",
+    "sun_sign": "Aquarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jan Oort",
+    "field": "Other",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Aries",
+    "venus_dig": 0,
+    "mercury_dig": -100
+  },
+  {
+    "name": "Vera Rubin",
+    "field": "Other",
+    "sat_sign": "Virgo",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Cancer",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Noam Chomsky",
+    "field": "Other",
+    "sat_sign": "Scorpio",
+    "moon_nak": "Chitra",
+    "sun_sign": "Scorpio",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jane Goodall",
+    "field": "Other",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Anuradha",
+    "sun_sign": "Pisces",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Chien-Shiung Wu",
+    "field": "Other",
+    "sat_sign": "Taurus",
+    "moon_nak": "Jyeshtha",
+    "sun_sign": "Taurus",
+    "venus_dig": 75,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Mildred Dresselhaus",
+    "field": "Other",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Punarvasu",
+    "sun_sign": "Libra",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Jennifer Doudna",
+    "field": "Other",
+    "sat_sign": "Aquarius",
+    "moon_nak": "Bharani",
+    "sun_sign": "Aquarius",
+    "venus_dig": 100,
+    "mercury_dig": 0
+  },
+  {
+    "name": "Tu Youyou",
+    "field": "Other",
+    "sat_sign": "Sagittarius",
+    "moon_nak": "Ashwini",
+    "sun_sign": "Sagittarius",
+    "venus_dig": 0,
+    "mercury_dig": 0
+  }
+]

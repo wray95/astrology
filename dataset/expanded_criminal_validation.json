@@ -1,0 +1,666 @@
+{
+  "n_billionaires": 99,
+  "n_criminals": 106,
+  "billionaire_markers": {
+    "moon_ardra": 0.010101010101010102,
+    "moon_jyeshtha": 0.020202020202020204,
+    "moon_ashwini": 0.0,
+    "moon_deb": 0.06060606060606061,
+    "mars_sat_conj": 0.10101010101010101,
+    "mer_ven_conj": 0.32323232323232326,
+    "sun_mer_conj": 0.42424242424242425,
+    "jup_exalted": 0.0707070707070707,
+    "sat_exalted": 0.12121212121212122,
+    "mars_exalted": 0.1111111111111111
+  },
+  "criminal_markers": {
+    "moon_ardra": 0.018867924528301886,
+    "moon_jyeshtha": 0.02830188679245283,
+    "moon_ashwini": 0.04716981132075472,
+    "moon_deb": 0.07547169811320754,
+    "mars_sat_conj": 0.10377358490566038,
+    "mer_ven_conj": 0.2358490566037736,
+    "sun_mer_conj": 0.49056603773584906,
+    "jup_exalted": 0.09433962264150944,
+    "sat_exalted": 0.11320754716981132,
+    "mars_exalted": 0.1320754716981132
+  },
+  "expanded_charts": [
+    {
+      "name": "Joaquin Guzman",
+      "subcat": "Drug Lord",
+      "moon_nak": "Rohini",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Ismael Zambada Garcia",
+      "subcat": "Drug Lord",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Frank Costello",
+      "subcat": "Mafia",
+      "moon_nak": "Ashlesha",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Carlo Gambino",
+      "subcat": "Mafia",
+      "moon_nak": "Ashwini",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Paul Castellano",
+      "subcat": "Mafia",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Sammy Gravano",
+      "subcat": "Mafia",
+      "moon_nak": "Shatabhisha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Vito Genovese",
+      "subcat": "Mafia",
+      "moon_nak": "Chitra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Tony Accardo",
+      "subcat": "Mafia",
+      "moon_nak": "Ardra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Sam Giancana",
+      "subcat": "Mafia",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Santo Trafficante Jr.",
+      "subcat": "Mafia",
+      "moon_nak": "Chitra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Carlos Marcello",
+      "subcat": "Mafia",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Henry Hill",
+      "subcat": "Mafia",
+      "moon_nak": "Uttara Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Richard Kuklinski",
+      "subcat": "Hitman",
+      "moon_nak": "Pushya",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Arthur Shawcross",
+      "subcat": "Serial Killer",
+      "moon_nak": "Ashwini",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Ed Gein",
+      "subcat": "Serial Killer",
+      "moon_nak": "Jyeshtha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Albert Fish",
+      "subcat": "Serial Killer",
+      "moon_nak": "Uttara Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "David Berkowitz",
+      "subcat": "Serial Killer",
+      "moon_nak": "Uttara Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Dennis Rader",
+      "subcat": "Serial Killer",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Gary Ridgway",
+      "subcat": "Serial Killer",
+      "moon_nak": "Swati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "H.H. Holmes",
+      "subcat": "Serial Killer",
+      "moon_nak": "Ashlesha",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Jim Jones",
+      "subcat": "Cult Leader",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "David Koresh",
+      "subcat": "Cult Leader",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Marshall Applewhite",
+      "subcat": "Cult Leader",
+      "moon_nak": "Krittika",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Shoko Asahara",
+      "subcat": "Cult Leader",
+      "moon_nak": "Mrigashira",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Joseph Stalin",
+      "subcat": "Dictator",
+      "moon_nak": "Hasta",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Benito Mussolini",
+      "subcat": "Dictator",
+      "moon_nak": "Rohini",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Pol Pot",
+      "subcat": "Dictator",
+      "moon_nak": "Revati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Idi Amin",
+      "subcat": "Dictator",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Saddam Hussein",
+      "subcat": "Dictator",
+      "moon_nak": "Anuradha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Osama bin Laden",
+      "subcat": "Terrorist",
+      "moon_nak": "Ardra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Timothy McVeigh",
+      "subcat": "Terrorist",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Ted Kaczynski",
+      "subcat": "Terrorist",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Dzhokhar Tsarnaev",
+      "subcat": "Terrorist",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Tamerlan Tsarnaev",
+      "subcat": "Terrorist",
+      "moon_nak": "Rohini",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Seung-Hui Cho",
+      "subcat": "Mass Shooter",
+      "moon_nak": "Punarvasu",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Dylan Klebold",
+      "subcat": "Mass Shooter",
+      "moon_nak": "Dhanishtha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Eric Harris",
+      "subcat": "Mass Shooter",
+      "moon_nak": "Mrigashira",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Adam Lanza",
+      "subcat": "Mass Shooter",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Anders Behring Breivik",
+      "subcat": "Terrorist",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Lee Harvey Oswald",
+      "subcat": "Assassin",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "John Wilkes Booth",
+      "subcat": "Assassin",
+      "moon_nak": "Anuradha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Charles J. Guiteau",
+      "subcat": "Assassin",
+      "moon_nak": "Mrigashira",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Leon Czolgosz",
+      "subcat": "Assassin",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Gavrilo Princip",
+      "subcat": "Assassin",
+      "moon_nak": "Ashwini",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Sunny Balwani",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Jyeshtha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Billy McFarland",
+      "subcat": "Fraudster",
+      "moon_nak": "Dhanishtha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Anna Sorokin",
+      "subcat": "Fraudster",
+      "moon_nak": "Ashwini",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Simon Leviev",
+      "subcat": "Fraudster",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Martin Shkreli",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Ashwini",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Allen Stanford",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Rohini",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Charles Ponzi",
+      "subcat": "Fraudster",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Victor Lustig",
+      "subcat": "Fraudster",
+      "moon_nak": "Mrigashira",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Frank Abagnale",
+      "subcat": "Fraudster",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Bernard Ebbers",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Swati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "John Rigas",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Mrigashira",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Lou Pearlman",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Trevor Milton",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Uttara Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Adam Neumann",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Punarvasu",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Do Kwon",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Ashlesha",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Barry Minkow",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Nick Leeson",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Jerome Kerviel",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Hasta",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Kweku Adoboli",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Dennis Rodman",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Bharani",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Antoine Walker",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Lenny Dykstra",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Curt Schilling",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Jyeshtha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Wayne Newton",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Swati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "David Cassidy",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Shatabhisha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Gary Busey",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Chitra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Corey Haim",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Dustin Diamond",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Ashlesha",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Tila Tequila",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Heidi Fleiss",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Joe Exotic",
+      "subcat": "Bankrupt Celebrity",
+      "moon_nak": "Punarvasu",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Tupac Shakur",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_dignity": 0
+    },
+    {
+      "name": "The Notorious B.I.G.",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Eazy-E",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Hasta",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Rick James",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Swati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Vanilla Ice",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Hasta",
+      "moon_dignity": 0
+    },
+    {
+      "name": "DMX",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Coolio",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Sean Kingston",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Krittika",
+      "moon_dignity": 100
+    },
+    {
+      "name": "Damon Dash",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Magha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Iggy Azalea",
+      "subcat": "Musician/Fallen",
+      "moon_nak": "Anuradha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Amanda Bynes",
+      "subcat": "Troubled Celebrity",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Anna Nicole Smith",
+      "subcat": "Troubled Celebrity",
+      "moon_nak": "Chitra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Janice Dickinson",
+      "subcat": "Troubled Celebrity",
+      "moon_nak": "Anuradha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Tom Girardi",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Jen Shah",
+      "subcat": "Fraudster",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Joe Giudice",
+      "subcat": "Fraudster",
+      "moon_nak": "Uttara Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Mike Sorrentino",
+      "subcat": "Fraudster",
+      "moon_nak": "Mula",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Richard Hatch",
+      "subcat": "Fraudster",
+      "moon_nak": "Uttara Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "L. Ron Hubbard",
+      "subcat": "Cult Leader",
+      "moon_nak": "Purva Phalguni",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Keith Raniere",
+      "subcat": "Cult Leader",
+      "moon_nak": "Chitra",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Allison Mack",
+      "subcat": "Cult Member",
+      "moon_nak": "Vishakha",
+      "moon_dignity": -100
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "subcat": "Sex Criminal",
+      "moon_nak": "Ashlesha",
+      "moon_dignity": 75
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "subcat": "Sex Criminal",
+      "moon_nak": "Revati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "John McAfee",
+      "subcat": "Fugitive",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Kim Dotcom",
+      "subcat": "Fugitive",
+      "moon_nak": "Purva Ashadha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Ross Ulbricht",
+      "subcat": "Fugitive",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Julian Assange",
+      "subcat": "Fugitive",
+      "moon_nak": "Swati",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Edward Snowden",
+      "subcat": "Fugitive",
+      "moon_nak": "Vishakha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Chelsea Manning",
+      "subcat": "Fugitive",
+      "moon_nak": "Vishakha",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Aaron Swartz",
+      "subcat": "Fugitive",
+      "moon_nak": "Shravana",
+      "moon_dignity": 0
+    },
+    {
+      "name": "Elizabeth Holmes",
+      "subcat": "Corporate Fraud",
+      "moon_nak": "Shatabhisha",
+      "moon_dignity": 0
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "datasets": {
+    "Q-series": 5010,
+    "200 Scholars": 200,
+    "600 Marketers": 600,
+    "NEXUS Unified": 1131,
+    "Saturn Passages": 45656,
+    "Q Events": 1812,
+    "Biographies": 200
+  },
+  "p_charts": [
+    {
+      "id": "P1",
+      "name": "Polgahawela Bappa",
+      "saturn": "Capricorn"
+    },
+    {
+      "id": "P2",
+      "name": "Upulakshi",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P3",
+      "name": "Senith",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P4",
+      "name": "Niromi",
+      "saturn": "Pisces"
+    },
+    {
+      "id": "P5",
+      "name": "Senath",
+      "saturn": "Taurus"
+    },
+    {
+      "id": "P6",
+      "name": "Dewli",
+      "saturn": "Cancer"
+    },
+    {
+      "id": "P7",
+      "name": "Sineth",
+      "saturn": "Gemini"
+    },
+    {
+      "id": "P8",
+      "name": "Lakshi Amma",
+      "saturn": "Capricorn"
+    },
+    {
+      "id": "P9",
+      "name": "Lalith Uncle",
+      "saturn": "Aries"
+    }
+  ],
+  "saturn_sources": {
+    "Gemini": {
+      "Q-series": 333,
+      "Scholars": 17,
+      "Marketers": 43
+    },
+    "Leo": {
+      "Q-series": 387,
+      "Scholars": 8,
+      "Marketers": 51
+    },
+    "Scorpio": {
+      "Q-series": 445,
+      "Scholars": 19,
+      "Marketers": 53
+    },
+    "Virgo": {
+      "Q-series": 438,
+      "Scholars": 14,
+      "Marketers": 39
+    },
+    "Cancer": {
+      "Q-series": 396,
+      "Scholars": 14,
+      "Marketers": 52
+    },
+    "Sagittarius": {
+      "Q-series": 509,
+      "Scholars": 20,
+      "Marketers": 52
+    },
+    "Aries": {
+      "Q-series": 347,
+      "Scholars": 20,
+      "Marketers": 39
+    },
+    "Libra": {
+      "Q-series": 448,
+      "Scholars": 12,
+      "Marketers": 47
+    },
+    "Capricorn": {
+      "Q-series": 528,
+      "Scholars": 24,
+      "Marketers": 61
+    },
+    "Aquarius": {
+      "Q-series": 463,
+      "Scholars": 20,
+      "Marketers": 51
+    },
+    "Taurus": {
+      "Q-series": 355,
+      "Scholars": 17,
+      "Marketers": 47
+    },
+    "Pisces": {
+      "Q-series": 361,
+      "Scholars": 15,
+      "Marketers": 65
+    }
+  }
+}

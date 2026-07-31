@@ -1,0 +1,17 @@
+{
+  "cycles": {
+    "Sun": "~1 year",
+    "Moon": "~27.3 days sidereal",
+    "Mercury": "~1 year, variable due retrograde",
+    "Venus": "~1 year, variable due retrograde",
+    "Mars": "~1.88 years",
+    "Jupiter": "~11.86 years",
+    "Saturn": "~29.46 years",
+    "Uranus": "~84 years",
+    "Neptune": "~164.8 years",
+    "Pluto": "~248 years",
+    "Rahu_mean": "~18.6 years retrograde node",
+    "Ketu": "~18.6 years retrograde node"
+  },
+  "interpretation": "These are approximate astronomical cycle lengths, not event predictions. A date-only return requires interval/sensitivity analysis and a verified event timeline."
+}

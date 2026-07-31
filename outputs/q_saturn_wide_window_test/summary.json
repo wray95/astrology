@@ -1,0 +1,63 @@
+{
+  "usable_candidate_events": 161,
+  "events_in_3y_lead_core_lag_windows": 28,
+  "phase_counts": {
+    "core_natal_sign": 12,
+    "lead_3y_before_ingress": 13,
+    "lag_3y_after_exit": 3
+  },
+  "event_type_counts": {
+    "marriage_or_spouse_date_candidate": 2,
+    "death": 24,
+    "debut_or_career_start": 2
+  },
+  "by_natal_saturn_sign": {
+    "Aquarius": {
+      "core_natal_sign": 1
+    },
+    "Cancer": {
+      "lag_3y_after_exit": 1,
+      "lead_3y_before_ingress": 2
+    },
+    "Capricorn": {
+      "core_natal_sign": 2
+    },
+    "Gemini": {
+      "lag_3y_after_exit": 1,
+      "core_natal_sign": 1
+    },
+    "Leo": {
+      "lead_3y_before_ingress": 1,
+      "core_natal_sign": 1
+    },
+    "Libra": {
+      "lead_3y_before_ingress": 2
+    },
+    "Pisces": {
+      "core_natal_sign": 2,
+      "lead_3y_before_ingress": 2
+    },
+    "Sagittarius": {
+      "core_natal_sign": 1,
+      "lead_3y_before_ingress": 2
+    },
+    "Scorpio": {
+      "lead_3y_before_ingress": 2,
+      "core_natal_sign": 3
+    },
+    "Taurus": {
+      "core_natal_sign": 1,
+      "lag_3y_after_exit": 1,
+      "lead_3y_before_ingress": 1
+    },
+    "Virgo": {
+      "lead_3y_before_ingress": 1
+    }
+  },
+  "outcome_labels_available": {
+    "q_wealth": 0,
+    "q_rags_to_riches": 0,
+    "q_downfall": 0
+  },
+  "interpretation": "Widened timing screen; not an outcome test and not causal."
+}

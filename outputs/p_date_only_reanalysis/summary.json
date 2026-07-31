@@ -1,0 +1,7 @@
+{
+  "method": "Date-only P-series reanalysis",
+  "records": 9,
+  "event_evidence_for_P": 0,
+  "ranking_change_from_Q_transit_data": "none_supported",
+  "reason": "Q event candidates have no verified outcomes and no P-linked event timeline"
+}

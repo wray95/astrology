@@ -1,0 +1,69 @@
+{
+  "q_people": 5010,
+  "all_candidate_event_rows": 1812,
+  "candidate_event_type_counts": {
+    "death": 141,
+    "career_period_candidate": 1416,
+    "marriage_or_spouse_date_candidate": 220,
+    "debut_or_career_start": 34,
+    "incarceration_or_conviction_candidate": 1
+  },
+  "usable_date_rows": 161,
+  "control_rows": 450,
+  "event_stats": {
+    "n": 161,
+    "Saturn_same_sign": 19,
+    "Mars_same_sign": 15,
+    "Venus_same_sign": 8,
+    "Jupiter_same_sign": 16,
+    "Rahu_mean_same_sign": 13,
+    "Ketu_same_sign": 13,
+    "Saturn_within_3deg": 4,
+    "Mars_within_3deg": 4,
+    "Venus_within_3deg": 1,
+    "Jupiter_within_3deg": 0,
+    "Rahu_mean_within_3deg": 3,
+    "Ketu_within_3deg": 3,
+    "Saturn_retrograde": 60,
+    "Mars_retrograde": 19,
+    "Venus_retrograde": 14,
+    "Jupiter_retrograde": 51,
+    "Rahu_mean_retrograde": 161,
+    "Ketu_retrograde": 161
+  },
+  "control_stats": {
+    "n": 450,
+    "Saturn_same_sign": 42,
+    "Mars_same_sign": 28,
+    "Venus_same_sign": 40,
+    "Jupiter_same_sign": 36,
+    "Rahu_mean_same_sign": 56,
+    "Ketu_same_sign": 56,
+    "Saturn_within_3deg": 4,
+    "Mars_within_3deg": 9,
+    "Venus_within_3deg": 7,
+    "Jupiter_within_3deg": 14,
+    "Rahu_mean_within_3deg": 11,
+    "Ketu_within_3deg": 11,
+    "Saturn_retrograde": 180,
+    "Mars_retrograde": 35,
+    "Venus_retrograde": 39,
+    "Jupiter_retrograde": 145,
+    "Rahu_mean_retrograde": 450,
+    "Ketu_retrograde": 450
+  },
+  "outcome_gaps": {
+    "rags_to_riches": 0,
+    "wealth_gain": 0,
+    "poverty_or_loss": 0,
+    "major_success": 0,
+    "major_failure": 0,
+    "child_birth": 0
+  },
+  "limitations": [
+    "No verified Q outcome labels",
+    "Rags-to-riches cannot be inferred from occupation or planetary data",
+    "Candidate events are source-field extractions and may be false or imprecise",
+    "No causal inference; controls are preliminary"
+  ]
+}

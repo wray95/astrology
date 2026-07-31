@@ -1,0 +1,825 @@
+{
+  "Architect": [
+    {
+      "name": "Frank Lloyd Wright",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Leo",
+      "year": 1867
+    },
+    {
+      "name": "Antoni Gaudi",
+      "moon_nak": "Hasta",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Gemini",
+      "year": 1852
+    },
+    {
+      "name": "Zaha Hadid",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Pisces",
+      "year": 1950
+    },
+    {
+      "name": "Le Corbusier",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Cancer",
+      "year": 1887
+    },
+    {
+      "name": "I. M. Pei",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Sagittarius",
+      "year": 1917
+    },
+    {
+      "name": "Oscar Niemeyer",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Gemini",
+      "year": 1907
+    },
+    {
+      "name": "Frank Gehry",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Taurus",
+      "year": 1929
+    },
+    {
+      "name": "Norman Foster",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Capricorn",
+      "year": 1935
+    },
+    {
+      "name": "Renzo Piano",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio",
+      "year": 1937
+    },
+    {
+      "name": "Rem Koolhaas",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Gemini",
+      "year": 1944
+    },
+    {
+      "name": "Tadao Ando",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Leo",
+      "year": 1941
+    },
+    {
+      "name": "Maya Lin",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Virgo",
+      "year": 1959
+    },
+    {
+      "name": "Louis Sullivan",
+      "moon_nak": "Chitra",
+      "moon_sign": "Libra",
+      "rahu_sign": "Pisces",
+      "year": 1856
+    }
+  ],
+  "Tech Founder": [
+    {
+      "name": "Bill Gates",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Scorpio",
+      "year": 1955
+    },
+    {
+      "name": "Steve Jobs",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Sagittarius",
+      "year": 1955
+    },
+    {
+      "name": "Steve Wozniak",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Pisces",
+      "year": 1950
+    },
+    {
+      "name": "Tim Berners-Lee",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Sagittarius",
+      "year": 1955
+    },
+    {
+      "name": "Linus Torvalds",
+      "moon_nak": "Magha",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aquarius",
+      "year": 1969
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Taurus",
+      "year": 1984
+    },
+    {
+      "name": "Larry Page",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Sagittarius",
+      "year": 1973
+    },
+    {
+      "name": "Sergey Brin",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius",
+      "year": 1973
+    },
+    {
+      "name": "Elon Musk",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Capricorn",
+      "year": 1971
+    },
+    {
+      "name": "Jeff Bezos",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Gemini",
+      "year": 1964
+    },
+    {
+      "name": "Gordon Moore",
+      "moon_nak": "Chitra",
+      "moon_sign": "Libra",
+      "rahu_sign": "Taurus",
+      "year": 1929
+    },
+    {
+      "name": "Marc Andreessen",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Capricorn",
+      "year": 1971
+    },
+    {
+      "name": "Jensen Huang",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Cancer",
+      "year": 1963
+    },
+    {
+      "name": "Satya Nadella",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Aries",
+      "year": 1967
+    },
+    {
+      "name": "Sundar Pichai",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Capricorn",
+      "year": 1972
+    }
+  ],
+  "Film Director": [
+    {
+      "name": "Alfred Hitchcock",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Sagittarius",
+      "year": 1899
+    },
+    {
+      "name": "Steven Spielberg",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Taurus",
+      "year": 1946
+    },
+    {
+      "name": "Stanley Kubrick",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Taurus",
+      "year": 1928
+    },
+    {
+      "name": "Akira Kurosawa",
+      "moon_nak": "Magha",
+      "moon_sign": "Leo",
+      "rahu_sign": "Taurus",
+      "year": 1910
+    },
+    {
+      "name": "Martin Scorsese",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Leo",
+      "year": 1942
+    },
+    {
+      "name": "Christopher Nolan",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Aquarius",
+      "year": 1970
+    },
+    {
+      "name": "Quentin Tarantino",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Cancer",
+      "year": 1963
+    },
+    {
+      "name": "Federico Fellini",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Libra",
+      "year": 1920
+    },
+    {
+      "name": "Ingmar Bergman",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Scorpio",
+      "year": 1918
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Libra",
+      "year": 1939
+    },
+    {
+      "name": "Orson Welles",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Capricorn",
+      "year": 1915
+    },
+    {
+      "name": "Charlie Chaplin",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Gemini",
+      "year": 1889
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Virgo",
+      "year": 1941
+    },
+    {
+      "name": "Satyajit Ray",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Libra",
+      "year": 1921
+    },
+    {
+      "name": "James Cameron",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Sagittarius",
+      "year": 1954
+    },
+    {
+      "name": "George Lucas",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Cancer",
+      "year": 1944
+    },
+    {
+      "name": "David Lynch",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Gemini",
+      "year": 1946
+    },
+    {
+      "name": "Ridley Scott",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Scorpio",
+      "year": 1937
+    }
+  ],
+  "Military Commander": [
+    {
+      "name": "Genghis Khan",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Cancer",
+      "year": 1162
+    },
+    {
+      "name": "Saladin",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Sagittarius",
+      "year": 1137
+    },
+    {
+      "name": "Erwin Rommel",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Taurus",
+      "year": 1891
+    },
+    {
+      "name": "George S. Patton",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Virgo",
+      "year": 1885
+    },
+    {
+      "name": "Horatio Nelson",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Cancer",
+      "year": 1758
+    },
+    {
+      "name": "Vo Nguyen Giap",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries",
+      "year": 1911
+    }
+  ],
+  "Composer": [
+    {
+      "name": "Ludwig van Beethoven",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio",
+      "year": 1770
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Leo",
+      "year": 1756
+    },
+    {
+      "name": "Johann Sebastian Bach",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Gemini",
+      "year": 1685
+    },
+    {
+      "name": "Frederic Chopin",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Virgo",
+      "year": 1810
+    },
+    {
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Aquarius",
+      "year": 1840
+    },
+    {
+      "name": "Franz Schubert",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Gemini",
+      "year": 1797
+    },
+    {
+      "name": "Johannes Brahms",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Gemini",
+      "year": 1833
+    },
+    {
+      "name": "Antonio Vivaldi",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Scorpio",
+      "year": 1678
+    },
+    {
+      "name": "Giuseppe Verdi",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Cancer",
+      "year": 1813
+    },
+    {
+      "name": "Richard Wagner",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Cancer",
+      "year": 1813
+    },
+    {
+      "name": "Claude Debussy",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Scorpio",
+      "year": 1862
+    },
+    {
+      "name": "Igor Stravinsky",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Scorpio",
+      "year": 1882
+    },
+    {
+      "name": "Sergei Rachmaninoff",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Taurus",
+      "year": 1873
+    },
+    {
+      "name": "Giacomo Puccini",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Aquarius",
+      "year": 1858
+    }
+  ],
+  "Athlete": [
+    {
+      "name": "Muhammad Ali",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Leo",
+      "year": 1942
+    },
+    {
+      "name": "Michael Jordan",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Cancer",
+      "year": 1963
+    },
+    {
+      "name": "Pele",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Virgo",
+      "year": 1940
+    },
+    {
+      "name": "Diego Maradona",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Leo",
+      "year": 1960
+    },
+    {
+      "name": "Lionel Messi",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Pisces",
+      "year": 1987
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "moon_nak": "Ashlesha",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Aries",
+      "year": 1985
+    },
+    {
+      "name": "Usain Bolt",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Pisces",
+      "year": 1986
+    },
+    {
+      "name": "Serena Williams",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Cancer",
+      "year": 1981
+    },
+    {
+      "name": "Roger Federer",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Cancer",
+      "year": 1981
+    },
+    {
+      "name": "Michael Phelps",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Aries",
+      "year": 1985
+    },
+    {
+      "name": "Tom Brady",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Virgo",
+      "year": 1977
+    },
+    {
+      "name": "LeBron James",
+      "moon_nak": "Revati",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Taurus",
+      "year": 1984
+    },
+    {
+      "name": "Tiger Woods",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Libra",
+      "year": 1975
+    },
+    {
+      "name": "Lewis Hamilton",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Taurus",
+      "year": 1985
+    }
+  ],
+  "Artist": [
+    {
+      "name": "Leonardo da Vinci",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Sagittarius",
+      "year": 1452
+    },
+    {
+      "name": "Michelangelo",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Virgo",
+      "year": 1475
+    },
+    {
+      "name": "Vincent van Gogh",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Gemini",
+      "year": 1853
+    },
+    {
+      "name": "Pablo Picasso",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Scorpio",
+      "year": 1881
+    },
+    {
+      "name": "Claude Monet",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Aquarius",
+      "year": 1840
+    },
+    {
+      "name": "Salvador Dali",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Virgo",
+      "year": 1904
+    },
+    {
+      "name": "Frida Kahlo",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Cancer",
+      "year": 1907
+    },
+    {
+      "name": "Andy Warhol",
+      "moon_nak": "Revati",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Taurus",
+      "year": 1928
+    },
+    {
+      "name": "Jackson Pollock",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Aries",
+      "year": 1912
+    },
+    {
+      "name": "Rembrandt van Rijn",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Virgo",
+      "year": 1606
+    },
+    {
+      "name": "Gustav Klimt",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Sagittarius",
+      "year": 1862
+    },
+    {
+      "name": "Edvard Munch",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio",
+      "year": 1863
+    },
+    {
+      "name": "Banksy",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Scorpio",
+      "year": 1974
+    }
+  ],
+  "Explorer": [
+    {
+      "name": "Christopher Columbus",
+      "moon_nak": "Chitra",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Capricorn",
+      "year": 1451
+    },
+    {
+      "name": "Ferdinand Magellan",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Gemini",
+      "year": 1480
+    },
+    {
+      "name": "Marco Polo",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Leo",
+      "year": 1254
+    },
+    {
+      "name": "James Cook",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Aquarius",
+      "year": 1728
+    },
+    {
+      "name": "Roald Amundsen",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Taurus",
+      "year": 1872
+    },
+    {
+      "name": "Ernest Shackleton",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Aries",
+      "year": 1874
+    },
+    {
+      "name": "Edmund Hillary",
+      "moon_nak": "Revati",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Scorpio",
+      "year": 1919
+    },
+    {
+      "name": "Jacques Cousteau",
+      "moon_nak": "Ashlesha",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Taurus",
+      "year": 1910
+    }
+  ],
+  "Polymath/Nobel": [
+    {
+      "name": "Benjamin Franklin",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Taurus",
+      "year": 1706
+    },
+    {
+      "name": "Marie Curie",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Leo",
+      "year": 1867
+    },
+    {
+      "name": "Richard Feynman",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius",
+      "year": 1918
+    },
+    {
+      "name": "Blaise Pascal",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Libra",
+      "year": 1623
+    },
+    {
+      "name": "Rabindranath Tagore",
+      "moon_nak": "Revati",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Sagittarius",
+      "year": 1861
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Taurus",
+      "year": 1929
+    },
+    {
+      "name": "Nelson Mandela",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Scorpio",
+      "year": 1918
+    },
+    {
+      "name": "Mother Teresa",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Taurus",
+      "year": 1910
+    },
+    {
+      "name": "Niels Bohr",
+      "moon_nak": "Hasta",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Virgo",
+      "year": 1885
+    },
+    {
+      "name": "Max Planck",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aquarius",
+      "year": 1858
+    },
+    {
+      "name": "Linus Pauling",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Scorpio",
+      "year": 1901
+    },
+    {
+      "name": "Gabriel Garcia Marquez",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Gemini",
+      "year": 1927
+    },
+    {
+      "name": "Toni Morrison",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Pisces",
+      "year": 1931
+    },
+    {
+      "name": "John von Neumann",
+      "moon_nak": "Revati",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Virgo",
+      "year": 1903
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Auguste Lumiere",
+    "moon_nak": "Purva Phalguni",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Louis Lumiere",
+    "moon_nak": "Anuradha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Georges Melies",
+    "moon_nak": "Shatabhisha",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Alice Guy-Blache",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Eadweard Muybridge",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "D. W. Griffith",
+    "moon_nak": "Ashlesha",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Buster Keaton",
+    "moon_nak": "Revati",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Harold Lloyd",
+    "moon_nak": "Mrigashira",
+    "moon_sign": "Gemini"
+  },
+  {
+    "name": "Mary Pickford",
+    "moon_nak": "Purva Phalguni",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Douglas Fairbanks",
+    "moon_nak": "Jyeshtha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Rudolph Valentino",
+    "moon_nak": "Hasta",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Lillian Gish",
+    "moon_nak": "Jyeshtha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Lon Chaney",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Sergei Eisenstein",
+    "moon_nak": "Dhanishtha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Dziga Vertov",
+    "moon_nak": "Pushya",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "F. W. Murnau",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Fritz Lang",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Carl Theodor Dreyer",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Jean Renoir",
+    "moon_nak": "Uttara Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Orson Welles",
+    "moon_nak": "Dhanishtha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Akira Kurosawa",
+    "moon_nak": "Magha",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Yasujiro Ozu",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Kenji Mizoguchi",
+    "moon_nak": "Uttara Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Federico Fellini",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Ingmar Bergman",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Stanley Kubrick",
+    "moon_nak": "Vishakha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Satyajit Ray",
+    "moon_nak": "Shatabhisha",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Andrei Tarkovsky",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Jean-Luc Godard",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Francois Truffaut",
+    "moon_nak": "Shravana",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Michelangelo Antonioni",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Luchino Visconti",
+    "moon_nak": "Krittika",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Roberto Rossellini",
+    "moon_nak": "Vishakha",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Luis Bunuel",
+    "moon_nak": "Anuradha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Billy Wilder",
+    "moon_nak": "Ardra",
+    "moon_sign": "Gemini"
+  },
+  {
+    "name": "Frank Capra",
+    "moon_nak": "Mula",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "John Ford",
+    "moon_nak": "Mula",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Howard Hawks",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Ernst Lubitsch",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "William Wyler",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Vittorio De Sica",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Sergio Leone",
+    "moon_nak": "Chitra",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Steven Spielberg",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Martin Scorsese",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Francis Ford Coppola",
+    "moon_nak": "Anuradha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "George Lucas",
+    "moon_nak": "Shravana",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Ridley Scott",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "David Lynch",
+    "moon_nak": "Purva Phalguni",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Hayao Miyazaki",
+    "moon_nak": "Uttara Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Agnes Varda",
+    "moon_nak": "Chitra",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Chantal Akerman",
+    "moon_nak": "Shatabhisha",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Abbas Kiarostami",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Pedro Almodovar",
+    "moon_nak": "Vishakha",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Krzysztof Kieslowski",
+    "moon_nak": "Pushya",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "Sarah Bernhardt",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Eleonora Duse",
+    "moon_nak": "Magha",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Laurence Olivier",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "John Gielgud",
+    "moon_nak": "Uttara Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Humphrey Bogart",
+    "moon_nak": "Hasta",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Marlon Brando",
+    "moon_nak": "Uttara Bhadrapada",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "James Dean",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Katharine Hepburn",
+    "moon_nak": "Krittika",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "moon_nak": "Shatabhisha",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "moon_nak": "Dhanishtha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Bette Davis",
+    "moon_nak": "Rohini",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Ingrid Bergman",
+    "moon_nak": "Ashwini",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Greta Garbo",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Spencer Tracy",
+    "moon_nak": "Ardra",
+    "moon_sign": "Gemini"
+  },
+  {
+    "name": "Cary Grant",
+    "moon_nak": "Shravana",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Clark Gable",
+    "moon_nak": "Punarvasu",
+    "moon_sign": "Gemini"
+  },
+  {
+    "name": "James Stewart",
+    "moon_nak": "Uttara Ashadha",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "moon_nak": "Vishakha",
+    "moon_sign": "Libra"
+  },
+  {
+    "name": "Sophia Loren",
+    "moon_nak": "Dhanishtha",
+    "moon_sign": "Capricorn"
+  },
+  {
+    "name": "Marcello Mastroianni",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Toshiro Mifune",
+    "moon_nak": "Purva Phalguni",
+    "moon_sign": "Leo"
+  },
+  {
+    "name": "Takashi Shimura",
+    "moon_nak": "Krittika",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Gene Kelly",
+    "moon_nak": "Purva Ashadha",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Fred Astaire",
+    "moon_nak": "Krittika",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Judy Garland",
+    "moon_nak": "Mula",
+    "moon_sign": "Sagittarius"
+  },
+  {
+    "name": "Joan Crawford",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Jack Nicholson",
+    "moon_nak": "Uttara Phalguni",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Robert De Niro",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Al Pacino",
+    "moon_nak": "Jyeshtha",
+    "moon_sign": "Scorpio"
+  },
+  {
+    "name": "Meryl Streep",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Daniel Day-Lewis",
+    "moon_nak": "Ashwini",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Sidney Poitier",
+    "moon_nak": "Hasta",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Cantinflas",
+    "moon_nak": "Purva Bhadrapada",
+    "moon_sign": "Aquarius"
+  },
+  {
+    "name": "Jean Gabin",
+    "moon_nak": "Mrigashira",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Alain Delon",
+    "moon_nak": "Revati",
+    "moon_sign": "Pisces"
+  },
+  {
+    "name": "Jean-Paul Belmondo",
+    "moon_nak": "Hasta",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Catherine Deneuve",
+    "moon_nak": "Ashlesha",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "Brigitte Bardot",
+    "moon_nak": "Rohini",
+    "moon_sign": "Taurus"
+  },
+  {
+    "name": "Max von Sydow",
+    "moon_nak": "Ashwini",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Liv Ullmann",
+    "moon_nak": "Chitra",
+    "moon_sign": "Virgo"
+  },
+  {
+    "name": "Anna Magnani",
+    "moon_nak": "Bharani",
+    "moon_sign": "Aries"
+  },
+  {
+    "name": "Soumitra Chatterjee",
+    "moon_nak": "Punarvasu",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "Uttam Kumar",
+    "moon_nak": "Pushya",
+    "moon_sign": "Cancer"
+  },
+  {
+    "name": "Amitabh Bachchan",
+    "moon_nak": "Swati",
+    "moon_sign": "Libra"
+  }
+]

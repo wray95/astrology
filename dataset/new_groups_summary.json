@@ -1,0 +1,510 @@
+{
+  "Late Bloomer Founder": [
+    {
+      "name": "Ray Kroc",
+      "bday": "1902-10-05",
+      "place": "Oak Park, Illinois, USA"
+    },
+    {
+      "name": "Colonel Sanders",
+      "bday": "1890-09-09",
+      "place": "Henryville, Indiana, USA"
+    },
+    {
+      "name": "Sam Walton",
+      "bday": "1918-03-29",
+      "place": "Kingfisher, Oklahoma, USA"
+    },
+    {
+      "name": "Martha Stewart",
+      "bday": "1941-08-03",
+      "place": "Jersey City, New Jersey, USA"
+    },
+    {
+      "name": "Mary Kay Ash",
+      "bday": "1918-05-12",
+      "place": "Hot Wells, Texas, USA"
+    },
+    {
+      "name": "Est\u00e9e Lauder",
+      "bday": "1908-07-01",
+      "place": "Queens, New York, USA"
+    },
+    {
+      "name": "Sara Blakely",
+      "bday": "1971-02-27",
+      "place": "Clearwater, Florida, USA"
+    },
+    {
+      "name": "Vera Wang",
+      "bday": "1949-06-27",
+      "place": "New York City, New York, USA"
+    },
+    {
+      "name": "Arianna Huffington",
+      "bday": "1950-07-15",
+      "place": "Athens, Greece"
+    },
+    {
+      "name": "Amancio Ortega",
+      "bday": "1936-03-28",
+      "place": "Busdongo de Arbas, Le\u00f3n, Spain"
+    },
+    {
+      "name": "Momofuku Ando",
+      "bday": "1910-03-05",
+      "place": "Chiayi, Taiwan"
+    },
+    {
+      "name": "Harland Sanders",
+      "bday": "1890-09-09",
+      "place": "Henryville, Indiana, USA"
+    }
+  ],
+  "Author": [
+    {
+      "name": "J.K. Rowling",
+      "bday": "1965-07-31",
+      "place": "Yate, Gloucestershire, England, UK"
+    },
+    {
+      "name": "Toni Morrison",
+      "bday": "1931-02-18",
+      "place": "Lorain, Ohio, USA"
+    },
+    {
+      "name": "Charles Bukowski",
+      "bday": "1920-08-16",
+      "place": "Andernach, Germany"
+    },
+    {
+      "name": "Tom Clancy",
+      "bday": "1947-04-12",
+      "place": "Baltimore, Maryland, USA"
+    },
+    {
+      "name": "George R.R. Martin",
+      "bday": "1948-09-20",
+      "place": "Bayonne, New Jersey, USA"
+    },
+    {
+      "name": "Bram Stoker",
+      "bday": "1847-11-08",
+      "place": "Clontarf, Dublin, Ireland"
+    },
+    {
+      "name": "Daniel Defoe",
+      "bday": "1660-09-13",
+      "place": "London, England, UK"
+    },
+    {
+      "name": "James Michener",
+      "bday": "1907-02-03",
+      "place": "New York City, New York, USA"
+    },
+    {
+      "name": "Alex Haley",
+      "bday": "1921-08-11",
+      "place": "Ithaca, New York, USA"
+    },
+    {
+      "name": "Stieg Larsson",
+      "bday": "1954-08-15",
+      "place": "Skelleftehamn, Sweden"
+    }
+  ],
+  "Late Bloomer Actor": [
+    {
+      "name": "Morgan Freeman",
+      "bday": "1937-06-01",
+      "place": "Memphis, Tennessee, USA"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "bday": "1948-12-21",
+      "place": "Washington, D.C., USA"
+    },
+    {
+      "name": "Bryan Cranston",
+      "bday": "1956-03-07",
+      "place": "Hollywood, Los Angeles, California, USA"
+    },
+    {
+      "name": "Alan Rickman",
+      "bday": "1946-02-21",
+      "place": "Hammersmith, London, England, UK"
+    },
+    {
+      "name": "Harrison Ford",
+      "bday": "1942-07-13",
+      "place": "Chicago, Illinois, USA"
+    },
+    {
+      "name": "Christoph Waltz",
+      "bday": "1956-10-04",
+      "place": "Vienna, Austria"
+    },
+    {
+      "name": "Judi Dench",
+      "bday": "1934-12-09",
+      "place": "York, North Yorkshire, England, UK"
+    },
+    {
+      "name": "Patrick Stewart",
+      "bday": "1940-07-13",
+      "place": "Mirfield, West Yorkshire, England, UK"
+    },
+    {
+      "name": "Gene Hackman",
+      "bday": "1930-01-30",
+      "place": "San Bernardino, California, USA"
+    },
+    {
+      "name": "Kathy Bates",
+      "bday": "1948-06-28",
+      "place": "Memphis, Tennessee, USA"
+    },
+    {
+      "name": "Ian McKellen",
+      "bday": "1939-05-25",
+      "place": "Burnley, Lancashire, England, UK"
+    }
+  ],
+  "Artist": [
+    {
+      "name": "Vincent van Gogh",
+      "bday": "1853-03-30",
+      "place": "Zundert, Netherlands"
+    },
+    {
+      "name": "Grandma Moses",
+      "bday": "1860-09-07",
+      "place": "Greenwich, New York, USA"
+    },
+    {
+      "name": "Paul Gauguin",
+      "bday": "1848-06-07",
+      "place": "Paris, France"
+    },
+    {
+      "name": "Wassily Kandinsky",
+      "bday": "1866-12-16",
+      "place": "Moscow, Russia"
+    },
+    {
+      "name": "Bob Ross",
+      "bday": "1942-10-29",
+      "place": "Daytona Beach, Florida, USA"
+    }
+  ],
+  "Statesman/Leader": [
+    {
+      "name": "Winston Churchill",
+      "bday": "1874-11-30",
+      "place": "Blenheim Palace, Oxfordshire, England, UK"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "bday": "1809-02-12",
+      "place": "Hodgenville, Kentucky, USA"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "bday": "1869-10-02",
+      "place": "Porbandar, Gujarat, India"
+    },
+    {
+      "name": "Nelson Mandela",
+      "bday": "1918-07-18",
+      "place": "Mvezo, South Africa"
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "bday": "1769-08-15",
+      "place": "Ajaccio, Corsica, France"
+    },
+    {
+      "name": "George Washington",
+      "bday": "1732-02-22",
+      "place": "Westmoreland County, Virginia, USA"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "bday": "1882-01-30",
+      "place": "Hyde Park, New York, USA"
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "bday": "1858-10-27",
+      "place": "New York City, New York, USA"
+    },
+    {
+      "name": "Margaret Thatcher",
+      "bday": "1925-10-13",
+      "place": "Grantham, Lincolnshire, England, UK"
+    },
+    {
+      "name": "Lee Kuan Yew",
+      "bday": "1923-09-16",
+      "place": "Singapore"
+    },
+    {
+      "name": "Jawaharlal Nehru",
+      "bday": "1889-11-14",
+      "place": "Allahabad, Uttar Pradesh, India"
+    },
+    {
+      "name": "Mikhail Gorbachev",
+      "bday": "1931-03-02",
+      "place": "Privolnoye, Russian SFSR, Soviet Union"
+    }
+  ],
+  "Philosopher": [
+    {
+      "name": "Immanuel Kant",
+      "bday": "1724-04-22",
+      "place": "K\u00f6nigsberg, Prussia"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "bday": "1844-10-15",
+      "place": "R\u00f6cken, Prussia, Germany"
+    },
+    {
+      "name": "Karl Marx",
+      "bday": "1818-05-05",
+      "place": "Trier, Kingdom of Prussia"
+    },
+    {
+      "name": "Jean-Paul Sartre",
+      "bday": "1905-06-21",
+      "place": "Paris, France"
+    },
+    {
+      "name": "Voltaire",
+      "bday": "1694-11-21",
+      "place": "Paris, France"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "bday": "1712-06-28",
+      "place": "Geneva, Switzerland"
+    },
+    {
+      "name": "John Locke",
+      "bday": "1632-08-29",
+      "place": "Wrington, Somerset, England, UK"
+    },
+    {
+      "name": "David Hume",
+      "bday": "1711-05-07",
+      "place": "Edinburgh, Scotland, UK"
+    },
+    {
+      "name": "Arthur Schopenhauer",
+      "bday": "1788-02-22",
+      "place": "Danzig, Polish-Lithuanian Commonwealth"
+    },
+    {
+      "name": "Baruch Spinoza",
+      "bday": "1632-11-24",
+      "place": "Amsterdam, Netherlands"
+    },
+    {
+      "name": "S\u00f8ren Kierkegaard",
+      "bday": "1813-05-05",
+      "place": "Copenhagen, Denmark"
+    },
+    {
+      "name": "Hannah Arendt",
+      "bday": "1906-10-14",
+      "place": "Linden, Hanover, Germany"
+    },
+    {
+      "name": "Michel Foucault",
+      "bday": "1926-10-15",
+      "place": "Poitiers, France"
+    },
+    {
+      "name": "Bertrand Russell",
+      "bday": "1872-05-18",
+      "place": "Trellech, Monmouthshire, Wales, UK"
+    },
+    {
+      "name": "Ludwig Wittgenstein",
+      "bday": "1889-04-26",
+      "place": "Vienna, Austria"
+    },
+    {
+      "name": "Noam Chomsky",
+      "bday": "1928-12-07",
+      "place": "Philadelphia, Pennsylvania, USA"
+    }
+  ],
+  "Architect": [
+    {
+      "name": "Frank Lloyd Wright",
+      "bday": "1867-06-08",
+      "place": "Richland Center, Wisconsin, USA"
+    },
+    {
+      "name": "Antoni Gaud\u00ed",
+      "bday": "1852-06-25",
+      "place": "Reus, Catalonia, Spain"
+    },
+    {
+      "name": "Zaha Hadid",
+      "bday": "1950-10-31",
+      "place": "Baghdad, Iraq"
+    },
+    {
+      "name": "Le Corbusier",
+      "bday": "1887-10-06",
+      "place": "La Chaux-de-Fonds, Switzerland"
+    },
+    {
+      "name": "Oscar Niemeyer",
+      "bday": "1907-12-15",
+      "place": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "I. M. Pei",
+      "bday": "1917-04-26",
+      "place": "Guangzhou, Guangdong, China"
+    },
+    {
+      "name": "Frank Gehry",
+      "bday": "1929-02-28",
+      "place": "Toronto, Ontario, Canada"
+    },
+    {
+      "name": "Norman Foster",
+      "bday": "1935-06-01",
+      "place": "Reddish, Stockport, England, UK"
+    },
+    {
+      "name": "Renzo Piano",
+      "bday": "1937-09-14",
+      "place": "Genoa, Italy"
+    }
+  ],
+  "Astronaut": [
+    {
+      "name": "Yuri Gagarin",
+      "bday": "1934-03-09",
+      "place": "Klushino, Russian SFSR, Soviet Union"
+    },
+    {
+      "name": "Neil Armstrong",
+      "bday": "1930-08-05",
+      "place": "Wapakoneta, Ohio, USA"
+    },
+    {
+      "name": "Buzz Aldrin",
+      "bday": "1930-01-20",
+      "place": "Glen Ridge, New Jersey, USA"
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "bday": "1937-03-06",
+      "place": "Bolshoye Maslennikovo, Soviet Union"
+    },
+    {
+      "name": "John Glenn",
+      "bday": "1921-07-18",
+      "place": "Cambridge, Ohio, USA"
+    },
+    {
+      "name": "Sally Ride",
+      "bday": "1951-05-26",
+      "place": "Los Angeles, California, USA"
+    },
+    {
+      "name": "Chris Hadfield",
+      "bday": "1959-08-29",
+      "place": "Sarnia, Ontario, Canada"
+    },
+    {
+      "name": "Mae Jemison",
+      "bday": "1956-10-17",
+      "place": "Decatur, Alabama, USA"
+    }
+  ],
+  "Film Director": [
+    {
+      "name": "Alfred Hitchcock",
+      "bday": "1899-08-13",
+      "place": "Leytonstone, London, England, UK"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "bday": "1928-07-26",
+      "place": "New York City, New York, USA"
+    },
+    {
+      "name": "Steven Spielberg",
+      "bday": "1946-12-18",
+      "place": "Cincinnati, Ohio, USA"
+    },
+    {
+      "name": "Martin Scorsese",
+      "bday": "1942-11-17",
+      "place": "Queens, New York, USA"
+    },
+    {
+      "name": "Akira Kurosawa",
+      "bday": "1910-03-23",
+      "place": "Shinagawa, Tokyo, Japan"
+    },
+    {
+      "name": "Federico Fellini",
+      "bday": "1920-01-20",
+      "place": "Rimini, Italy"
+    },
+    {
+      "name": "Ingmar Bergman",
+      "bday": "1918-07-14",
+      "place": "Uppsala, Sweden"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "bday": "1963-03-27",
+      "place": "Knoxville, Tennessee, USA"
+    },
+    {
+      "name": "Christopher Nolan",
+      "bday": "1970-07-30",
+      "place": "London, England, UK"
+    },
+    {
+      "name": "David Lynch",
+      "bday": "1946-01-20",
+      "place": "Missoula, Montana, USA"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "bday": "1939-04-07",
+      "place": "Detroit, Michigan, USA"
+    },
+    {
+      "name": "Orson Welles",
+      "bday": "1915-05-06",
+      "place": "Kenosha, Wisconsin, USA"
+    },
+    {
+      "name": "James Cameron",
+      "bday": "1954-08-16",
+      "place": "Kapuskasing, Ontario, Canada"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "bday": "1941-01-05",
+      "place": "Bunkyo, Tokyo, Japan"
+    },
+    {
+      "name": "Charlie Chaplin",
+      "bday": "1889-04-16",
+      "place": "Walworth, London, England, UK"
+    }
+  ]
+}

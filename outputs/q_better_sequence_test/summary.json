@@ -1,0 +1,100 @@
+{
+  "events": {
+    "n": 161,
+    "pre_ingress_180d": 9,
+    "natal_sign_phase": 15,
+    "exact_return_3deg": 4,
+    "post_sign_180d": 2,
+    "outside_window": 131
+  },
+  "controls": {
+    "n": 2980,
+    "pre_ingress_180d": 84,
+    "natal_sign_phase": 210,
+    "exact_return_3deg": 42,
+    "post_sign_180d": 81,
+    "outside_window": 2563
+  },
+  "by_event_type": {
+    "death": {
+      "events": {
+        "n": 134,
+        "pre_ingress_180d": 8,
+        "natal_sign_phase": 13,
+        "exact_return_3deg": 4,
+        "post_sign_180d": 2,
+        "outside_window": 107
+      },
+      "controls": {
+        "n": 2580,
+        "pre_ingress_180d": 78,
+        "natal_sign_phase": 194,
+        "exact_return_3deg": 41,
+        "post_sign_180d": 77,
+        "outside_window": 2190
+      }
+    },
+    "debut_or_career_start": {
+      "events": {
+        "n": 20,
+        "pre_ingress_180d": 1,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 18
+      },
+      "controls": {
+        "n": 260,
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 2,
+        "exact_return_3deg": 1,
+        "post_sign_180d": 1,
+        "outside_window": 256
+      }
+    },
+    "incarceration_or_conviction_candidate": {
+      "events": {
+        "n": 1,
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 0,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 1
+      },
+      "controls": {
+        "n": 20,
+        "pre_ingress_180d": 2,
+        "natal_sign_phase": 4,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 14
+      }
+    },
+    "marriage_or_spouse_date_candidate": {
+      "events": {
+        "n": 6,
+        "pre_ingress_180d": 0,
+        "natal_sign_phase": 1,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 0,
+        "outside_window": 5
+      },
+      "controls": {
+        "n": 120,
+        "pre_ingress_180d": 4,
+        "natal_sign_phase": 10,
+        "exact_return_3deg": 0,
+        "post_sign_180d": 3,
+        "outside_window": 103
+      }
+    }
+  },
+  "design": "within-person same-calendar-month controls, up to 20 per candidate event",
+  "limitations": [
+    "Candidate dates are not fully verified",
+    "Year/month midpoint dates may be imprecise",
+    "No verified Q wealth/success/failure labels",
+    "Phase scanning is date-only and uses sign not houses",
+    "Observational association, not causation"
+  ]
+}

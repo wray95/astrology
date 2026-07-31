@@ -1,0 +1,1017 @@
+{
+  "shrinkhala": [],
+  "nbry": [
+    {
+      "name": "Paul Graham",
+      "source": "Domain10",
+      "planet": "Venus",
+      "conditions": 6,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C4:exlord-aspects-7th, C4:exlord-aspects-special"
+    },
+    {
+      "name": "Usain Bolt",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 6,
+      "detail": "C1:deblord-kendra-lagna, C4:exlord-aspects-7th, C4:exlord-aspects-special, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Zinedine Zidane",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 5,
+      "detail": "C2:deblord-kendra-moon, C5:debplanet-kendra-lagna, C7:jupiter-7th-aspect, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Mary Barra",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 5,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Shane Warne",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 5,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Muhammad Ali",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 5,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Virat Kohli",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 5,
+      "detail": "C4:exlord-aspects-7th, C4:exlord-aspects-special, C5:debplanet-kendra-lagna, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Tiger Woods",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 5,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Christopher Nolan",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 5,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C4:exlord-aspects-special, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Sundar Pichai",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 5,
+      "detail": "C2:deblord-kendra-moon, C5:debplanet-kendra-lagna, C7:jupiter-7th-aspect, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Wasim Akram",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 5,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C4:exlord-aspects-7th, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "P9 Lalith Uncle",
+      "source": "P1-P9",
+      "planet": "Saturn",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-7th-Mercury"
+    },
+    {
+      "name": "P8 Lakshi Amma",
+      "source": "P1-P9",
+      "planet": "Sun",
+      "conditions": 4,
+      "detail": "C6:debplanet-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect, C8:friend-conj-Moon"
+    },
+    {
+      "name": "Carl Sagan",
+      "source": "Domain10",
+      "planet": "Moon",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C5:debplanet-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Sam Bankman-Fried",
+      "source": "Domain10",
+      "planet": "Mercury",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Beyonce",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C4:exlord-aspects-special, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Beyonce",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-conj-Mercury"
+    },
+    {
+      "name": "Albert Einstein",
+      "source": "Celeb112",
+      "planet": "Mercury",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-conj-Sun"
+    },
+    {
+      "name": "Ronaldo",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon, C8:friend-conj-Mercury"
+    },
+    {
+      "name": "Tom Cruise",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Sheryl Sandberg",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect, C8:friend-7th-Mercury"
+    },
+    {
+      "name": "Warren Buffett",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Warren Buffett",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-conj-Mercury"
+    },
+    {
+      "name": "Donald Trump",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C5:debplanet-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Ringo Starr",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C4:exlord-aspects-special, C6:debplanet-kendra-moon, C8:friend-conj-Moon"
+    },
+    {
+      "name": "Martina Navratilova",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 4,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C4:exlord-aspects-special, C8:friend-7th-Moon"
+    },
+    {
+      "name": "Brian Lara",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 4,
+      "detail": "C5:debplanet-kendra-lagna, C6:debplanet-kendra-moon, C7:jupiter-7th-aspect, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Anne Frank",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 4,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C4:exlord-aspects-7th, C4:exlord-aspects-special"
+    },
+    {
+      "name": "Adolf Eichmann",
+      "source": "Bench12",
+      "planet": "Mercury",
+      "conditions": 3,
+      "detail": "C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-conj-Sun"
+    },
+    {
+      "name": "Abel Gance",
+      "source": "Bench12",
+      "planet": "Sun",
+      "conditions": 3,
+      "detail": "C5:debplanet-kendra-lagna, C6:debplanet-kendra-moon, C8:friend-conj-Moon"
+    },
+    {
+      "name": "Abel Gance",
+      "source": "Bench12",
+      "planet": "Venus",
+      "conditions": 3,
+      "detail": "C4:exlord-aspects-special, C7:jupiter-special-aspect, C8:friend-conj-Mercury"
+    },
+    {
+      "name": "Bill Gates",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C5:debplanet-kendra-lagna, C8:friend-7th-Moon"
+    },
+    {
+      "name": "Albert Einstein",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 3,
+      "detail": "C3:exlord-kendra-lagna, C6:debplanet-kendra-moon, C7:jupiter-special-aspect"
+    },
+    {
+      "name": "Bob Dylan",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Kobe Bryant",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Serena Williams",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C4:exlord-aspects-special"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 3,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Henry Ford",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C8:friend-conj-Saturn"
+    },
+    {
+      "name": "Tim Cook",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C4:exlord-aspects-special, C8:friend-7th-Moon"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon, C8:friend-conj-Sun"
+    },
+    {
+      "name": "Will Smith",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 3,
+      "detail": "C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Jack Ma",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 3,
+      "detail": "C2:deblord-kendra-moon, C4:exlord-aspects-7th, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Diego Maradona",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 3,
+      "detail": "C2:deblord-kendra-moon, C4:exlord-aspects-special, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Ringo Starr",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 3,
+      "detail": "C2:deblord-kendra-moon, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Helen Keller",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon, C4:exlord-aspects-special"
+    },
+    {
+      "name": "Paul McCartney",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 3,
+      "detail": "C2:deblord-kendra-moon, C6:debplanet-kendra-moon, C8:friend-conj-Moon"
+    },
+    {
+      "name": "Viv Richards",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 3,
+      "detail": "C1:deblord-kendra-lagna, C3:exlord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "P6 Dewli",
+      "source": "P1-P9",
+      "planet": "Moon",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Carl Sagan",
+      "source": "Domain10",
+      "planet": "Sun",
+      "conditions": 2,
+      "detail": "C3:exlord-kendra-lagna, C8:friend-conj-Jupiter"
+    },
+    {
+      "name": "Zinedine Zidane",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Oprah Winfrey",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 2,
+      "detail": "C2:deblord-kendra-moon, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Michael Phelps",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 2,
+      "detail": "C2:deblord-kendra-moon, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Larry Page",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 2,
+      "detail": "C3:exlord-kendra-lagna, C8:friend-conj-Mars"
+    },
+    {
+      "name": "Dwight D. Eisenhower",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "John Lennon",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon"
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 2,
+      "detail": "C2:deblord-kendra-moon, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Ronald Reagan",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Gianluigi Buffon",
+      "source": "Celeb112",
+      "planet": "Mars",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C2:deblord-kendra-moon"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "source": "Celeb112",
+      "planet": "Mercury",
+      "conditions": 2,
+      "detail": "C2:deblord-kendra-moon, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Pele",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 2,
+      "detail": "C3:exlord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Pele",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 2,
+      "detail": "C1:deblord-kendra-lagna, C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "James Cameron",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 2,
+      "detail": "C3:exlord-kendra-lagna, C5:debplanet-kendra-lagna"
+    },
+    {
+      "name": "Meryl Streep",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 2,
+      "detail": "C6:debplanet-kendra-moon, C8:friend-7th-Sun"
+    },
+    {
+      "name": "P4 Niromi",
+      "source": "P1-P9",
+      "planet": "Mercury",
+      "conditions": 1,
+      "detail": "C2:deblord-kendra-moon"
+    },
+    {
+      "name": "P2 Upulakshi",
+      "source": "P1-P9",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "P7 Sineth",
+      "source": "P1-P9",
+      "planet": "Mercury",
+      "conditions": 1,
+      "detail": "C8:friend-conj-Sun"
+    },
+    {
+      "name": "Richard Dawkins",
+      "source": "Domain10",
+      "planet": "Saturn",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Paul Graham",
+      "source": "Domain10",
+      "planet": "Sun",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Abigail Johnson",
+      "source": "Bench12",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Marie Curie",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 1,
+      "detail": "C2:deblord-kendra-moon"
+    },
+    {
+      "name": "A.P.J. Abdul Kalam",
+      "source": "Celeb112",
+      "planet": "Moon",
+      "conditions": 1,
+      "detail": "C6:debplanet-kendra-moon"
+    },
+    {
+      "name": "Joseph Stalin",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C2:deblord-kendra-moon"
+    },
+    {
+      "name": "Niromi",
+      "source": "Celeb112",
+      "planet": "Mercury",
+      "conditions": 1,
+      "detail": "C2:deblord-kendra-moon"
+    },
+    {
+      "name": "Michael Phelps",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C8:friend-7th-Sun"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "source": "Celeb112",
+      "planet": "Mercury",
+      "conditions": 1,
+      "detail": "C8:friend-conj-Sun"
+    },
+    {
+      "name": "Virat Kohli",
+      "source": "Celeb112",
+      "planet": "Venus",
+      "conditions": 1,
+      "detail": "C1:deblord-kendra-lagna"
+    },
+    {
+      "name": "Morgan Freeman",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Susan Wojcicki",
+      "source": "Celeb112",
+      "planet": "Saturn",
+      "conditions": 1,
+      "detail": "C2:deblord-kendra-moon"
+    },
+    {
+      "name": "Barack Obama",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "source": "Celeb112",
+      "planet": "Sun",
+      "conditions": 1,
+      "detail": "C8:friend-conj-Mars"
+    },
+    {
+      "name": "Sergey Brin",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    },
+    {
+      "name": "Upulakshi",
+      "source": "Celeb112",
+      "planet": "Jupiter",
+      "conditions": 1,
+      "detail": "C3:exlord-kendra-lagna"
+    }
+  ],
+  "parivartana": [
+    {
+      "name": "P5 Senath",
+      "source": "P1-P9",
+      "exchange": "Jupiter\u2194Venus (Taurus\u2194Pisces)"
+    },
+    {
+      "name": "P1 Polgahawela Bappa",
+      "source": "P1-P9",
+      "exchange": "Mercury\u2194Venus (Taurus\u2194Gemini)"
+    },
+    {
+      "name": "P2 Upulakshi",
+      "source": "P1-P9",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "P7 Sineth",
+      "source": "P1-P9",
+      "exchange": "Mercury\u2194Jupiter (Pisces\u2194Virgo)"
+    },
+    {
+      "name": "Vinod Khosla",
+      "source": "Domain10",
+      "exchange": "Moon\u2194Jupiter (Pisces\u2194Cancer)"
+    },
+    {
+      "name": "Richard Dawkins",
+      "source": "Domain10",
+      "exchange": "Mars\u2194Saturn (Capricorn\u2194Aries)"
+    },
+    {
+      "name": "Bernard Madoff",
+      "source": "Domain10",
+      "exchange": "Jupiter\u2194Saturn (Aquarius\u2194Pisces)"
+    },
+    {
+      "name": "Noam Chomsky",
+      "source": "Domain10",
+      "exchange": "Mars\u2194Mercury (Gemini\u2194Scorpio)"
+    },
+    {
+      "name": "A. J. Cronin",
+      "source": "Bench12",
+      "exchange": "Moon\u2194Venus (Libra\u2194Cancer)"
+    },
+    {
+      "name": "Adolf Eichmann",
+      "source": "Bench12",
+      "exchange": "Jupiter\u2194Venus (Taurus\u2194Pisces)"
+    },
+    {
+      "name": "Abbe Pierre",
+      "source": "Bench12",
+      "exchange": "Sun\u2194Moon (Cancer\u2194Leo)"
+    },
+    {
+      "name": "A. J. Antoon",
+      "source": "Bench12",
+      "exchange": "Mercury\u2194Jupiter (Sagittarius\u2194Virgo)"
+    },
+    {
+      "name": "Aaron Spelling",
+      "source": "Bench12",
+      "exchange": "Jupiter\u2194Venus (Libra\u2194Pisces)"
+    },
+    {
+      "name": "Abigail Folger",
+      "source": "Bench12",
+      "exchange": "Moon\u2194Jupiter (Sagittarius\u2194Cancer)"
+    },
+    {
+      "name": "Albert Einstein",
+      "source": "Celeb112",
+      "exchange": "Jupiter\u2194Saturn (Aquarius\u2194Pisces)"
+    },
+    {
+      "name": "Zinedine Zidane",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Mars (Scorpio\u2194Cancer)"
+    },
+    {
+      "name": "Oprah Winfrey",
+      "source": "Celeb112",
+      "exchange": "Venus\u2194Saturn (Capricorn\u2194Libra)"
+    },
+    {
+      "name": "Bob Dylan",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Saturn (Aquarius\u2194Aries)"
+    },
+    {
+      "name": "Polgahawela Bappa",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Venus (Taurus\u2194Gemini)"
+    },
+    {
+      "name": "Joseph Stalin",
+      "source": "Celeb112",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "Malcolm X",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Mercury (Gemini\u2194Aries)"
+    },
+    {
+      "name": "Taylor Swift",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Jupiter (Sagittarius\u2194Gemini)"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Mars (Aries\u2194Cancer)"
+    },
+    {
+      "name": "Virat Kohli",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Venus (Libra\u2194Virgo)"
+    },
+    {
+      "name": "LeBron James",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Saturn (Aquarius\u2194Scorpio)"
+    },
+    {
+      "name": "Morgan Freeman",
+      "source": "Celeb112",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "Tom Hanks",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Saturn (Aquarius\u2194Scorpio)"
+    },
+    {
+      "name": "Jack Ma",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Venus (Libra\u2194Cancer)"
+    },
+    {
+      "name": "Indira Gandhi",
+      "source": "Celeb112",
+      "exchange": "Sun\u2194Mars (Scorpio\u2194Leo)"
+    },
+    {
+      "name": "Indira Gandhi",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Saturn (Capricorn\u2194Cancer)"
+    },
+    {
+      "name": "Indira Gandhi",
+      "source": "Celeb112",
+      "exchange": "Jupiter\u2194Venus (Taurus\u2194Sagittarius)"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Venus (Libra\u2194Aries)"
+    },
+    {
+      "name": "Tiger Woods",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Venus (Taurus\u2194Scorpio)"
+    },
+    {
+      "name": "Diego Maradona",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Mercury (Gemini\u2194Scorpio)"
+    },
+    {
+      "name": "Martina Navratilova",
+      "source": "Celeb112",
+      "exchange": "Sun\u2194Venus (Libra\u2194Leo)"
+    },
+    {
+      "name": "Martina Navratilova",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Saturn (Aquarius\u2194Scorpio)"
+    },
+    {
+      "name": "Sundar Pichai",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Mercury (Gemini\u2194Cancer)"
+    },
+    {
+      "name": "Upulakshi",
+      "source": "Celeb112",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "Mukesh Ambani",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Venus (Taurus\u2194Aries)"
+    },
+    {
+      "name": "Gianluigi Buffon",
+      "source": "Celeb112",
+      "exchange": "Sun\u2194Saturn (Capricorn\u2194Leo)"
+    },
+    {
+      "name": "Gianluigi Buffon",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Jupiter (Sagittarius\u2194Gemini)"
+    },
+    {
+      "name": "Pele",
+      "source": "Celeb112",
+      "exchange": "Sun\u2194Venus (Libra\u2194Leo)"
+    },
+    {
+      "name": "Pele",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Mercury (Virgo\u2194Scorpio)"
+    },
+    {
+      "name": "Viv Richards",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Saturn (Aquarius\u2194Virgo)"
+    },
+    {
+      "name": "Martin Scorsese",
+      "source": "Celeb112",
+      "exchange": "Moon\u2194Jupiter (Pisces\u2194Cancer)"
+    },
+    {
+      "name": "Martin Scorsese",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Venus (Libra\u2194Scorpio)"
+    },
+    {
+      "name": "Ronaldinho",
+      "source": "Celeb112",
+      "exchange": "Sun\u2194Jupiter (Pisces\u2194Leo)"
+    },
+    {
+      "name": "Bob Iger",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Saturn (Capricorn\u2194Virgo)"
+    },
+    {
+      "name": "Wasim Akram",
+      "source": "Celeb112",
+      "exchange": "Mars\u2194Venus (Taurus\u2194Aries)"
+    },
+    {
+      "name": "Meryl Streep",
+      "source": "Celeb112",
+      "exchange": "Mercury\u2194Venus (Taurus\u2194Gemini)"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Venus (Libra\u2194Aries)"
+    },
+    {
+      "name": "Bernard Arnault",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Saturn (Aquarius\u2194Leo)"
+    },
+    {
+      "name": "Mukesh Ambani",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Venus (Taurus\u2194Aries)"
+    },
+    {
+      "name": "Jensen Huang",
+      "source": "Billionaire",
+      "exchange": "Moon\u2194Mars (Scorpio\u2194Cancer)"
+    },
+    {
+      "name": "Phil Knight",
+      "source": "Billionaire",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "Richard Branson",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Moon (Cancer\u2194Leo)"
+    },
+    {
+      "name": "Jack Ma",
+      "source": "Billionaire",
+      "exchange": "Moon\u2194Venus (Libra\u2194Cancer)"
+    },
+    {
+      "name": "Tadashi Yanai",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Saturn (Capricorn\u2194Leo)"
+    },
+    {
+      "name": "Dieter Schwarz",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Saturn (Capricorn\u2194Aries)"
+    },
+    {
+      "name": "Klaus-Michael Kuehne",
+      "source": "Billionaire",
+      "exchange": "Jupiter\u2194Saturn (Capricorn\u2194Pisces)"
+    },
+    {
+      "name": "Gerard Wertheimer",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Mars (Aries\u2194Leo)"
+    },
+    {
+      "name": "Giovanni Ferrero",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Mercury (Virgo\u2194Leo)"
+    },
+    {
+      "name": "James Ratcliffe",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Jupiter (Sagittarius\u2194Aries)"
+    },
+    {
+      "name": "Carl Icahn",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Jupiter (Pisces\u2194Scorpio)"
+    },
+    {
+      "name": "Ben Horowitz",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Venus (Taurus\u2194Aries)"
+    },
+    {
+      "name": "Vinod Khosla",
+      "source": "Billionaire",
+      "exchange": "Moon\u2194Jupiter (Pisces\u2194Cancer)"
+    },
+    {
+      "name": "Eduardo Saverin",
+      "source": "Billionaire",
+      "exchange": "Mercury\u2194Saturn (Aquarius\u2194Virgo)"
+    },
+    {
+      "name": "Whitney Wolfe Herd",
+      "source": "Billionaire",
+      "exchange": "Moon\u2194Venus (Taurus\u2194Cancer)"
+    },
+    {
+      "name": "Andy Jassy",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Jupiter (Sagittarius\u2194Leo)"
+    },
+    {
+      "name": "Lisa Su",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Saturn (Capricorn\u2194Aries)"
+    },
+    {
+      "name": "Ginni Rometty",
+      "source": "Billionaire",
+      "exchange": "Sun\u2194Moon (Cancer\u2194Leo)"
+    },
+    {
+      "name": "Kunal Bahl",
+      "source": "Billionaire",
+      "exchange": "Mercury\u2194Venus (Libra\u2194Virgo)"
+    },
+    {
+      "name": "Deepinder Goyal",
+      "source": "Billionaire",
+      "exchange": "Venus\u2194Saturn (Aquarius\u2194Libra)"
+    },
+    {
+      "name": "Kalyan Krishnamurthy",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Jupiter (Pisces\u2194Scorpio)"
+    },
+    {
+      "name": "Kalyan Krishnamurthy",
+      "source": "Billionaire",
+      "exchange": "Venus\u2194Saturn (Capricorn\u2194Taurus)"
+    },
+    {
+      "name": "Sachin Bansal",
+      "source": "Billionaire",
+      "exchange": "Moon\u2194Mercury (Virgo\u2194Cancer)"
+    },
+    {
+      "name": "Binny Bansal",
+      "source": "Billionaire",
+      "exchange": "Mars\u2194Venus (Libra\u2194Scorpio)"
+    },
+    {
+      "name": "Radhakishan Damani",
+      "source": "Billionaire",
+      "exchange": "Jupiter\u2194Venus (Taurus\u2194Pisces)"
+    }
+  ],
+  "source_stats": {
+    "P1-P9": {
+      "total": 9,
+      "shrinkhala": 0,
+      "nbry": 6,
+      "parivartana": 4
+    },
+    "Domain10": {
+      "total": 10,
+      "shrinkhala": 0,
+      "nbry": 6,
+      "parivartana": 4
+    },
+    "Bench12": {
+      "total": 12,
+      "shrinkhala": 0,
+      "nbry": 4,
+      "parivartana": 6
+    },
+    "Celeb112": {
+      "total": 111,
+      "shrinkhala": 0,
+      "nbry": 68,
+      "parivartana": 36
+    },
+    "Billionaire": {
+      "total": 99,
+      "shrinkhala": 0,
+      "nbry": 0,
+      "parivartana": 28
+    }
+  }
+}

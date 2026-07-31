@@ -1,0 +1,6 @@
+{
+  "method": "Exploratory association of occupation keyword groups with birth-date midpoint planetary sign",
+  "caution": "This is not a transit/event test; occupation is source-coded and may be biased. No causal inference. Multiple testing controlled by Benjamini-Hochberg FDR.",
+  "people": 5010,
+  "occupied_records": 4858
+}

@@ -1,0 +1,26 @@
+{
+  "4_planet": {
+    "total": 10000,
+    "found": 0,
+    "percent": 0.0,
+    "avg_strength": 0,
+    "avg_score": 0,
+    "avg_gap": 0
+  },
+  "5_planet": {
+    "total": 10000,
+    "found": 0,
+    "percent": 0.0,
+    "avg_strength": 0,
+    "avg_score": 0,
+    "avg_gap": 0
+  },
+  "7_planet": {
+    "total": 10000,
+    "found": 40,
+    "percent": 0.4,
+    "avg_strength": 2.25,
+    "avg_score": 43.39,
+    "avg_gap": 58.65
+  }
+}

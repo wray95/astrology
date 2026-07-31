@@ -1,0 +1,11 @@
+name,event_date,event_type,event_description,ruling_mahadasha,ruling_antardasha,source_url,source_type,saturn_sign,saturn_degree,saturn_longitude,saturn_speed_deg_day,saturn_retrograde_midpoint,saturn_retrograde_stable_for_utc_day,saturn_sign_stable_for_utc_day
+Indira Gandhi,1966-01-24,career_peak,Elected Prime Minister of India,Jupiter,Saturn,https://en.wikipedia.org/wiki/Indira_Gandhi,wikipedia,Aquarius,20.31106749,320.31106749,0.10336771,False,True,True
+Indira Gandhi,1971-12-16,military_victory,Bangladesh Liberation War victory,Saturn,Ketu,https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971,wikipedia,Taurus,7.05703491,37.05703491,-0.0724108,True,True,True
+Indira Gandhi,1975-06-25,political_crisis,Declared National Emergency,Saturn,Sun,https://en.wikipedia.org/wiki/The_Emergency_(India),wikipedia,Gemini,25.51358124,85.51358124,0.1261991,False,True,True
+Indira Gandhi,1977-03-24,electoral_defeat,Lost general election,Saturn,Moon,https://en.wikipedia.org/wiki/1977_Indian_general_election,wikipedia,Cancer,15.8097744,105.8097744,-0.03159207,True,True,True
+Indira Gandhi,1980-01-14,comeback,Re-elected Prime Minister,Saturn,Rahu,https://en.wikipedia.org/wiki/1980_Indian_general_election,wikipedia,Virgo,2.50797035,152.50797035,-0.01380691,True,True,True
+Indira Gandhi,1984-10-31,death,Assassinated by bodyguards,Saturn,Saturn,https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi,wikipedia,Libra,23.25800629,203.25800629,0.11863394,False,True,True
+Oprah Winfrey,1986-09-08,career_breakthrough,The Oprah Winfrey Show goes national,Ketu,Mercury,https://en.wikipedia.org/wiki/The_Oprah_Winfrey_Show,wikipedia,Scorpio,9.34432158,219.34432158,0.05065552,False,True,True
+Oprah Winfrey,1988-06-01,business_milestone,Gained full ownership of Harpo,Venus,Ketu,https://en.wikipedia.org/wiki/Harpo_Productions,wikipedia,Sagittarius,6.02994432,246.02994432,-0.06728352,True,True,True
+Oprah Winfrey,2011-05-25,career_closure,Final episode of Oprah Show,Sun,Jupiter,https://en.wikipedia.org/wiki/The_Oprah_Winfrey_Show,wikipedia,Virgo,15.83027786,165.83027786,-0.03076328,True,True,True
+Oprah Winfrey,2018-01-09,recognition,Golden Globes Cecil B DeMille speech,Moon,Rahu,https://en.wikipedia.org/wiki/Oprah_Winfrey,wikipedia,Sagittarius,7.38786417,247.38786417,0.11476717,False,True,True

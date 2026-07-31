@@ -1,0 +1,950 @@
+[
+  {
+    "id": "P5",
+    "name": "Senath",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Venus",
+        "score": 115,
+        "dignity": "EXALTED",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 7,
+        "nakshatra": "Revati",
+        "archetype": "Aesthetics/Arts/Wealth",
+        "domain": "Creative & Media"
+      },
+      {
+        "rank": 2,
+        "planet": "Sun",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Aries",
+        "modality": "Fire",
+        "house": 8,
+        "nakshatra": "Krittika",
+        "archetype": "Power/Authority",
+        "domain": "Executive & Leadership"
+      },
+      {
+        "rank": 3,
+        "planet": "Mars",
+        "score": 5,
+        "dignity": "neutral",
+        "sign": "Sagittarius",
+        "modality": "Fire",
+        "house": 4,
+        "nakshatra": "Mula",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      }
+    ],
+    "dominant_archetype": "Aesthetics/Arts/Wealth",
+    "dominant_domain": "Creative & Media",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Venus(L2 in H7)",
+          "Moon(L11 in H5)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Jupiter(L7 in H9)",
+          "Mercury(L10 in H9)"
+        ],
+        "strength": "Strong"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 1,
+      "mahapurusha_list": [
+        "Malavya(Venus H7)"
+      ],
+      "mp_multiplier": 4.0,
+      "has_shrinkhala": true,
+      "shrinkhala_count": 2,
+      "shrinkhala_multiplier": 2.0,
+      "d10_10l_house": 7,
+      "d10_10l_multiplier": 2.5,
+      "d9_venus": "Sagittarius",
+      "d9_venus_multiplier": 0,
+      "raja_count": 3,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 11.5,
+    "predicted_industries": [
+      "Film",
+      "Entertainment",
+      "Music"
+    ],
+    "wealth_mechanisms": [
+      [
+        "Capital Accumulation & Scale",
+        3.0
+      ],
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ],
+      [
+        "Institutional / Earned Wealth",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P9",
+    "name": "Lalith Uncle",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Mercury",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Virgo",
+        "modality": "Earth",
+        "house": 6,
+        "nakshatra": "Uttara Phalguni",
+        "archetype": "Logic/Data/Commerce",
+        "domain": "Systems & Analytics"
+      },
+      {
+        "rank": 2,
+        "planet": "Saturn",
+        "score": 105,
+        "dignity": "DEBIL",
+        "sign": "Aries",
+        "modality": "Fire",
+        "house": 1,
+        "nakshatra": "Krittika",
+        "archetype": "Institutional Control",
+        "domain": "Engineering & Governance"
+      },
+      {
+        "rank": 3,
+        "planet": "Venus",
+        "score": 87,
+        "dignity": "OWN",
+        "sign": "Libra",
+        "modality": "Air",
+        "house": 7,
+        "nakshatra": "Chitra",
+        "archetype": "Aesthetics/Arts/Wealth",
+        "domain": "Creative & Media"
+      }
+    ],
+    "dominant_archetype": "Logic/Data/Commerce",
+    "dominant_domain": "Systems & Analytics",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Venus(L2 in H7)",
+          "Saturn(L11 in H1)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Venus(L7 in H7)",
+          "Saturn(L10 in H1)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Mercury(H6)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 1,
+      "mahapurusha_list": [
+        "Malavya(Venus H7)"
+      ],
+      "mp_multiplier": 4.0,
+      "has_shrinkhala": false,
+      "shrinkhala_count": 0,
+      "shrinkhala_multiplier": 0,
+      "d10_10l_house": 11,
+      "d10_10l_multiplier": 0,
+      "d9_venus": "Libra",
+      "d9_venus_multiplier": 2.0,
+      "raja_count": 4,
+      "nbr_max_conds": 1,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 10.0,
+    "predicted_industries": [
+      "Software",
+      "AI",
+      "Data Science"
+    ],
+    "wealth_mechanisms": [
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P1",
+    "name": "Polgahawela Bappa",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Mars",
+        "score": 87,
+        "dignity": "OWN",
+        "sign": "Aries",
+        "modality": "Fire",
+        "house": 1,
+        "nakshatra": "Ashwini",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      },
+      {
+        "rank": 2,
+        "planet": "Saturn",
+        "score": 87,
+        "dignity": "OWN",
+        "sign": "Capricorn",
+        "modality": "Earth",
+        "house": 10,
+        "nakshatra": "Shravana",
+        "archetype": "Institutional Control",
+        "domain": "Engineering & Governance"
+      },
+      {
+        "rank": 3,
+        "planet": "Sun",
+        "score": 1,
+        "dignity": "neutral",
+        "sign": "Taurus",
+        "modality": "Earth",
+        "house": 2,
+        "nakshatra": "Rohini",
+        "archetype": "Power/Authority",
+        "domain": "Executive & Leadership"
+      }
+    ],
+    "dominant_archetype": "Execution/Action",
+    "dominant_domain": "Executive & Operations",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Venus(L2 in H3)",
+          "Saturn(L11 in H10)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Venus(L7 in H3)",
+          "Saturn(L10 in H10)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Media & Communication (3H-10H Nexus)",
+        "mechanism": "Expression, media, broadcasting, writing",
+        "planets": [
+          "Venus(H3)",
+          "Saturn(H10)"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Saturn(H10)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 2,
+      "mahapurusha_list": [
+        "Ruchaka(Mars H1)",
+        "Sasa(Saturn H10)"
+      ],
+      "mp_multiplier": 8.0,
+      "has_shrinkhala": true,
+      "shrinkhala_count": 2,
+      "shrinkhala_multiplier": 2.0,
+      "d10_10l_house": 8,
+      "d10_10l_multiplier": -2.5,
+      "d9_venus": "Capricorn",
+      "d9_venus_multiplier": 0,
+      "raja_count": 1,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 8.5,
+    "predicted_industries": [],
+    "wealth_mechanisms": [
+      [
+        "Capital Accumulation & Scale",
+        3.0
+      ],
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P2",
+    "name": "Upulakshi",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Moon",
+        "score": 115,
+        "dignity": "EXALTED",
+        "sign": "Taurus",
+        "modality": "Earth",
+        "house": 1,
+        "nakshatra": "Krittika",
+        "archetype": "Public Resonance",
+        "domain": "Creative & Mass Impact"
+      },
+      {
+        "rank": 2,
+        "planet": "Jupiter",
+        "score": 103,
+        "dignity": "DEBIL",
+        "sign": "Capricorn",
+        "modality": "Earth",
+        "house": 9,
+        "nakshatra": "Shravana",
+        "archetype": "Wisdom/Expansion",
+        "domain": "Healing & Advisory"
+      },
+      {
+        "rank": 3,
+        "planet": "Mercury",
+        "score": 101,
+        "dignity": "DEBIL",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 11,
+        "nakshatra": "Purva Bhadrapada",
+        "archetype": "Logic/Data/Commerce",
+        "domain": "Systems & Analytics"
+      }
+    ],
+    "dominant_archetype": "Public Resonance",
+    "dominant_domain": "Creative & Mass Impact",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Mercury(L2 in H11)",
+          "Jupiter(L11 in H9)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Mars(L7 in H5)",
+          "Saturn(L10 in H11)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Media & Communication (3H-10H Nexus)",
+        "mechanism": "Expression, media, broadcasting, writing",
+        "planets": [
+          "Sun(H10)",
+          "Venus(H10)"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Sun(H10)",
+          "Venus(H10)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 0,
+      "mahapurusha_list": [],
+      "mp_multiplier": 0.0,
+      "has_shrinkhala": true,
+      "shrinkhala_count": 2,
+      "shrinkhala_multiplier": 2.0,
+      "d10_10l_house": 7,
+      "d10_10l_multiplier": 2.5,
+      "d9_venus": "Taurus",
+      "d9_venus_multiplier": 2.0,
+      "raja_count": 2,
+      "nbr_max_conds": 1,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 8.5,
+    "predicted_industries": [],
+    "wealth_mechanisms": [
+      [
+        "Capital Accumulation & Scale",
+        3.0
+      ],
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ],
+      [
+        "Institutional / Earned Wealth",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P4",
+    "name": "Niromi",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Sun",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Aries",
+        "modality": "Fire",
+        "house": 12,
+        "nakshatra": "Ashwini",
+        "archetype": "Power/Authority",
+        "domain": "Executive & Leadership"
+      },
+      {
+        "rank": 2,
+        "planet": "Jupiter",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Cancer",
+        "modality": "Water",
+        "house": 3,
+        "nakshatra": "Punarvasu",
+        "archetype": "Wisdom/Expansion",
+        "domain": "Healing & Advisory"
+      },
+      {
+        "rank": 3,
+        "planet": "Mercury",
+        "score": 101,
+        "dignity": "DEBIL",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 11,
+        "nakshatra": "Revati",
+        "archetype": "Logic/Data/Commerce",
+        "domain": "Systems & Analytics"
+      }
+    ],
+    "dominant_archetype": "Power/Authority",
+    "dominant_domain": "Executive & Leadership",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Mercury(L2 in H11)",
+          "Jupiter(L11 in H3)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Mars(L7 in H5)",
+          "Saturn(L10 in H11)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Media & Communication (3H-10H Nexus)",
+        "mechanism": "Expression, media, broadcasting, writing",
+        "planets": [
+          "Jupiter(H3)"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Moon(H6)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 1,
+      "mahapurusha_list": [
+        "Malavya(Venus H1)"
+      ],
+      "mp_multiplier": 4.0,
+      "has_shrinkhala": false,
+      "shrinkhala_count": 0,
+      "shrinkhala_multiplier": 0,
+      "d10_10l_house": 9,
+      "d10_10l_multiplier": 0,
+      "d9_venus": "Gemini",
+      "d9_venus_multiplier": 0,
+      "raja_count": 1,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 5.0,
+    "predicted_industries": [
+      "Government",
+      "Military",
+      "Politics"
+    ],
+    "wealth_mechanisms": [
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P8",
+    "name": "Lakshi Amma",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Sun",
+        "score": 101,
+        "dignity": "DEBIL",
+        "sign": "Libra",
+        "modality": "Air",
+        "house": 11,
+        "nakshatra": "Vishakha",
+        "archetype": "Power/Authority",
+        "domain": "Executive & Leadership"
+      },
+      {
+        "rank": 2,
+        "planet": "Jupiter",
+        "score": 87,
+        "dignity": "OWN",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 4,
+        "nakshatra": "Revati",
+        "archetype": "Wisdom/Expansion",
+        "domain": "Healing & Advisory"
+      },
+      {
+        "rank": 3,
+        "planet": "Mars",
+        "score": 83,
+        "dignity": "OWN",
+        "sign": "Scorpio",
+        "modality": "Water",
+        "house": 12,
+        "nakshatra": "Jyeshtha",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      }
+    ],
+    "dominant_archetype": "Power/Authority",
+    "dominant_domain": "Executive & Leadership",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Saturn(L2 in H2)",
+          "Venus(L11 in H12)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Mercury(L7 in H12)",
+          "Mercury(L10 in H12)"
+        ],
+        "strength": "Strong"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 1,
+      "mahapurusha_list": [
+        "Hamsa(Jupiter H4)"
+      ],
+      "mp_multiplier": 4.0,
+      "has_shrinkhala": false,
+      "shrinkhala_count": 0,
+      "shrinkhala_multiplier": 0,
+      "d10_10l_house": 9,
+      "d10_10l_multiplier": 0,
+      "d9_venus": "Sagittarius",
+      "d9_venus_multiplier": 0,
+      "raja_count": 1,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 5.0,
+    "predicted_industries": [
+      "Government",
+      "Military",
+      "Politics"
+    ],
+    "wealth_mechanisms": [
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P7",
+    "name": "Sineth",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Mars",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Capricorn",
+        "modality": "Earth",
+        "house": 6,
+        "nakshatra": "Shravana",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      },
+      {
+        "rank": 2,
+        "planet": "Venus",
+        "score": 111,
+        "dignity": "EXALTED",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 8,
+        "nakshatra": "Revati",
+        "archetype": "Aesthetics/Arts/Wealth",
+        "domain": "Creative & Media"
+      },
+      {
+        "rank": 3,
+        "planet": "Mercury",
+        "score": 101,
+        "dignity": "DEBIL",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 8,
+        "nakshatra": "Uttara Bhadrapada",
+        "archetype": "Logic/Data/Commerce",
+        "domain": "Systems & Analytics"
+      }
+    ],
+    "dominant_archetype": "Execution/Action",
+    "dominant_domain": "Executive & Operations",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Mercury(L2 in H8)",
+          "Mercury(L11 in H8)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Saturn(L7 in H11)",
+          "Venus(L10 in H8)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Mars(H6)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 0,
+      "mahapurusha_list": [],
+      "mp_multiplier": 0.0,
+      "has_shrinkhala": true,
+      "shrinkhala_count": 2,
+      "shrinkhala_multiplier": 2.0,
+      "d10_10l_house": 2,
+      "d10_10l_multiplier": 0,
+      "d9_venus": "Capricorn",
+      "d9_venus_multiplier": 0,
+      "raja_count": 1,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 3.0,
+    "predicted_industries": [],
+    "wealth_mechanisms": [
+      [
+        "Capital Accumulation & Scale",
+        3.0
+      ],
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ],
+      [
+        "Windfalls & Asymmetric Gains",
+        2.5
+      ]
+    ]
+  },
+  {
+    "id": "P6",
+    "name": "Dewli",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Moon",
+        "score": 101,
+        "dignity": "DEBIL",
+        "sign": "Scorpio",
+        "modality": "Water",
+        "house": 2,
+        "nakshatra": "Jyeshtha",
+        "archetype": "Public Resonance",
+        "domain": "Creative & Mass Impact"
+      },
+      {
+        "rank": 2,
+        "planet": "Mars",
+        "score": 87,
+        "dignity": "OWN",
+        "sign": "Aries",
+        "modality": "Fire",
+        "house": 7,
+        "nakshatra": "Krittika",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      },
+      {
+        "rank": 3,
+        "planet": "Mercury",
+        "score": 5,
+        "dignity": "neutral",
+        "sign": "Libra",
+        "modality": "Air",
+        "house": 1,
+        "nakshatra": "Chitra",
+        "archetype": "Logic/Data/Commerce",
+        "domain": "Systems & Analytics"
+      }
+    ],
+    "dominant_archetype": "Public Resonance",
+    "dominant_domain": "Creative & Mass Impact",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Mars(L2 in H7)",
+          "Sun(L11 in H12)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Mars(L7 in H7)",
+          "Moon(L10 in H2)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Media & Communication (3H-10H Nexus)",
+        "mechanism": "Expression, media, broadcasting, writing",
+        "planets": [
+          "Saturn(H10)"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Saturn(H10)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 1,
+      "mahapurusha_list": [
+        "Ruchaka(Mars H7)"
+      ],
+      "mp_multiplier": 4.0,
+      "has_shrinkhala": false,
+      "shrinkhala_count": 0,
+      "shrinkhala_multiplier": 0,
+      "d10_10l_house": 6,
+      "d10_10l_multiplier": -2.5,
+      "d9_venus": "Leo",
+      "d9_venus_multiplier": 0,
+      "raja_count": 1,
+      "nbr_max_conds": 1,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": 2.5,
+    "predicted_industries": [],
+    "wealth_mechanisms": [
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ]
+    ]
+  },
+  {
+    "id": "P3",
+    "name": "Senith",
+    "layer1_engine": [
+      {
+        "rank": 1,
+        "planet": "Moon",
+        "score": 5,
+        "dignity": "neutral",
+        "sign": "Sagittarius",
+        "modality": "Fire",
+        "house": 10,
+        "nakshatra": "Mula",
+        "archetype": "Public Resonance",
+        "domain": "Creative & Mass Impact"
+      },
+      {
+        "rank": 2,
+        "planet": "Mars",
+        "score": 5,
+        "dignity": "neutral",
+        "sign": "Virgo",
+        "modality": "Earth",
+        "house": 7,
+        "nakshatra": "Hasta",
+        "archetype": "Execution/Action",
+        "domain": "Executive & Operations"
+      },
+      {
+        "rank": 3,
+        "planet": "Saturn",
+        "score": 5,
+        "dignity": "neutral",
+        "sign": "Pisces",
+        "modality": "Water",
+        "house": 1,
+        "nakshatra": "Purva Bhadrapada",
+        "archetype": "Institutional Control",
+        "domain": "Engineering & Governance"
+      }
+    ],
+    "dominant_archetype": "Public Resonance",
+    "dominant_domain": "Creative & Mass Impact",
+    "layer2_circuits": [
+      {
+        "circuit": "Wealth Generation (2H-11H Nexus)",
+        "mechanism": "Capital accumulation through asset-gain circuit",
+        "planets": [
+          "Mars(L2 in H7)",
+          "Saturn(L11 in H1)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Career & Public Commerce (7H-10H Nexus)",
+        "mechanism": "Public-facing career or business partnership channel",
+        "planets": [
+          "Mercury(L7 in H6)",
+          "Jupiter(L10 in H9)"
+        ],
+        "strength": "Strong"
+      },
+      {
+        "circuit": "Media & Communication (3H-10H Nexus)",
+        "mechanism": "Expression, media, broadcasting, writing",
+        "planets": [
+          "Moon(H10)"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "circuit": "Service & Operations (6H-10H Nexus)",
+        "mechanism": "Organizational execution, systems, health services",
+        "planets": [
+          "Moon(H10)",
+          "Mercury(H6)"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "layer3_multipliers": {
+      "mahapurusha_count": 0,
+      "mahapurusha_list": [],
+      "mp_multiplier": 0.0,
+      "has_shrinkhala": true,
+      "shrinkhala_count": 5,
+      "shrinkhala_multiplier": 2.0,
+      "d10_10l_house": 12,
+      "d10_10l_multiplier": -2.5,
+      "d9_venus": "Sagittarius",
+      "d9_venus_multiplier": 0,
+      "raja_count": 0,
+      "nbr_max_conds": 0,
+      "nbry_multiplier": 0
+    },
+    "composite_wealth_score": -0.5,
+    "predicted_industries": [],
+    "wealth_mechanisms": [
+      [
+        "Capital Accumulation & Scale",
+        3.0
+      ],
+      [
+        "Entrepreneurship & Commerce",
+        2.0
+      ],
+      [
+        "Windfalls & Asymmetric Gains",
+        2.5
+      ]
+    ]
+  }
+]

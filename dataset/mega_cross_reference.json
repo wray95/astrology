@@ -1,0 +1,932 @@
+{
+  "Outlaw": [
+    {
+      "name": "Jesse James",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Frank James",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Billy the Kid",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Butch Cassidy",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Sundance Kid",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Doc Holliday",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Belle Starr",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Sam Bass",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Cole Younger",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "John Wesley Hardin",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Bonnie Parker",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Clyde Barrow",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Ma Barker",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Charles Pretty Boy Floyd",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Virgo"
+    }
+  ],
+  "Mafia": [
+    {
+      "name": "Albert Anastasia",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Dutch Schultz",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "George Bugs Moran",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Arnold Rothstein",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Frank Nitti",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "George Machine Gun Kelly",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Aquarius"
+    },
+    {
+      "name": "Tommy Lucchese",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Joseph Bonanno",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Vincent Gigante",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Carmine Galante",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Joe Masseria",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Salvatore Maranzano",
+      "moon_nak": "Ashlesha",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Raymond Patriarca",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Nicky Scarfo",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Taurus"
+    }
+  ],
+  "Serial Killer": [
+    {
+      "name": "Rodney Alcala",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Dean Corll",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Wayne Williams",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Randy Kraft",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "William Bonin",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Patrick Kearney",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Robert Hansen",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Belle Gunness",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Harold Shipman",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Fred West",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Rosemary West",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Peter Sutcliffe",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Ian Brady",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Myra Hindley",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Andrei Chikatilo",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Alexander Pichushkin",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Scorpio"
+    }
+  ],
+  "Drug Lord": [
+    {
+      "name": "Amado Carrillo Fuentes",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Miguel \u00c1ngel F\u00e9lix Gallardo",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Ernesto Fonseca Carrillo",
+      "moon_nak": "Swati",
+      "moon_sign": "Libra",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Rafael Caro Quintero",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Juan Garc\u00eda \u00c1brego",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Osiel C\u00e1rdenas Guill\u00e9n",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Nemesio Oseguera Cervantes",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Arturo Beltr\u00e1n Leyva",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Carlos Lehder",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Jorge Luis Ochoa V\u00e1squez",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Fabio Ochoa V\u00e1squez",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Libra"
+    }
+  ],
+  "Dictator": [
+    {
+      "name": "Adolf Hitler",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Heinrich Himmler",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Joseph Goebbels",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Hermann G\u00f6ring",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Reinhard Heydrich",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Adolf Eichmann",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Nicolae Ceau\u0219escu",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Enver Hoxha",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Slobodan Milo\u0161evi\u0107",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Radovan Karad\u017ei\u0107",
+      "moon_nak": "Chitra",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Ratko Mladi\u0107",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Charles Taylor",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Jean-B\u00e9del Bokassa",
+      "moon_nak": "Magha",
+      "moon_sign": "Leo",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Mengistu Haile Mariam",
+      "moon_nak": "Chitra",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Omar al-Bashir",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Muammar Gaddafi",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Robert Mugabe",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Ferdinand Marcos",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Sagittarius"
+    }
+  ],
+  "Scientist/Genius": [
+    {
+      "name": "Nikola Tesla",
+      "moon_nak": "Chitra",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Isaac Newton",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Alan Turing",
+      "moon_nak": "Chitra",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "John Nash",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Kurt G\u00f6del",
+      "moon_nak": "Ardra",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "J. Robert Oppenheimer",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Richard Feynman",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Albert Einstein",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Galileo Galilei",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Marie Curie",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Stephen Hawking",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Carl Friedrich Gauss",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Leonhard Euler",
+      "moon_nak": "Hasta",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Srinivasa Ramanujan",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Blaise Pascal",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Ren\u00e9 Descartes",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Louis Pasteur",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Alexander Fleming",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio"
+    }
+  ],
+  "Inventor/Tech": [
+    {
+      "name": "Thomas Edison",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Orville Wright",
+      "moon_nak": "Hasta",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Wilbur Wright",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Henry Ford",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Steve Jobs",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Bill Gates",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Elon Musk",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Jeff Bezos",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Libra",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Larry Page",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Sergey Brin",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Steve Wozniak",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Linus Torvalds",
+      "moon_nak": "Magha",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aquarius"
+    },
+    {
+      "name": "Tim Berners-Lee",
+      "moon_nak": "Purva Ashadha",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Sagittarius"
+    }
+  ],
+  "Investor/Tycoon": [
+    {
+      "name": "George Soros",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Warren Buffett",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Carl Icahn",
+      "moon_nak": "Anuradha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Michael Milken",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Ivan Boesky",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "John Paulson",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Jim Simons",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Ray Dalio",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Bill Ackman",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Jesse Livermore",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Aquarius"
+    },
+    {
+      "name": "Hetty Green",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "J.P. Morgan",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "John D. Rockefeller",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Aquarius"
+    },
+    {
+      "name": "Andrew Carnegie",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Taurus"
+    },
+    {
+      "name": "Cornelius Vanderbilt",
+      "moon_nak": "Krittika",
+      "moon_sign": "Aries",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Jay Gould",
+      "moon_nak": "Chitra",
+      "moon_sign": "Libra",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Jim Fisk",
+      "moon_nak": "Krittika",
+      "moon_sign": "Aries",
+      "rahu_sign": "Taurus"
+    }
+  ],
+  "Chef": [
+    {
+      "name": "Gordon Ramsay",
+      "moon_nak": "Purva Phalguni",
+      "moon_sign": "Leo",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Anthony Bourdain",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Scorpio"
+    },
+    {
+      "name": "Marco Pierre White",
+      "moon_nak": "Shravana",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Auguste Escoffier",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Libra"
+    },
+    {
+      "name": "Julia Child",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Pisces"
+    },
+    {
+      "name": "Wolfgang Puck",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Pisces"
+    }
+  ],
+  "Chess/Game Genius": [
+    {
+      "name": "Bobby Fischer",
+      "moon_nak": "Ashwini",
+      "moon_sign": "Aries",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Garry Kasparov",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Magnus Carlsen",
+      "moon_nak": "Bharani",
+      "moon_sign": "Aries",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Mikhail Tal",
+      "moon_nak": "Uttara Phalguni",
+      "moon_sign": "Virgo",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Paul Morphy",
+      "moon_nak": "Dhanishtha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Edward O. Thorp",
+      "moon_nak": "Uttara Ashadha",
+      "moon_sign": "Capricorn",
+      "rahu_sign": "Aquarius"
+    }
+  ],
+  "Bankrupt Athlete": [
+    {
+      "name": "Latrell Sprewell",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Aquarius"
+    },
+    {
+      "name": "Vince Young",
+      "moon_nak": "Ashlesha",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Warren Sapp",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Evander Holyfield",
+      "moon_nak": "Punarvasu",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Lawrence Taylor",
+      "moon_nak": "Mula",
+      "moon_sign": "Sagittarius",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Boris Becker",
+      "moon_nak": "Pushya",
+      "moon_sign": "Cancer",
+      "rahu_sign": "Aries"
+    },
+    {
+      "name": "Diego Maradona",
+      "moon_nak": "Purva Bhadrapada",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Leo"
+    }
+  ],
+  "Spy/Traitor": [
+    {
+      "name": "Aldrich Ames",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Virgo"
+    },
+    {
+      "name": "Robert Hanssen",
+      "moon_nak": "Shatabhisha",
+      "moon_sign": "Aquarius",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Jonathan Pollard",
+      "moon_nak": "Vishakha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Julius Rosenberg",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Sagittarius"
+    },
+    {
+      "name": "Ethel Rosenberg",
+      "moon_nak": "Rohini",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Capricorn"
+    },
+    {
+      "name": "Benedict Arnold",
+      "moon_nak": "Jyeshtha",
+      "moon_sign": "Scorpio",
+      "rahu_sign": "Gemini"
+    },
+    {
+      "name": "Guy Fawkes",
+      "moon_nak": "Uttara Bhadrapada",
+      "moon_sign": "Pisces",
+      "rahu_sign": "Leo"
+    },
+    {
+      "name": "Vidkun Quisling",
+      "moon_nak": "Mrigashira",
+      "moon_sign": "Gemini",
+      "rahu_sign": "Cancer"
+    },
+    {
+      "name": "Kim Philby",
+      "moon_nak": "Krittika",
+      "moon_sign": "Taurus",
+      "rahu_sign": "Aries"
+    }
+  ]
+}

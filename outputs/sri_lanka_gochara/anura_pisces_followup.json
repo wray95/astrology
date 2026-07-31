@@ -1,0 +1,39 @@
+{
+  "name": "Anura Kumara Dissanayake",
+  "birth_date": "1968-11-24",
+  "method": "Date-only UTC-noon Lahiri midpoint; no birth time",
+  "natal_saturn": {
+    "sign": "Pisces",
+    "degree": 25.92510578,
+    "midpoint_retrograde": true
+  },
+  "milestones": [
+    {
+      "date": "2024-09-21",
+      "event": "Presidential election victory",
+      "saturn_sign": "Aquarius",
+      "saturn_degree": 20.82173154,
+      "saturn_retrograde": true,
+      "interpretation": "Before Saturn entered Pisces"
+    },
+    {
+      "date": "2024-11-14",
+      "event": "NPP parliamentary supermajority",
+      "saturn_sign": "Aquarius",
+      "saturn_degree": 18.48998684,
+      "saturn_retrograde": true,
+      "interpretation": "Before Saturn entered Pisces"
+    },
+    {
+      "date": "2025-05-06",
+      "event": "NPP local-government election victory",
+      "saturn_sign": "Pisces",
+      "saturn_degree": 4.18060139,
+      "saturn_retrograde": false,
+      "interpretation": "Broad Pisces ingress; not exact natal-degree return"
+    }
+  ],
+  "first_exact_degree_return_estimate": "1997-07-05",
+  "second_exact_degree_return_estimate": "2027-04-27",
+  "conclusion": "The 2025 local-election milestone is consistent with a Pisces-ingress hypothesis, while the 2024 presidential and parliamentary victories occurred under Aquarius. The stronger exact-return claim is a future 2027 test, not a 2025 result."
+}

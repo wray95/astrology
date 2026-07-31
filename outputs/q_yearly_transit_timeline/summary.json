@@ -1,0 +1,23 @@
+{
+  "q_people": 5010,
+  "timeline_rows": 605085,
+  "year_range": "1800-2028 (birth years before 1800 truncated to 1800)",
+  "planetary_features": [
+    "year-start/end signs",
+    "sign ingresses",
+    "retrograde days",
+    "stationary proxy days"
+  ],
+  "event_rows_source": "candidate biography extractions; not verified outcomes",
+  "outcome_labels": {
+    "wealth": 0,
+    "success": 0,
+    "failure": 0,
+    "rags_to_riches": 0
+  },
+  "limitations": [
+    "Annual aggregation cannot establish exact event timing",
+    "No invented outcomes",
+    "No causality"
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "total_charts": 302,
+  "total_loops": 368,
+  "five_loop_count": 60,
+  "loop_length_distribution": {
+    "3": 144,
+    "6": 20,
+    "4": 144,
+    "5": 60
+  },
+  "rockefeller": {
+    "has_shrinkhala": true,
+    "loops": [
+      {
+        "loop": "Mars \u2192 Mercury \u2192 Mars",
+        "length": 3
+      },
+      {
+        "loop": "Mars \u2192 Mercury \u2192 Mercury",
+        "length": 3
+      }
+    ],
+    "planets": {
+      "Sun": {
+        "sign": "Gemini",
+        "dignity": 0,
+        "sidereal": 84.15
+      },
+      "Moon": {
+        "sign": "Taurus",
+        "dignity": 100,
+        "sidereal": 54.28
+      },
+      "Mars": {
+        "sign": "Virgo",
+        "dignity": 0,
+        "sidereal": 164.38
+      },
+      "Mercury": {
+        "sign": "Cancer",
+        "dignity": 0,
+        "sidereal": 96.86
+      },
+      "Jupiter": {
+        "sign": "Virgo",
+        "dignity": 0,
+        "sidereal": 168.72
+      },
+      "Venus": {
+        "sign": "Leo",
+        "dignity": 0,
+        "sidereal": 128.7
+      },
+      "Saturn": {
+        "sign": "Scorpio",
+        "dignity": 0,
+        "sidereal": 222.82
+      }
+    }
+  },
+  "group_rates": {
+    "Unknown": {
+      "n": 115,
+      "shrinkhala": 70
+    },
+    "Corporate Bankruptcy / Fraud": {
+      "n": 3,
+      "shrinkhala": 1
+    },
+    "Venture Capitalist": {
+      "n": 3,
+      "shrinkhala": 3
+    },
+    "Academic / Professor": {
+      "n": 3,
+      "shrinkhala": 2
+    },
+    "Creative/Success": {
+      "n": 5,
+      "shrinkhala": 3
+    },
+    "Billionaire": {
+      "n": 80,
+      "shrinkhala": 46
+    },
+    "Athlete": {
+      "n": 4,
+      "shrinkhala": 0
+    },
+    "Architect": {
+      "n": 13,
+      "shrinkhala": 0
+    },
+    "Tech Founder": {
+      "n": 4,
+      "shrinkhala": 0
+    },
+    "Film Director": {
+      "n": 13,
+      "shrinkhala": 0
+    },
+    "Military Commander": {
+      "n": 6,
+      "shrinkhala": 0
+    },
+    "Composer": {
+      "n": 14,
+      "shrinkhala": 0
+    },
+    "Artist": {
+      "n": 13,
+      "shrinkhala": 0
+    },
+    "Explorer": {
+      "n": 8,
+      "shrinkhala": 0
+    },
+    "Polymath/Nobel": {
+      "n": 12,
+      "shrinkhala": 0
+    }
+  },
+  "all_loops_summary": [
+    {
+      "name": "Barack Obama",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Barack Obama",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Barack Obama",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Steve Jobs",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Steve Jobs",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Steve Jobs",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Steve Jobs",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Shakira",
+      "category": "?",
+      "length": 6,
+      "strength": 100
+    },
+    {
+      "name": "Shakira",
+      "category": "?",
+      "length": 6,
+      "strength": 100
+    },
+    {
+      "name": "Shakira",
+      "category": "?",
+      "length": 6,
+      "strength": 100
+    },
+    {
+      "name": "Shakira",
+      "category": "?",
+      "length": 6,
+      "strength": 100
+    },
+    {
+      "name": "Shakira",
+      "category": "?",
+      "length": 6,
+      "strength": 100
+    },
+    {
+      "name": "George Harrison",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "George Harrison",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "George Harrison",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "George Harrison",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Brian Lara",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Brian Lara",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Brian Lara",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Benito Mussolini",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Benito Mussolini",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Benito Mussolini",
+      "category": "?",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "John D. Rockefeller",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "John D. Rockefeller",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "John D. Rockefeller",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "John D. Rockefeller",
+      "category": "?",
+      "length": 5,
+      "strength": 100
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "category": "Billionaire",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "category": "Billionaire",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "category": "Billionaire",
+      "length": 4,
+      "strength": 100
+    },
+    {
+      "name": "Senith",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Senith",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Senith",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Senith",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Senith",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "James Cameron",
+      "category": "?",
+      "length": 5,
+      "strength": 98
+    },
+    {
+      "name": "James Cameron",
+      "category": "?",
+      "length": 5,
+      "strength": 98
+    },
+    {
+      "name": "James Cameron",
+      "category": "?",
+      "length": 5,
+      "strength": 98
+    },
+    {
+      "name": "James Cameron",
+      "category": "?",
+      "length": 5,
+      "strength": 98
+    },
+    {
+      "name": "Stan Lee",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Stan Lee",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Stan Lee",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Stan Lee",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Stan Lee",
+      "category": "?",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "George Soros",
+      "category": "Billionaire",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "George Soros",
+      "category": "Billionaire",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "George Soros",
+      "category": "Billionaire",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "George Soros",
+      "category": "Billionaire",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "George Soros",
+      "category": "Billionaire",
+      "length": 6,
+      "strength": 98
+    },
+    {
+      "name": "Marc Andreessen",
+      "category": "Venture Capitalist",
+      "length": 5,
+      "strength": 96
+    },
+    {
+      "name": "Marc Andreessen",
+      "category": "Venture Capitalist",
+      "length": 5,
+      "strength": 96
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "charts_analyzed": 216,
+  "tier_a": 137,
+  "tier_b": 79,
+  "combinations_tested": 19,
+  "yoga_scorecard": {
+    "MP": {
+      "name": "Pancha Mahapurusha",
+      "count": 60,
+      "source": "BPHS Ch.37"
+    },
+    "BUDHA": {
+      "name": "Budha-Aditya Yoga",
+      "count": 64,
+      "source": "BPHS Ch.36"
+    },
+    "GAJA": {
+      "name": "Gaja-Kesari Yoga",
+      "count": 26,
+      "source": "BPHS Ch.36"
+    },
+    "RAJA": {
+      "name": "Raja Yoga (Kendra-Kona)",
+      "count": 220,
+      "source": "BPHS Ch.36"
+    },
+    "DHANA": {
+      "name": "Dhana Yoga",
+      "count": 94,
+      "source": "Phaladeepika Ch.6"
+    },
+    "NBRY": {
+      "name": "Neecha Bhanga Raja Yoga",
+      "count": 49,
+      "source": "Phaladeepika Ch.6"
+    },
+    "VRY": {
+      "name": "Vipareeta Raja Yoga",
+      "count": 113,
+      "source": "Phaladeepika Ch.7"
+    },
+    "PARIV": {
+      "name": "Parivartana Yoga",
+      "count": 48,
+      "source": "BPHS Ch.40"
+    },
+    "KEMAD": {
+      "name": "Kemadruma Yoga",
+      "count": 40,
+      "source": "BPHS Ch.36"
+    },
+    "KS": {
+      "name": "Kala Sarpa Yoga",
+      "count": 17,
+      "source": "Classical texts"
+    },
+    "GM": {
+      "name": "Graha Malika Yoga",
+      "count": 60,
+      "source": "Classical texts"
+    },
+    "DISP": {
+      "name": "Dispositor Analysis",
+      "count": 1798,
+      "source": "General principle"
+    },
+    "SUNMOON": {
+      "name": "Sun-Moon Combinations",
+      "count": 24,
+      "source": "BPHS Ch.7"
+    },
+    "BENCONJ": {
+      "name": "Benefic Conjunctions",
+      "count": 62,
+      "source": "General principle"
+    },
+    "MALCONJ": {
+      "name": "Malefic Conjunctions",
+      "count": 66,
+      "source": "General principle"
+    },
+    "WARLORD": {
+      "name": "Mars-Saturn Aspect (Strong Mars)",
+      "count": 9,
+      "source": "BPHS Ch.37"
+    },
+    "DEB": {
+      "name": "Debilitated Planets",
+      "count": 128,
+      "source": "BPHS Ch.3"
+    },
+    "EX": {
+      "name": "Exalted Planets",
+      "count": 122,
+      "source": "BPHS Ch.3"
+    },
+    "COMBUST": {
+      "name": "Combustion",
+      "count": 148,
+      "source": "BPHS Ch.7"
+    }
+  },
+  "top_20": [
+    [
+      "Dispositor Analysis",
+      1798
+    ],
+    [
+      "Raja Yoga (Kendra-Kona)",
+      220
+    ],
+    [
+      "Combustion",
+      148
+    ],
+    [
+      "Debilitated Planets",
+      128
+    ],
+    [
+      "Exalted Planets",
+      122
+    ],
+    [
+      "Vipareeta Raja Yoga",
+      113
+    ],
+    [
+      "Dhana Yoga",
+      94
+    ],
+    [
+      "Malefic Conjunctions",
+      66
+    ],
+    [
+      "Budha-Aditya Yoga",
+      64
+    ],
+    [
+      "Benefic Conjunctions",
+      62
+    ],
+    [
+      "Pancha Mahapurusha",
+      60
+    ],
+    [
+      "Graha Malika Yoga",
+      60
+    ],
+    [
+      "Neecha Bhanga Raja Yoga",
+      49
+    ],
+    [
+      "Parivartana Yoga",
+      48
+    ],
+    [
+      "Kemadruma Yoga",
+      40
+    ],
+    [
+      "Gaja-Kesari Yoga",
+      26
+    ],
+    [
+      "Sun-Moon Combinations",
+      24
+    ],
+    [
+      "Kala Sarpa Yoga",
+      17
+    ],
+    [
+      "Mars-Saturn Aspect (Strong Mars)",
+      9
+    ]
+  ]
+}

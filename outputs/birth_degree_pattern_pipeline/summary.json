@@ -1,0 +1,24 @@
+{
+  "people": 5010,
+  "classical_exaltation_definitions": {
+    "Sun": "Aries",
+    "Moon": "Taurus",
+    "Mars": "Capricorn",
+    "Mercury": "Virgo",
+    "Jupiter": "Cancer",
+    "Venus": "Pisces",
+    "Saturn": "Libra"
+  },
+  "feature_counts": {
+    "any_exalted": 2368,
+    "sign_conjunction_candidate": 3919,
+    "sign_exchange_candidate": 1887
+  },
+  "q_event_rows_available": 0,
+  "limitations": [
+    "No houses or Ascendant, so classical house-based yogas cannot be evaluated",
+    "A sign conjunction is not automatically a classical yoga",
+    "Occupation is source-coded and cohort-confounded",
+    "No Q-linked big-day events are available; event pattern testing is pending"
+  ]
+}

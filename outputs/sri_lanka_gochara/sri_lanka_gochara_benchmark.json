@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Mahinda Rajapaksa",
+    "birth_date": "1945-11-18",
+    "election_date": "2005-11-17",
+    "inauguration_date": "2005-11-19",
+    "milestone": "Elected president; inaugurated two days later",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/2005_Sri_Lankan_presidential_election"
+    ],
+    "method": "Date-only UTC-noon midpoint; Lahiri sidereal; no birth time used",
+    "birth_moon": {
+      "sign": "Aries",
+      "degree": 16.54305084,
+      "longitude": 16.54305084,
+      "nakshatra_midpoint": "Bharani",
+      "sign_stable_over_UTC_day": true,
+      "nakshatra_time_sensitive": true
+    },
+    "election_year_saturn": {
+      "sign": "Cancer",
+      "degree": 17.350925,
+      "longitude": 107.350925,
+      "retrograde": false,
+      "speed_deg_day": 0.00909869,
+      "near_station_abs_speed_lt_0.01": true,
+      "whole_sign_from_natal_moon": 4
+    },
+    "election_year_planets": {
+      "Saturn": {
+        "sign": "Cancer",
+        "degree": 17.350925,
+        "retrograde": false
+      },
+      "Mars": {
+        "sign": "Aries",
+        "degree": 17.74419597,
+        "retrograde": true
+      },
+      "Venus": {
+        "sign": "Sagittarius",
+        "degree": 17.52991114,
+        "retrograde": false
+      },
+      "Jupiter": {
+        "sign": "Libra",
+        "degree": 10.88212246,
+        "retrograde": false
+      },
+      "Rahu_mean": {
+        "sign": "Pisces",
+        "degree": 17.41358134,
+        "retrograde": true
+      },
+      "Ketu": {
+        "sign": "Virgo",
+        "degree": 17.41358134,
+        "retrograde": true
+      }
+    },
+    "interpretation_status": "Descriptive alignment only; no causal inference"
+  },
+  {
+    "name": "Gotabaya Rajapaksa",
+    "birth_date": "1949-06-20",
+    "election_date": "2019-11-16",
+    "inauguration_date": "2019-11-18",
+    "milestone": "Elected president; sworn in two days later",
+    "source_urls": [
+      "https://www.un.int/srilanka/news/new-president-sworn"
+    ],
+    "method": "Date-only UTC-noon midpoint; Lahiri sidereal; no birth time used",
+    "birth_moon": {
+      "sign": "Pisces",
+      "degree": 27.17091484,
+      "longitude": 357.17091484,
+      "nakshatra_midpoint": "Revati",
+      "sign_stable_over_UTC_day": false,
+      "nakshatra_time_sensitive": true
+    },
+    "election_year_saturn": {
+      "sign": "Sagittarius",
+      "degree": 22.49783639,
+      "longitude": 262.49783639,
+      "retrograde": false,
+      "speed_deg_day": 0.08609765,
+      "near_station_abs_speed_lt_0.01": false,
+      "whole_sign_from_natal_moon": 10
+    },
+    "election_year_planets": {
+      "Saturn": {
+        "sign": "Sagittarius",
+        "degree": 22.49783639,
+        "retrograde": false
+      },
+      "Mars": {
+        "sign": "Libra",
+        "degree": 4.01747648,
+        "retrograde": false
+      },
+      "Venus": {
+        "sign": "Scorpio",
+        "degree": 24.06145261,
+        "retrograde": false
+      },
+      "Jupiter": {
+        "sign": "Sagittarius",
+        "degree": 2.34401451,
+        "retrograde": false
+      },
+      "Rahu_mean": {
+        "sign": "Gemini",
+        "degree": 16.51848169,
+        "retrograde": true
+      },
+      "Ketu": {
+        "sign": "Sagittarius",
+        "degree": 16.51848169,
+        "retrograde": true
+      }
+    },
+    "interpretation_status": "Descriptive alignment only; no causal inference"
+  },
+  {
+    "name": "Anura Kumara Dissanayake",
+    "birth_date": "1968-11-24",
+    "election_date": "2024-09-21",
+    "inauguration_date": "2024-09-23",
+    "milestone": "Elected president; sworn in two days later; first post-independence president outside the two traditional party families",
+    "source_urls": [
+      "https://www.thehindu.com/news/international/anura-kumara-dissanayake-elected-sri-lanka-president/article68671042.ece",
+      "https://eastasiaforum.org/2024/09/28/a-political-and-policy-tightrope-awaits-sri-lanka-s-new-president/"
+    ],
+    "method": "Date-only UTC-noon midpoint; Lahiri sidereal; no birth time used",
+    "birth_moon": {
+      "sign": "Capricorn",
+      "degree": 7.15792556,
+      "longitude": 277.15792556,
+      "nakshatra_midpoint": "Uttara Ashadha",
+      "sign_stable_over_UTC_day": false,
+      "nakshatra_time_sensitive": true
+    },
+    "election_year_saturn": {
+      "sign": "Aquarius",
+      "degree": 20.82173154,
+      "longitude": 320.82173154,
+      "retrograde": true,
+      "speed_deg_day": -0.07309621,
+      "near_station_abs_speed_lt_0.01": false,
+      "whole_sign_from_natal_moon": 2
+    },
+    "election_year_planets": {
+      "Saturn": {
+        "sign": "Aquarius",
+        "degree": 20.82173154,
+        "retrograde": true
+      },
+      "Mars": {
+        "sign": "Gemini",
+        "degree": 15.50281519,
+        "retrograde": false
+      },
+      "Venus": {
+        "sign": "Libra",
+        "degree": 3.83799795,
+        "retrograde": false
+      },
+      "Jupiter": {
+        "sign": "Taurus",
+        "degree": 26.61392653,
+        "retrograde": false
+      },
+      "Rahu_mean": {
+        "sign": "Pisces",
+        "degree": 12.66966848,
+        "retrograde": true
+      },
+      "Ketu": {
+        "sign": "Virgo",
+        "degree": 12.66966848,
+        "retrograde": true
+      }
+    },
+    "interpretation_status": "Descriptive alignment only; no causal inference"
+  }
+]

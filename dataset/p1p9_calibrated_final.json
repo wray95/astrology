@@ -1,0 +1,1423 @@
+[
+  {
+    "ascendant": {
+      "sign": "Virgo",
+      "deg": 28.4937,
+      "sidereal": 178.4937
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 29.817,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.817,
+        "dignity": 100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 8
+      },
+      "Moon": {
+        "sidereal": 289.1524,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 19.1524,
+        "dignity": 0,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 5
+      },
+      "Mars": {
+        "sidereal": 245.1251,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 5.1251,
+        "dignity": 0,
+        "nakshatra": "Mula",
+        "nakshatra_lord": "Ketu",
+        "house": 4
+      },
+      "Mercury": {
+        "sidereal": 50.1499,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 20.1499,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Jupiter": {
+        "sidereal": 52.5446,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 22.5446,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 346.9762,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 16.9762,
+        "dignity": 100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 7
+      },
+      "Saturn": {
+        "sidereal": 39.0526,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 9.0526,
+        "dignity": 0,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 9
+      },
+      "Rahu": {
+        "sidereal": 74.7424,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 14.7424,
+        "dignity": 0,
+        "nakshatra": "Ardra",
+        "nakshatra_lord": "Rahu",
+        "house": 10
+      },
+      "Ketu": {
+        "sidereal": 254.7424,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 14.7424,
+        "dignity": 0,
+        "nakshatra": "Purva Ashadha",
+        "nakshatra_lord": "Venus",
+        "house": 4
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shravana",
+      "lord": "Moon",
+      "balance_yrs": 3.14
+    },
+    "birthday": "2001-05-14",
+    "birth_time": "16:08:40",
+    "tz": 5.5,
+    "name": "Senath",
+    "id": "P5",
+    "note": "",
+    "features": {
+      "mp_count": 1,
+      "mp_detail": [
+        "Malavya:Venus H7"
+      ],
+      "has_shrinkhala": true,
+      "shrinkhala_loops": [
+        [
+          "Jupiter",
+          "Venus",
+          "Jupiter"
+        ],
+        [
+          "Jupiter",
+          "Venus",
+          "Venus"
+        ]
+      ],
+      "shrinkhala_count": 2,
+      "dhana_count": 0,
+      "raja_count": 3,
+      "vry_count": 1,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 7,
+      "d10_10l_kendra": true,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Sagittarius",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 0,
+      "d60_ll_house": 2,
+      "education_score": 0,
+      "moon_nak": "Shravana",
+      "moon_billionaire": true,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 0,
+      "ll_kendra": false,
+      "h11l_dignity": 0,
+      "exalted_count": 2,
+      "debilitated_count": 0
+    },
+    "calibrated_score": 15.0,
+    "dasha": {
+      "md": "Rahu",
+      "ad": "Sun",
+      "next_md": "Jupiter",
+      "pct": 83.5
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Aries",
+      "deg": 6.785,
+      "sidereal": 6.785
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 41.8267,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 11.8267,
+        "dignity": 0,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 2
+      },
+      "Moon": {
+        "sidereal": 313.5011,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 13.5011,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Mars": {
+        "sidereal": 5.1169,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 5.1169,
+        "dignity": 75,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 1
+      },
+      "Mercury": {
+        "sidereal": 57.054,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 27.054,
+        "dignity": 0,
+        "nakshatra": "Mrigashira",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      },
+      "Jupiter": {
+        "sidereal": 317.2992,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 17.2992,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Venus": {
+        "sidereal": 71.2495,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 11.2495,
+        "dignity": 0,
+        "nakshatra": "Ardra",
+        "nakshatra_lord": "Rahu",
+        "house": 3
+      },
+      "Saturn": {
+        "sidereal": 288.0462,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 18.0462,
+        "dignity": 75,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 10
+      },
+      "Rahu": {
+        "sidereal": 108.9538,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 18.9538,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 4
+      },
+      "Ketu": {
+        "sidereal": 288.9538,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 18.9538,
+        "dignity": 0,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 10
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shatabhisha",
+      "lord": "Rahu",
+      "balance_yrs": 8.77
+    },
+    "birthday": "1962-05-27",
+    "birth_time": "03:38:54",
+    "tz": 5.5,
+    "name": "Polgahawela Bappa",
+    "id": "P1",
+    "note": "",
+    "features": {
+      "mp_count": 2,
+      "mp_detail": [
+        "Ruchaka:Mars H1",
+        "Sasa:Saturn H10"
+      ],
+      "has_shrinkhala": true,
+      "shrinkhala_loops": [
+        [
+          "Mercury",
+          "Venus",
+          "Mercury"
+        ],
+        [
+          "Mercury",
+          "Venus",
+          "Venus"
+        ]
+      ],
+      "shrinkhala_count": 2,
+      "dhana_count": 0,
+      "raja_count": 1,
+      "vry_count": 0,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 8,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": true,
+      "d9_venus": "Capricorn",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 1,
+      "d60_ll_house": 10,
+      "education_score": 0,
+      "moon_nak": "Shatabhisha",
+      "moon_billionaire": false,
+      "sun_mer_conj": true,
+      "mer_ven_conj": false,
+      "ll_dignity": 75,
+      "ll_kendra": true,
+      "h11l_dignity": 75,
+      "exalted_count": 0,
+      "debilitated_count": 0
+    },
+    "calibrated_score": 13.5,
+    "dasha": {
+      "md": "Ketu",
+      "ad": "Rahu",
+      "next_md": "Venus",
+      "pct": 48.1
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Taurus",
+      "deg": 29.0751,
+      "sidereal": 59.0751
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 329.9044,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 29.9044,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 10
+      },
+      "Moon": {
+        "sidereal": 39.3278,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 9.3278,
+        "dignity": 100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 1
+      },
+      "Mars": {
+        "sidereal": 154.1431,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 4.1431,
+        "dignity": 0,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 332.4108,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 2.4108,
+        "dignity": -100,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Jupiter": {
+        "sidereal": 287.7901,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 17.7901,
+        "dignity": -100,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 325.0315,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 25.0315,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 10
+      },
+      "Saturn": {
+        "sidereal": 344.356,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 14.356,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 155.4104,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 5.4104,
+        "dignity": 0,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 5
+      },
+      "Ketu": {
+        "sidereal": 335.4104,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 5.4104,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Krittika",
+      "lord": "Sun",
+      "balance_yrs": 0.3
+    },
+    "birthday": "1997-03-14",
+    "birth_time": "12:00:00",
+    "tz": 5.5,
+    "name": "Upulakshi",
+    "id": "P2",
+    "note": "\u26a0\ufe0f PLACEHOLDER TOB",
+    "features": {
+      "mp_count": 0,
+      "mp_detail": [],
+      "has_shrinkhala": true,
+      "shrinkhala_loops": [
+        [
+          "Jupiter",
+          "Saturn",
+          "Jupiter"
+        ],
+        [
+          "Jupiter",
+          "Saturn",
+          "Saturn"
+        ]
+      ],
+      "shrinkhala_count": 2,
+      "dhana_count": 1,
+      "raja_count": 2,
+      "vry_count": 0,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 7,
+      "d10_10l_kendra": true,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Taurus",
+      "d9_venus_strong": true,
+      "d9_venus_deb": false,
+      "vargottama": 0,
+      "d60_ll_house": 7,
+      "education_score": 2,
+      "moon_nak": "Krittika",
+      "moon_billionaire": false,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 0,
+      "ll_kendra": true,
+      "h11l_dignity": -100,
+      "exalted_count": 1,
+      "debilitated_count": 2
+    },
+    "calibrated_score": 13.0,
+    "dasha": {
+      "md": "Rahu",
+      "ad": "Venus",
+      "next_md": "Jupiter",
+      "pct": 66.9
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Aries",
+      "deg": 17.3969,
+      "sidereal": 17.3969
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 134.3949,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 14.3949,
+        "dignity": 75,
+        "nakshatra": "Purva Phalguni",
+        "nakshatra_lord": "Venus",
+        "house": 5
+      },
+      "Moon": {
+        "sidereal": 131.8708,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 11.8708,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      },
+      "Mars": {
+        "sidereal": 124.9484,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 4.9484,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 154.4696,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 4.4696,
+        "dignity": 100,
+        "nakshatra": "Uttara Phalguni",
+        "nakshatra_lord": "Sun",
+        "house": 6
+      },
+      "Jupiter": {
+        "sidereal": 188.9762,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 8.9762,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 7
+      },
+      "Venus": {
+        "sidereal": 180.5074,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 0.5074,
+        "dignity": 75,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 7
+      },
+      "Saturn": {
+        "sidereal": 29.1621,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.1621,
+        "dignity": -100,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 1
+      },
+      "Rahu": {
+        "sidereal": 308.9896,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 8.9896,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 11
+      },
+      "Ketu": {
+        "sidereal": 128.9896,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 8.9896,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 5
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Magha",
+      "lord": "Ketu",
+      "balance_yrs": 0.77
+    },
+    "birthday": "1970-08-31",
+    "birth_time": "21:55:30",
+    "tz": 5.5,
+    "name": "Lalith Uncle",
+    "id": "P9",
+    "note": "",
+    "features": {
+      "mp_count": 1,
+      "mp_detail": [
+        "Malavya:Venus H7"
+      ],
+      "has_shrinkhala": false,
+      "shrinkhala_loops": [],
+      "shrinkhala_count": 0,
+      "dhana_count": 0,
+      "raja_count": 4,
+      "vry_count": 1,
+      "nbr_max_conds": 1,
+      "nbr_total_conds": 1,
+      "d10_10l_house": 11,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Libra",
+      "d9_venus_strong": true,
+      "d9_venus_deb": false,
+      "vargottama": 2,
+      "d60_ll_house": 1,
+      "education_score": 0,
+      "moon_nak": "Magha",
+      "moon_billionaire": false,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 0,
+      "ll_kendra": false,
+      "h11l_dignity": -100,
+      "exalted_count": 1,
+      "debilitated_count": 1
+    },
+    "calibrated_score": 12.5,
+    "dasha": {
+      "md": "Rahu",
+      "ad": "Venus",
+      "next_md": "Jupiter",
+      "pct": 67.2
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Taurus",
+      "deg": 15.2952,
+      "sidereal": 45.2952
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 10.8176,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 10.8176,
+        "dignity": 100,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 12
+      },
+      "Moon": {
+        "sidereal": 199.4729,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 19.4729,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 6
+      },
+      "Mars": {
+        "sidereal": 177.7973,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 27.7973,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 5
+      },
+      "Mercury": {
+        "sidereal": 353.7328,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 23.7328,
+        "dignity": -100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 11
+      },
+      "Jupiter": {
+        "sidereal": 92.8594,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 2.8594,
+        "dignity": 100,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 3
+      },
+      "Venus": {
+        "sidereal": 49.1776,
+        "sign": "Taurus",
+        "sign_idx": 1,
+        "deg_in_sign": 19.1776,
+        "dignity": 75,
+        "nakshatra": "Rohini",
+        "nakshatra_lord": "Moon",
+        "house": 1
+      },
+      "Saturn": {
+        "sidereal": 342.9838,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 12.9838,
+        "dignity": 0,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 13.8764,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 13.8764,
+        "dignity": 0,
+        "nakshatra": "Bharani",
+        "nakshatra_lord": "Venus",
+        "house": 12
+      },
+      "Ketu": {
+        "sidereal": 193.8764,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 13.8764,
+        "dignity": 0,
+        "nakshatra": "Swati",
+        "nakshatra_lord": "Rahu",
+        "house": 6
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Swati",
+      "lord": "Rahu",
+      "balance_yrs": 0.71
+    },
+    "birthday": "1967-04-25",
+    "birth_time": "08:17:37",
+    "tz": 5.5,
+    "name": "Niromi",
+    "id": "P4",
+    "note": "",
+    "features": {
+      "mp_count": 1,
+      "mp_detail": [
+        "Malavya:Venus H1"
+      ],
+      "has_shrinkhala": false,
+      "shrinkhala_loops": [],
+      "shrinkhala_count": 0,
+      "dhana_count": 1,
+      "raja_count": 1,
+      "vry_count": 0,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 9,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Gemini",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 2,
+      "d60_ll_house": 9,
+      "education_score": 1,
+      "moon_nak": "Swati",
+      "moon_billionaire": true,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 75,
+      "ll_kendra": true,
+      "h11l_dignity": 100,
+      "exalted_count": 2,
+      "debilitated_count": 1
+    },
+    "calibrated_score": 10.5,
+    "dasha": {
+      "md": "Ketu",
+      "ad": "Mercury",
+      "next_md": "Venus",
+      "pct": 93.0
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Leo",
+      "deg": 18.1745,
+      "sidereal": 138.1745
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 351.8092,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 21.8092,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Moon": {
+        "sidereal": 307.1684,
+        "sign": "Aquarius",
+        "sign_idx": 10,
+        "deg_in_sign": 7.1684,
+        "dignity": 0,
+        "nakshatra": "Shatabhisha",
+        "nakshatra_lord": "Rahu",
+        "house": 7
+      },
+      "Mars": {
+        "sidereal": 287.4272,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 17.4272,
+        "dignity": 100,
+        "nakshatra": "Shravana",
+        "nakshatra_lord": "Moon",
+        "house": 6
+      },
+      "Mercury": {
+        "sidereal": 339.9175,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 9.9175,
+        "dignity": -100,
+        "nakshatra": "Uttara Bhadrapada",
+        "nakshatra_lord": "Saturn",
+        "house": 8
+      },
+      "Jupiter": {
+        "sidereal": 169.8088,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 19.8088,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 2
+      },
+      "Venus": {
+        "sidereal": 353.1611,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 23.1611,
+        "dignity": 100,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Saturn": {
+        "sidereal": 86.6521,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 26.6521,
+        "dignity": 0,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Rahu": {
+        "sidereal": 359.391,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 29.391,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 8
+      },
+      "Ketu": {
+        "sidereal": 179.391,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 29.391,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Shatabhisha",
+      "lord": "Rahu",
+      "balance_yrs": 17.32
+    },
+    "birthday": "2005-04-05",
+    "birth_time": "16:05:48",
+    "tz": 5.5,
+    "name": "Sineth",
+    "id": "P7",
+    "note": "\u26a0\ufe0f Lagna TBD",
+    "features": {
+      "mp_count": 0,
+      "mp_detail": [],
+      "has_shrinkhala": true,
+      "shrinkhala_loops": [
+        [
+          "Jupiter",
+          "Mercury",
+          "Mercury"
+        ],
+        [
+          "Jupiter",
+          "Mercury",
+          "Jupiter"
+        ]
+      ],
+      "shrinkhala_count": 2,
+      "dhana_count": 1,
+      "raja_count": 1,
+      "vry_count": 0,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 2,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Capricorn",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 0,
+      "d60_ll_house": 11,
+      "education_score": 0,
+      "moon_nak": "Shatabhisha",
+      "moon_billionaire": false,
+      "sun_mer_conj": true,
+      "mer_ven_conj": true,
+      "ll_dignity": 0,
+      "ll_kendra": false,
+      "h11l_dignity": -100,
+      "exalted_count": 2,
+      "debilitated_count": 1
+    },
+    "calibrated_score": 7.0,
+    "dasha": {
+      "md": "Jupiter",
+      "ad": "Saturn",
+      "next_md": "Saturn",
+      "pct": 24.7
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Sagittarius",
+      "deg": 11.3873,
+      "sidereal": 251.3873
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 209.6971,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 29.6971,
+        "dignity": -100,
+        "nakshatra": "Vishakha",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Moon": {
+        "sidereal": 208.2233,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 28.2233,
+        "dignity": 0,
+        "nakshatra": "Vishakha",
+        "nakshatra_lord": "Jupiter",
+        "house": 11
+      },
+      "Mars": {
+        "sidereal": 232.2506,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 22.2506,
+        "dignity": 75,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 12
+      },
+      "Mercury": {
+        "sidereal": 216.1578,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 6.1578,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 12
+      },
+      "Jupiter": {
+        "sidereal": 346.8221,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 16.8221,
+        "dignity": 75,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 4
+      },
+      "Venus": {
+        "sidereal": 229.8449,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 19.8449,
+        "dignity": 0,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 12
+      },
+      "Saturn": {
+        "sidereal": 293.6443,
+        "sign": "Capricorn",
+        "sign_idx": 9,
+        "deg_in_sign": 23.6443,
+        "dignity": 75,
+        "nakshatra": "Dhanishtha",
+        "nakshatra_lord": "Mars",
+        "house": 2
+      },
+      "Rahu": {
+        "sidereal": 80.4308,
+        "sign": "Gemini",
+        "sign_idx": 2,
+        "deg_in_sign": 20.4308,
+        "dignity": 0,
+        "nakshatra": "Punarvasu",
+        "nakshatra_lord": "Jupiter",
+        "house": 7
+      },
+      "Ketu": {
+        "sidereal": 260.4308,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 20.4308,
+        "dignity": 0,
+        "nakshatra": "Purva Ashadha",
+        "nakshatra_lord": "Venus",
+        "house": 1
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Vishakha",
+      "lord": "Jupiter",
+      "balance_yrs": 6.13
+    },
+    "birthday": "1963-11-16",
+    "birth_time": "09:04:15",
+    "tz": 5.5,
+    "name": "Lakshi Amma",
+    "id": "P8",
+    "note": "",
+    "features": {
+      "mp_count": 1,
+      "mp_detail": [
+        "Hamsa:Jupiter H4"
+      ],
+      "has_shrinkhala": false,
+      "shrinkhala_loops": [],
+      "shrinkhala_count": 0,
+      "dhana_count": 0,
+      "raja_count": 1,
+      "vry_count": 2,
+      "nbr_max_conds": 1,
+      "nbr_total_conds": 1,
+      "d10_10l_house": 9,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": false,
+      "d9_venus": "Sagittarius",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 0,
+      "d60_ll_house": 2,
+      "education_score": -1,
+      "moon_nak": "Vishakha",
+      "moon_billionaire": false,
+      "sun_mer_conj": false,
+      "mer_ven_conj": true,
+      "ll_dignity": 75,
+      "ll_kendra": true,
+      "h11l_dignity": 0,
+      "exalted_count": 0,
+      "debilitated_count": 1
+    },
+    "calibrated_score": 7.0,
+    "dasha": {
+      "md": "Venus",
+      "ad": "Saturn",
+      "next_md": "Sun",
+      "pct": 67.7
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Libra",
+      "deg": 26.0209,
+      "sidereal": 206.0209
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 170.9929,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 20.9929,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 12
+      },
+      "Moon": {
+        "sidereal": 226.8565,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 16.8565,
+        "dignity": -100,
+        "nakshatra": "Jyeshtha",
+        "nakshatra_lord": "Mercury",
+        "house": 2
+      },
+      "Mars": {
+        "sidereal": 29.1461,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 29.1461,
+        "dignity": 75,
+        "nakshatra": "Krittika",
+        "nakshatra_lord": "Sun",
+        "house": 7
+      },
+      "Mercury": {
+        "sidereal": 185.1386,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 5.1386,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 1
+      },
+      "Jupiter": {
+        "sidereal": 182.1556,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 2.1556,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 1
+      },
+      "Venus": {
+        "sidereal": 216.1487,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 6.1487,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 2
+      },
+      "Saturn": {
+        "sidereal": 105.5457,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 15.5457,
+        "dignity": 0,
+        "nakshatra": "Pushya",
+        "nakshatra_lord": "Saturn",
+        "house": 10
+      },
+      "Rahu": {
+        "sidereal": 349.552,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 19.552,
+        "dignity": 0,
+        "nakshatra": "Revati",
+        "nakshatra_lord": "Mercury",
+        "house": 6
+      },
+      "Ketu": {
+        "sidereal": 169.552,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 19.552,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 12
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Jyeshtha",
+      "lord": "Mercury",
+      "balance_yrs": 16.76
+    },
+    "birthday": "2005-10-08",
+    "birth_time": "08:22:00",
+    "tz": 5.5,
+    "name": "Dewli",
+    "id": "P6",
+    "note": "",
+    "features": {
+      "mp_count": 1,
+      "mp_detail": [
+        "Ruchaka:Mars H7"
+      ],
+      "has_shrinkhala": false,
+      "shrinkhala_loops": [],
+      "shrinkhala_count": 0,
+      "dhana_count": 0,
+      "raja_count": 1,
+      "vry_count": 0,
+      "nbr_max_conds": 1,
+      "nbr_total_conds": 1,
+      "d10_10l_house": 6,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": true,
+      "d9_venus": "Leo",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 1,
+      "d60_ll_house": 2,
+      "education_score": 1,
+      "moon_nak": "Jyeshtha",
+      "moon_billionaire": false,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 0,
+      "ll_kendra": false,
+      "h11l_dignity": 0,
+      "exalted_count": 0,
+      "debilitated_count": 1
+    },
+    "calibrated_score": 3.5,
+    "dasha": {
+      "md": "Ketu",
+      "ad": "Jupiter",
+      "next_md": "Venus",
+      "pct": 57.2
+    }
+  },
+  {
+    "ascendant": {
+      "sign": "Pisces",
+      "deg": 9.1345,
+      "sidereal": 339.1345
+    },
+    "planets": {
+      "Sun": {
+        "sidereal": 110.8826,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 20.8826,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 5
+      },
+      "Moon": {
+        "sidereal": 248.0081,
+        "sign": "Sagittarius",
+        "sign_idx": 8,
+        "deg_in_sign": 8.0081,
+        "dignity": 0,
+        "nakshatra": "Mula",
+        "nakshatra_lord": "Ketu",
+        "house": 10
+      },
+      "Mars": {
+        "sidereal": 166.6248,
+        "sign": "Virgo",
+        "sign_idx": 5,
+        "deg_in_sign": 16.6248,
+        "dignity": 0,
+        "nakshatra": "Hasta",
+        "nakshatra_lord": "Moon",
+        "house": 7
+      },
+      "Mercury": {
+        "sidereal": 121.8795,
+        "sign": "Leo",
+        "sign_idx": 4,
+        "deg_in_sign": 1.8795,
+        "dignity": 0,
+        "nakshatra": "Magha",
+        "nakshatra_lord": "Ketu",
+        "house": 6
+      },
+      "Jupiter": {
+        "sidereal": 221.7727,
+        "sign": "Scorpio",
+        "sign_idx": 7,
+        "deg_in_sign": 11.7727,
+        "dignity": 0,
+        "nakshatra": "Anuradha",
+        "nakshatra_lord": "Saturn",
+        "house": 9
+      },
+      "Venus": {
+        "sidereal": 107.2063,
+        "sign": "Cancer",
+        "sign_idx": 3,
+        "deg_in_sign": 17.2063,
+        "dignity": 0,
+        "nakshatra": "Ashlesha",
+        "nakshatra_lord": "Mercury",
+        "house": 5
+      },
+      "Saturn": {
+        "sidereal": 330.116,
+        "sign": "Pisces",
+        "sign_idx": 11,
+        "deg_in_sign": 0.116,
+        "dignity": 0,
+        "nakshatra": "Purva Bhadrapada",
+        "nakshatra_lord": "Jupiter",
+        "house": 1
+      },
+      "Rahu": {
+        "sidereal": 186.393,
+        "sign": "Libra",
+        "sign_idx": 6,
+        "deg_in_sign": 6.393,
+        "dignity": 0,
+        "nakshatra": "Chitra",
+        "nakshatra_lord": "Mars",
+        "house": 8
+      },
+      "Ketu": {
+        "sidereal": 6.393,
+        "sign": "Aries",
+        "sign_idx": 0,
+        "deg_in_sign": 6.393,
+        "dignity": 0,
+        "nakshatra": "Ashwini",
+        "nakshatra_lord": "Ketu",
+        "house": 2
+      }
+    },
+    "moon_nakshatra": {
+      "name": "Mula",
+      "lord": "Ketu",
+      "balance_yrs": 2.8
+    },
+    "birthday": "1995-08-07",
+    "birth_time": "21:18:00",
+    "tz": 5.5,
+    "name": "Senith",
+    "id": "P3",
+    "note": "",
+    "features": {
+      "mp_count": 0,
+      "mp_detail": [],
+      "has_shrinkhala": true,
+      "shrinkhala_loops": [
+        [
+          "Jupiter",
+          "Mars",
+          "Mercury",
+          "Sun",
+          "Sun",
+          "Moon"
+        ],
+        [
+          "Jupiter",
+          "Mars",
+          "Mercury",
+          "Sun",
+          "Moon",
+          "Moon"
+        ],
+        [
+          "Jupiter",
+          "Mars",
+          "Mars",
+          "Mercury",
+          "Sun",
+          "Moon"
+        ],
+        [
+          "Jupiter",
+          "Mars",
+          "Mercury",
+          "Mercury",
+          "Sun",
+          "Moon"
+        ],
+        [
+          "Jupiter",
+          "Mars",
+          "Mercury",
+          "Sun",
+          "Moon",
+          "Jupiter"
+        ]
+      ],
+      "shrinkhala_count": 5,
+      "dhana_count": 0,
+      "raja_count": 0,
+      "vry_count": 0,
+      "nbr_max_conds": 0,
+      "nbr_total_conds": 0,
+      "d10_10l_house": 12,
+      "d10_10l_kendra": false,
+      "d10_10l_dusthana": true,
+      "d9_venus": "Sagittarius",
+      "d9_venus_strong": false,
+      "d9_venus_deb": false,
+      "vargottama": 0,
+      "d60_ll_house": 5,
+      "education_score": -1,
+      "moon_nak": "Mula",
+      "moon_billionaire": true,
+      "sun_mer_conj": false,
+      "mer_ven_conj": false,
+      "ll_dignity": 0,
+      "ll_kendra": false,
+      "h11l_dignity": 0,
+      "exalted_count": 0,
+      "debilitated_count": 0
+    },
+    "calibrated_score": 0.5,
+    "dasha": {
+      "md": "Moon",
+      "ad": "Rahu",
+      "next_md": "Mars",
+      "pct": 21.4
+    }
+  }
+]

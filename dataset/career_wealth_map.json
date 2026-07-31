@@ -1,0 +1,548 @@
+{
+  "total_charts": 829,
+  "career_groups": {
+    "Criminal": 68,
+    "Business/Finance": 38,
+    "Other": 356,
+    "Athletics": 16,
+    "Arts/Entertainment": 108,
+    "Humanitarian/Spiritual": 29,
+    "Politics/Military": 97,
+    "Exploration/Aviation": 30,
+    "Science/Medicine": 87
+  },
+  "top_planet_sign_career": [
+    {
+      "planet": "Sun",
+      "sign": "Taurus",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 22
+    },
+    {
+      "planet": "Sun",
+      "sign": "Leo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 18
+    },
+    {
+      "planet": "Sun",
+      "sign": "Scorpio",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 13
+    },
+    {
+      "planet": "Moon",
+      "sign": "Cancer",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 14
+    },
+    {
+      "planet": "Moon",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 13
+    },
+    {
+      "planet": "Moon",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 23
+    },
+    {
+      "planet": "Moon",
+      "sign": "Scorpio",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 18
+    },
+    {
+      "planet": "Moon",
+      "sign": "Sagittarius",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 18
+    },
+    {
+      "planet": "Mars",
+      "sign": "Cancer",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 20
+    },
+    {
+      "planet": "Mars",
+      "sign": "Aquarius",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 13
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Taurus",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 15
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 17
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 20
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 16
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 24
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 20
+    },
+    {
+      "planet": "Venus",
+      "sign": "Aries",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 17
+    },
+    {
+      "planet": "Venus",
+      "sign": "Cancer",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 17
+    },
+    {
+      "planet": "Venus",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 20
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 13
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Cancer",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 14
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Leo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 17
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 17
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 12
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 16
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Aries",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 16
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.3,
+      "n": 12
+    },
+    {
+      "planet": "Mars",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 22
+    },
+    {
+      "planet": "Mars",
+      "sign": "Sagittarius",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 22
+    },
+    {
+      "planet": "Mars",
+      "sign": "Leo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 21
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Capricorn",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 21
+    },
+    {
+      "planet": "Venus",
+      "sign": "Leo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 21
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 21
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Scorpio",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 21
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Cancer",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Sagittarius",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Venus",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Pisces",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 20
+    },
+    {
+      "planet": "Sun",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 19
+    },
+    {
+      "planet": "Sun",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 18
+    },
+    {
+      "planet": "Mars",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 17
+    },
+    {
+      "planet": "Venus",
+      "sign": "Taurus",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 17
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Aries",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 17
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Libra",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 17
+    },
+    {
+      "planet": "Mars",
+      "sign": "Scorpio",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 16
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Aquarius",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 16
+    },
+    {
+      "planet": "Venus",
+      "sign": "Virgo",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 16
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Gemini",
+      "career": "Other",
+      "ratio": 2.2,
+      "n": 16
+    }
+  ],
+  "top_planet_sign_wealth": [
+    {
+      "planet": "Sun",
+      "sign": "Aquarius",
+      "ratio": 7.3,
+      "n_rich": 6
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Capricorn",
+      "ratio": 6.3,
+      "n_rich": 6
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Capricorn",
+      "ratio": 6.3,
+      "n_rich": 6
+    },
+    {
+      "planet": "Moon",
+      "sign": "Taurus",
+      "ratio": 6.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Venus",
+      "sign": "Aquarius",
+      "ratio": 6.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Mars",
+      "sign": "Capricorn",
+      "ratio": 5.8,
+      "n_rich": 4
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Cancer",
+      "ratio": 5.5,
+      "n_rich": 5
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Leo",
+      "ratio": 5.5,
+      "n_rich": 5
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Sagittarius",
+      "ratio": 5.5,
+      "n_rich": 5
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Gemini",
+      "ratio": 5.5,
+      "n_rich": 5
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Leo",
+      "ratio": 5.4,
+      "n_rich": 4
+    },
+    {
+      "planet": "Venus",
+      "sign": "Virgo",
+      "ratio": 5.4,
+      "n_rich": 4
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aquarius",
+      "ratio": 5.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Moon",
+      "sign": "Capricorn",
+      "ratio": 5.2,
+      "n_rich": 5
+    },
+    {
+      "planet": "Mars",
+      "sign": "Aries",
+      "ratio": 5.2,
+      "n_rich": 5
+    },
+    {
+      "planet": "Venus",
+      "sign": "Leo",
+      "ratio": 5.2,
+      "n_rich": 5
+    },
+    {
+      "planet": "Sun",
+      "sign": "Leo",
+      "ratio": 5.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Moon",
+      "sign": "Scorpio",
+      "ratio": 5.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Moon",
+      "sign": "Sagittarius",
+      "ratio": 5.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Aries",
+      "ratio": 5.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Libra",
+      "ratio": 5.1,
+      "n_rich": 4
+    },
+    {
+      "planet": "Sun",
+      "sign": "Cancer",
+      "ratio": 4.8,
+      "n_rich": 5
+    },
+    {
+      "planet": "Sun",
+      "sign": "Gemini",
+      "ratio": 4.6,
+      "n_rich": 4
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Scorpio",
+      "ratio": 4.6,
+      "n_rich": 3
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Gemini",
+      "ratio": 4.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Taurus",
+      "ratio": 4.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Sagittarius",
+      "ratio": 4.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Rahu",
+      "sign": "Libra",
+      "ratio": 4.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Ketu",
+      "sign": "Aries",
+      "ratio": 4.3,
+      "n_rich": 3
+    },
+    {
+      "planet": "Venus",
+      "sign": "Capricorn",
+      "ratio": 4.2,
+      "n_rich": 4
+    }
+  ]
+}

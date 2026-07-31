@@ -1,0 +1,10 @@
+{
+  "name": "Elon Musk",
+  "birth_date": "1971-06-28",
+  "natal_saturn": {"sign": "Taurus", "degree": 7.6913359, "method": "date-only Lahiri UTC-noon midpoint"},
+  "wealth_event": {"date": "1999-02-17", "event": "Zip2 acquired by Compaq; reported personal proceeds about USD 22 million", "source_status": "verify with primary/contemporary source"},
+  "saturn_on_event": {"sign": "Aries", "degree": 5.11419925, "retrograde": false},
+  "saturn_taurus_ingress_estimate": "2000-06-07",
+  "pattern_classification": "pre-ingress wealth event followed by natal-sign transit",
+  "causal_status": "hypothesis only"
+}
