@@ -1,0 +1,33 @@
+================================================================================
+SATURN TRANSIT & WEALTH PATTERN ANALYSIS: THE PRE-INGRESS HYPOTHESIS
+================================================================================
+
+1. CORE OBSERVATION & ANOMALY
+--------------------------------------------------------------------------------
+Traditional astrological frameworks posit that major life milestones, especially 
+financial liquidity events and structural career peaks, coincide precisely with the 
+Saturn Return (ages ~27-30, 56-59). However, testing Elon Musk's timeline reveals 
+a critical timing discrepancy:
+
+- Natal Saturn: Taurus 7.69° (UTC-noon baseline)
+- Zip2 Exit (Feb 17, 1999): Sold to Compaq for $22 million
+- Saturn Position at Zip2 Exit: Aries 5.1° (Direct)
+- Saturn Ingress into Taurus: June 7, 2000 (~16 months post-exit)
+- Actual Saturn Return Window: Mid-2000 through Early-2003 (PayPal IPO & eBay sale)
+
+2. THE THEORETICAL DILEMMA
+--------------------------------------------------------------------------------
+This creates two competing interpretations for the "Saturn Engine":
+a) False Positive / Random Timing: The wealth event is decoupled from Saturn's 
+   position, and the subsequent PayPal events during the return are coincidental.
+b) The Pre-Ingress Trigger Hypothesis: Major structural wealth crystallization 
+   frequently occurs during the final decan of the preceding sign (Aries 20°-30°), 
+   acting as a pressure-build phase before the actual sign ingress and return.
+
+3. METHODOLOGICAL CONSTRAINTS & DATA QUALITY
+--------------------------------------------------------------------------------
+- Birth Data Confidence: Rodden Rating C (date-only UTC-noon estimate). House placements 
+  and exact minute houses are unverified, though planetary sign degrees remain 
+  within a 1° tolerance over the course of the birth date.
+- Verification Standard: Strict external documentation required for financial 
+  liquidity events (M&A exits, IPOs, major asset liquidations).
