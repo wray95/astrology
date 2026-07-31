@@ -418,6 +418,6 @@ for c in results:
         print(f"    (no standout markers)")
 
 # Save
-with open('/home/user/dataset/p1p9_absolute_final_rerank.json','w') as f:
+with open('dataset/p1p9_absolute_final_rerank.json','w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved → /home/user/dataset/p1p9_absolute_final_rerank.json")
+print(f"\nSaved → dataset/p1p9_absolute_final_rerank.json")

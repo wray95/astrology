@@ -224,6 +224,6 @@ print("(Production pipeline uses exact same weights as calibrated analysis)")
 print("Differences arise from: Raj Yoga count (not in pipeline) + NBRY (not in pipeline)")
 print("Core Layer 3 multipliers (MP+4, Shrinkhala+2, D10±2.5, D9 Venus±2) are identical.")
 
-with open('/home/user/dataset/p1p9_production_features.json','w') as f:
+with open('dataset/p1p9_production_features.json','w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved → /home/user/dataset/p1p9_production_features.json")
+print(f"\nSaved → dataset/p1p9_production_features.json")

@@ -254,6 +254,6 @@ for i,r in enumerate(results,1):
     if r['vargottama']: print(f"  Vargottama: {r['vargottama']}")
     if r['note']: print(f"  WARNING: {r['note']} — ALL FEATURES UNRELIABLE")
 
-with open('/home/user/dataset/p1p9_final_career_wealth.json','w') as f:
+with open('dataset/p1p9_final_career_wealth.json','w') as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved to /home/user/dataset/p1p9_final_career_wealth.json")
+print(f"\nSaved to dataset/p1p9_final_career_wealth.json")

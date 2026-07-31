@@ -401,6 +401,6 @@ for c in results:
     elif shift>0: print(f"  {c['id']} {c['name']:<20} #{old_rk} → #{new_rk} (↑{shift})")
     else: print(f"  {c['id']} {c['name']:<20} #{old_rk} → #{new_rk} (↓{abs(shift)})")
 
-with open('/home/user/dataset/p1p9_calibrated_final.json','w') as f:
+with open('dataset/p1p9_calibrated_final.json','w') as f:
     json.dump([{k:str(v) if not isinstance(v,(int,float,list,dict,bool,type(None))) else v for k,v in c.items()} for c in results], f, indent=2)
-print(f"\nSaved → /home/user/dataset/p1p9_calibrated_final.json")
+print(f"\nSaved → dataset/p1p9_calibrated_final.json")
