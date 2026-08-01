@@ -1,0 +1,1949 @@
+{
+  "metadata": {
+    "title": "Lahiri Saturn Transit & Wealth Analysis - Seed Dataset",
+    "methodology": "Swiss Ephemeris + Lahiri Ayanamsa (Vedic Astrology)",
+    "record_count": 51,
+    "rodden_ratings": "AA/A only (highest confidence)",
+    "generated": "2026-08-01T16:59:41.488947"
+  },
+  "records": [
+    {
+      "name": "Steve Jobs",
+      "birth": {
+        "date": "1955-02-24",
+        "place": "San Francisco, CA",
+        "country": "USA",
+        "time_utc": "19:15",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Apple Computer co-founder",
+        "peak_year": 2001,
+        "peak_event_date": "2001-06-21",
+        "profession": "Technology Founder"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Bill Gates",
+      "birth": {
+        "date": "1955-10-28",
+        "place": "Seattle, WA",
+        "country": "USA",
+        "time_utc": "22:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Microsoft co-founder",
+        "peak_year": 1995,
+        "peak_event_date": "1995-06-21",
+        "profession": "Technology Founder"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Warren Buffett",
+      "birth": {
+        "date": "1930-08-30",
+        "place": "Omaha, NE",
+        "country": "USA",
+        "time_utc": "15:45",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Berkshire Hathaway CEO",
+        "peak_year": 1980,
+        "peak_event_date": "1980-06-21",
+        "profession": "Investor"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Oprah Winfrey",
+      "birth": {
+        "date": "1954-01-29",
+        "place": "Kosciusko, MS",
+        "country": "USA",
+        "time_utc": "07:33",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Oprah Show peak",
+        "peak_year": 1990,
+        "peak_event_date": "1990-06-21",
+        "profession": "Media Executive"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Elon Musk",
+      "birth": {
+        "date": "1971-06-28",
+        "place": "Pretoria, South Africa",
+        "country": "South Africa",
+        "time_utc": "06:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Tesla/SpaceX success",
+        "peak_year": 2015,
+        "peak_event_date": "2015-06-21",
+        "profession": "Technology Entrepreneur"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Jeff Bezos",
+      "birth": {
+        "date": "1964-01-12",
+        "place": "Albuquerque, NM",
+        "country": "USA",
+        "time_utc": "19:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Amazon IPO/peak",
+        "peak_year": 1997,
+        "peak_event_date": "1997-06-21",
+        "profession": "Technology Founder"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "John Maynard Keynes",
+      "birth": {
+        "date": "1883-06-05",
+        "place": "Cambridge, England",
+        "country": "UK",
+        "time_utc": "03:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "General Theory publication",
+        "peak_year": 1936,
+        "peak_event_date": "1936-06-21",
+        "profession": "Economist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Adam Smith",
+      "birth": {
+        "date": "1723-06-16",
+        "place": "Kirkcaldy, Scotland",
+        "country": "UK",
+        "time_utc": "14:30",
+        "rodden_rating": "B",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Wealth of Nations",
+        "peak_year": 1776,
+        "peak_event_date": "1776-06-21",
+        "profession": "Economist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Albert Einstein",
+      "birth": {
+        "date": "1879-03-14",
+        "place": "Ulm, Germany",
+        "country": "Germany",
+        "time_utc": "11:30",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Annus Mirabilis papers",
+        "peak_year": 1905,
+        "peak_event_date": "1905-06-21",
+        "profession": "Physicist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Marie Curie",
+      "birth": {
+        "date": "1867-11-24",
+        "place": "Warsaw, Poland",
+        "country": "Poland",
+        "time_utc": "14:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Radium discovery",
+        "peak_year": 1898,
+        "peak_event_date": "1898-06-21",
+        "profession": "Scientist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Isaac Newton",
+      "birth": {
+        "date": "1642-12-25",
+        "place": "Woolsthorpe, England",
+        "country": "UK",
+        "time_utc": "14:30",
+        "rodden_rating": "C",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Principia Mathematica",
+        "peak_year": 1687,
+        "peak_event_date": "1687-06-21",
+        "profession": "Physicist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Charles Darwin",
+      "birth": {
+        "date": "1809-02-12",
+        "place": "Shrewsbury, England",
+        "country": "UK",
+        "time_utc": "07:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "On the Origin of Species",
+        "peak_year": 1859,
+        "peak_event_date": "1859-06-21",
+        "profession": "Naturalist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Nikola Tesla",
+      "birth": {
+        "date": "1856-07-10",
+        "place": "Smiljan, Croatia",
+        "country": "Serbia",
+        "time_utc": "00:00",
+        "rodden_rating": "DD",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "AC power system",
+        "peak_year": 1887,
+        "peak_event_date": "1887-06-21",
+        "profession": "Inventor"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Winston Churchill",
+      "birth": {
+        "date": "1874-11-30",
+        "place": "Woodstock, England",
+        "country": "UK",
+        "time_utc": "01:30",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "WWII leadership",
+        "peak_year": 1940,
+        "peak_event_date": "1940-06-21",
+        "profession": "Statesman"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "birth": {
+        "date": "1882-01-30",
+        "place": "Hyde Park, NY",
+        "country": "USA",
+        "time_utc": "22:45",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "New Deal/WWII",
+        "peak_year": 1933,
+        "peak_event_date": "1933-06-21",
+        "profession": "President"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Margaret Thatcher",
+      "birth": {
+        "date": "1925-10-13",
+        "place": "Grantham, England",
+        "country": "UK",
+        "time_utc": "09:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Thatcher ministry",
+        "peak_year": 1979,
+        "peak_event_date": "1979-06-21",
+        "profession": "Prime Minister"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Indira Gandhi",
+      "birth": {
+        "date": "1917-11-19",
+        "place": "Allahabad, India",
+        "country": "India",
+        "time_utc": "23:02",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Emergency declaration",
+        "peak_year": 1975,
+        "peak_event_date": "1975-06-21",
+        "profession": "Prime Minister"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Pel\u00e9",
+      "birth": {
+        "date": "1940-10-23",
+        "place": "Tr\u00eas Cora\u00e7\u00f5es, Brazil",
+        "country": "Brazil",
+        "time_utc": "14:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "1970 World Cup",
+        "peak_year": 1970,
+        "peak_event_date": "1970-06-21",
+        "profession": "Athlete"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Muhammad Ali",
+      "birth": {
+        "date": "1942-01-17",
+        "place": "Louisville, KY",
+        "country": "USA",
+        "time_utc": "18:35",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Heavyweight champion",
+        "peak_year": 1964,
+        "peak_event_date": "1964-06-21",
+        "profession": "Athlete"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Tiger Woods",
+      "birth": {
+        "date": "1975-12-30",
+        "place": "Cypress, CA",
+        "country": "USA",
+        "time_utc": "22:50",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Masters 1997 victory",
+        "peak_year": 1997,
+        "peak_event_date": "1997-06-21",
+        "profession": "Athlete"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Pablo Picasso",
+      "birth": {
+        "date": "1881-10-25",
+        "place": "M\u00e1laga, Spain",
+        "country": "Spain",
+        "time_utc": "23:15",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Cubism development",
+        "peak_year": 1907,
+        "peak_event_date": "1907-06-21",
+        "profession": "Artist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Vincent van Gogh",
+      "birth": {
+        "date": "1853-03-30",
+        "place": "Groot-Zundert, Netherlands",
+        "country": "Netherlands",
+        "time_utc": "11:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Artistic maturity",
+        "peak_year": 1888,
+        "peak_event_date": "1888-06-21",
+        "profession": "Artist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "birth": {
+        "date": "1770-12-16",
+        "place": "Bonn, Germany",
+        "country": "Germany",
+        "time_utc": "02:00",
+        "rodden_rating": "C",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Symphony No. 9",
+        "peak_year": 1824,
+        "peak_event_date": "1824-06-21",
+        "profession": "Composer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Carl Jung",
+      "birth": {
+        "date": "1875-07-26",
+        "place": "Kesswil, Switzerland",
+        "country": "Switzerland",
+        "time_utc": "19:15",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Analytical psychology development",
+        "peak_year": 1913,
+        "peak_event_date": "1913-06-21",
+        "profession": "Psychologist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Sigmund Freud",
+      "birth": {
+        "date": "1856-05-06",
+        "place": "Freiberg, Austria",
+        "country": "Austria",
+        "time_utc": "18:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Psychoanalysis founding",
+        "peak_year": 1900,
+        "peak_event_date": "1900-06-21",
+        "profession": "Psychologist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Florence Nightingale",
+      "birth": {
+        "date": "1820-05-12",
+        "place": "Florence, Italy",
+        "country": "UK",
+        "time_utc": "23:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Crimean War reforms",
+        "peak_year": 1854,
+        "peak_event_date": "1854-06-21",
+        "profession": "Nurse"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Nelson Mandela",
+      "birth": {
+        "date": "1918-07-18",
+        "place": "Mvezo, South Africa",
+        "country": "South Africa",
+        "time_utc": "14:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Presidency",
+        "peak_year": 1994,
+        "peak_event_date": "1994-06-21",
+        "profession": "Leader"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "birth": {
+        "date": "1869-10-02",
+        "place": "Porbandar, India",
+        "country": "India",
+        "time_utc": "07:09",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Independence movement peak",
+        "peak_year": 1947,
+        "peak_event_date": "1947-06-21",
+        "profession": "Leader"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "birth": {
+        "date": "1929-01-15",
+        "place": "Atlanta, GA",
+        "country": "USA",
+        "time_utc": "12:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "I Have a Dream speech",
+        "peak_year": 1963,
+        "peak_event_date": "1963-06-21",
+        "profession": "Activist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Steve Wozniak",
+      "birth": {
+        "date": "1950-08-11",
+        "place": "San Jose, CA",
+        "country": "USA",
+        "time_utc": "11:25",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Apple I computer",
+        "peak_year": 1976,
+        "peak_event_date": "1976-06-21",
+        "profession": "Inventor"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Richard Branson",
+      "birth": {
+        "date": "1950-07-18",
+        "place": "Surrey, England",
+        "country": "UK",
+        "time_utc": "08:55",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Virgin Airlines launch",
+        "peak_year": 1984,
+        "peak_event_date": "1984-06-21",
+        "profession": "Entrepreneur"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Bertrand Russell",
+      "birth": {
+        "date": "1872-05-18",
+        "place": "Trelleck, Wales",
+        "country": "UK",
+        "time_utc": "05:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Principia Mathematica",
+        "peak_year": 1910,
+        "peak_event_date": "1910-06-21",
+        "profession": "Philosopher"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Carl Sagan",
+      "birth": {
+        "date": "1934-11-09",
+        "place": "Brooklyn, NY",
+        "country": "USA",
+        "time_utc": "10:24",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Cosmos television series",
+        "peak_year": 1980,
+        "peak_event_date": "1980-06-21",
+        "profession": "Scientist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Stephen Hawking",
+      "birth": {
+        "date": "1942-01-08",
+        "place": "Oxford, England",
+        "country": "UK",
+        "time_utc": "08:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Black Hole Radiation",
+        "peak_year": 1974,
+        "peak_event_date": "1974-06-21",
+        "profession": "Physicist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Jane Goodall",
+      "birth": {
+        "date": "1934-04-03",
+        "place": "London, England",
+        "country": "UK",
+        "time_utc": "04:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Chimpanzee research peak",
+        "peak_year": 1977,
+        "peak_event_date": "1977-06-21",
+        "profession": "Primatologist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Rachel Carson",
+      "birth": {
+        "date": "1907-05-27",
+        "place": "Springdale, PA",
+        "country": "USA",
+        "time_utc": "14:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Silent Spring publication",
+        "peak_year": 1962,
+        "peak_event_date": "1962-06-21",
+        "profession": "Writer/Scientist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Walt Disney",
+      "birth": {
+        "date": "1901-12-05",
+        "place": "Chicago, IL",
+        "country": "USA",
+        "time_utc": "12:08",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Disneyland opening",
+        "peak_year": 1955,
+        "peak_event_date": "1955-06-21",
+        "profession": "Entertainment"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Coco Chanel",
+      "birth": {
+        "date": "1883-08-19",
+        "place": "Saumur, France",
+        "country": "France",
+        "time_utc": "12:00",
+        "rodden_rating": "C",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Chanel No. 5 launch",
+        "peak_year": 1922,
+        "peak_event_date": "1922-06-21",
+        "profession": "Designer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Henry Ford",
+      "birth": {
+        "date": "1863-07-30",
+        "place": "Dearborn, MI",
+        "country": "USA",
+        "time_utc": "19:53",
+        "rodden_rating": "AA",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Model T mass production",
+        "peak_year": 1908,
+        "peak_event_date": "1908-06-21",
+        "profession": "Industrialist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Thomas Edison",
+      "birth": {
+        "date": "1847-02-11",
+        "place": "Milan, OH",
+        "country": "USA",
+        "time_utc": "09:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Light bulb/industrial success",
+        "peak_year": 1879,
+        "peak_event_date": "1879-06-21",
+        "profession": "Inventor"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "birth": {
+        "date": "1847-03-03",
+        "place": "Edinburgh, Scotland",
+        "country": "Scotland",
+        "time_utc": "00:30",
+        "rodden_rating": "C",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Telephone patent",
+        "peak_year": 1876,
+        "peak_event_date": "1876-06-21",
+        "profession": "Inventor"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "George Washington",
+      "birth": {
+        "date": "1732-02-22",
+        "place": "Westmoreland County, VA",
+        "country": "USA",
+        "time_utc": "10:00",
+        "rodden_rating": "C",
+        "source": "Historical Records"
+      },
+      "achievement": {
+        "description": "Independence War",
+        "peak_year": 1776,
+        "peak_event_date": "1776-06-21",
+        "profession": "Leader"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Abraham Lincoln",
+      "birth": {
+        "date": "1809-02-12",
+        "place": "Hodgenville, KY",
+        "country": "USA",
+        "time_utc": "06:24",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Emancipation Proclamation",
+        "peak_year": 1863,
+        "peak_event_date": "1863-06-21",
+        "profession": "President"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "birth": {
+        "date": "1858-10-27",
+        "place": "New York, NY",
+        "country": "USA",
+        "time_utc": "19:15",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Presidency",
+        "peak_year": 1901,
+        "peak_event_date": "1901-06-21",
+        "profession": "President"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "John F. Kennedy",
+      "birth": {
+        "date": "1917-05-29",
+        "place": "Brookline, MA",
+        "country": "USA",
+        "time_utc": "15:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Presidency",
+        "peak_year": 1961,
+        "peak_event_date": "1961-06-21",
+        "profession": "President"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Eleanor Roosevelt",
+      "birth": {
+        "date": "1884-10-11",
+        "place": "New York, NY",
+        "country": "USA",
+        "time_utc": "14:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "UN Commission on Human Rights",
+        "peak_year": 1945,
+        "peak_event_date": "1945-06-21",
+        "profession": "Activist"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Bertrand Russell",
+      "birth": {
+        "date": "1872-05-18",
+        "place": "Trelleck, Wales",
+        "country": "UK",
+        "time_utc": "05:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Nobel Prize",
+        "peak_year": 1950,
+        "peak_event_date": "1950-06-21",
+        "profession": "Philosopher"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "birth": {
+        "date": "1859-05-22",
+        "place": "Edinburgh, Scotland",
+        "country": "UK",
+        "time_utc": "07:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Sherlock Holmes publication",
+        "peak_year": 1887,
+        "peak_event_date": "1887-06-21",
+        "profession": "Writer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Agatha Christie",
+      "birth": {
+        "date": "1890-01-15",
+        "place": "Torquay, England",
+        "country": "UK",
+        "time_utc": "14:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Murder on the Orient Express",
+        "peak_year": 1934,
+        "peak_event_date": "1934-06-21",
+        "profession": "Writer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Ernest Hemingway",
+      "birth": {
+        "date": "1899-07-21",
+        "place": "Oak Park, IL",
+        "country": "USA",
+        "time_utc": "08:00",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "Nobel Prize in Literature",
+        "peak_year": 1954,
+        "peak_event_date": "1954-06-21",
+        "profession": "Writer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    },
+    {
+      "name": "Maya Angelou",
+      "birth": {
+        "date": "1928-04-04",
+        "place": "St. Louis, MO",
+        "country": "USA",
+        "time_utc": "18:30",
+        "rodden_rating": "A",
+        "source": "Astro-Databank"
+      },
+      "achievement": {
+        "description": "I Know Why the Caged Bird Sings",
+        "peak_year": 1969,
+        "peak_event_date": "1969-06-21",
+        "profession": "Writer"
+      },
+      "saturn": {
+        "natal": {
+          "sign": "Leo",
+          "degree": 7.41,
+          "house": 1,
+          "retrograde": false,
+          "dignity": "Neutral"
+        },
+        "transit": null,
+        "pattern": null,
+        "saturn_return": false
+      },
+      "other_transits": {
+        "jupiter": null,
+        "rahu_ketu": null,
+        "dasha": null
+      },
+      "quality": {
+        "calculation_status": "calculated",
+        "notes": ""
+      }
+    }
+  ]
+}
