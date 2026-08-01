@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEXUS Knowledge Graph</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; background: #0d1117; color: #c9d1d9; min-height: 100vh; }
+header { background: #161b22; border-bottom: 1px solid #30363d; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
+h1 { font-size: 20px; color: #58a6ff; }
+.stats { display: flex; gap: 24px; font-size: 14px; }
+.stat { text-align: center; }
+.stat-val { font-size: 24px; font-weight: bold; color: #f0883e; }
+.stat-lbl { color: #8b949e; font-size: 12px; }
+main { display: flex; height: calc(100vh - 65px); }
+.sidebar { width: 320px; background: #161b22; border-right: 1px solid #30363d; overflow-y: auto; padding: 12px; }
+.content { flex: 1; overflow-y: auto; padding: 24px; }
+.filter-btns { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.filter-btn { padding: 4px 10px; border: 1px solid #30363d; background: #21262d; color: #c9d1d9; border-radius: 20px; font-size: 12px; cursor: pointer; }
+.filter-btn:hover, .filter-btn.active { background: #1f6feb; border-color: #1f6feb; }
+.script-item { padding: 8px 12px; cursor: pointer; border-radius: 6px; margin-bottom: 4px; font-size: 13px; }
+.script-item:hover { background: #21262d; }
+.script-item.selected { background: #1f6feb22; border: 1px solid #1f6feb; }
+.script-name { font-family: monospace; color: #58a6ff; }
+.script-detail { color: #8b949e; font-size: 11px; }
+.pipeline { margin-bottom: 32px; }
+.pipeline-title { font-size: 16px; color: #f0883e; margin-bottom: 12px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
+.pipe-edge { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; font-size: 13px; }
+.pipe-from { background: #1f6feb; color: white; padding: 4px 10px; border-radius: 4px; font-family: monospace; font-size: 12px; }
+.pipe-arrow { color: #8b949e; }
+.pipe-to { background: #238636; color: white; padding: 4px 10px; border-radius: 4px; font-family: monospace; font-size: 12px; }
+.detail-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 16px; }
+.detail-card h3 { color: #58a6ff; margin-bottom: 12px; }
+.func-list { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.func-tag { background: #21262d; border: 1px solid #30363d; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-family: monospace; }
+.dataset-tag { background: #0d4429; border: 1px solid #238636; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-family: monospace; }
+.search-box { width: 100%; padding: 8px 12px; background: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: white; margin-bottom: 12px; font-size: 13px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🔮 NEXUS Vedic Astrology Research Engine — Knowledge Graph</h1>
+  <div class="stats">
+    <div class="stat"><div class="stat-val">64</div><div class="stat-lbl">Scripts</div></div>
+    <div class="stat"><div class="stat-val">47</div><div class="stat-lbl">Datasets</div></div>
+    <div class="stat"><div class="stat-val">25</div><div class="stat-lbl">Pipelines</div></div>
+    <div class="stat"><div class="stat-val">8</div><div class="stat-lbl">Modules</div></div>
+  </div>
+</header>
+<main>
+<div class="sidebar">
+  <input class="search-box" id="search" placeholder="Search scripts, datasets, functions..." oninput="filterItems()">
+  <div class="filter-btns" id="filterBtns"></div>
+  <div id="scriptList"></div>
+</div>
+<div class="content" id="detailPane">
+  <div class="pipeline">
+    <div class="pipeline-title">🏆 P1-P9 Definitive Ranking Pipeline (4-stage)</div>
+    <div class="pipe-edge"><span class="pipe-from">production_pipeline_p1p9</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_production_features.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">final_rerank_career</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_final_career_wealth.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">calibrated_rerank</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_calibrated_final.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">absolute_final_rerank</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_absolute_final_rerank.json</span></div>
+  </div>
+  <div class="pipeline">
+    <div class="pipeline-title">🔗 NEXUS Yogas & Shrinkhala (5-stage)</div>
+    <div class="pipe-edge"><span class="pipe-from">nexus_v2_pipeline</span><span class="pipe-arrow">→</span><span class="pipe-to">celebrity_112_nexus_v2.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">nexus_v3_shrinkhala</span><span class="pipe-arrow">→</span><span class="pipe-to">shrinkhala_v3_report.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">nexus_v4_benchmark</span><span class="pipe-arrow">→</span><span class="pipe-to">nexus_v4_benchmark.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">nexus_3layer_engine</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_3layer_analysis.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">shrinkhala_nbry_detector</span><span class="pipe-arrow">→</span><span class="pipe-to">shrinkhala_nbry_report.json</span></div>
+  </div>
+  <div class="pipeline">
+    <div class="pipeline-title">📊 Validation & Statistical (6-stage)</div>
+    <div class="pipe-edge"><span class="pipe-from">billionaire_vs_criminal</span><span class="pipe-arrow">→</span><span class="pipe-to">billionaire_vs_criminal_stats.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">expanded_criminal_analysis</span><span class="pipe-arrow">→</span><span class="pipe-to">expanded_criminal_validation.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">domain_discrimination_test</span><span class="pipe-arrow">→</span><span class="pipe-to">benchmark_10_domain.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">statistical_validation</span><span class="pipe-arrow">→</span><span class="pipe-to">(console report)</span></div>
+    <div class="pipe-edge"><span class="pipe-from">graphify_validation</span><span class="pipe-arrow">→</span><span class="pipe-to">classical_claims_validation.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">compute_12_benchmark</span><span class="pipe-arrow">→</span><span class="pipe-to">benchmark_12_computed.json</span></div>
+  </div>
+  <div class="pipeline">
+    <div class="pipeline-title">🔬 Research & Deep Analysis (5-stage)</div>
+    <div class="pipe-edge"><span class="pipe-from">deep_research_pipeline</span><span class="pipe-arrow">→</span><span class="pipe-to">deep_research_groups.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">verified_15_analysis</span><span class="pipe-arrow">→</span><span class="pipe-to">verified_15_tier_a.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">mega_cross_reference</span><span class="pipe-arrow">→</span><span class="pipe-to">mega_cross_reference.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">career_wealth_grouper</span><span class="pipe-arrow">→</span><span class="pipe-to">career_wealth_map.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">final_groups</span><span class="pipe-arrow">→</span><span class="pipe-to">historical_groups_final.json</span></div>
+  </div>
+  <div class="pipeline">
+    <div class="pipeline-title">📡 Q-Series & Saturn Transit (key scripts)</div>
+    <div class="pipe-edge"><span class="pipe-from">q_yearly_transit_event_timeline</span><span class="pipe-arrow">→</span><span class="pipe-to">q_yearly_timeline.jsonl.gz</span><span class="pipe-tag">(605K records)</span></div>
+    <div class="pipe-edge"><span class="pipe-from">all_planets_q_series</span><span class="pipe-arrow">→</span><span class="pipe-to">q_all_planet_positions.csv.gz</span></div>
+    <div class="pipe-edge"><span class="pipe-from">saturn_return_q_series</span><span class="pipe-arrow">→</span><span class="pipe-to">q_saturn_returns.json.gz</span></div>
+    <div class="pipe-edge"><span class="pipe-from">q_financial_gochara_pipeline</span><span class="pipe-arrow">→</span><span class="pipe-to">q_financial_features.csv.gz</span></div>
+    <div class="pipe-edge"><span class="pipe-from">all_saturn_same_sign_passages</span><span class="pipe-arrow">→</span><span class="pipe-to">all_passages.csv.gz</span><span class="pipe-tag">(45,656 passages)</span></div>
+  </div>
+  <div class="pipeline">
+    <div class="pipeline-title">🎯 Specialized (3-stage)</div>
+    <div class="pipe-edge"><span class="pipe-from">p1p9_multivarga_rerank</span><span class="pipe-arrow">→</span><span class="pipe-to">p1p9_multivarga_reranked.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">p1p9_crossref_film</span><span class="pipe-arrow">→</span><span class="pipe-to">film_actor_dataset.json</span></div>
+    <div class="pipe-edge"><span class="pipe-from">judge_report</span><span class="pipe-arrow">→</span><span class="pipe-to">judge_report.json</span></div>
+  </div>
+</div>
+</main>
+<script>
+let allNodes = [], allDatasets = [];
+
+fetch('dataset/nexus_knowledge_graph.json').then(r=>r.json()).then(data=>{
+  allNodes = data.nodes; allDatasets = data.datasets;
+  renderFilters(data.categories);
+  renderScripts(allNodes);
+});
+
+function renderFilters(cats) {
+  let html = '<span class="filter-btn active" onclick="filterBy(\"all\")">All</span>';
+  for (let [cat, count] of Object.entries(cats)) {
+    html += `<span class="filter-btn" onclick="filterBy('${cat}')">${cat.replace(/_/g,' ')} (${count})</span>`;
+  }
+  document.getElementById('filterBtns').innerHTML = html;
+}
+
+function filterBy(cat) {
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  event.target.classList.add('active');
+  let filtered = cat === 'all' ? allNodes : allNodes.filter(n=>n.category===cat);
+  renderScripts(filtered);
+}
+
+function filterItems() {
+  let q = document.getElementById('search').value.toLowerCase();
+  let filtered = allNodes.filter(n => 
+    n.id.toLowerCase().includes(q) || 
+    n.file.toLowerCase().includes(q) ||
+    n.functions.some(f=>f.name.toLowerCase().includes(q))
+  );
+  renderScripts(filtered);
+}
+
+function renderScripts(nodes) {
+  let html = '';
+  nodes.forEach(n => {
+    html += `<div class="script-item" onclick="showDetail('${n.id}')">
+      <div class="script-name">📄 ${n.file}</div>
+      <div class="script-detail">${n.functions.length} functions · ${n.lines} lines · ${n.category}</div>
+    </div>`;
+  });
+  document.getElementById('scriptList').innerHTML = html;
+}
+
+function showDetail(id) {
+  let n = allNodes.find(x=>x.id===id);
+  if (!n) return;
+  document.querySelectorAll('.script-item').forEach(el=>el.classList.remove('selected'));
+  if (window.event && window.event.target) {
+    let el = window.event.target.closest('.script-item');
+    if (el) el.classList.add('selected');
+  }
+  let html = `<div class="detail-card">
+    <h3>📄 ${n.file}</h3>
+    <p style="color:#8b949e">Category: ${n.category} · ${n.lines} lines · ${n.functions.length} functions</p>
+    <h4 style="color:#f0883e; margin-top:12px">Functions (${n.functions.length})</h4>
+    <div class="func-list">${n.functions.map(f=>`<span class="func-tag">${f.name}(${f.params})</span>`).join('')}</div>
+    <h4 style="color:#f0883e; margin-top:12px">Datasets Referenced</h4>
+    <div class="func-list">${n.dataset_refs.length ? n.dataset_refs.map(d=>`<span class="dataset-tag">${d}</span>`).join('') : '<span style="color:#8b949e">none</span>'}</div>
+    <h4 style="color:#f0883e; margin-top:12px">Outputs</h4>
+    <div class="func-list">${n.outputs.length ? n.outputs.map(d=>`<span class="dataset-tag">${d}</span>`).join('') : '<span style="color:#8b949e">none</span>'}</div>
+    <h4 style="color:#f0883e; margin-top:12px">Imports</h4>
+    <div class="func-list">${n.imports.map(i=>`<span class="func-tag">${i}</span>`).join('')}</div>
+  </div>`;
+  document.getElementById('detailPane').innerHTML = html + document.getElementById('detailPane').innerHTML.split('<div class="pipeline">').slice(0,1).join('');
+}
+</script>
+</body>
+</html>

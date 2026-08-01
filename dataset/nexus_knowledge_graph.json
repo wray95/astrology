@@ -1,0 +1,2731 @@
+{
+  "nodes": [
+    {
+      "id": "absolute_final_rerank",
+      "file": "absolute_final_rerank.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute_d1",
+          "params": "c"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1, division"
+        },
+        {
+          "name": "aspect_each_other",
+          "params": "p, a, b"
+        },
+        {
+          "name": "detect_yogas",
+          "params": "d1"
+        },
+        {
+          "name": "get_dasha",
+          "params": "d1, ref_year=2026"
+        },
+        {
+          "name": "score_all",
+          "params": "d1, yogas, vargas"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/p1p9_absolute_final_rerank.json",
+        "p1p9_absolute_final_rerank.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_absolute_final_rerank.json"
+      ],
+      "lines": 423
+    },
+    {
+      "id": "academic_saturn_crossref",
+      "file": "academic_saturn_crossref.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "place, country"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [],
+      "outputs": [],
+      "lines": 139
+    },
+    {
+      "id": "all_planet_prediction",
+      "file": "all_planet_prediction.py",
+      "category": "utility",
+      "functions": [],
+      "imports": [
+        "csv,",
+        "collections",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "outputs/requested_200_biographies/biographies_200.json",
+        "outputs/all_planets_q_series/q_all_planet_positions.csv",
+        "outputs/saturn_same_sign_passages/all_passages.csv",
+        "\\nSaved \u2192 outputs/all_planet_event_prediction.json",
+        "outputs/all_planet_event_prediction.json",
+        "outputs/saturn_transit_event_screen.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "outputs/all_planet_event_prediction.json"
+      ],
+      "lines": 207
+    },
+    {
+      "id": "all_planets_q_series",
+      "file": "all_planets_q_series.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,json,os",
+        "collections"
+      ],
+      "dataset_refs": [
+        "planet_cycle_reference.json",
+        "run_summary.json",
+        "reference_charts_by_date.json",
+        "q_all_planet_positions.csv",
+        "q_saturn_returns.csv"
+      ],
+      "outputs": [
+        "q_all_planet_positions.csv",
+        "planet_cycle_reference.json",
+        "run_summary.json"
+      ],
+      "lines": 29
+    },
+    {
+      "id": "all_saturn_same_sign_passages",
+      "file": "all_saturn_same_sign_passages.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "sat",
+          "params": "d"
+        },
+        {
+          "name": "ang",
+          "params": "a,b"
+        }
+      ],
+      "imports": [
+        "csv,json,os",
+        "datetime",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "/all_passages.csv",
+        "outputs/p_date_only_reanalysis/p_date_only_positions.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/all_passages.csv",
+        "/summary.json"
+      ],
+      "lines": 49
+    },
+    {
+      "id": "benchmark_12_analysis",
+      "file": "benchmark_12_analysis.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "aspect_each_other",
+          "params": "p, a, b, asc_idx"
+        },
+        {
+          "name": "detect_meaningful_yogas",
+          "params": "chart"
+        },
+        {
+          "name": "discriminative_score",
+          "params": "yogas, h11l, h9l, ll, key_pos"
+        },
+        {
+          "name": "spearman_rank",
+          "params": "pred, known"
+        }
+      ],
+      "imports": [
+        "json",
+        "math"
+      ],
+      "dataset_refs": [
+        "benchmark_12_computed.json"
+      ],
+      "outputs": [],
+      "lines": 285
+    },
+    {
+      "id": "billionaire_statistical_analysis",
+      "file": "billionaire_statistical_analysis.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "get_tz",
+          "params": "place"
+        },
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "compute_noon_chart",
+          "params": "c"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/billionaire_noon_analysis.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/billionaire_noon_analysis.json"
+      ],
+      "lines": 479
+    },
+    {
+      "id": "billionaire_vs_criminal",
+      "file": "billionaire_vs_criminal.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "get_tz",
+          "params": "place"
+        },
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "compute",
+          "params": "c, label"
+        },
+        {
+          "name": "compute_group",
+          "params": "charts, label"
+        },
+        {
+          "name": "group_stats",
+          "params": "group, label"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "billionaire_vs_criminal_stats.json",
+        "\\nSaved \u2192 dataset/billionaire_vs_criminal_stats.json"
+      ],
+      "outputs": [
+        "dataset/billionaire_vs_criminal_stats.json"
+      ],
+      "lines": 562
+    },
+    {
+      "id": "birth_degree_pattern_pipeline",
+      "file": "birth_degree_pattern_pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "group",
+          "params": "s"
+        },
+        {
+          "name": "ang",
+          "params": "a,b"
+        }
+      ],
+      "imports": [
+        "csv,json,os,re,math",
+        "collections",
+        "scipy.stats"
+      ],
+      "dataset_refs": [
+        "feature_job_tests.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "summary.json",
+        "q_birth_features.csv",
+        "outputs/all_planets_q_series/q_all_planet_positions.csv"
+      ],
+      "outputs": [
+        "feature_job_tests.csv",
+        "summary.json",
+        "q_birth_features.csv"
+      ],
+      "lines": 52
+    },
+    {
+      "id": "build_200_biography_json",
+      "file": "build_200_biography_json.py",
+      "category": "utility",
+      "functions": [],
+      "imports": [
+        "json,csv,os,re,time,requests",
+        "urllib.parse"
+      ],
+      "dataset_refs": [
+        "famous_people_birth_data.json",
+        "/biographies_200.json",
+        "first 200 records of famous_people_birth_data.json",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/biographies_200.json",
+        "first 200 records of famous_people_birth_data.json"
+      ],
+      "lines": 30
+    },
+    {
+      "id": "calibrated_rerank",
+      "file": "calibrated_rerank.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute_d1",
+          "params": "c"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1, division"
+        },
+        {
+          "name": "detect_shrinkhala",
+          "params": "p"
+        },
+        {
+          "name": "detect_all",
+          "params": "chart, p, houses, asc"
+        },
+        {
+          "name": "compute_calibrated_score",
+          "params": "f"
+        },
+        {
+          "name": "get_dasha",
+          "params": "d1, ref=2026"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/p1p9_calibrated_final.json",
+        "p1p9_calibrated_final.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_calibrated_final.json"
+      ],
+      "lines": 406
+    },
+    {
+      "id": "career_wealth_grouper",
+      "file": "career_wealth_grouper.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "load_all",
+          "params": ""
+        },
+        {
+          "name": "classify_career",
+          "params": "chart"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/career_wealth_map.json",
+        "career_wealth_map.json"
+      ],
+      "outputs": [
+        "dataset/career_wealth_map.json"
+      ],
+      "lines": 263
+    },
+    {
+      "id": "check_p7_moon",
+      "file": "check_p7_moon.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "lahiri_ayanamsa",
+          "params": "jd_ut"
+        },
+        {
+          "name": "add_years_days",
+          "params": "dt, years"
+        }
+      ],
+      "imports": [
+        "skyfield.api",
+        "skyfield.framelib",
+        "datetime"
+      ],
+      "dataset_refs": [],
+      "outputs": [],
+      "lines": 141
+    },
+    {
+      "id": "compute_12_benchmark",
+      "file": "compute_12_benchmark.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute",
+          "params": "name, iso, lat, lon"
+        },
+        {
+          "name": "detect_key_yogas",
+          "params": "chart"
+        },
+        {
+          "name": "wealth_score",
+          "params": "yogas"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "\\nSaved to dataset/benchmark_12_computed.json",
+        "benchmark_12_computed.json"
+      ],
+      "outputs": [
+        "dataset/benchmark_12_computed.json"
+      ],
+      "lines": 318
+    },
+    {
+      "id": "compute_dashas",
+      "file": "compute_dashas.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "add_days",
+          "params": "start, years"
+        },
+        {
+          "name": "get_nakshatra",
+          "params": "moon_longitude"
+        },
+        {
+          "name": "compute_mahadasha",
+          "params": "birth_dt, start_lord, balance_years"
+        },
+        {
+          "name": "compute_antardasha",
+          "params": "md_lord, md_start, md_years"
+        }
+      ],
+      "imports": [
+        "datetime"
+      ],
+      "dataset_refs": [
+        "Repo famous_people_birth_data.json",
+        "Repo famous_people_birth_data.json / p1234_classification.json"
+      ],
+      "outputs": [],
+      "lines": 226
+    },
+    {
+      "id": "crossref_200_planet_movements",
+      "file": "crossref_200_planet_movements.py",
+      "category": "cross_reference",
+      "functions": [
+        {
+          "name": "iso",
+          "params": "s"
+        },
+        {
+          "name": "transit",
+          "params": "d"
+        }
+      ],
+      "imports": [
+        "csv,json,os,re,sys",
+        "datetime",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "/summary.json",
+        "/event_transits.csv",
+        "/birth_planet_positions.csv",
+        "outputs/requested_200_biographies/biographies_200.json"
+      ],
+      "outputs": [
+        "/event_transits.csv",
+        "/birth_planet_positions.csv",
+        "/summary.json"
+      ],
+      "lines": 37
+    },
+    {
+      "id": "d9_test",
+      "file": "d9_test.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "navamsa_sign",
+          "params": "sidereal_degree"
+        },
+        {
+          "name": "compute_d9_from_signs_degrees",
+          "params": "signs, degrees"
+        },
+        {
+          "name": "check_d9_parivartana",
+          "params": "d1_signs, d9_signs"
+        }
+      ],
+      "imports": [
+        "math"
+      ],
+      "dataset_refs": [],
+      "outputs": [],
+      "lines": 156
+    },
+    {
+      "id": "dasha_engine",
+      "file": "dasha_engine.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "lahiri_ayanamsa",
+          "params": "jd_ut"
+        },
+        {
+          "name": "add_years_days",
+          "params": "dt, years"
+        },
+        {
+          "name": "get_moon_data",
+          "params": "dt_utc, lat, lon"
+        },
+        {
+          "name": "compute_mahadasha",
+          "params": "birth_dt, start_lord, balance_years"
+        },
+        {
+          "name": "compute_antardasha",
+          "params": "md_lord, md_start, md_years"
+        },
+        {
+          "name": "compute_pratyantar",
+          "params": "ad_lord, ad_start, ad_yrs"
+        }
+      ],
+      "imports": [
+        "skyfield.api",
+        "skyfield.framelib",
+        "datetime",
+        "math"
+      ],
+      "dataset_refs": [],
+      "outputs": [],
+      "lines": 304
+    },
+    {
+      "id": "date_only_nexus",
+      "file": "date_only_nexus.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "jd",
+          "params": "dt"
+        },
+        {
+          "name": "norm",
+          "params": "x"
+        },
+        {
+          "name": "signed_delta",
+          "params": "a,b"
+        },
+        {
+          "name": "sign",
+          "params": "lon"
+        },
+        {
+          "name": "deg",
+          "params": "lon"
+        },
+        {
+          "name": "nak",
+          "params": "lon"
+        },
+        {
+          "name": "angular",
+          "params": "a,b"
+        },
+        {
+          "name": "phase_angle",
+          "params": "sun, moon"
+        },
+        {
+          "name": "phase_name",
+          "params": "p"
+        },
+        {
+          "name": "tithi",
+          "params": "p"
+        },
+        {
+          "name": "yoga",
+          "params": "sun,moon"
+        },
+        {
+          "name": "karana",
+          "params": "p"
+        },
+        {
+          "name": "calc",
+          "params": "julian"
+        },
+        {
+          "name": "aspects",
+          "params": "pl, orb=6"
+        },
+        {
+          "name": "chart_for_date",
+          "params": "date_s"
+        },
+        {
+          "name": "load_people",
+          "params": "path, limit"
+        },
+        {
+          "name": "main",
+          "params": ""
+        }
+      ],
+      "imports": [
+        "__future__",
+        "argparse,",
+        "datetime",
+        "collections",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "people_date_only.csv",
+        "data/births_people.json",
+        "reference_charts_by_date.json",
+        "run_summary.json"
+      ],
+      "outputs": [
+        "people_date_only.csv",
+        "reference_charts_by_date.json",
+        "run_summary.json"
+      ],
+      "lines": 109
+    },
+    {
+      "id": "deep_research_pipeline",
+      "file": "deep_research_pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "get_tz",
+          "params": "p"
+        },
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "compute_chart",
+          "params": "name, bday, place"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "deep_research_groups.json",
+        "\\nSaved \u2192 dataset/deep_research_groups.json"
+      ],
+      "outputs": [
+        "dataset/deep_research_groups.json"
+      ],
+      "lines": 451
+    },
+    {
+      "id": "domain_discrimination_test",
+      "file": "domain_discrimination_test.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "parse_coords",
+          "params": "s"
+        },
+        {
+          "name": "compute_chart",
+          "params": "name, birthday, birth_time, lat, lon, tz_offset"
+        },
+        {
+          "name": "aspect_each_other",
+          "params": "p, a, b"
+        },
+        {
+          "name": "detect_yogas",
+          "params": "chart"
+        },
+        {
+          "name": "nexus_score_v2",
+          "params": "yogas, dignities, key_pos"
+        },
+        {
+          "name": "detect_fraud_signatures",
+          "params": "chart"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "benchmark_10_domain.json",
+        "\\nSaved \u2192 dataset/benchmark_10_domain.json"
+      ],
+      "outputs": [
+        "dataset/benchmark_10_domain.json"
+      ],
+      "lines": 429
+    },
+    {
+      "id": "event_movement_analysis",
+      "file": "event_movement_analysis.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "classify",
+          "params": "t"
+        }
+      ],
+      "imports": [
+        "csv,json,os,sys",
+        "collections",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "research/events/documented_events.csv",
+        "available_events_with_movements.csv",
+        "summary.json"
+      ],
+      "outputs": [
+        "summary.json",
+        "available_events_with_movements.csv"
+      ],
+      "lines": 27
+    },
+    {
+      "id": "expanded_criminal_analysis",
+      "file": "expanded_criminal_analysis.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "place"
+        },
+        {
+          "name": "compute",
+          "params": "c"
+        },
+        {
+          "name": "get_markers",
+          "params": "chart"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/expanded_criminal_validation.json",
+        "expanded_criminal_validation.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/expanded_criminal_validation.json"
+      ],
+      "lines": 458
+    },
+    {
+      "id": "final_groups",
+      "file": "final_groups.py",
+      "category": "research",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "p"
+        },
+        {
+          "name": "compute_chart",
+          "params": "name, bday, place"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "new_groups_summary.json"
+      ],
+      "outputs": [
+        "dataset/new_groups_summary.json"
+      ],
+      "lines": 263
+    },
+    {
+      "id": "final_ingestion",
+      "file": "final_ingestion.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "p"
+        },
+        {
+          "name": "compute_noon",
+          "params": "name, bday, place"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections",
+        "os"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/historical_groups_final.json",
+        "historical_groups_final.json"
+      ],
+      "outputs": [
+        "dataset/historical_groups_final.json"
+      ],
+      "lines": 525
+    },
+    {
+      "id": "final_rerank_career",
+      "file": "final_rerank_career.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute",
+          "params": "c"
+        },
+        {
+          "name": "varga",
+          "params": "d1,div"
+        },
+        {
+          "name": "shrinkhala",
+          "params": "p"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "p1p9_final_career_wealth.json",
+        "\\nSaved to dataset/p1p9_final_career_wealth.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_final_career_wealth.json"
+      ],
+      "lines": 259
+    },
+    {
+      "id": "graphify_validation",
+      "file": "graphify_validation.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "extract_features",
+          "params": "chart, has_houses=True"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "benchmark_10_domain.json",
+        "classical_claims_validation.json",
+        "\\nSaved \u2192 dataset/classical_claims_validation.json",
+        "p1p9_multivarga_reranked.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/classical_claims_validation.json"
+      ],
+      "lines": 474
+    },
+    {
+      "id": "judge_report",
+      "file": "judge_report.py",
+      "category": "research",
+      "functions": [
+        {
+          "name": "load_json",
+          "params": "path"
+        },
+        {
+          "name": "get_planets",
+          "params": "chart"
+        },
+        {
+          "name": "get_asc",
+          "params": "chart"
+        },
+        {
+          "name": "get_houses",
+          "params": "chart"
+        },
+        {
+          "name": "aspect_check",
+          "params": "p, p1, p2"
+        },
+        {
+          "name": "register_combo",
+          "params": "combo_id, yoga_name, classical_source, expected_result, \n                   detection_fn, require_tier='A'"
+        },
+        {
+          "name": "detect_mahapurusha",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_budhaditya",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_gajakesari",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_raja",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_dhana",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_nbry",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_vry",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_parivartana",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_kemadruma",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_kala_sarpa",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_graha_malika",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_dispositor_chain",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_sun_moon_combos",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_benefic_combos",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_malefic_combos",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_warlord",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_debilitated_patterns",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_exalted_patterns",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "detect_combust",
+          "params": "chart, p, houses"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "benchmark_10_domain.json",
+        "varga_dasha_10.json",
+        "\\nReport saved \u2192 dataset/judge_report.json",
+        "p1p9_absolute_final_rerank.json",
+        "judge_report.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/judge_report.json"
+      ],
+      "lines": 729
+    },
+    {
+      "id": "mega_cross_reference",
+      "file": "mega_cross_reference.py",
+      "category": "cross_reference",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "place"
+        },
+        {
+          "name": "compute",
+          "params": "c"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "mega_cross_reference.json",
+        "\\nSaved \u2192 dataset/mega_cross_reference.json"
+      ],
+      "outputs": [
+        "dataset/mega_cross_reference.json"
+      ],
+      "lines": 607
+    },
+    {
+      "id": "nexus_3layer_engine",
+      "file": "nexus_3layer_engine.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute_d1",
+          "params": "c"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1, division"
+        },
+        {
+          "name": "detect_shrinkhala",
+          "params": "p"
+        },
+        {
+          "name": "analyze_chart",
+          "params": "d1, chart_meta"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/p1p9_3layer_analysis.json",
+        "p1p9_3layer_analysis.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_3layer_analysis.json"
+      ],
+      "lines": 421
+    },
+    {
+      "id": "nexus_v2_pipeline",
+      "file": "nexus_v2_pipeline.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "parse_iso",
+          "params": "s"
+        },
+        {
+          "name": "compute_chart",
+          "params": "name, iso, lat, lon"
+        },
+        {
+          "name": "aspect_each_other",
+          "params": "p, a, b"
+        },
+        {
+          "name": "detect_yogas",
+          "params": "chart"
+        },
+        {
+          "name": "nexus_score_v2",
+          "params": "yogas, dignities, key_pos"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "astrodb_out/chart_houses.json"
+      ],
+      "outputs": [],
+      "lines": 412
+    },
+    {
+      "id": "nexus_v3_shrinkhala",
+      "file": "nexus_v3_shrinkhala.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "get_sign_planet_data",
+          "params": "planets_dict"
+        },
+        {
+          "name": "detect_all_shrinkhala",
+          "params": "signs_of"
+        },
+        {
+          "name": "compute_shrinkhala_strength",
+          "params": "loop, planets_dict"
+        },
+        {
+          "name": "load_all_charts",
+          "params": ""
+        },
+        {
+          "name": "compute_noon",
+          "params": "bday, place, lat, lon"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "benchmark_10_domain.json",
+        "varga_dasha_10.json",
+        "shrinkhala_v3_report.json",
+        "deep_research_groups.json",
+        "p1p9_absolute_final_rerank.json",
+        "Saved \u2192 dataset/shrinkhala_v3_report.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/shrinkhala_v3_report.json"
+      ],
+      "lines": 422
+    },
+    {
+      "id": "nexus_v4_benchmark",
+      "file": "nexus_v4_benchmark.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "load_all",
+          "params": ""
+        },
+        {
+          "name": "get_planets",
+          "params": "chart"
+        },
+        {
+          "name": "get_asc",
+          "params": "chart"
+        },
+        {
+          "name": "get_houses",
+          "params": "chart"
+        },
+        {
+          "name": "compute_dignity",
+          "params": "pn, sign"
+        },
+        {
+          "name": "detect_shrinkhala",
+          "params": "p, houses"
+        },
+        {
+          "name": "detect_all_yogas",
+          "params": "chart, p, houses"
+        },
+        {
+          "name": "compute_nas",
+          "params": "chart, p, houses, good_yogas, bad_yogas"
+        },
+        {
+          "name": "classify_outcome",
+          "params": "chart"
+        },
+        {
+          "name": "classify_career",
+          "params": "chart"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "\\nSaved \u2192 dataset/nexus_v4_benchmark.json",
+        "benchmark_10_domain.json",
+        "varga_dasha_10.json",
+        "nexus_v4_benchmark.json",
+        "deep_research_groups.json",
+        "p1p9_absolute_final_rerank.json",
+        "historical_groups_final.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/nexus_v4_benchmark.json"
+      ],
+      "lines": 624
+    },
+    {
+      "id": "nexus_yoga_engine",
+      "file": "nexus_yoga_engine.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "load_all_charts",
+          "params": "dataset_dir=\"/home/user/dataset\""
+        },
+        {
+          "name": "planet_sign",
+          "params": "chart, p"
+        },
+        {
+          "name": "planet_house",
+          "params": "chart, p"
+        },
+        {
+          "name": "planet_dignity",
+          "params": "chart, p"
+        },
+        {
+          "name": "planet_sidereal",
+          "params": "chart, p"
+        },
+        {
+          "name": "d9_sign",
+          "params": "chart, p"
+        },
+        {
+          "name": "d9_dignity",
+          "params": "chart, p"
+        },
+        {
+          "name": "is_exalted",
+          "params": "chart, p"
+        },
+        {
+          "name": "is_debilitated",
+          "params": "chart, p"
+        },
+        {
+          "name": "is_own",
+          "params": "chart, p"
+        },
+        {
+          "name": "house_lord",
+          "params": "chart, house"
+        },
+        {
+          "name": "planets_in_house",
+          "params": "chart, house"
+        },
+        {
+          "name": "mutual_aspect",
+          "params": "chart, p1, p2"
+        },
+        {
+          "name": "conjunct",
+          "params": "chart, p1, p2"
+        },
+        {
+          "name": "process_all",
+          "params": "charts"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "/home/user/analysis/neecha_bhanga_results.json",
+        "/home/user/database/charts_with_yogas_sample.json",
+        "/home/user/analysis/nexus_comparison.json",
+        "/home/user/analysis/yoga_statistics.json",
+        "/home/user/analysis/user_chart_comparison.json"
+      ],
+      "outputs": [
+        "/home/user/analysis/neecha_bhanga_results.json",
+        "/home/user/database/charts_with_yogas_sample.json",
+        "/home/user/analysis/nexus_comparison.json",
+        "/home/user/analysis/yoga_statistics.json",
+        "/home/user/analysis/user_chart_comparison.json"
+      ],
+      "lines": 650
+    },
+    {
+      "id": "outcome_event_movement_pipeline",
+      "file": "outcome_event_movement_pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "dates",
+          "params": "text"
+        },
+        {
+          "name": "add_event",
+          "params": "events,r,field,etype"
+        }
+      ],
+      "imports": [
+        "csv,json,os,re,sys",
+        "datetime",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "/q_candidate_events_with_movements.csv",
+        "outputs/q_people_enriched/q_people_enriched.csv",
+        "/summary.json",
+        "/q_outcome_status.csv",
+        "outputs/q_biographical_wikipedia/q_biographical_details.csv"
+      ],
+      "outputs": [
+        "/q_candidate_events_with_movements.csv",
+        "/q_outcome_status.csv",
+        "/summary.json"
+      ],
+      "lines": 49
+    },
+    {
+      "id": "p1p9_crossref_film",
+      "file": "p1p9_crossref_film.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "get_tz",
+          "params": "p"
+        },
+        {
+          "name": "compute_noon",
+          "params": "name, bday, place"
+        },
+        {
+          "name": "compute_p1p9",
+          "params": ""
+        },
+        {
+          "name": "planet_sign_similarity",
+          "params": "p1_planets, p2_planets"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections",
+        "os,",
+        "os,"
+      ],
+      "dataset_refs": [
+        "\\nSaved \u2192 dataset/film_actor_dataset.json",
+        "nexus_v4_benchmark.json",
+        "film_actor_dataset.json"
+      ],
+      "outputs": [
+        "dataset/film_actor_dataset.json"
+      ],
+      "lines": 344
+    },
+    {
+      "id": "p1p9_multivarga_rerank",
+      "file": "p1p9_multivarga_rerank.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute_d1",
+          "params": "c"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1, division"
+        },
+        {
+          "name": "aspect_each_other",
+          "params": "p, a, b"
+        },
+        {
+          "name": "detect_yogas",
+          "params": "d1"
+        },
+        {
+          "name": "score_wealth",
+          "params": "d1, yogas, vargas"
+        },
+        {
+          "name": "score_power",
+          "params": "d1, yogas, vargas"
+        },
+        {
+          "name": "score_karma",
+          "params": "vargas"
+        },
+        {
+          "name": "score_education",
+          "params": "d1, vargas"
+        },
+        {
+          "name": "get_current_dasha",
+          "params": "d1, ref_year=2026"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "p1p9_multivarga_reranked.json",
+        "\\nSaved \u2192 dataset/p1p9_multivarga_reranked.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_multivarga_reranked.json"
+      ],
+      "lines": 552
+    },
+    {
+      "id": "p1p9_qseries_rematch",
+      "file": "p1p9_qseries_rematch.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "compute_p_planets",
+          "params": "c"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "outputs/all_planets_q_series/q_all_planet_positions.csv",
+        "\\nSaved \u2192 outputs/p1p9_q_series_rematch.json",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "outputs/p1p9_q_series_rematch.json"
+      ],
+      "outputs": [
+        "outputs/p1p9_q_series_rematch.json"
+      ],
+      "lines": 144
+    },
+    {
+      "id": "p_date_only_reanalysis",
+      "file": "p_date_only_reanalysis.py",
+      "category": "utility",
+      "functions": [],
+      "imports": [
+        "csv,json,os",
+        "datetime",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "/p_date_only_positions.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/p_date_only_positions.csv",
+        "/summary.json"
+      ],
+      "lines": 15
+    },
+    {
+      "id": "pipeline",
+      "file": "pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "lahiri_ayanamsa",
+          "params": "jd_ut"
+        },
+        {
+          "name": "get_nakshatra",
+          "params": "lon"
+        },
+        {
+          "name": "get_dignity",
+          "params": "planet, sign"
+        },
+        {
+          "name": "compute_chart",
+          "params": "name, iso_str, lat, lon, city, rodden, gender"
+        }
+      ],
+      "imports": [
+        "json,",
+        "datetime",
+        "collections",
+        "skyfield.api",
+        "skyfield.framelib",
+        "pandas"
+      ],
+      "dataset_refs": [
+        "famous_{start:04d}_{end:04d}.json",
+        "/home/user/research/shrinkhala_candidates.json",
+        "/home/user/research/dasha_database.json",
+        "/home/user/research/validation_report.json",
+        "sources.csv"
+      ],
+      "outputs": [
+        "/home/user/research/shrinkhala_candidates.json",
+        "/home/user/research/dasha_database.json",
+        "/home/user/research/validation_report.json"
+      ],
+      "lines": 362
+    },
+    {
+      "id": "production_pipeline_p1p9",
+      "file": "production_pipeline_p1p9.py",
+      "category": "p_series",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "extract_layer1_archetypes",
+          "params": "d1_signs, d1_houses"
+        },
+        {
+          "name": "extract_layer2_routing_circuits",
+          "params": "d1_houses"
+        },
+        {
+          "name": "detect_shrinkala_loops",
+          "params": "d1_signs"
+        },
+        {
+          "name": "evaluate_mahapurusha_yogas",
+          "params": "d1_signs, d1_houses"
+        },
+        {
+          "name": "evaluate_d10_and_d9_gates",
+          "params": "d10_10L_house, d9_venus_sign"
+        },
+        {
+          "name": "engineer_chart_features",
+          "params": "person_id, d1_signs, d1_houses, d9_signs, d10_10L_house"
+        },
+        {
+          "name": "compute_chart",
+          "params": "c"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1, div"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "p1p9_production_features.json",
+        "\\nSaved \u2192 dataset/p1p9_production_features.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_production_features.json"
+      ],
+      "lines": 229
+    },
+    {
+      "id": "q_all_event_sequence_test",
+      "file": "q_all_event_sequence_test.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "astro",
+          "params": "d"
+        },
+        {
+          "name": "ang",
+          "params": "a,b"
+        },
+        {
+          "name": "stats",
+          "params": "a"
+        }
+      ],
+      "imports": [
+        "csv,json,os,random",
+        "datetime",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "/summary.json",
+        "outputs/all_planets_q_series/q_all_planet_positions.csv",
+        "/controls.csv",
+        "/events.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "/events.csv",
+        "/controls.csv",
+        "/summary.json"
+      ],
+      "lines": 46
+    },
+    {
+      "id": "q_better_sequence_test",
+      "file": "q_better_sequence_test.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "astro",
+          "params": "d"
+        },
+        {
+          "name": "phase",
+          "params": "d,natal_sign,natal_lon"
+        },
+        {
+          "name": "parse",
+          "params": "x"
+        },
+        {
+          "name": "count",
+          "params": "rs"
+        }
+      ],
+      "imports": [
+        "csv,json,os,random",
+        "datetime",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "controls.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json",
+        "events.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "/summary.json"
+      ],
+      "lines": 50
+    },
+    {
+      "id": "q_financial_gochara_pipeline",
+      "file": "q_financial_gochara_pipeline.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,json,os"
+      ],
+      "dataset_refs": [
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json",
+        "outputs/all_planets_q_series/q_all_planet_positions.csv",
+        "/q_financial_features.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "/q_financial_features.csv",
+        "/summary.json"
+      ],
+      "lines": 20
+    },
+    {
+      "id": "q_job_planet_association",
+      "file": "q_job_planet_association.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "bh_adjust",
+          "params": "pvals"
+        },
+        {
+          "name": "group",
+          "params": "s"
+        }
+      ],
+      "imports": [
+        "csv,",
+        "collections",
+        "scipy.stats"
+      ],
+      "dataset_refs": [
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "report.json",
+        "job_group_counts.csv",
+        "outputs/all_planets_q_series/q_all_planet_positions.csv",
+        "planet_job_tests.csv"
+      ],
+      "outputs": [
+        "job_group_counts.csv",
+        "report.json",
+        "planet_job_tests.csv"
+      ],
+      "lines": 41
+    },
+    {
+      "id": "q_saturn_bio_match",
+      "file": "q_saturn_bio_match.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,",
+        "collections"
+      ],
+      "dataset_refs": [
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "outputs/requested_200_biographies/biographies_200.json",
+        "outputs/q_saturn_biography_match.json",
+        "\\nSaved to outputs/q_saturn_biography_match.json",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "outputs/q_saturn_biography_match.json"
+      ],
+      "lines": 125
+    },
+    {
+      "id": "q_saturn_sequence_test",
+      "file": "q_saturn_sequence_test.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "sat",
+          "params": "d"
+        },
+        {
+          "name": "ang",
+          "params": "a,b"
+        },
+        {
+          "name": "asdate",
+          "params": "x"
+        },
+        {
+          "name": "counts",
+          "params": "a"
+        }
+      ],
+      "imports": [
+        "csv,json,os,random,math",
+        "datetime",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "/q_events_saturn_sequence.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json",
+        "/q_controls_saturn_sequence.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv"
+      ],
+      "outputs": [
+        "/q_controls_saturn_sequence.csv",
+        "/q_events_saturn_sequence.csv",
+        "/summary.json"
+      ],
+      "lines": 38
+    },
+    {
+      "id": "q_saturn_sign_cycle_outcome_test",
+      "file": "q_saturn_sign_cycle_outcome_test.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,json,os",
+        "collections"
+      ],
+      "dataset_refs": [
+        "/events_by_natal_saturn_sign.csv",
+        "outputs/q_better_sequence_test/events.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/events_by_natal_saturn_sign.csv",
+        "/summary.json"
+      ],
+      "lines": 22
+    },
+    {
+      "id": "q_saturn_wide_window_test",
+      "file": "q_saturn_wide_window_test.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,json,os",
+        "datetime",
+        "collections"
+      ],
+      "dataset_refs": [
+        "/events.csv",
+        "outputs/saturn_same_sign_passages/all_passages.csv",
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/events.csv",
+        "/summary.json"
+      ],
+      "lines": 31
+    },
+    {
+      "id": "q_unified_discovery",
+      "file": "q_unified_discovery.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,json,os,math",
+        "scipy.stats"
+      ],
+      "dataset_refs": [
+        "/summary.json",
+        "/feature_rankings.csv",
+        "outputs/q_all_event_sequence_test/controls.csv",
+        "outputs/q_all_event_sequence_test/events.csv"
+      ],
+      "outputs": [
+        "/feature_rankings.csv",
+        "/summary.json"
+      ],
+      "lines": 18
+    },
+    {
+      "id": "q_yearly_transit_event_timeline",
+      "file": "q_yearly_transit_event_timeline.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "calc",
+          "params": "d"
+        }
+      ],
+      "imports": [
+        "csv,json,os,gzip",
+        "datetime",
+        "collections",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "outputs/outcome_event_movement/q_candidate_events_with_movements.csv",
+        "outputs/saturn_returns_q_series/q_saturn_returns.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/summary.json"
+      ],
+      "lines": 47
+    },
+    {
+      "id": "rank_swiss",
+      "file": "rank_swiss.py",
+      "category": "core_engine",
+      "functions": [],
+      "imports": [
+        "json"
+      ],
+      "dataset_refs": [
+        "\\nSaved to dataset/p1p9_swiss_ranked.json",
+        "p1p9_swiss_ranked.json",
+        "p1p9_swiss.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_swiss_ranked.json"
+      ],
+      "lines": 118
+    },
+    {
+      "id": "recompute_p1p7",
+      "file": "recompute_p1p7.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "lahiri_ayanamsa",
+          "params": "jd_ut"
+        },
+        {
+          "name": "get_moon_geocentric",
+          "params": "birth_utc, lat, lon"
+        },
+        {
+          "name": "add_years_days",
+          "params": "dt, years"
+        },
+        {
+          "name": "compute_mahadasha",
+          "params": "birth_dt, start_lord, balance_years"
+        },
+        {
+          "name": "compute_antardasha",
+          "params": "md_start, md_years"
+        },
+        {
+          "name": "compute_pratyantar",
+          "params": "ad_start, ad_yrs"
+        },
+        {
+          "name": "find_current",
+          "params": "dt_utc, md_list"
+        }
+      ],
+      "imports": [
+        "json,",
+        "datetime"
+      ],
+      "dataset_refs": [],
+      "outputs": [],
+      "lines": 342
+    },
+    {
+      "id": "saturn_return_q_series",
+      "file": "saturn_return_q_series.py",
+      "category": "q_series_saturn",
+      "functions": [
+        {
+          "name": "ang",
+          "params": "a,b"
+        },
+        {
+          "name": "sat_lon",
+          "params": "ds"
+        },
+        {
+          "name": "find_return",
+          "params": "birth, natal_lon, lo, hi"
+        },
+        {
+          "name": "main",
+          "params": ""
+        }
+      ],
+      "imports": [
+        "csv,",
+        "datetime",
+        "date_only_nexus",
+        "swisseph"
+      ],
+      "dataset_refs": [
+        "run_summary.json",
+        "data/births_people.json",
+        "q_saturn_returns.json",
+        "q_saturn_returns.csv"
+      ],
+      "outputs": [
+        "q_saturn_returns.csv",
+        "q_saturn_returns.json",
+        "run_summary.json"
+      ],
+      "lines": 60
+    },
+    {
+      "id": "saturn_transit_event_screen",
+      "file": "saturn_transit_event_screen.py",
+      "category": "q_series_saturn",
+      "functions": [],
+      "imports": [
+        "csv,",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "research/events/documented_events.csv",
+        "outputs/saturn_transit_event_screen.csv"
+      ],
+      "outputs": [],
+      "lines": 13
+    },
+    {
+      "id": "shrinkhala_engine",
+      "file": "shrinkhala_engine.py",
+      "category": "yoga_engine",
+      "functions": [],
+      "imports": [
+        "json",
+        "csv",
+        "datetime",
+        "typing",
+        "random",
+        "os"
+      ],
+      "dataset_refs": [
+        "{out_dir}/shrinkhala_stats.json",
+        "{out_dir}/shrinkhala_results.csv"
+      ],
+      "outputs": [
+        "{out_dir}/shrinkhala_stats.json",
+        "{out_dir}/shrinkhala_results.csv"
+      ],
+      "lines": 329
+    },
+    {
+      "id": "shrinkhala_nbry_detector",
+      "file": "shrinkhala_nbry_detector.py",
+      "category": "yoga_engine",
+      "functions": [
+        {
+          "name": "get_sign",
+          "params": "pn, chart"
+        },
+        {
+          "name": "detect_shrinkhala",
+          "params": "planets_data"
+        },
+        {
+          "name": "detect_nbry",
+          "params": "chart"
+        },
+        {
+          "name": "detect_parivartana",
+          "params": "planets_data"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections"
+      ],
+      "dataset_refs": [
+        "benchmark_12_nexus_v2.json",
+        "celebrity_112_nexus_v2.json",
+        "\\nSaved \u2192 dataset/shrinkhala_nbry_report.json",
+        "benchmark_10_domain.json",
+        "p1p9_absolute_final_rerank.json",
+        "shrinkhala_nbry_report.json",
+        "billionaire_noon_analysis.json"
+      ],
+      "outputs": [
+        "dataset/shrinkhala_nbry_report.json"
+      ],
+      "lines": 422
+    },
+    {
+      "id": "sri_lanka_gochara_benchmark",
+      "file": "sri_lanka_gochara_benchmark.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "from_moon",
+          "params": "moon,planet"
+        }
+      ],
+      "imports": [
+        "json,os,sys",
+        "date_only_nexus"
+      ],
+      "dataset_refs": [
+        "outputs/sri_lanka_gochara/sri_lanka_gochara_benchmark.json"
+      ],
+      "outputs": [
+        "outputs/sri_lanka_gochara/sri_lanka_gochara_benchmark.json"
+      ],
+      "lines": 19
+    },
+    {
+      "id": "statistical_validation",
+      "file": "statistical_validation.py",
+      "category": "validation",
+      "functions": [
+        {
+          "name": "summary",
+          "params": "label, vec"
+        },
+        {
+          "name": "mann_whitney_u",
+          "params": "a, b, alternative='greater'"
+        },
+        {
+          "name": "spearman_r",
+          "params": "x, y"
+        }
+      ],
+      "imports": [
+        "json,",
+        "collections"
+      ],
+      "dataset_refs": [
+        "nexus_v4_benchmark.json"
+      ],
+      "outputs": [],
+      "lines": 211
+    },
+    {
+      "id": "swiss_pipeline",
+      "file": "swiss_pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute",
+          "params": "name, iso, lat, lon"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "\\nSaved dataset/p1p9_swiss_ranked.json",
+        "p1p9_swiss_ranked.json"
+      ],
+      "outputs": [
+        "dataset/p1p9_swiss_ranked.json"
+      ],
+      "lines": 250
+    },
+    {
+      "id": "varga_dasha_pipeline",
+      "file": "varga_dasha_pipeline.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute_d1",
+          "params": "name, birthday, birth_time, lat, lon, tz_offset"
+        },
+        {
+          "name": "compute_varga",
+          "params": "d1_chart, varga_name, division"
+        },
+        {
+          "name": "analyze_varga",
+          "params": "varga_chart, d1_chart, varga_name"
+        },
+        {
+          "name": "compute_dasha_timeline",
+          "params": "moon_nakshatra, birth_date, birth_time, tz_offset"
+        },
+        {
+          "name": "get_dasha_at_date",
+          "params": "d1_chart, event_year"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "json,",
+        "datetime",
+        "collections",
+        "collections"
+      ],
+      "dataset_refs": [
+        "varga_dasha_10.json",
+        "\\nSaved \u2192 dataset/varga_dasha_10.json"
+      ],
+      "outputs": [
+        "dataset/varga_dasha_10.json"
+      ],
+      "lines": 647
+    },
+    {
+      "id": "vedic_chart_parser",
+      "file": "vedic_chart_parser.py",
+      "category": "core_engine",
+      "functions": [
+        {
+          "name": "main",
+          "params": ""
+        }
+      ],
+      "imports": [
+        "json",
+        "re",
+        "typing",
+        "datetime",
+        "dataclasses"
+      ],
+      "dataset_refs": [
+        "\\n\u2705 Report saved to: final_analysis_report.json",
+        "verified_birth_chart_1997.json",
+        "final_analysis_report.json"
+      ],
+      "outputs": [
+        "final_analysis_report.json"
+      ],
+      "lines": 339
+    },
+    {
+      "id": "verified_15_analysis",
+      "file": "verified_15_analysis.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "gn",
+          "params": "lon"
+        },
+        {
+          "name": "dg",
+          "params": "p,s"
+        },
+        {
+          "name": "compute",
+          "params": "c"
+        },
+        {
+          "name": "varga",
+          "params": "d1,div"
+        },
+        {
+          "name": "shrinkhala",
+          "params": "p"
+        }
+      ],
+      "imports": [
+        "swisseph",
+        "datetime"
+      ],
+      "dataset_refs": [
+        "verified_15_tier_a.json",
+        "\\nSaved \u2192 dataset/verified_15_tier_a.json"
+      ],
+      "outputs": [
+        "dataset/verified_15_tier_a.json"
+      ],
+      "lines": 217
+    },
+    {
+      "id": "wikipedia_biography_collector",
+      "file": "wikipedia_biography_collector.py",
+      "category": "utility",
+      "functions": [
+        {
+          "name": "title",
+          "params": "url,name"
+        },
+        {
+          "name": "clean",
+          "params": "v"
+        },
+        {
+          "name": "infobox",
+          "params": "text"
+        },
+        {
+          "name": "api_batch",
+          "params": "titles"
+        }
+      ],
+      "imports": [
+        "csv,json,os,re,time,requests",
+        "urllib.parse"
+      ],
+      "dataset_refs": [
+        "/wikipedia_raw_cache.json",
+        "data/births_people.json",
+        "/q_biographical_details.csv",
+        "/summary.json"
+      ],
+      "outputs": [
+        "/summary.json"
+      ],
+      "lines": 64
+    }
+  ],
+  "edges": [
+    {
+      "from": "production_pipeline_p1p9",
+      "to": "p1p9_production_features.json",
+      "type": "generates"
+    },
+    {
+      "from": "final_rerank_career",
+      "to": "p1p9_final_career_wealth.json",
+      "type": "generates"
+    },
+    {
+      "from": "calibrated_rerank",
+      "to": "p1p9_calibrated_final.json",
+      "type": "generates"
+    },
+    {
+      "from": "absolute_final_rerank",
+      "to": "p1p9_absolute_final_rerank.json",
+      "type": "generates"
+    },
+    {
+      "from": "compute_12_benchmark",
+      "to": "benchmark_12_computed.json",
+      "type": "generates"
+    },
+    {
+      "from": "nexus_v2_pipeline",
+      "to": "celebrity_112_nexus_v2.json",
+      "type": "generates"
+    },
+    {
+      "from": "nexus_v2_pipeline",
+      "to": "benchmark_12_nexus_v2.json",
+      "type": "generates"
+    },
+    {
+      "from": "nexus_v3_shrinkhala",
+      "to": "shrinkhala_v3_report.json",
+      "type": "generates"
+    },
+    {
+      "from": "nexus_v4_benchmark",
+      "to": "nexus_v4_benchmark.json",
+      "type": "generates"
+    },
+    {
+      "from": "nexus_3layer_engine",
+      "to": "p1p9_3layer_analysis.json",
+      "type": "generates"
+    },
+    {
+      "from": "varga_dasha_pipeline",
+      "to": "varga_dasha_10.json",
+      "type": "generates"
+    },
+    {
+      "from": "deep_research_pipeline",
+      "to": "deep_research_groups.json",
+      "type": "generates"
+    },
+    {
+      "from": "verified_15_analysis",
+      "to": "verified_15_tier_a.json",
+      "type": "generates"
+    },
+    {
+      "from": "shrinkhala_nbry_detector",
+      "to": "shrinkhala_nbry_report.json",
+      "type": "generates"
+    },
+    {
+      "from": "mega_cross_reference",
+      "to": "mega_cross_reference.json",
+      "type": "generates"
+    },
+    {
+      "from": "billionaire_vs_criminal",
+      "to": "billionaire_vs_criminal_stats.json",
+      "type": "generates"
+    },
+    {
+      "from": "expanded_criminal_analysis",
+      "to": "expanded_criminal_validation.json",
+      "type": "generates"
+    },
+    {
+      "from": "domain_discrimination_test",
+      "to": "benchmark_10_domain.json",
+      "type": "generates"
+    },
+    {
+      "from": "career_wealth_grouper",
+      "to": "career_wealth_map.json",
+      "type": "generates"
+    },
+    {
+      "from": "final_groups",
+      "to": "historical_groups_final.json",
+      "type": "generates"
+    },
+    {
+      "from": "judge_report",
+      "to": "judge_report.json",
+      "type": "generates"
+    },
+    {
+      "from": "graphify_validation",
+      "to": "classical_claims_validation.json",
+      "type": "generates"
+    },
+    {
+      "from": "swiss_pipeline",
+      "to": "p1p9_swiss_ranked.json",
+      "type": "generates"
+    },
+    {
+      "from": "p1p9_multivarga_rerank",
+      "to": "p1p9_multivarga_reranked.json",
+      "type": "generates"
+    },
+    {
+      "from": "p1p9_crossref_film",
+      "to": "film_actor_dataset.json",
+      "type": "generates"
+    }
+  ],
+  "datasets": [
+    {
+      "file": "benchmark_10_domain.json",
+      "size_kb": 32.7
+    },
+    {
+      "file": "benchmark_12_computed.json",
+      "size_kb": 33.3
+    },
+    {
+      "file": "benchmark_12_nexus_v2.json",
+      "size_kb": 36.9
+    },
+    {
+      "file": "benchmark_marriage.json",
+      "size_kb": 2.2
+    },
+    {
+      "file": "benchmark_results.json",
+      "size_kb": 4.7
+    },
+    {
+      "file": "billionaire_noon_analysis.json",
+      "size_kb": 174.0
+    },
+    {
+      "file": "billionaire_vs_criminal_stats.json",
+      "size_kb": 1.0
+    },
+    {
+      "file": "career_wealth_map.json",
+      "size_kb": 9.2
+    },
+    {
+      "file": "celebrity_112_nexus_v2.json",
+      "size_kb": 344.0
+    },
+    {
+      "file": "classical_claims_validation.json",
+      "size_kb": 6.8
+    },
+    {
+      "file": "deep_research_groups.json",
+      "size_kb": 17.5
+    },
+    {
+      "file": "definitive_crossref_all_sources.json",
+      "size_kb": 2.0
+    },
+    {
+      "file": "expanded_criminal_validation.json",
+      "size_kb": 14.5
+    },
+    {
+      "file": "film_actor_dataset.json",
+      "size_kb": 9.3
+    },
+    {
+      "file": "historical_groups_final.json",
+      "size_kb": 54.5
+    },
+    {
+      "file": "judge_report.json",
+      "size_kb": 3.1
+    },
+    {
+      "file": "mega_cross_reference.json",
+      "size_kb": 20.2
+    },
+    {
+      "file": "new_batch_inventory.json",
+      "size_kb": 0.1
+    },
+    {
+      "file": "new_groups_summary.json",
+      "size_kb": 11.3
+    },
+    {
+      "file": "nexus_unified_master.json",
+      "size_kb": 592.8
+    },
+    {
+      "file": "nexus_unified_master.json.gz",
+      "size_kb": 55.2
+    },
+    {
+      "file": "nexus_unified_master.tar.gz",
+      "size_kb": 57.0
+    },
+    {
+      "file": "nexus_v4_benchmark.json",
+      "size_kb": 429.2
+    },
+    {
+      "file": "p1p8_computed.json",
+      "size_kb": 15.8
+    },
+    {
+      "file": "p1p9_3layer_analysis.json",
+      "size_kb": 23.6
+    },
+    {
+      "file": "p1p9_absolute_final_rerank.json",
+      "size_kb": 84.8
+    },
+    {
+      "file": "p1p9_calibrated_final.json",
+      "size_kb": 32.5
+    },
+    {
+      "file": "p1p9_definitive_crossref.json",
+      "size_kb": 4.8
+    },
+    {
+      "file": "p1p9_final_career_wealth.json",
+      "size_kb": 5.5
+    },
+    {
+      "file": "p1p9_income_routing.json",
+      "size_kb": 0.0
+    },
+    {
+      "file": "p1p9_life_dimensions.json",
+      "size_kb": 3.3
+    },
+    {
+      "file": "p1p9_multivarga_reranked.json",
+      "size_kb": 84.6
+    },
+    {
+      "file": "p1p9_production_features.json",
+      "size_kb": 4.0
+    },
+    {
+      "file": "p1p9_swiss_ranked.json",
+      "size_kb": 34.4
+    },
+    {
+      "file": "p8_lakshi_amma.json",
+      "size_kb": 4.0
+    },
+    {
+      "file": "p9_chart.json",
+      "size_kb": 2.3
+    },
+    {
+      "file": "p9_computed.json",
+      "size_kb": 4.8
+    },
+    {
+      "file": "p9_corrected_aries.json",
+      "size_kb": 1.0
+    },
+    {
+      "file": "scholars_200_saturn.json",
+      "size_kb": 36.8
+    },
+    {
+      "file": "shrinkhala_nbry_report.json",
+      "size_kb": 27.2
+    },
+    {
+      "file": "shrinkhala_v3_report.json",
+      "size_kb": 7.4
+    },
+    {
+      "file": "stacked_all_batches.json",
+      "size_kb": 3.3
+    },
+    {
+      "file": "stacked_definitive.json",
+      "size_kb": 4.5
+    },
+    {
+      "file": "stacked_ranking_p1p9_tech.json",
+      "size_kb": 2.0
+    },
+    {
+      "file": "varga_dasha_10.json",
+      "size_kb": 83.1
+    },
+    {
+      "file": "verified_15_tier_a.json",
+      "size_kb": 5.7
+    },
+    {
+      "file": "writer_dataset.json",
+      "size_kb": 0.1
+    }
+  ],
+  "reports": [],
+  "categories": {
+    "core_engine": 10,
+    "cross_reference": 2,
+    "p_series": 8,
+    "q_series_saturn": 15,
+    "research": 2,
+    "utility": 10,
+    "validation": 9,
+    "yoga_engine": 8
+  }
+}
