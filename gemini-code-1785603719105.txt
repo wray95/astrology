@@ -1,0 +1,6 @@
+Analyze the uploaded dataset of famous figures, historical milestones, and their Lahiri-system Saturn transits. Please provide the following structured insights based strictly on the provided text:
+
+1. Transit Pattern Distribution: Count and list the frequency of each event pattern classification (e.g., Trine, Square, Pre-Ingress Window, Return Window, Opposition, Sextile).
+2. House and Sign Trends: Identify which Saturn houses (Bhava) and natal/transit signs appear most frequently among these major life milestones.
+3. Category Correlations: Group the figures by profession categories (e.g., World Leaders, Technology Founders, Scientists, Artists) and summarize which Saturn transit patterns dominate specific fields.
+4. Key Takeaway: Summarize any noticeable statistical correlations between Saturn transit geometry and the timing of major career peaks based on this data.
