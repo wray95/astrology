@@ -1,0 +1,637 @@
+{
+ "n": 112,
+ "chart_flips_10m": 4,
+ "chart_flips_30m": 5,
+ "planet_stats": {
+  "Sun": {
+   "10m": 0,
+   "30m": 0
+  },
+  "Moon": {
+   "10m": 3,
+   "30m": 4
+  },
+  "Mars": {
+   "10m": 0,
+   "30m": 0
+  },
+  "Mercury": {
+   "10m": 1,
+   "30m": 1
+  },
+  "Jupiter": {
+   "10m": 0,
+   "30m": 0
+  },
+  "Venus": {
+   "10m": 0,
+   "30m": 0
+  },
+  "Saturn": {
+   "10m": 0,
+   "30m": 0
+  }
+ },
+ "per_chart": [
+  {
+   "name": "Leonardo DiCaprio",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Taylor Swift",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Oprah Winfrey",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Dwayne Johnson",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Shakira",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Cristiano Ronaldo",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Lionel Messi",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Serena Williams",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Tiger Woods",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Michael Phelps",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Usain Bolt",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Neymar Jr",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Virat Kohli",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "LeBron James",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Kobe Bryant",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Muhammad Ali",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Pele",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Diego Maradona",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Jennifer Aniston",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Angelina Jolie",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Brad Pitt",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Johnny Depp",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Will Smith",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Tom Cruise",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Meryl Streep",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Denzel Washington",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Morgan Freeman",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Tom Hanks",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Steven Spielberg",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "James Cameron",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Quentin Tarantino",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Martin Scorsese",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Christopher Nolan",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Paul McCartney",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "John Lennon",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "George Harrison",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Ringo Starr",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Bob Dylan",
+   "flips_10m": {
+    "Mercury": [
+     2,
+     1
+    ]
+   },
+   "flips_30m": {
+    "Mercury": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "name": "Winston Churchill",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Adolf Hitler",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Vladimir Lenin",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Joseph Stalin",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Benito Mussolini",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Dwight D. Eisenhower",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "John F. Kennedy",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Ronald Reagan",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Margaret Thatcher",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Indira Gandhi",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Jawaharlal Nehru",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Rosa Parks",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Martin Luther King Jr",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Malcolm X",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Anne Frank",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Helen Keller",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Gianluigi Buffon",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Zinedine Zidane",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Ronaldinho",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Ronaldo",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Roger Federer",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Rafael Nadal",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Novak Djokovic",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Martina Navratilova",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Venus Williams",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Sachin Tendulkar",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Ricky Ponting",
+   "flips_10m": {
+    "Moon": [
+     9,
+     10
+    ]
+   },
+   "flips_30m": {
+    "Moon": [
+     9,
+     10
+    ]
+   }
+  },
+  {
+   "name": "Steve Smith",
+   "flips_10m": {
+    "Moon": [
+     10,
+     11
+    ]
+   },
+   "flips_30m": {
+    "Moon": [
+     10,
+     11
+    ]
+   }
+  },
+  {
+   "name": "Wasim Akram",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Brian Lara",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Viv Richards",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Imran Khan",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Shane Warne",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Elon Musk",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Bill Gates",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Jeff Bezos",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Steve Jobs",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Mark Zuckerberg",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Larry Page",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Sergey Brin",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Jack Ma",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Satya Nadella",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Tim Cook",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Sundar Pichai",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Sheryl Sandberg",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Susan Wojcicki",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Marissa Mayer",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Bob Iger",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Mary Barra",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Jamie Dimon",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Lloyd Blankfein",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Warren Buffett",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Mukesh Ambani",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Beyonce",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Albert Einstein",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Stephen Hawking",
+   "flips_10m": {},
+   "flips_30m": {
+    "Moon": [
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "name": "Marie Curie",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Donald Trump",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Barack Obama",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "John D. Rockefeller",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Stan Lee",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "flips_10m": {
+    "Moon": [
+     4,
+     3
+    ]
+   },
+   "flips_30m": {
+    "Moon": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "name": "Abraham Lincoln",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Nelson Mandela",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Walt Disney",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Henry Ford",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Michael Jackson",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "A.P.J. Abdul Kalam",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Polgahawela Bappa",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Upulakshi",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Senith",
+   "flips_10m": {},
+   "flips_30m": {}
+  },
+  {
+   "name": "Niromi",
+   "flips_10m": {},
+   "flips_30m": {}
+  }
+ ]
+}

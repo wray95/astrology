@@ -507,3 +507,14 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **NEW FINDING:** position-source discrepancy — engine PD uses Colombo (6.9355,79.8487,+5.5) for Senath; Turn-21 Drik link defaulted to Houston → Moon Δ = −103 arcmin → D9 Moon Cancer (link) vs Gemini (engine). Flagged for user to confirm Senath's true birth place/time.
 - **P1–P4 historical D9 (Turn 6-7, astrologylover method):** NOT overwritten (standing rule). Documented: 20/28 planet-D9 signs differ vs locked BPHS. User decides whether to re-derive.
 - **Deliverables:** scripts/varga_conventions.py, patched senath_recompute.py (wrote astrodb_out/senath_recomputed.json), report resolution section appended.
+
+## Turn 2026-08-02 (Agent session, 9th) — external architectural review: save + verify + quick wins
+- **Command:** user pasted external BRUTAL ARCHITECTURAL REVIEW (scores: arch 4/10, ML 3/10, DB 2/10, scal 1/10; label bottleneck fatal; yoga-presence ≠ prediction; synthetic useless; no causal framework; dasha orphaned; roadmap v5→v10).
+- **Saved verbatim:** reports/ARCHITECTURAL_REVIEW_external_2026-08-02.md. Response: reports/review_response_grounded.md.
+- **Verified claims against repo:**
+  - Rodden audit: 111 charted = 107 UNKNOWN + 4 B → **0 AA/A**; AA/A core = 14 (celebs). Confirms label/reliability crisis.
+  - FDR (NEW): 15 hypotheses, 4 raw p<0.05 → **0 survive BH q=0.05**, 3 survive q=0.10 (Gaj-Kesari→wealth, Shrinkhala→wealth, Shrinkhala-len→wealth). Downgrade "MODERATE/STRONG" labels to suggestive.
+  - Birth-time jitter (NEW): scripts/birthtime_jitter_sensitivity.py on all 112 charted (SE Lahiri ±10/±30 min): **±10m 4% flip ≥1 sign, ±30m 5%**; only Moon/Mercury flip; never >1 planet. Noise floor is LOW — Drik source-wobble (62% boundary-flagged) is the bigger risk, not birth-time error.
+- **Nuances:** one survival analysis exists (Cox Shrinkhala→Saturn return HR=3.88) — right family, wrong-event focus; Astro-Databank blocked from sandbox (user-side); ayanamsa already verified (not a risk).
+- **Do-now list (this workspace):** downgrade hypothesis labels per FDR; KM curves (lifelines); experiment registry skeleton; DuckDB/Parquet scaffold; provenance table.
+- **User-side blockers:** outcome labels (100×20 events — THE #1), AA/A data access, birth-time verification of 107, synthetic-chart decision, Senath birthplace confirmation.
