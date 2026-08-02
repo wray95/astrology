@@ -54,3 +54,38 @@
 - The P-series **marriage** axis is robust to convention choice (mult == user's link convention).
 - The **children** axis and the **navamsa**-dependent outputs (vargottama, D9 dignity) are **convention-dependent** and must be locked to one documented convention.
 - The **Cox "direction signal"** should not be cited as evidence yet — it's n=12, p=0.62, 2-person group, LOO-unstable.
+
+## RESOLUTION (2026-08-02, same session) — convention locked + outliers fixed
+
+### Decision: multiplication method (= BPHS movable/fixed/dual) is THE repo convention
+- Created **`scripts/varga_conventions.py`** — single source of truth (`varga_sign(lon, N)`), self-tested against the BPHS D9 table (ALL 12 signs OK).
+- Rationale: it is what the NEXUS engine (`p_update.py`) AND the ML matrices (`build_v4_matrix.py`, 6,520 charts) already use; locking it changes zero engine outputs; D9 matches classical BPHS exactly.
+
+### Fix applied: `scripts/senath_recompute.py`
+- `d9_sign()` changed from odd/even-REVERSE → locked convention (via varga_conventions). The reverse variant was an internal outlier that matched NEITHER the engine NOR the user's astrologylover.com link method.
+- **Senath D9 deltas (link data, locked convention vs Turn 25/26):**
+  | Point | Turn 25/26 (reverse) | Locked BPHS |
+  |---|---|---|
+  | Lagna D9 | Gemini/Leo | **Aquarius** |
+  | Moon D9 | Gemini | **Cancer** |
+  | Mars D9 | Capricorn | **Taurus** |
+  | Saturn D9 | Pisces | **Pisces** (unchanged) |
+  | Sun D9 | Sagittarius | Sagittarius (unchanged) |
+  - **Vargottama conclusion UNCHANGED: no planet vargottama** (incl. Sun — the Turn-25 "Sun vargottama" was already nulled by Turn-26's recompute).
+
+### NEW finding — position-source discrepancy for Senath (flag for user)
+- Engine PD records Senath at **Colombo (6.9355, 79.8487, tz +5.5), 16:08:40 local**.
+- The Turn-21 Drik LINK defaulted to **Houston, TX** (known proxy) → Moon Cap 20.873°.
+- Swiss Ephemeris (Colombo, 16:08:40 IST) → Moon **Cap 19.152°** → **Δ = −103 arcmin (≈3.5 h of Moon motion)**.
+- Consequence: D9 Moon = Cancer (link data) vs Gemini (engine data). Engine is likely the correct *person* data (real birthplace); the link was the proxy. **User should confirm Senath's true birth place/time** — until then both exist in the repo with different D9 outcomes.
+- This is NOT a convention issue — it is a position-source issue, and both sides are internally consistent.
+
+### P1–P4 historical D9 (Turn 6–7) — documented, NOT overwritten
+- Per the standing "do not change my system" rule, the P1–P4 D9 analyses (d9_shrinkala.py, user's astrologylover.com method: odd→same, even→9th) are left as-is.
+- Comparison vs locked BPHS on real degree data: **20/28 planet-D9 signs differ** (P1: 4, P2: 6, P3: 6, P4: 4). Examples: P1 Venus D9 Virgo→Capricorn; P2 Jupiter D9 Aquarius→Gemini; P3 Moon D9 Pisces→Cancer; P4 Saturn D9 Aquarius→Libra.
+- **Decision needed from user:** re-derive P1–P4 D9 (loops, dignity, vargottama) under the locked BPHS convention, or keep the link-method D9 as the P1–P4 standard (it is a legitimate classical variant) — the two cannot both be "the repo's D9".
+
+### Going forward
+- All NEW varga computation: use `scripts/varga_conventions.py`.
+- The P-series marriage (D7) axis: stable under every convention tested.
+- The children (D5) axis: locked to engine convention; scores already reflect it.

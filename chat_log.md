@@ -499,3 +499,11 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **Finding 2:** Cox "direction signal" fragile — 13 rows = 12 unique (Simone Biles DUPLICATED); kendra group n=2; Mann-Whitney p=0.62; LOO 1/13 flips direction; commit msg n=13 vs json n=10 (3 inconsistent counts). 7/7 marriage ages spot-checked accurate.
 - **Deliverables:** reports/divisional_convention_validation.md, scripts/validate_divisional_convention.py, scripts/divisional_score_impact.py, dataset/divisional_convention_audit.json, dataset/divisional_score_impact.json. Installed pyswisseph 2.10.03 (needed to run p_update).
 - **Recommendations:** lock ONE convention repo-wide (state it in p_update.py); recompute P5 D9 consistently; reframe Cox as hypothesis-generation; dedupe labels; 50+ labels with real birth times needed.
+
+## Turn 2026-08-02 (Agent session, 8th) — convention fix implemented
+- **Command:** "yes" (to fixing the divisional convention inconsistency).
+- **Chosen convention:** multiplication method (= BPHS movable/fixed/dual) — matches engine (p_update.py) + ML matrices (build_v4_matrix.py) exactly; D9 verified vs BPHS table for all 12 signs. Created `scripts/varga_conventions.py` as single source of truth.
+- **Fixed:** `scripts/senath_recompute.py` d9_sign → locked convention (was odd/even-REVERSE, an outlier vs BOTH engine and user's link method). Senath D9 deltas: Lagna Leo→Aquarius, Moon Gemini→Cancer, Mars Capricorn→Taurus; no vargottama either way (conclusion unchanged).
+- **NEW FINDING:** position-source discrepancy — engine PD uses Colombo (6.9355,79.8487,+5.5) for Senath; Turn-21 Drik link defaulted to Houston → Moon Δ = −103 arcmin → D9 Moon Cancer (link) vs Gemini (engine). Flagged for user to confirm Senath's true birth place/time.
+- **P1–P4 historical D9 (Turn 6-7, astrologylover method):** NOT overwritten (standing rule). Documented: 20/28 planet-D9 signs differ vs locked BPHS. User decides whether to re-derive.
+- **Deliverables:** scripts/varga_conventions.py, patched senath_recompute.py (wrote astrodb_out/senath_recomputed.json), report resolution section appended.

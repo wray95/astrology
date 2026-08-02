@@ -36,12 +36,19 @@ SHRAVANA_START = 280.0                # Capricorn 10deg = 280.0
 NAKSH_MOON = "Shravana"; NAKSH_LORD = "Moon"
 
 def d9_sign(lon):
-    s = int(lon//30) % 12; d = lon % 30
-    n = int(d // (30.0/9.0))
-    if s % 2 == 0:   # odd sign (Aries=0): forward
-        return (s + n) % 12, n
-    else:            # even sign: reverse
-        return (s - n) % 12, n
+    """Navamsa sign index + navamsa number, LOCKED to the repo convention.
+
+    Convention (2026-08-02, validation pass): multiplication method == BPHS
+    movable/fixed/dual, see scripts/varga_conventions.py (SINGLE SOURCE OF
+    TRUTH). NOTE: this REPLACES the earlier odd/even-REVERSE variant used in
+    Turn 25/26, which disagreed with both the NEXUS engine (p_update.py) and
+    the user's astrologylover.com link method. Re-derive vargottama/other
+    conclusions accordingly (see reports/divisional_convention_validation.md).
+    """
+    from varga_conventions import varga_index
+    d9_idx = varga_index(lon, 9)
+    n = int((lon % 30) // (30.0 / 9.0))          # navamsa number 0-8
+    return d9_idx, n
 
 def lon_of(sign, deg): return SIGNS.index(sign)*30 + deg
 
