@@ -30,17 +30,25 @@
 ## ŚRṅKHALĀ BOND-STRENGTH (jyotishvidya) — applied Turn 11
 Parivartana=100, 3-loop=50, 4-loop=33, 5-loop=25; "only 3-loop meaningful, ignore 4/5." → **Bond rank: P2(1) > P1(2) > P3(3) > P4(4).** REVERSES old §14 (which had P3 #1 via 5-loop).
 
-## 20-CELEBRITY RESEARCH (Batch 1 = 3/20 done)
-- **Obama** → 3-loop Moon→Ven→Mer (50) — TOP president ✓.
-- **Rockefeller** → **4-loop** Mer→Moon→Ven→Sun (33) — TOP billionaire (NOT 5-loop).
-- **Stan Lee** → **NO loop** (Venus own Taurus self-loop) — TOP comics.
-- Remaining 17: Musk, Gates, Bezos, Jobs, Einstein, Buffett, Zuckerberg, Tendulkar, Ambani, Gandhi, Lincoln, Mandela, Disney, Ford, Oprah, Jackson, Kalam.
+## 20-CELEBRITY RESEARCH — COMPLETE (20/20 + P1–P4/Senith = 24-chart DB, Turns 14–15)
+- **Obama** → 3-loop Moon→Ven→Mer (50) — TOP president ✓. **Rockefeller** → 4-loop (33) — TOP billionaire. **Stan Lee** → NO loop (Venus own) — TOP comics.
+- **Batch 2 (all 17) done with real Drik Lahiri data:** Musk/Gates/Bezos/Buffett/Tendulkar/Gandhi/Lincoln/Mandela/Disney/Jackson/Kalam → 0-loop; Jobs → 4-loop (33); Einstein/Zuckerberg/Ambani/Oprah → 2-loop (100); Ford → 3-loop (50, Moon≈noon).
+- **24-chart distribution:** 0-loop 54% · 2-loop 25% · 3-loop 8% · 4-loop 8% · 5-loop 4%.
+- **HEADLINE (refutes pasted 500-framework):** 13/22 high achievers (59%) have NO multi-planet loop; only 5-loop = Senith (lowest). Multi-loop NOT over-represented among tops.
+- **⚠ Boundary caveat:** 15/24 (62%) have a planet within 1° of a sign boundary; Drik day-to-day wobble can flip loop class (Stan Lee 0↔5, Tendulkar/Mandela 0↔3). Loop logic validated; Drik-web as position source is fetch-day-sensitive.
+- Deliverables: `reports/celebrity_shrinkhala.md`, `reports/celeb_loop_database.md`, `data/celeb_loops.json`, `scripts/fetch_celeb_loops.py`.
 
 ## TURN 12 RESEARCH — "5-loop = industry-top" hypothesis TESTED
 - H: multi-loop → industry top. **Result: 3/4-loop → TOP in 2/2 famous (Obama, Rockefeller); but NOT necessary (Stan Lee none, P4 none) and NOT sufficient (Senith 5-loop = weakest realized).**
 - **Senith 5-loop (bond 25) is LATENT/diluted** — matches jyotishvidya "ignore 4/5." Rockefeller 4-loop worked because it tied wealth+intellect+authority + strong Saturn + dasha.
 - **Refined rule:** 3-loop = meaningful leadership marker; 4-loop can top if ties wealth/intellect/authority + dasha-activated; 5-loop = latent network needing exceptional strength/timing (Senith not yet).
 - Deliverable: `shrinkhala_industry_pattern.md`.
+
+## TURN 16 (2026-08-02) — Ayanamsa verification + Agenta harness + 24-chart DB confirmed
+- **Scribd ref saved:** `references/ayanamsa_scribd_193546797.md` (Lahiri accuracy Q&A: 285 AD epoch, 50⅓″/yr, Chitra=180°, "off by arc-minutes").
+- **Ayanamsa cross-check** (`scripts/ayanamsa_crosscheck.py`, `reports/ayanamsa_crosscheck.md`, `data/drik_ayanamsa_groundtruth.json`): pipeline `lahiri_ayanamsa()` matches **Drik Panchang's own displayed Lahiri value to ≤25″** (0.7″ on 2026-08-02; 1980–2026 verified). +13.3″ vs SE-base polynomial (cosmetic); epoch-285 linear model overshoots ~4.3′ (per scribd itself). Cross-source 2026 spread ≈ 24°07′47″ (SE/JH) → 24°14′; Drik/pipeline ≈ 24°13′. Boundary risk from ayanamsa error is negligible (<25″); the real instability is Drik day-to-day wobble for near-boundary planets (already flagged 15/24).
+- **Agenta harness** (`agenta_harness/evaluate_loop_bond.py`, `reports/agenta_eval_report.md`): 111-chart + 24-chart evaluation. r(loop,ach) ≈ −0.02 (A, p=0.82) / −0.36 (B, p=0.09); bond≥50 classifier κ ≈ 0.17/−0.05 (near chance). **5-loop = weakest class in BOTH datasets** (mean ach 7.0 vs 3-loop 9.3 in A; 6.0 vs 9.75 in B) → supports jyotishvidya "ignore 4/5". `agenta` SDK 0.106.2 installed (offline harness; backend logging when AGENTA_HOST set).
+- **Repos cloned this session:** agenta (Agenta-AI/agenta) — SDK installed; full platform needs Docker (not in sandbox).
 
 ## GIT STATE
 - Repo: https://github.com/wray95/astrology.git · branch main · HEAD after Turn 12 = (see `git rev-parse HEAD`).
