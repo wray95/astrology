@@ -1,0 +1,1982 @@
+{
+  "A001": {
+    "label": "Sun Exalted D1",
+    "desc": "Sun in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A002": {
+    "label": "Moon Exalted D1",
+    "desc": "Moon in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A003": {
+    "label": "Mars Exalted D1",
+    "desc": "Mars in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A004": {
+    "label": "Mercury Exalted D1",
+    "desc": "Mercury in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A005": {
+    "label": "Jupiter Exalted D1",
+    "desc": "Jupiter in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A006": {
+    "label": "Venus Exalted D1",
+    "desc": "Venus in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A007": {
+    "label": "Saturn Exalted D1",
+    "desc": "Saturn in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A008": {
+    "label": "Rahu Exalted D1",
+    "desc": "Rahu in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A009": {
+    "label": "Ketu Exalted D1",
+    "desc": "Ketu in its exaltation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A010": {
+    "label": "Sun Debilitated D1",
+    "desc": "Sun in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A011": {
+    "label": "Sun Own Sign D1",
+    "desc": "Sun in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A012": {
+    "label": "Sun Retrograde",
+    "desc": "Sun is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A013": {
+    "label": "Sun Combust",
+    "desc": "Sun is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A014": {
+    "label": "Sun Vargottama",
+    "desc": "Sun same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A015": {
+    "label": "Moon Debilitated D1",
+    "desc": "Moon in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A016": {
+    "label": "Moon Own Sign D1",
+    "desc": "Moon in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A017": {
+    "label": "Moon Retrograde",
+    "desc": "Moon is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A018": {
+    "label": "Moon Combust",
+    "desc": "Moon is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A019": {
+    "label": "Moon Vargottama",
+    "desc": "Moon same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A020": {
+    "label": "Mars Debilitated D1",
+    "desc": "Mars in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A021": {
+    "label": "Mars Own Sign D1",
+    "desc": "Mars in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A022": {
+    "label": "Mars Retrograde",
+    "desc": "Mars is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A023": {
+    "label": "Mars Combust",
+    "desc": "Mars is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A024": {
+    "label": "Mars Vargottama",
+    "desc": "Mars same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A025": {
+    "label": "Mercury Debilitated D1",
+    "desc": "Mercury in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A026": {
+    "label": "Mercury Own Sign D1",
+    "desc": "Mercury in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A027": {
+    "label": "Mercury Retrograde",
+    "desc": "Mercury is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A028": {
+    "label": "Mercury Combust",
+    "desc": "Mercury is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A029": {
+    "label": "Mercury Vargottama",
+    "desc": "Mercury same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A030": {
+    "label": "Jupiter Debilitated D1",
+    "desc": "Jupiter in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A031": {
+    "label": "Jupiter Own Sign D1",
+    "desc": "Jupiter in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A032": {
+    "label": "Jupiter Retrograde",
+    "desc": "Jupiter is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A033": {
+    "label": "Jupiter Combust",
+    "desc": "Jupiter is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A034": {
+    "label": "Jupiter Vargottama",
+    "desc": "Jupiter same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A035": {
+    "label": "Venus Debilitated D1",
+    "desc": "Venus in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A036": {
+    "label": "Venus Own Sign D1",
+    "desc": "Venus in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A037": {
+    "label": "Venus Retrograde",
+    "desc": "Venus is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A038": {
+    "label": "Venus Combust",
+    "desc": "Venus is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A039": {
+    "label": "Venus Vargottama",
+    "desc": "Venus same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A040": {
+    "label": "Saturn Debilitated D1",
+    "desc": "Saturn in debilitation sign in D1",
+    "category": "d1_dignity"
+  },
+  "A041": {
+    "label": "Saturn Own Sign D1",
+    "desc": "Saturn in own/mulatrikona sign D1",
+    "category": "d1_dignity"
+  },
+  "A042": {
+    "label": "Saturn Retrograde",
+    "desc": "Saturn is retrograde at birth",
+    "category": "retrograde"
+  },
+  "A043": {
+    "label": "Saturn Combust",
+    "desc": "Saturn is combust (within 8\u00b0 of Sun)",
+    "category": "combustion"
+  },
+  "A044": {
+    "label": "Saturn Vargottama",
+    "desc": "Saturn same sign in D1 and D9",
+    "category": "vargottama"
+  },
+  "A045": {
+    "label": "Sun Exalted D9",
+    "desc": "Sun exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A046": {
+    "label": "Sun Debilitated D9",
+    "desc": "Sun debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A047": {
+    "label": "Sun Own Sign D9",
+    "desc": "Sun own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A048": {
+    "label": "Moon Exalted D9",
+    "desc": "Moon exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A049": {
+    "label": "Moon Debilitated D9",
+    "desc": "Moon debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A050": {
+    "label": "Moon Own Sign D9",
+    "desc": "Moon own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A051": {
+    "label": "Mars Exalted D9",
+    "desc": "Mars exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A052": {
+    "label": "Mars Debilitated D9",
+    "desc": "Mars debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A053": {
+    "label": "Mars Own Sign D9",
+    "desc": "Mars own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A054": {
+    "label": "Mercury Exalted D9",
+    "desc": "Mercury exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A055": {
+    "label": "Mercury Debilitated D9",
+    "desc": "Mercury debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A056": {
+    "label": "Mercury Own Sign D9",
+    "desc": "Mercury own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A057": {
+    "label": "Jupiter Exalted D9",
+    "desc": "Jupiter exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A058": {
+    "label": "Jupiter Debilitated D9",
+    "desc": "Jupiter debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A059": {
+    "label": "Jupiter Own Sign D9",
+    "desc": "Jupiter own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A060": {
+    "label": "Venus Exalted D9",
+    "desc": "Venus exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A061": {
+    "label": "Venus Debilitated D9",
+    "desc": "Venus debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A062": {
+    "label": "Venus Own Sign D9",
+    "desc": "Venus own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A063": {
+    "label": "Saturn Exalted D9",
+    "desc": "Saturn exalted in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A064": {
+    "label": "Saturn Debilitated D9",
+    "desc": "Saturn debilitated in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A065": {
+    "label": "Saturn Own Sign D9",
+    "desc": "Saturn own sign in Navamsa",
+    "category": "d9_dignity"
+  },
+  "A066": {
+    "label": "Sun in H1 (D1)",
+    "desc": "Sun placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A067": {
+    "label": "Sun in H2 (D1)",
+    "desc": "Sun placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A068": {
+    "label": "Sun in H3 (D1)",
+    "desc": "Sun placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A069": {
+    "label": "Sun in H4 (D1)",
+    "desc": "Sun placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A070": {
+    "label": "Sun in H5 (D1)",
+    "desc": "Sun placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A071": {
+    "label": "Sun in H6 (D1)",
+    "desc": "Sun placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A072": {
+    "label": "Sun in H7 (D1)",
+    "desc": "Sun placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A073": {
+    "label": "Sun in H8 (D1)",
+    "desc": "Sun placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A074": {
+    "label": "Sun in H9 (D1)",
+    "desc": "Sun placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A075": {
+    "label": "Sun in H10 (D1)",
+    "desc": "Sun placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A076": {
+    "label": "Sun in H11 (D1)",
+    "desc": "Sun placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A077": {
+    "label": "Sun in H12 (D1)",
+    "desc": "Sun placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A078": {
+    "label": "Moon in H1 (D1)",
+    "desc": "Moon placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A079": {
+    "label": "Moon in H2 (D1)",
+    "desc": "Moon placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A080": {
+    "label": "Moon in H3 (D1)",
+    "desc": "Moon placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A081": {
+    "label": "Moon in H4 (D1)",
+    "desc": "Moon placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A082": {
+    "label": "Moon in H5 (D1)",
+    "desc": "Moon placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A083": {
+    "label": "Moon in H6 (D1)",
+    "desc": "Moon placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A084": {
+    "label": "Moon in H7 (D1)",
+    "desc": "Moon placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A085": {
+    "label": "Moon in H8 (D1)",
+    "desc": "Moon placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A086": {
+    "label": "Moon in H9 (D1)",
+    "desc": "Moon placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A087": {
+    "label": "Moon in H10 (D1)",
+    "desc": "Moon placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A088": {
+    "label": "Moon in H11 (D1)",
+    "desc": "Moon placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A089": {
+    "label": "Moon in H12 (D1)",
+    "desc": "Moon placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A090": {
+    "label": "Mars in H1 (D1)",
+    "desc": "Mars placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A091": {
+    "label": "Mars in H2 (D1)",
+    "desc": "Mars placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A092": {
+    "label": "Mars in H3 (D1)",
+    "desc": "Mars placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A093": {
+    "label": "Mars in H4 (D1)",
+    "desc": "Mars placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A094": {
+    "label": "Mars in H5 (D1)",
+    "desc": "Mars placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A095": {
+    "label": "Mars in H6 (D1)",
+    "desc": "Mars placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A096": {
+    "label": "Mars in H7 (D1)",
+    "desc": "Mars placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A097": {
+    "label": "Mars in H8 (D1)",
+    "desc": "Mars placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A098": {
+    "label": "Mars in H9 (D1)",
+    "desc": "Mars placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A099": {
+    "label": "Mars in H10 (D1)",
+    "desc": "Mars placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A100": {
+    "label": "Mars in H11 (D1)",
+    "desc": "Mars placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A101": {
+    "label": "Mars in H12 (D1)",
+    "desc": "Mars placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A102": {
+    "label": "Mercury in H1 (D1)",
+    "desc": "Mercury placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A103": {
+    "label": "Mercury in H2 (D1)",
+    "desc": "Mercury placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A104": {
+    "label": "Mercury in H3 (D1)",
+    "desc": "Mercury placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A105": {
+    "label": "Mercury in H4 (D1)",
+    "desc": "Mercury placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A106": {
+    "label": "Mercury in H5 (D1)",
+    "desc": "Mercury placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A107": {
+    "label": "Mercury in H6 (D1)",
+    "desc": "Mercury placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A108": {
+    "label": "Mercury in H7 (D1)",
+    "desc": "Mercury placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A109": {
+    "label": "Mercury in H8 (D1)",
+    "desc": "Mercury placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A110": {
+    "label": "Mercury in H9 (D1)",
+    "desc": "Mercury placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A111": {
+    "label": "Mercury in H10 (D1)",
+    "desc": "Mercury placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A112": {
+    "label": "Mercury in H11 (D1)",
+    "desc": "Mercury placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A113": {
+    "label": "Mercury in H12 (D1)",
+    "desc": "Mercury placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A114": {
+    "label": "Jupiter in H1 (D1)",
+    "desc": "Jupiter placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A115": {
+    "label": "Jupiter in H2 (D1)",
+    "desc": "Jupiter placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A116": {
+    "label": "Jupiter in H3 (D1)",
+    "desc": "Jupiter placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A117": {
+    "label": "Jupiter in H4 (D1)",
+    "desc": "Jupiter placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A118": {
+    "label": "Jupiter in H5 (D1)",
+    "desc": "Jupiter placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A119": {
+    "label": "Jupiter in H6 (D1)",
+    "desc": "Jupiter placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A120": {
+    "label": "Jupiter in H7 (D1)",
+    "desc": "Jupiter placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A121": {
+    "label": "Jupiter in H8 (D1)",
+    "desc": "Jupiter placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A122": {
+    "label": "Jupiter in H9 (D1)",
+    "desc": "Jupiter placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A123": {
+    "label": "Jupiter in H10 (D1)",
+    "desc": "Jupiter placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A124": {
+    "label": "Jupiter in H11 (D1)",
+    "desc": "Jupiter placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A125": {
+    "label": "Jupiter in H12 (D1)",
+    "desc": "Jupiter placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A126": {
+    "label": "Venus in H1 (D1)",
+    "desc": "Venus placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A127": {
+    "label": "Venus in H2 (D1)",
+    "desc": "Venus placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A128": {
+    "label": "Venus in H3 (D1)",
+    "desc": "Venus placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A129": {
+    "label": "Venus in H4 (D1)",
+    "desc": "Venus placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A130": {
+    "label": "Venus in H5 (D1)",
+    "desc": "Venus placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A131": {
+    "label": "Venus in H6 (D1)",
+    "desc": "Venus placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A132": {
+    "label": "Venus in H7 (D1)",
+    "desc": "Venus placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A133": {
+    "label": "Venus in H8 (D1)",
+    "desc": "Venus placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A134": {
+    "label": "Venus in H9 (D1)",
+    "desc": "Venus placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A135": {
+    "label": "Venus in H10 (D1)",
+    "desc": "Venus placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A136": {
+    "label": "Venus in H11 (D1)",
+    "desc": "Venus placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A137": {
+    "label": "Venus in H12 (D1)",
+    "desc": "Venus placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A138": {
+    "label": "Saturn in H1 (D1)",
+    "desc": "Saturn placed in 1th house in D1",
+    "category": "d1_house"
+  },
+  "A139": {
+    "label": "Saturn in H2 (D1)",
+    "desc": "Saturn placed in 2th house in D1",
+    "category": "d1_house"
+  },
+  "A140": {
+    "label": "Saturn in H3 (D1)",
+    "desc": "Saturn placed in 3th house in D1",
+    "category": "d1_house"
+  },
+  "A141": {
+    "label": "Saturn in H4 (D1)",
+    "desc": "Saturn placed in 4th house in D1",
+    "category": "d1_house"
+  },
+  "A142": {
+    "label": "Saturn in H5 (D1)",
+    "desc": "Saturn placed in 5th house in D1",
+    "category": "d1_house"
+  },
+  "A143": {
+    "label": "Saturn in H6 (D1)",
+    "desc": "Saturn placed in 6th house in D1",
+    "category": "d1_house"
+  },
+  "A144": {
+    "label": "Saturn in H7 (D1)",
+    "desc": "Saturn placed in 7th house in D1",
+    "category": "d1_house"
+  },
+  "A145": {
+    "label": "Saturn in H8 (D1)",
+    "desc": "Saturn placed in 8th house in D1",
+    "category": "d1_house"
+  },
+  "A146": {
+    "label": "Saturn in H9 (D1)",
+    "desc": "Saturn placed in 9th house in D1",
+    "category": "d1_house"
+  },
+  "A147": {
+    "label": "Saturn in H10 (D1)",
+    "desc": "Saturn placed in 10th house in D1",
+    "category": "d1_house"
+  },
+  "A148": {
+    "label": "Saturn in H11 (D1)",
+    "desc": "Saturn placed in 11th house in D1",
+    "category": "d1_house"
+  },
+  "A149": {
+    "label": "Saturn in H12 (D1)",
+    "desc": "Saturn placed in 12th house in D1",
+    "category": "d1_house"
+  },
+  "A150": {
+    "label": "Sun in H1 (D10)",
+    "desc": "Sun in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A151": {
+    "label": "Sun in H2 (D10)",
+    "desc": "Sun in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A152": {
+    "label": "Sun in H3 (D10)",
+    "desc": "Sun in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A153": {
+    "label": "Sun in H4 (D10)",
+    "desc": "Sun in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A154": {
+    "label": "Sun in H5 (D10)",
+    "desc": "Sun in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A155": {
+    "label": "Sun in H6 (D10)",
+    "desc": "Sun in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A156": {
+    "label": "Sun in H7 (D10)",
+    "desc": "Sun in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A157": {
+    "label": "Sun in H8 (D10)",
+    "desc": "Sun in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A158": {
+    "label": "Sun in H9 (D10)",
+    "desc": "Sun in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A159": {
+    "label": "Sun in H10 (D10)",
+    "desc": "Sun in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A160": {
+    "label": "Sun in H11 (D10)",
+    "desc": "Sun in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A161": {
+    "label": "Sun in H12 (D10)",
+    "desc": "Sun in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A162": {
+    "label": "Moon in H1 (D10)",
+    "desc": "Moon in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A163": {
+    "label": "Moon in H2 (D10)",
+    "desc": "Moon in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A164": {
+    "label": "Moon in H3 (D10)",
+    "desc": "Moon in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A165": {
+    "label": "Moon in H4 (D10)",
+    "desc": "Moon in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A166": {
+    "label": "Moon in H5 (D10)",
+    "desc": "Moon in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A167": {
+    "label": "Moon in H6 (D10)",
+    "desc": "Moon in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A168": {
+    "label": "Moon in H7 (D10)",
+    "desc": "Moon in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A169": {
+    "label": "Moon in H8 (D10)",
+    "desc": "Moon in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A170": {
+    "label": "Moon in H9 (D10)",
+    "desc": "Moon in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A171": {
+    "label": "Moon in H10 (D10)",
+    "desc": "Moon in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A172": {
+    "label": "Moon in H11 (D10)",
+    "desc": "Moon in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A173": {
+    "label": "Moon in H12 (D10)",
+    "desc": "Moon in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A174": {
+    "label": "Mars in H1 (D10)",
+    "desc": "Mars in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A175": {
+    "label": "Mars in H2 (D10)",
+    "desc": "Mars in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A176": {
+    "label": "Mars in H3 (D10)",
+    "desc": "Mars in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A177": {
+    "label": "Mars in H4 (D10)",
+    "desc": "Mars in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A178": {
+    "label": "Mars in H5 (D10)",
+    "desc": "Mars in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A179": {
+    "label": "Mars in H6 (D10)",
+    "desc": "Mars in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A180": {
+    "label": "Mars in H7 (D10)",
+    "desc": "Mars in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A181": {
+    "label": "Mars in H8 (D10)",
+    "desc": "Mars in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A182": {
+    "label": "Mars in H9 (D10)",
+    "desc": "Mars in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A183": {
+    "label": "Mars in H10 (D10)",
+    "desc": "Mars in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A184": {
+    "label": "Mars in H11 (D10)",
+    "desc": "Mars in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A185": {
+    "label": "Mars in H12 (D10)",
+    "desc": "Mars in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A186": {
+    "label": "Mercury in H1 (D10)",
+    "desc": "Mercury in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A187": {
+    "label": "Mercury in H2 (D10)",
+    "desc": "Mercury in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A188": {
+    "label": "Mercury in H3 (D10)",
+    "desc": "Mercury in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A189": {
+    "label": "Mercury in H4 (D10)",
+    "desc": "Mercury in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A190": {
+    "label": "Mercury in H5 (D10)",
+    "desc": "Mercury in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A191": {
+    "label": "Mercury in H6 (D10)",
+    "desc": "Mercury in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A192": {
+    "label": "Mercury in H7 (D10)",
+    "desc": "Mercury in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A193": {
+    "label": "Mercury in H8 (D10)",
+    "desc": "Mercury in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A194": {
+    "label": "Mercury in H9 (D10)",
+    "desc": "Mercury in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A195": {
+    "label": "Mercury in H10 (D10)",
+    "desc": "Mercury in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A196": {
+    "label": "Mercury in H11 (D10)",
+    "desc": "Mercury in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A197": {
+    "label": "Mercury in H12 (D10)",
+    "desc": "Mercury in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A198": {
+    "label": "Jupiter in H1 (D10)",
+    "desc": "Jupiter in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A199": {
+    "label": "Jupiter in H2 (D10)",
+    "desc": "Jupiter in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A200": {
+    "label": "Jupiter in H3 (D10)",
+    "desc": "Jupiter in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A201": {
+    "label": "Jupiter in H4 (D10)",
+    "desc": "Jupiter in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A202": {
+    "label": "Jupiter in H5 (D10)",
+    "desc": "Jupiter in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A203": {
+    "label": "Jupiter in H6 (D10)",
+    "desc": "Jupiter in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A204": {
+    "label": "Jupiter in H7 (D10)",
+    "desc": "Jupiter in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A205": {
+    "label": "Jupiter in H8 (D10)",
+    "desc": "Jupiter in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A206": {
+    "label": "Jupiter in H9 (D10)",
+    "desc": "Jupiter in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A207": {
+    "label": "Jupiter in H10 (D10)",
+    "desc": "Jupiter in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A208": {
+    "label": "Jupiter in H11 (D10)",
+    "desc": "Jupiter in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A209": {
+    "label": "Jupiter in H12 (D10)",
+    "desc": "Jupiter in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A210": {
+    "label": "Venus in H1 (D10)",
+    "desc": "Venus in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A211": {
+    "label": "Venus in H2 (D10)",
+    "desc": "Venus in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A212": {
+    "label": "Venus in H3 (D10)",
+    "desc": "Venus in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A213": {
+    "label": "Venus in H4 (D10)",
+    "desc": "Venus in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A214": {
+    "label": "Venus in H5 (D10)",
+    "desc": "Venus in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A215": {
+    "label": "Venus in H6 (D10)",
+    "desc": "Venus in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A216": {
+    "label": "Venus in H7 (D10)",
+    "desc": "Venus in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A217": {
+    "label": "Venus in H8 (D10)",
+    "desc": "Venus in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A218": {
+    "label": "Venus in H9 (D10)",
+    "desc": "Venus in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A219": {
+    "label": "Venus in H10 (D10)",
+    "desc": "Venus in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A220": {
+    "label": "Venus in H11 (D10)",
+    "desc": "Venus in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A221": {
+    "label": "Venus in H12 (D10)",
+    "desc": "Venus in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A222": {
+    "label": "Saturn in H1 (D10)",
+    "desc": "Saturn in 1th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A223": {
+    "label": "Saturn in H2 (D10)",
+    "desc": "Saturn in 2th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A224": {
+    "label": "Saturn in H3 (D10)",
+    "desc": "Saturn in 3th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A225": {
+    "label": "Saturn in H4 (D10)",
+    "desc": "Saturn in 4th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A226": {
+    "label": "Saturn in H5 (D10)",
+    "desc": "Saturn in 5th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A227": {
+    "label": "Saturn in H6 (D10)",
+    "desc": "Saturn in 6th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A228": {
+    "label": "Saturn in H7 (D10)",
+    "desc": "Saturn in 7th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A229": {
+    "label": "Saturn in H8 (D10)",
+    "desc": "Saturn in 8th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A230": {
+    "label": "Saturn in H9 (D10)",
+    "desc": "Saturn in 9th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A231": {
+    "label": "Saturn in H10 (D10)",
+    "desc": "Saturn in 10th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A232": {
+    "label": "Saturn in H11 (D10)",
+    "desc": "Saturn in 11th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A233": {
+    "label": "Saturn in H12 (D10)",
+    "desc": "Saturn in 12th house in Dasamsa",
+    "category": "d10_house"
+  },
+  "A234": {
+    "label": "D10 10L in Kendra",
+    "desc": "D10 10th lord in houses 1/4/7/10",
+    "category": "d10_career"
+  },
+  "A235": {
+    "label": "D10 10L in Dusthana",
+    "desc": "D10 10th lord in houses 6/8/12",
+    "category": "d10_career"
+  },
+  "A236": {
+    "label": "D10 10L in Trikona",
+    "desc": "D10 10th lord in houses 5/9",
+    "category": "d10_career"
+  },
+  "A237": {
+    "label": "Sun in H1 (D9)",
+    "desc": "Sun in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A238": {
+    "label": "Sun in H2 (D9)",
+    "desc": "Sun in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A239": {
+    "label": "Sun in H3 (D9)",
+    "desc": "Sun in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A240": {
+    "label": "Sun in H4 (D9)",
+    "desc": "Sun in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A241": {
+    "label": "Sun in H5 (D9)",
+    "desc": "Sun in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A242": {
+    "label": "Sun in H6 (D9)",
+    "desc": "Sun in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A243": {
+    "label": "Sun in H7 (D9)",
+    "desc": "Sun in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A244": {
+    "label": "Sun in H8 (D9)",
+    "desc": "Sun in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A245": {
+    "label": "Sun in H9 (D9)",
+    "desc": "Sun in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A246": {
+    "label": "Sun in H10 (D9)",
+    "desc": "Sun in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A247": {
+    "label": "Sun in H11 (D9)",
+    "desc": "Sun in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A248": {
+    "label": "Sun in H12 (D9)",
+    "desc": "Sun in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A249": {
+    "label": "Moon in H1 (D9)",
+    "desc": "Moon in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A250": {
+    "label": "Moon in H2 (D9)",
+    "desc": "Moon in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A251": {
+    "label": "Moon in H3 (D9)",
+    "desc": "Moon in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A252": {
+    "label": "Moon in H4 (D9)",
+    "desc": "Moon in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A253": {
+    "label": "Moon in H5 (D9)",
+    "desc": "Moon in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A254": {
+    "label": "Moon in H6 (D9)",
+    "desc": "Moon in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A255": {
+    "label": "Moon in H7 (D9)",
+    "desc": "Moon in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A256": {
+    "label": "Moon in H8 (D9)",
+    "desc": "Moon in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A257": {
+    "label": "Moon in H9 (D9)",
+    "desc": "Moon in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A258": {
+    "label": "Moon in H10 (D9)",
+    "desc": "Moon in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A259": {
+    "label": "Moon in H11 (D9)",
+    "desc": "Moon in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A260": {
+    "label": "Moon in H12 (D9)",
+    "desc": "Moon in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A261": {
+    "label": "Mars in H1 (D9)",
+    "desc": "Mars in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A262": {
+    "label": "Mars in H2 (D9)",
+    "desc": "Mars in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A263": {
+    "label": "Mars in H3 (D9)",
+    "desc": "Mars in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A264": {
+    "label": "Mars in H4 (D9)",
+    "desc": "Mars in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A265": {
+    "label": "Mars in H5 (D9)",
+    "desc": "Mars in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A266": {
+    "label": "Mars in H6 (D9)",
+    "desc": "Mars in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A267": {
+    "label": "Mars in H7 (D9)",
+    "desc": "Mars in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A268": {
+    "label": "Mars in H8 (D9)",
+    "desc": "Mars in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A269": {
+    "label": "Mars in H9 (D9)",
+    "desc": "Mars in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A270": {
+    "label": "Mars in H10 (D9)",
+    "desc": "Mars in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A271": {
+    "label": "Mars in H11 (D9)",
+    "desc": "Mars in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A272": {
+    "label": "Mars in H12 (D9)",
+    "desc": "Mars in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A273": {
+    "label": "Mercury in H1 (D9)",
+    "desc": "Mercury in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A274": {
+    "label": "Mercury in H2 (D9)",
+    "desc": "Mercury in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A275": {
+    "label": "Mercury in H3 (D9)",
+    "desc": "Mercury in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A276": {
+    "label": "Mercury in H4 (D9)",
+    "desc": "Mercury in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A277": {
+    "label": "Mercury in H5 (D9)",
+    "desc": "Mercury in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A278": {
+    "label": "Mercury in H6 (D9)",
+    "desc": "Mercury in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A279": {
+    "label": "Mercury in H7 (D9)",
+    "desc": "Mercury in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A280": {
+    "label": "Mercury in H8 (D9)",
+    "desc": "Mercury in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A281": {
+    "label": "Mercury in H9 (D9)",
+    "desc": "Mercury in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A282": {
+    "label": "Mercury in H10 (D9)",
+    "desc": "Mercury in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A283": {
+    "label": "Mercury in H11 (D9)",
+    "desc": "Mercury in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A284": {
+    "label": "Mercury in H12 (D9)",
+    "desc": "Mercury in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A285": {
+    "label": "Jupiter in H1 (D9)",
+    "desc": "Jupiter in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A286": {
+    "label": "Jupiter in H2 (D9)",
+    "desc": "Jupiter in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A287": {
+    "label": "Jupiter in H3 (D9)",
+    "desc": "Jupiter in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A288": {
+    "label": "Jupiter in H4 (D9)",
+    "desc": "Jupiter in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A289": {
+    "label": "Jupiter in H5 (D9)",
+    "desc": "Jupiter in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A290": {
+    "label": "Jupiter in H6 (D9)",
+    "desc": "Jupiter in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A291": {
+    "label": "Jupiter in H7 (D9)",
+    "desc": "Jupiter in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A292": {
+    "label": "Jupiter in H8 (D9)",
+    "desc": "Jupiter in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A293": {
+    "label": "Jupiter in H9 (D9)",
+    "desc": "Jupiter in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A294": {
+    "label": "Jupiter in H10 (D9)",
+    "desc": "Jupiter in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A295": {
+    "label": "Jupiter in H11 (D9)",
+    "desc": "Jupiter in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A296": {
+    "label": "Jupiter in H12 (D9)",
+    "desc": "Jupiter in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A297": {
+    "label": "Venus in H1 (D9)",
+    "desc": "Venus in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A298": {
+    "label": "Venus in H2 (D9)",
+    "desc": "Venus in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A299": {
+    "label": "Venus in H3 (D9)",
+    "desc": "Venus in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A300": {
+    "label": "Venus in H4 (D9)",
+    "desc": "Venus in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A301": {
+    "label": "Venus in H5 (D9)",
+    "desc": "Venus in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A302": {
+    "label": "Venus in H6 (D9)",
+    "desc": "Venus in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A303": {
+    "label": "Venus in H7 (D9)",
+    "desc": "Venus in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A304": {
+    "label": "Venus in H8 (D9)",
+    "desc": "Venus in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A305": {
+    "label": "Venus in H9 (D9)",
+    "desc": "Venus in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A306": {
+    "label": "Venus in H10 (D9)",
+    "desc": "Venus in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A307": {
+    "label": "Venus in H11 (D9)",
+    "desc": "Venus in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A308": {
+    "label": "Venus in H12 (D9)",
+    "desc": "Venus in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A309": {
+    "label": "Saturn in H1 (D9)",
+    "desc": "Saturn in 1th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A310": {
+    "label": "Saturn in H2 (D9)",
+    "desc": "Saturn in 2th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A311": {
+    "label": "Saturn in H3 (D9)",
+    "desc": "Saturn in 3th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A312": {
+    "label": "Saturn in H4 (D9)",
+    "desc": "Saturn in 4th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A313": {
+    "label": "Saturn in H5 (D9)",
+    "desc": "Saturn in 5th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A314": {
+    "label": "Saturn in H6 (D9)",
+    "desc": "Saturn in 6th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A315": {
+    "label": "Saturn in H7 (D9)",
+    "desc": "Saturn in 7th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A316": {
+    "label": "Saturn in H8 (D9)",
+    "desc": "Saturn in 8th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A317": {
+    "label": "Saturn in H9 (D9)",
+    "desc": "Saturn in 9th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A318": {
+    "label": "Saturn in H10 (D9)",
+    "desc": "Saturn in 10th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A319": {
+    "label": "Saturn in H11 (D9)",
+    "desc": "Saturn in 11th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A320": {
+    "label": "Saturn in H12 (D9)",
+    "desc": "Saturn in 12th house in Navamsa",
+    "category": "d9_house"
+  },
+  "A321": {
+    "label": "Ruchaka MP",
+    "desc": "Ruchaka MP yoga present",
+    "category": "yoga"
+  },
+  "A322": {
+    "label": "Bhadra MP",
+    "desc": "Bhadra MP yoga present",
+    "category": "yoga"
+  },
+  "A323": {
+    "label": "Hamsa MP",
+    "desc": "Hamsa MP yoga present",
+    "category": "yoga"
+  },
+  "A324": {
+    "label": "Malavya MP",
+    "desc": "Malavya MP yoga present",
+    "category": "yoga"
+  },
+  "A325": {
+    "label": "Sasa MP",
+    "desc": "Sasa MP yoga present",
+    "category": "yoga"
+  },
+  "A326": {
+    "label": "Raja Yoga",
+    "desc": "Raja Yoga yoga present",
+    "category": "yoga"
+  },
+  "A327": {
+    "label": "Dhana Yoga",
+    "desc": "Dhana Yoga yoga present",
+    "category": "yoga"
+  },
+  "A328": {
+    "label": "Gaj-Kesari",
+    "desc": "Gaj-Kesari yoga present",
+    "category": "yoga"
+  },
+  "A329": {
+    "label": "Budha-Aditya",
+    "desc": "Budha-Aditya yoga present",
+    "category": "yoga"
+  },
+  "A330": {
+    "label": "Chandra-Mangala",
+    "desc": "Chandra-Mangala yoga present",
+    "category": "yoga"
+  },
+  "A331": {
+    "label": "Lakshmi Yoga",
+    "desc": "Lakshmi Yoga yoga present",
+    "category": "yoga"
+  },
+  "A332": {
+    "label": "Shrinkhala",
+    "desc": "Shrinkhala yoga present",
+    "category": "yoga"
+  },
+  "A333": {
+    "label": "Parivartana",
+    "desc": "Parivartana yoga present",
+    "category": "yoga"
+  },
+  "A334": {
+    "label": "NBRY",
+    "desc": "NBRY yoga present",
+    "category": "yoga"
+  },
+  "A335": {
+    "label": "VRY",
+    "desc": "VRY yoga present",
+    "category": "yoga"
+  },
+  "A336": {
+    "label": "Sun in Ashwini",
+    "desc": "Sun in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A337": {
+    "label": "Sun in Bharani",
+    "desc": "Sun in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A338": {
+    "label": "Sun in Krittika",
+    "desc": "Sun in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A339": {
+    "label": "Sun in Rohini",
+    "desc": "Sun in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A340": {
+    "label": "Sun in Mrigashira",
+    "desc": "Sun in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A341": {
+    "label": "Moon in Ashwini",
+    "desc": "Moon in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A342": {
+    "label": "Moon in Bharani",
+    "desc": "Moon in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A343": {
+    "label": "Moon in Krittika",
+    "desc": "Moon in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A344": {
+    "label": "Moon in Rohini",
+    "desc": "Moon in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A345": {
+    "label": "Moon in Mrigashira",
+    "desc": "Moon in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A346": {
+    "label": "Mars in Ashwini",
+    "desc": "Mars in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A347": {
+    "label": "Mars in Bharani",
+    "desc": "Mars in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A348": {
+    "label": "Mars in Krittika",
+    "desc": "Mars in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A349": {
+    "label": "Mars in Rohini",
+    "desc": "Mars in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A350": {
+    "label": "Mars in Mrigashira",
+    "desc": "Mars in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A351": {
+    "label": "Mercury in Ashwini",
+    "desc": "Mercury in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A352": {
+    "label": "Mercury in Bharani",
+    "desc": "Mercury in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A353": {
+    "label": "Mercury in Krittika",
+    "desc": "Mercury in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A354": {
+    "label": "Mercury in Rohini",
+    "desc": "Mercury in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A355": {
+    "label": "Mercury in Mrigashira",
+    "desc": "Mercury in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A356": {
+    "label": "Jupiter in Ashwini",
+    "desc": "Jupiter in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A357": {
+    "label": "Jupiter in Bharani",
+    "desc": "Jupiter in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A358": {
+    "label": "Jupiter in Krittika",
+    "desc": "Jupiter in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A359": {
+    "label": "Jupiter in Rohini",
+    "desc": "Jupiter in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A360": {
+    "label": "Jupiter in Mrigashira",
+    "desc": "Jupiter in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A361": {
+    "label": "Venus in Ashwini",
+    "desc": "Venus in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A362": {
+    "label": "Venus in Bharani",
+    "desc": "Venus in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A363": {
+    "label": "Venus in Krittika",
+    "desc": "Venus in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A364": {
+    "label": "Venus in Rohini",
+    "desc": "Venus in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A365": {
+    "label": "Venus in Mrigashira",
+    "desc": "Venus in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A366": {
+    "label": "Saturn in Ashwini",
+    "desc": "Saturn in Ashwini nakshatra",
+    "category": "nakshatra"
+  },
+  "A367": {
+    "label": "Saturn in Bharani",
+    "desc": "Saturn in Bharani nakshatra",
+    "category": "nakshatra"
+  },
+  "A368": {
+    "label": "Saturn in Krittika",
+    "desc": "Saturn in Krittika nakshatra",
+    "category": "nakshatra"
+  },
+  "A369": {
+    "label": "Saturn in Rohini",
+    "desc": "Saturn in Rohini nakshatra",
+    "category": "nakshatra"
+  },
+  "A370": {
+    "label": "Saturn in Mrigashira",
+    "desc": "Saturn in Mrigashira nakshatra",
+    "category": "nakshatra"
+  },
+  "A371": {
+    "label": "Saturn Return Window",
+    "desc": "Saturn Return Window",
+    "category": "saturn"
+  },
+  "A372": {
+    "label": "Saturn Pre-Ingress",
+    "desc": "Saturn Pre-Ingress",
+    "category": "saturn"
+  },
+  "A373": {
+    "label": "Saturn Trine",
+    "desc": "Saturn Trine",
+    "category": "saturn"
+  },
+  "A374": {
+    "label": "Saturn Square",
+    "desc": "Saturn Square",
+    "category": "saturn"
+  },
+  "A375": {
+    "label": "Saturn Opposition",
+    "desc": "Saturn Opposition",
+    "category": "saturn"
+  },
+  "A376": {
+    "label": "Saturn in 10H",
+    "desc": "Saturn in 10H",
+    "category": "saturn"
+  },
+  "A377": {
+    "label": "Saturn in 6H",
+    "desc": "Saturn in 6H",
+    "category": "saturn"
+  },
+  "A378": {
+    "label": "Saturn in 8H",
+    "desc": "Saturn in 8H",
+    "category": "saturn"
+  },
+  "A379": {
+    "label": "Saturn in 12H",
+    "desc": "Saturn in 12H",
+    "category": "saturn"
+  },
+  "A380": {
+    "label": "Saturn aspect 5H",
+    "desc": "Saturn aspect 5H",
+    "category": "saturn"
+  },
+  "A381": {
+    "label": "Saturn aspect 10H",
+    "desc": "Saturn aspect 10H",
+    "category": "saturn"
+  },
+  "A382": {
+    "label": "Saturn aspect Lagna",
+    "desc": "Saturn aspect Lagna",
+    "category": "saturn"
+  },
+  "A383": {
+    "label": "Saturn Mahadasha",
+    "desc": "Saturn Mahadasha",
+    "category": "saturn"
+  },
+  "A384": {
+    "label": "Saturn Transit H1",
+    "desc": "Saturn Transit H1",
+    "category": "saturn"
+  },
+  "A385": {
+    "label": "Saturn Transit H10",
+    "desc": "Saturn Transit H10",
+    "category": "saturn"
+  },
+  "A386": {
+    "label": "Saturn+Jupiter conjunction",
+    "desc": "Saturn+Jupiter conjunction",
+    "category": "saturn"
+  },
+  "A387": {
+    "label": "[OUTCOME] wealth_high",
+    "desc": "Target variable: wealth_high",
+    "category": "outcome"
+  },
+  "A388": {
+    "label": "[OUTCOME] career_executive",
+    "desc": "Target variable: career_executive",
+    "category": "outcome"
+  },
+  "A389": {
+    "label": "[OUTCOME] marriage_yes",
+    "desc": "Target variable: marriage_yes",
+    "category": "outcome"
+  },
+  "A390": {
+    "label": "[OUTCOME] children_yes",
+    "desc": "Target variable: children_yes",
+    "category": "outcome"
+  },
+  "A391": {
+    "label": "[OUTCOME] fame",
+    "desc": "Target variable: fame",
+    "category": "outcome"
+  },
+  "A392": {
+    "label": "[OUTCOME] award",
+    "desc": "Target variable: award",
+    "category": "outcome"
+  },
+  "A393": {
+    "label": "[OUTCOME] business_owner",
+    "desc": "Target variable: business_owner",
+    "category": "outcome"
+  },
+  "A394": {
+    "label": "[OUTCOME] longevity_80plus",
+    "desc": "Target variable: longevity_80plus",
+    "category": "outcome"
+  },
+  "A395": {
+    "label": "[OUTCOME] bankruptcy",
+    "desc": "Target variable: bankruptcy",
+    "category": "outcome"
+  },
+  "A396": {
+    "label": "[OUTCOME] divorce",
+    "desc": "Target variable: divorce",
+    "category": "outcome"
+  }
+}
