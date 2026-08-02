@@ -1,0 +1,112 @@
+name,D1_Moon,D1_Moon_deg,D9_Moon,vargottama_Moon,loop_len,bond,achievement
+Leonardo DiCaprio,Virgo,27,Pisces,no,0,0,9
+Taylor Swift,Gemini,14,Leo,no,2,100,9
+Oprah Winfrey,Scorpio,15,Aquarius,no,2,100,9
+Dwayne Johnson,Sagittarius,5,Scorpio,no,0,0,9
+Shakira,Gemini,26,Scorpio,no,5,25,9
+Cristiano Ronaldo,Cancer,19,Sagittarius,no,3,50,10
+Lionel Messi,Taurus,22,Libra,no,0,0,10
+Serena Williams,Leo,22,Capricorn,no,0,0,9
+Tiger Woods,Scorpio,27,Gemini,no,2,100,9
+Michael Phelps,Scorpio,25,Taurus,no,3,50,9
+Usain Bolt,Pisces,4,Aquarius,no,3,50,10
+Neymar Jr,Aquarius,14,Taurus,no,0,0,9
+Virat Kohli,Virgo,3,Cancer,no,2,100,9
+LeBron James,Pisces,21,Cancer,no,2,100,10
+Kobe Bryant,Aries,18,Virgo,no,3,50,9
+Muhammad Ali,Capricorn,18,Gemini,no,0,0,10
+Pele,Cancer,6,Leo,no,2,100,10
+Diego Maradona,Aquarius,24,Leo,no,2,100,10
+Jennifer Aniston,Scorpio,22,Aries,no,3,50,8
+Angelina Jolie,Pisces,18,Gemini,no,0,0,8
+Brad Pitt,Sagittarius,28,Gemini,no,0,0,8
+Johnny Depp,Sagittarius,19,Pisces,no,0,0,8
+Will Smith,Libra,27,Gemini,no,0,0,8
+Tom Cruise,Aquarius,6,Aquarius,YES,0,0,8
+Meryl Streep,Aries,20,Virgo,no,2,100,9
+Denzel Washington,Capricorn,23,Cancer,no,3,50,9
+Morgan Freeman,Aquarius,14,Taurus,no,2,100,9
+Tom Hanks,Cancer,10,Virgo,no,2,100,9
+Steven Spielberg,Libra,13,Capricorn,no,0,0,10
+James Cameron,Aquarius,24,Leo,no,4,33,10
+Quentin Tarantino,Aries,9,Gemini,no,2,100,9
+Martin Scorsese,Pisces,2,Capricorn,no,2,100,10
+Christopher Nolan,Gemini,14,Leo,no,3,50,9
+Paul McCartney,Cancer,27,Pisces,no,0,0,10
+John Lennon,Capricorn,13,Aries,no,3,50,10
+George Harrison,Libra,23,Aries,no,4,33,9
+Ringo Starr,Cancer,17,Sagittarius,no,0,0,9
+Bob Dylan,Aries,27,Sagittarius,no,2,100,10
+Winston Churchill,Leo,10,Virgo,no,3,50,10
+Franklin D. Roosevelt,Gemini,14,Leo,no,3,50,10
+Adolf Hitler,Sagittarius,18,Pisces,no,0,0,7
+Vladimir Lenin,Capricorn,10,Pisces,no,3,50,9
+Joseph Stalin,Virgo,25,Aquarius,no,2,100,9
+Benito Mussolini,Taurus,25,Scorpio,no,2,100,7
+Dwight D. Eisenhower,Libra,3,Libra,YES,0,0,9
+John F. Kennedy,Leo,24,Aquarius,no,0,0,10
+Ronald Reagan,Aries,21,Libra,no,4,33,9
+Margaret Thatcher,Leo,8,Virgo,no,3,50,9
+Indira Gandhi,Capricorn,11,Aries,no,2,100,9
+Jawaharlal Nehru,Cancer,23,Capricorn,no,0,0,9
+Rosa Parks,Capricorn,2,Capricorn,YES,0,0,8
+Martin Luther King Jr,Aquarius,19,Gemini,no,4,33,10
+Malcolm X,Pisces,25,Leo,no,2,100,9
+Anne Frank,Leo,10,Virgo,no,4,33,8
+Helen Keller,Aquarius,22,Cancer,no,3,50,8
+Gianluigi Buffon,Virgo,11,Libra,no,2,100,9
+Zinedine Zidane,Scorpio,9,Sagittarius,no,2,100,9
+Ronaldinho,Taurus,9,Gemini,no,2,100,9
+Ronaldo,Gemini,27,Sagittarius,no,0,0,9
+Roger Federer,Libra,29,Gemini,no,3,50,10
+Rafael Nadal,Aries,1,Aries,YES,3,50,10
+Novak Djokovic,Pisces,10,Pisces,YES,3,50,10
+Martina Navratilova,Pisces,21,Cancer,no,2,100,9
+Venus Williams,Leo,2,Cancer,no,0,0,9
+Sachin Tendulkar,Sagittarius,9,Sagittarius,YES,3,50,9
+Ricky Ponting,Aquarius,7,Pisces,no,3,50,8
+Steve Smith,Pisces,6,Aquarius,no,0,0,8
+Wasim Akram,Scorpio,22,Aries,no,2,100,8
+Brian Lara,Libra,23,Aries,no,3,50,8
+Viv Richards,Scorpio,3,Libra,no,2,100,8
+Imran Khan,Aquarius,25,Leo,no,3,50,9
+Shane Warne,Virgo,16,Scorpio,no,0,0,8
+Elon Musk,Leo,21,Capricorn,no,0,0,10
+Bill Gates,Pisces,8,Pisces,YES,0,0,10
+Jeff Bezos,Sagittarius,5,Scorpio,no,0,0,10
+Steve Jobs,Pisces,12,Aries,no,4,33,10
+Mark Zuckerberg,Libra,25,Taurus,no,2,100,9
+Larry Page,Sagittarius,8,Sagittarius,YES,3,50,9
+Sergey Brin,Taurus,9,Gemini,no,3,50,9
+Jack Ma,Libra,17,Pisces,no,2,100,9
+Satya Nadella,Capricorn,25,Leo,no,3,50,9
+Tim Cook,Pisces,25,Leo,no,3,50,9
+Sundar Pichai,Gemini,21,Libra,no,2,100,9
+Sheryl Sandberg,Aquarius,27,Virgo,no,0,0,8
+Susan Wojcicki,Gemini,18,Virgo,no,0,0,8
+Marissa Mayer,Capricorn,19,Gemini,no,0,0,8
+Bob Iger,Pisces,23,Cancer,no,2,100,8
+Mary Barra,Cancer,10,Virgo,no,0,0,8
+Jamie Dimon,Pisces,15,Taurus,no,4,33,8
+Lloyd Blankfein,Gemini,18,Virgo,no,0,0,8
+Warren Buffett,Scorpio,11,Capricorn,no,0,0,10
+Mukesh Ambani,Sagittarius,12,Capricorn,no,2,100,10
+Beyonce,Libra,26,Taurus,no,0,0,9
+Albert Einstein,Scorpio,25,Taurus,no,2,100,10
+Stephen Hawking,Virgo,3,Cancer,no,0,0,10
+Marie Curie,Pisces,2,Capricorn,no,0,0,10
+Donald Trump,Scorpio,28,Gemini,no,4,33,9
+Barack Obama,Taurus,7,Gemini,no,3,50,10
+John D. Rockefeller,Taurus,24,Scorpio,no,4,33,10
+Stan Lee,Aries,10,Gemini,no,5,25,8
+Mahatma Gandhi,Leo,7,Virgo,no,0,0,10
+Abraham Lincoln,Capricorn,8,Pisces,no,0,0,10
+Nelson Mandela,Libra,29,Gemini,no,3,50,10
+Walt Disney,Virgo,22,Capricorn,no,0,0,9
+Henry Ford,Capricorn,17,Gemini,no,3,50,10
+Michael Jackson,Aquarius,17,Gemini,no,0,0,9
+A.P.J. Abdul Kalam,Scorpio,25,Taurus,no,0,0,9
+Polgahawela Bappa,Aquarius,19,Gemini,no,2,100,8
+Upulakshi,Taurus,15,Leo,no,2,100,5
+Senith,Sagittarius,13,Capricorn,no,5,25,4
+Niromi,Libra,26,Taurus,no,0,0,9

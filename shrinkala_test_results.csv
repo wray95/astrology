@@ -1,0 +1,112 @@
+name,achievement,loop_len,bond,group,vargottama_count,profession
+Leonardo DiCaprio,9,0,0,no-loop,0,Actor
+Taylor Swift,9,2,100,2-loop(bond=100),0,Singer
+Oprah Winfrey,9,2,100,2-loop(bond=100),0,Media
+Dwayne Johnson,9,0,0,no-loop,0,Actor
+Shakira,9,5,25,5-loop(bond=25),1,Singer
+Cristiano Ronaldo,10,3,50,3-loop(bond=50),2,Footballer
+Lionel Messi,10,0,0,no-loop,2,Footballer
+Serena Williams,9,0,0,no-loop,1,Tennis
+Tiger Woods,9,2,100,2-loop(bond=100),2,Golfer
+Michael Phelps,9,3,50,3-loop(bond=50),0,Swimmer
+Usain Bolt,10,3,50,3-loop(bond=50),1,Athlete
+Neymar Jr,9,0,0,no-loop,0,Footballer
+Virat Kohli,9,2,100,2-loop(bond=100),0,Cricketer
+LeBron James,10,2,100,2-loop(bond=100),0,Basketball
+Kobe Bryant,9,3,50,3-loop(bond=50),2,Basketball
+Muhammad Ali,10,0,0,no-loop,0,Boxer
+Pele,10,2,100,2-loop(bond=100),0,Footballer
+Diego Maradona,10,2,100,2-loop(bond=100),1,Footballer
+Jennifer Aniston,8,3,50,3-loop(bond=50),2,Actress
+Angelina Jolie,8,0,0,no-loop,2,Actress
+Brad Pitt,8,0,0,no-loop,1,Actor
+Johnny Depp,8,0,0,no-loop,0,Actor
+Will Smith,8,0,0,no-loop,2,Actor
+Tom Cruise,8,0,0,no-loop,1,Actor
+Meryl Streep,9,2,100,2-loop(bond=100),1,Actress
+Denzel Washington,9,3,50,3-loop(bond=50),0,Actor
+Morgan Freeman,9,2,100,2-loop(bond=100),2,Actor
+Tom Hanks,9,2,100,2-loop(bond=100),0,Actor
+Steven Spielberg,10,0,0,no-loop,1,Director
+James Cameron,10,4,33,4-loop(bond=33),0,Director
+Quentin Tarantino,9,2,100,2-loop(bond=100),3,Director
+Martin Scorsese,10,2,100,2-loop(bond=100),3,Director
+Christopher Nolan,9,3,50,3-loop(bond=50),1,Director
+Paul McCartney,10,0,0,no-loop,1,Singer
+John Lennon,10,3,50,3-loop(bond=50),1,Singer
+George Harrison,9,4,33,4-loop(bond=33),1,Singer
+Ringo Starr,9,0,0,no-loop,0,Singer
+Bob Dylan,10,2,100,2-loop(bond=100),1,Singer
+Winston Churchill,10,3,50,3-loop(bond=50),3,Politician
+Franklin D. Roosevelt,10,3,50,3-loop(bond=50),1,Politician
+Adolf Hitler,7,0,0,no-loop,1,Politician
+Vladimir Lenin,9,3,50,3-loop(bond=50),4,Politician
+Joseph Stalin,9,2,100,2-loop(bond=100),1,Politician
+Benito Mussolini,7,2,100,2-loop(bond=100),1,Politician
+Dwight D. Eisenhower,9,0,0,no-loop,2,Politician
+John F. Kennedy,10,0,0,no-loop,0,Politician
+Ronald Reagan,9,4,33,4-loop(bond=33),0,Politician
+Margaret Thatcher,9,3,50,3-loop(bond=50),1,Politician
+Indira Gandhi,9,2,100,2-loop(bond=100),3,Politician
+Jawaharlal Nehru,9,0,0,no-loop,1,Politician
+Rosa Parks,8,0,0,no-loop,3,Activist
+Martin Luther King Jr,10,4,33,4-loop(bond=33),3,Activist
+Malcolm X,9,2,100,2-loop(bond=100),1,Activist
+Anne Frank,8,4,33,4-loop(bond=33),0,Author
+Helen Keller,8,3,50,3-loop(bond=50),1,Author
+Gianluigi Buffon,9,2,100,2-loop(bond=100),1,Footballer
+Zinedine Zidane,9,2,100,2-loop(bond=100),5,Footballer
+Ronaldinho,9,2,100,2-loop(bond=100),3,Footballer
+Ronaldo,9,0,0,no-loop,1,Footballer
+Roger Federer,10,3,50,3-loop(bond=50),0,Tennis
+Rafael Nadal,10,3,50,3-loop(bond=50),1,Tennis
+Novak Djokovic,10,3,50,3-loop(bond=50),2,Tennis
+Martina Navratilova,9,2,100,2-loop(bond=100),1,Tennis
+Venus Williams,9,0,0,no-loop,0,Tennis
+Sachin Tendulkar,9,3,50,3-loop(bond=50),3,Cricketer
+Ricky Ponting,8,3,50,3-loop(bond=50),0,Cricketer
+Steve Smith,8,0,0,no-loop,4,Cricketer
+Wasim Akram,8,2,100,2-loop(bond=100),0,Cricketer
+Brian Lara,8,3,50,3-loop(bond=50),0,Cricketer
+Viv Richards,8,2,100,2-loop(bond=100),2,Cricketer
+Imran Khan,9,3,50,3-loop(bond=50),0,Politician
+Shane Warne,8,0,0,no-loop,0,Cricketer
+Elon Musk,10,0,0,no-loop,1,Tech
+Bill Gates,10,0,0,no-loop,2,Tech
+Jeff Bezos,10,0,0,no-loop,0,Tech
+Steve Jobs,10,4,33,4-loop(bond=33),2,Tech
+Mark Zuckerberg,9,2,100,2-loop(bond=100),0,Tech
+Larry Page,9,3,50,3-loop(bond=50),2,Tech
+Sergey Brin,9,3,50,3-loop(bond=50),3,Tech
+Jack Ma,9,2,100,2-loop(bond=100),1,Business
+Satya Nadella,9,3,50,3-loop(bond=50),0,Tech
+Tim Cook,9,3,50,3-loop(bond=50),1,Tech
+Sundar Pichai,9,2,100,2-loop(bond=100),3,Tech
+Sheryl Sandberg,8,0,0,no-loop,1,Tech
+Susan Wojcicki,8,0,0,no-loop,1,Tech
+Marissa Mayer,8,0,0,no-loop,0,Tech
+Bob Iger,8,2,100,2-loop(bond=100),1,Business
+Mary Barra,8,0,0,no-loop,1,Business
+Jamie Dimon,8,4,33,4-loop(bond=33),0,Business
+Lloyd Blankfein,8,0,0,no-loop,1,Business
+Warren Buffett,10,0,0,no-loop,4,Business
+Mukesh Ambani,10,2,100,2-loop(bond=100),0,Business
+Beyonce,9,0,0,no-loop,1,Singer
+Albert Einstein,10,2,100,2-loop(bond=100),1,Science
+Stephen Hawking,10,0,0,no-loop,0,Science
+Marie Curie,10,0,0,no-loop,2,Science
+Donald Trump,9,4,33,4-loop(bond=33),2,Politician
+Barack Obama,10,3,50,3-loop(bond=50),4,Politician
+John D. Rockefeller,10,4,33,4-loop(bond=33),0,Business
+Stan Lee,8,5,25,5-loop(bond=25),1,Arts
+Mahatma Gandhi,10,0,0,no-loop,0,Politician
+Abraham Lincoln,10,0,0,no-loop,0,Politician
+Nelson Mandela,10,3,50,3-loop(bond=50),2,Politician
+Walt Disney,9,0,0,no-loop,1,Arts
+Henry Ford,10,3,50,3-loop(bond=50),2,Business
+Michael Jackson,9,0,0,no-loop,2,Arts
+A.P.J. Abdul Kalam,9,0,0,no-loop,0,Science
+Polgahawela Bappa,8,2,100,2-loop(bond=100),0,Business
+Upulakshi,5,2,100,2-loop(bond=100),0,Job
+Senith,4,5,25,5-loop(bond=25),0,Job
+Niromi,9,0,0,no-loop,1,Business

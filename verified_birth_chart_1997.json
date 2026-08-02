@@ -1,0 +1,200 @@
+{
+  "birth_details": {
+    "date": "14/03/1997",
+    "time": "09:38:00",
+    "location": "Colombo, Sri Lanka",
+    "generated": "2026-07-22T12:41:33.061398"
+  },
+  "ascendant": {
+    "sign": "Aries",
+    "symbol": "♈",
+    "meaning": "Aries rising: The persona and outward identity"
+  },
+  "planets": {
+    "Sun": {
+      "sign": "Pisces",
+      "degrees": "",
+      "parsed_degrees": null,
+      "symbol": "☉",
+      "house": null
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degrees": "10°",
+      "parsed_degrees": {
+        "degrees": 10,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 10.0,
+        "raw": "10°"
+      },
+      "symbol": "☽",
+      "house": "2nd"
+    },
+    "Mars": {
+      "sign": "Capricorn",
+      "degrees": "4°",
+      "parsed_degrees": {
+        "degrees": 4,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 4.0,
+        "raw": "4°"
+      },
+      "symbol": "♂",
+      "house": "10th"
+    },
+    "Mercury": {
+      "sign": "Aquarius",
+      "degrees": "2°",
+      "parsed_degrees": {
+        "degrees": 2,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 2.0,
+        "raw": "2°"
+      },
+      "symbol": "☿",
+      "house": "11th"
+    },
+    "Jupiter": {
+      "sign": "Sagittarius",
+      "degrees": "17°",
+      "parsed_degrees": {
+        "degrees": 17,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 17.0,
+        "raw": "17°"
+      },
+      "symbol": "♃",
+      "house": "9th"
+    },
+    "Venus": {
+      "sign": "Aquarius",
+      "degrees": "25°",
+      "parsed_degrees": {
+        "degrees": 25,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 25.0,
+        "raw": "25°"
+      },
+      "symbol": "♀",
+      "house": "11th"
+    },
+    "Saturn": {
+      "sign": "Aquarius",
+      "degrees": "",
+      "parsed_degrees": null,
+      "symbol": "♄",
+      "house": "11th"
+    },
+    "Rahu": {
+      "sign": "Capricorn",
+      "degrees": "5°",
+      "parsed_degrees": {
+        "degrees": 5,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 5.0,
+        "raw": "5°"
+      },
+      "symbol": "☬",
+      "house": "10th"
+    },
+    "Ketu": {
+      "sign": "Cancer",
+      "degrees": "5°",
+      "parsed_degrees": {
+        "degrees": 5,
+        "minutes": 0,
+        "seconds": 0,
+        "decimal": 5.0,
+        "raw": "5°"
+      },
+      "symbol": "☭",
+      "house": "11th"
+    }
+  },
+  "planet_strengths": {
+    "Sun": {
+      "planet": "Sun",
+      "sign": "Pisces",
+      "status": "neutral",
+      "strength_level": 0,
+      "notes": []
+    },
+    "Moon": {
+      "planet": "Moon",
+      "sign": "Taurus",
+      "status": "exalted",
+      "strength_level": 2,
+      "notes": [
+        "Moon is exalted in Taurus"
+      ]
+    },
+    "Mars": {
+      "planet": "Mars",
+      "sign": "Capricorn",
+      "status": "exalted",
+      "strength_level": 2,
+      "notes": [
+        "Mars is exalted in Capricorn"
+      ]
+    },
+    "Mercury": {
+      "planet": "Mercury",
+      "sign": "Aquarius",
+      "status": "neutral",
+      "strength_level": 0,
+      "notes": []
+    },
+    "Jupiter": {
+      "planet": "Jupiter",
+      "sign": "Sagittarius",
+      "status": "strong",
+      "strength_level": 1,
+      "notes": [
+        "Jupiter rules Sagittarius"
+      ]
+    },
+    "Venus": {
+      "planet": "Venus",
+      "sign": "Aquarius",
+      "status": "neutral",
+      "strength_level": 0,
+      "notes": []
+    },
+    "Saturn": {
+      "planet": "Saturn",
+      "sign": "Aquarius",
+      "status": "strong",
+      "strength_level": 1,
+      "notes": [
+        "Saturn rules Aquarius"
+      ]
+    },
+    "Rahu": {
+      "planet": "Rahu",
+      "sign": "Capricorn",
+      "status": "neutral",
+      "strength_level": 0,
+      "notes": []
+    },
+    "Ketu": {
+      "planet": "Ketu",
+      "sign": "Cancer",
+      "status": "neutral",
+      "strength_level": 0,
+      "notes": []
+    }
+  },
+  "chart_summary": {
+    "sun_sign": "Pisces",
+    "moon_sign": "Taurus",
+    "rising_sign": "Aries",
+    "navamsa": "Scorpio",
+    "planetary_aspects": []
+  }
+}
