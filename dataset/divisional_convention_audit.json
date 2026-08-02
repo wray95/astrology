@@ -1,0 +1,1917 @@
+{
+ "report": {
+  "D9": {
+   "Bappa": [
+    {
+     "planet": "Sun",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    }
+   ],
+   "Upulakshi": [
+    {
+     "planet": "Sun",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Scorpio",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Scorpio"
+      }
+     }
+    }
+   ],
+   "Senith": [
+    {
+     "planet": "Sun",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Taurus",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    }
+   ],
+   "Niromi": [
+    {
+     "planet": "Mars",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Cancer",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Libra"
+      }
+     }
+    }
+   ],
+   "Senath": [
+    {
+     "planet": "Moon",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    }
+   ],
+   "Dewli": [
+    {
+     "planet": "Sun",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Scorpio"
+      }
+     }
+    }
+   ],
+   "Sineth": [
+    {
+     "planet": "Sun",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Taurus"
+      }
+     }
+    }
+   ],
+   "Lakshi Amma": [
+    {
+     "planet": "Mars",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Leo"
+      }
+     }
+    }
+   ],
+   "Lalith Uncle": [
+    {
+     "planet": "Sun",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aquarius"
+      }
+     }
+    }
+   ]
+  },
+  "D7": {
+   "Bappa": [
+    {
+     "planet": "Sun",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      }
+     }
+    }
+   ],
+   "Upulakshi": [
+    {
+     "planet": "Moon",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    }
+   ],
+   "Senith": [
+    {
+     "planet": "Sun",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Gemini",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Virgo"
+      }
+     }
+    }
+   ],
+   "Niromi": [
+    {
+     "planet": "Mars",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    }
+   ],
+   "Senath": [
+    {
+     "planet": "Moon",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Capricorn"
+      }
+     }
+    }
+   ],
+   "Dewli": [
+    {
+     "planet": "Sun",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Leo",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Aries",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aries"
+      }
+     }
+    }
+   ],
+   "Sineth": [
+    {
+     "planet": "Sun",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Scorpio"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Aquarius"
+      }
+     }
+    }
+   ],
+   "Lakshi Amma": [
+    {
+     "planet": "Mars",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    }
+   ],
+   "Lalith Uncle": [
+    {
+     "planet": "Mercury",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Aries"
+      }
+     }
+    }
+   ]
+  },
+  "D5": {
+   "Bappa": [
+    {
+     "planet": "Sun",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Aries"
+      }
+     }
+    }
+   ],
+   "Upulakshi": [
+    {
+     "planet": "Sun",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Scorpio"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    }
+   ],
+   "Senith": [
+    {
+     "planet": "Sun",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Libra"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Capricorn",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Cancer",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Scorpio",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Scorpio"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Scorpio"
+      }
+     }
+    }
+   ],
+   "Niromi": [
+    {
+     "planet": "Mars",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Virgo"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Cancer",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    }
+   ],
+   "Senath": [
+    {
+     "planet": "Moon",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Libra",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aries",
+       "mult_sign": "Libra"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Libra"
+      }
+     }
+    }
+   ],
+   "Dewli": [
+    {
+     "planet": "Sun",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Aries",
+       "mult_sign": "Taurus"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Virgo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Virgo"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Virgo"
+      }
+     }
+    }
+   ],
+   "Sineth": [
+    {
+     "planet": "Sun",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Cancer",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Cancer"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Pisces",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Scorpio",
+       "mult_sign": "Pisces"
+      },
+      "oef": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Pisces"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Aquarius",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Leo",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Gemini",
+       "mult_sign": "Leo"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Leo"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Gemini"
+      }
+     }
+    }
+   ],
+   "Lakshi Amma": [
+    {
+     "planet": "Mars",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Pisces",
+       "mult_sign": "Aries"
+      }
+     }
+    },
+    {
+     "planet": "Jupiter",
+     "mult": "Capricorn",
+     "diffs": {
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Venus",
+     "mult": "Gemini",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Gemini"
+      },
+      "oef": {
+       "conv_sign": "Taurus",
+       "mult_sign": "Gemini"
+      }
+     }
+    },
+    {
+     "planet": "Saturn",
+     "mult": "Aries",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aries"
+      },
+      "oef": {
+       "conv_sign": "Cancer",
+       "mult_sign": "Aries"
+      }
+     }
+    }
+   ],
+   "Lalith Uncle": [
+    {
+     "planet": "Sun",
+     "mult": "Aquarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aquarius"
+      },
+      "oef": {
+       "conv_sign": "Libra",
+       "mult_sign": "Aquarius"
+      }
+     }
+    },
+    {
+     "planet": "Moon",
+     "mult": "Capricorn",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      },
+      "oef": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Capricorn"
+      }
+     }
+    },
+    {
+     "planet": "Mars",
+     "mult": "Sagittarius",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      },
+      "oef": {
+       "conv_sign": "Leo",
+       "mult_sign": "Sagittarius"
+      }
+     }
+    },
+    {
+     "planet": "Mercury",
+     "mult": "Taurus",
+     "diffs": {
+      "oer": {
+       "conv_sign": "Virgo",
+       "mult_sign": "Taurus"
+      },
+      "oef": {
+       "conv_sign": "Sagittarius",
+       "mult_sign": "Taurus"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "score_impact": {
+  "Bappa": {
+   "marriage_raw": 33,
+   "children_raw": 11,
+   "marriage_pct": null
+  },
+  "Upulakshi": {
+   "marriage_raw": 0,
+   "children_raw": 67,
+   "marriage_pct": null
+  },
+  "Senith": {
+   "marriage_raw": 78,
+   "children_raw": 11,
+   "marriage_pct": null
+  },
+  "Niromi": {
+   "marriage_raw": 22,
+   "children_raw": 89,
+   "marriage_pct": null
+  },
+  "Senath": {
+   "marriage_raw": 11,
+   "children_raw": 78,
+   "marriage_pct": null
+  },
+  "Dewli": {
+   "marriage_raw": 11,
+   "children_raw": 33,
+   "marriage_pct": null
+  },
+  "Sineth": {
+   "marriage_raw": 0,
+   "children_raw": 44,
+   "marriage_pct": null
+  },
+  "Lakshi Amma": {
+   "marriage_raw": 33,
+   "children_raw": 33,
+   "marriage_pct": null
+  },
+  "Lalith Uncle": {
+   "marriage_raw": 67,
+   "children_raw": 44,
+   "marriage_pct": null
+  }
+ }
+}
