@@ -1,0 +1,1478 @@
+{
+  "00001": {
+    "desc": "Sun exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00002": {
+    "desc": "Sun debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00003": {
+    "desc": "Sun own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00004": {
+    "desc": "Sun in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00005": {
+    "desc": "Sun in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00006": {
+    "desc": "Sun in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00007": {
+    "desc": "Sun in D1 H1",
+    "cat": "d1_house"
+  },
+  "00008": {
+    "desc": "Sun in D1 H2",
+    "cat": "d1_house"
+  },
+  "00009": {
+    "desc": "Sun in D1 H3",
+    "cat": "d1_house"
+  },
+  "00010": {
+    "desc": "Sun in D1 H4",
+    "cat": "d1_house"
+  },
+  "00011": {
+    "desc": "Sun in D1 H5",
+    "cat": "d1_house"
+  },
+  "00012": {
+    "desc": "Sun in D1 H6",
+    "cat": "d1_house"
+  },
+  "00013": {
+    "desc": "Sun in D1 H7",
+    "cat": "d1_house"
+  },
+  "00014": {
+    "desc": "Sun in D1 H8",
+    "cat": "d1_house"
+  },
+  "00015": {
+    "desc": "Sun in D1 H9",
+    "cat": "d1_house"
+  },
+  "00016": {
+    "desc": "Sun in D1 H10",
+    "cat": "d1_house"
+  },
+  "00017": {
+    "desc": "Sun in D1 H11",
+    "cat": "d1_house"
+  },
+  "00018": {
+    "desc": "Sun in D1 H12",
+    "cat": "d1_house"
+  },
+  "00019": {
+    "desc": "Moon exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00020": {
+    "desc": "Moon debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00021": {
+    "desc": "Moon own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00022": {
+    "desc": "Moon in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00023": {
+    "desc": "Moon in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00024": {
+    "desc": "Moon in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00025": {
+    "desc": "Moon in D1 H1",
+    "cat": "d1_house"
+  },
+  "00026": {
+    "desc": "Moon in D1 H2",
+    "cat": "d1_house"
+  },
+  "00027": {
+    "desc": "Moon in D1 H3",
+    "cat": "d1_house"
+  },
+  "00028": {
+    "desc": "Moon in D1 H4",
+    "cat": "d1_house"
+  },
+  "00029": {
+    "desc": "Moon in D1 H5",
+    "cat": "d1_house"
+  },
+  "00030": {
+    "desc": "Moon in D1 H6",
+    "cat": "d1_house"
+  },
+  "00031": {
+    "desc": "Moon in D1 H7",
+    "cat": "d1_house"
+  },
+  "00032": {
+    "desc": "Moon in D1 H8",
+    "cat": "d1_house"
+  },
+  "00033": {
+    "desc": "Moon in D1 H9",
+    "cat": "d1_house"
+  },
+  "00034": {
+    "desc": "Moon in D1 H10",
+    "cat": "d1_house"
+  },
+  "00035": {
+    "desc": "Moon in D1 H11",
+    "cat": "d1_house"
+  },
+  "00036": {
+    "desc": "Moon in D1 H12",
+    "cat": "d1_house"
+  },
+  "00037": {
+    "desc": "Mars exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00038": {
+    "desc": "Mars debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00039": {
+    "desc": "Mars own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00040": {
+    "desc": "Mars in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00041": {
+    "desc": "Mars in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00042": {
+    "desc": "Mars in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00043": {
+    "desc": "Mars in D1 H1",
+    "cat": "d1_house"
+  },
+  "00044": {
+    "desc": "Mars in D1 H2",
+    "cat": "d1_house"
+  },
+  "00045": {
+    "desc": "Mars in D1 H3",
+    "cat": "d1_house"
+  },
+  "00046": {
+    "desc": "Mars in D1 H4",
+    "cat": "d1_house"
+  },
+  "00047": {
+    "desc": "Mars in D1 H5",
+    "cat": "d1_house"
+  },
+  "00048": {
+    "desc": "Mars in D1 H6",
+    "cat": "d1_house"
+  },
+  "00049": {
+    "desc": "Mars in D1 H7",
+    "cat": "d1_house"
+  },
+  "00050": {
+    "desc": "Mars in D1 H8",
+    "cat": "d1_house"
+  },
+  "00051": {
+    "desc": "Mars in D1 H9",
+    "cat": "d1_house"
+  },
+  "00052": {
+    "desc": "Mars in D1 H10",
+    "cat": "d1_house"
+  },
+  "00053": {
+    "desc": "Mars in D1 H11",
+    "cat": "d1_house"
+  },
+  "00054": {
+    "desc": "Mars in D1 H12",
+    "cat": "d1_house"
+  },
+  "00055": {
+    "desc": "Mercury exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00056": {
+    "desc": "Mercury debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00057": {
+    "desc": "Mercury own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00058": {
+    "desc": "Mercury in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00059": {
+    "desc": "Mercury in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00060": {
+    "desc": "Mercury in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00061": {
+    "desc": "Mercury in D1 H1",
+    "cat": "d1_house"
+  },
+  "00062": {
+    "desc": "Mercury in D1 H2",
+    "cat": "d1_house"
+  },
+  "00063": {
+    "desc": "Mercury in D1 H3",
+    "cat": "d1_house"
+  },
+  "00064": {
+    "desc": "Mercury in D1 H4",
+    "cat": "d1_house"
+  },
+  "00065": {
+    "desc": "Mercury in D1 H5",
+    "cat": "d1_house"
+  },
+  "00066": {
+    "desc": "Mercury in D1 H6",
+    "cat": "d1_house"
+  },
+  "00067": {
+    "desc": "Mercury in D1 H7",
+    "cat": "d1_house"
+  },
+  "00068": {
+    "desc": "Mercury in D1 H8",
+    "cat": "d1_house"
+  },
+  "00069": {
+    "desc": "Mercury in D1 H9",
+    "cat": "d1_house"
+  },
+  "00070": {
+    "desc": "Mercury in D1 H10",
+    "cat": "d1_house"
+  },
+  "00071": {
+    "desc": "Mercury in D1 H11",
+    "cat": "d1_house"
+  },
+  "00072": {
+    "desc": "Mercury in D1 H12",
+    "cat": "d1_house"
+  },
+  "00073": {
+    "desc": "Jupiter exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00074": {
+    "desc": "Jupiter debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00075": {
+    "desc": "Jupiter own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00076": {
+    "desc": "Jupiter in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00077": {
+    "desc": "Jupiter in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00078": {
+    "desc": "Jupiter in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00079": {
+    "desc": "Jupiter in D1 H1",
+    "cat": "d1_house"
+  },
+  "00080": {
+    "desc": "Jupiter in D1 H2",
+    "cat": "d1_house"
+  },
+  "00081": {
+    "desc": "Jupiter in D1 H3",
+    "cat": "d1_house"
+  },
+  "00082": {
+    "desc": "Jupiter in D1 H4",
+    "cat": "d1_house"
+  },
+  "00083": {
+    "desc": "Jupiter in D1 H5",
+    "cat": "d1_house"
+  },
+  "00084": {
+    "desc": "Jupiter in D1 H6",
+    "cat": "d1_house"
+  },
+  "00085": {
+    "desc": "Jupiter in D1 H7",
+    "cat": "d1_house"
+  },
+  "00086": {
+    "desc": "Jupiter in D1 H8",
+    "cat": "d1_house"
+  },
+  "00087": {
+    "desc": "Jupiter in D1 H9",
+    "cat": "d1_house"
+  },
+  "00088": {
+    "desc": "Jupiter in D1 H10",
+    "cat": "d1_house"
+  },
+  "00089": {
+    "desc": "Jupiter in D1 H11",
+    "cat": "d1_house"
+  },
+  "00090": {
+    "desc": "Jupiter in D1 H12",
+    "cat": "d1_house"
+  },
+  "00091": {
+    "desc": "Venus exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00092": {
+    "desc": "Venus debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00093": {
+    "desc": "Venus own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00094": {
+    "desc": "Venus in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00095": {
+    "desc": "Venus in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00096": {
+    "desc": "Venus in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00097": {
+    "desc": "Venus in D1 H1",
+    "cat": "d1_house"
+  },
+  "00098": {
+    "desc": "Venus in D1 H2",
+    "cat": "d1_house"
+  },
+  "00099": {
+    "desc": "Venus in D1 H3",
+    "cat": "d1_house"
+  },
+  "00100": {
+    "desc": "Venus in D1 H4",
+    "cat": "d1_house"
+  },
+  "00101": {
+    "desc": "Venus in D1 H5",
+    "cat": "d1_house"
+  },
+  "00102": {
+    "desc": "Venus in D1 H6",
+    "cat": "d1_house"
+  },
+  "00103": {
+    "desc": "Venus in D1 H7",
+    "cat": "d1_house"
+  },
+  "00104": {
+    "desc": "Venus in D1 H8",
+    "cat": "d1_house"
+  },
+  "00105": {
+    "desc": "Venus in D1 H9",
+    "cat": "d1_house"
+  },
+  "00106": {
+    "desc": "Venus in D1 H10",
+    "cat": "d1_house"
+  },
+  "00107": {
+    "desc": "Venus in D1 H11",
+    "cat": "d1_house"
+  },
+  "00108": {
+    "desc": "Venus in D1 H12",
+    "cat": "d1_house"
+  },
+  "00109": {
+    "desc": "Saturn exalted in D1",
+    "cat": "d1_dig"
+  },
+  "00110": {
+    "desc": "Saturn debilitated in D1",
+    "cat": "d1_dig"
+  },
+  "00111": {
+    "desc": "Saturn own sign in D1",
+    "cat": "d1_dig"
+  },
+  "00112": {
+    "desc": "Saturn in Kendra D1",
+    "cat": "d1_house"
+  },
+  "00113": {
+    "desc": "Saturn in Trikona D1",
+    "cat": "d1_house"
+  },
+  "00114": {
+    "desc": "Saturn in Dusthana D1",
+    "cat": "d1_house"
+  },
+  "00115": {
+    "desc": "Saturn in D1 H1",
+    "cat": "d1_house"
+  },
+  "00116": {
+    "desc": "Saturn in D1 H2",
+    "cat": "d1_house"
+  },
+  "00117": {
+    "desc": "Saturn in D1 H3",
+    "cat": "d1_house"
+  },
+  "00118": {
+    "desc": "Saturn in D1 H4",
+    "cat": "d1_house"
+  },
+  "00119": {
+    "desc": "Saturn in D1 H5",
+    "cat": "d1_house"
+  },
+  "00120": {
+    "desc": "Saturn in D1 H6",
+    "cat": "d1_house"
+  },
+  "00121": {
+    "desc": "Saturn in D1 H7",
+    "cat": "d1_house"
+  },
+  "00122": {
+    "desc": "Saturn in D1 H8",
+    "cat": "d1_house"
+  },
+  "00123": {
+    "desc": "Saturn in D1 H9",
+    "cat": "d1_house"
+  },
+  "00124": {
+    "desc": "Saturn in D1 H10",
+    "cat": "d1_house"
+  },
+  "00125": {
+    "desc": "Saturn in D1 H11",
+    "cat": "d1_house"
+  },
+  "00126": {
+    "desc": "Saturn in D1 H12",
+    "cat": "d1_house"
+  },
+  "00127": {
+    "desc": "Sun exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00128": {
+    "desc": "Sun debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00129": {
+    "desc": "Sun own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00130": {
+    "desc": "Sun vargottama",
+    "cat": "vargottama"
+  },
+  "00131": {
+    "desc": "Sun in D9 H1",
+    "cat": "d9_house"
+  },
+  "00132": {
+    "desc": "Sun in D9 H2",
+    "cat": "d9_house"
+  },
+  "00133": {
+    "desc": "Sun in D9 H3",
+    "cat": "d9_house"
+  },
+  "00134": {
+    "desc": "Sun in D9 H4",
+    "cat": "d9_house"
+  },
+  "00135": {
+    "desc": "Sun in D9 H5",
+    "cat": "d9_house"
+  },
+  "00136": {
+    "desc": "Sun in D9 H6",
+    "cat": "d9_house"
+  },
+  "00137": {
+    "desc": "Sun in D9 H7",
+    "cat": "d9_house"
+  },
+  "00138": {
+    "desc": "Sun in D9 H8",
+    "cat": "d9_house"
+  },
+  "00139": {
+    "desc": "Sun in D9 H9",
+    "cat": "d9_house"
+  },
+  "00140": {
+    "desc": "Sun in D9 H10",
+    "cat": "d9_house"
+  },
+  "00141": {
+    "desc": "Sun in D9 H11",
+    "cat": "d9_house"
+  },
+  "00142": {
+    "desc": "Sun in D9 H12",
+    "cat": "d9_house"
+  },
+  "00143": {
+    "desc": "Moon exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00144": {
+    "desc": "Moon debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00145": {
+    "desc": "Moon own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00146": {
+    "desc": "Moon vargottama",
+    "cat": "vargottama"
+  },
+  "00147": {
+    "desc": "Moon in D9 H1",
+    "cat": "d9_house"
+  },
+  "00148": {
+    "desc": "Moon in D9 H2",
+    "cat": "d9_house"
+  },
+  "00149": {
+    "desc": "Moon in D9 H3",
+    "cat": "d9_house"
+  },
+  "00150": {
+    "desc": "Moon in D9 H4",
+    "cat": "d9_house"
+  },
+  "00151": {
+    "desc": "Moon in D9 H5",
+    "cat": "d9_house"
+  },
+  "00152": {
+    "desc": "Moon in D9 H6",
+    "cat": "d9_house"
+  },
+  "00153": {
+    "desc": "Moon in D9 H7",
+    "cat": "d9_house"
+  },
+  "00154": {
+    "desc": "Moon in D9 H8",
+    "cat": "d9_house"
+  },
+  "00155": {
+    "desc": "Moon in D9 H9",
+    "cat": "d9_house"
+  },
+  "00156": {
+    "desc": "Moon in D9 H10",
+    "cat": "d9_house"
+  },
+  "00157": {
+    "desc": "Moon in D9 H11",
+    "cat": "d9_house"
+  },
+  "00158": {
+    "desc": "Moon in D9 H12",
+    "cat": "d9_house"
+  },
+  "00159": {
+    "desc": "Mars exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00160": {
+    "desc": "Mars debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00161": {
+    "desc": "Mars own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00162": {
+    "desc": "Mars vargottama",
+    "cat": "vargottama"
+  },
+  "00163": {
+    "desc": "Mars in D9 H1",
+    "cat": "d9_house"
+  },
+  "00164": {
+    "desc": "Mars in D9 H2",
+    "cat": "d9_house"
+  },
+  "00165": {
+    "desc": "Mars in D9 H3",
+    "cat": "d9_house"
+  },
+  "00166": {
+    "desc": "Mars in D9 H4",
+    "cat": "d9_house"
+  },
+  "00167": {
+    "desc": "Mars in D9 H5",
+    "cat": "d9_house"
+  },
+  "00168": {
+    "desc": "Mars in D9 H6",
+    "cat": "d9_house"
+  },
+  "00169": {
+    "desc": "Mars in D9 H7",
+    "cat": "d9_house"
+  },
+  "00170": {
+    "desc": "Mars in D9 H8",
+    "cat": "d9_house"
+  },
+  "00171": {
+    "desc": "Mars in D9 H9",
+    "cat": "d9_house"
+  },
+  "00172": {
+    "desc": "Mars in D9 H10",
+    "cat": "d9_house"
+  },
+  "00173": {
+    "desc": "Mars in D9 H11",
+    "cat": "d9_house"
+  },
+  "00174": {
+    "desc": "Mars in D9 H12",
+    "cat": "d9_house"
+  },
+  "00175": {
+    "desc": "Mercury exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00176": {
+    "desc": "Mercury debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00177": {
+    "desc": "Mercury own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00178": {
+    "desc": "Mercury vargottama",
+    "cat": "vargottama"
+  },
+  "00179": {
+    "desc": "Mercury in D9 H1",
+    "cat": "d9_house"
+  },
+  "00180": {
+    "desc": "Mercury in D9 H2",
+    "cat": "d9_house"
+  },
+  "00181": {
+    "desc": "Mercury in D9 H3",
+    "cat": "d9_house"
+  },
+  "00182": {
+    "desc": "Mercury in D9 H4",
+    "cat": "d9_house"
+  },
+  "00183": {
+    "desc": "Mercury in D9 H5",
+    "cat": "d9_house"
+  },
+  "00184": {
+    "desc": "Mercury in D9 H6",
+    "cat": "d9_house"
+  },
+  "00185": {
+    "desc": "Mercury in D9 H7",
+    "cat": "d9_house"
+  },
+  "00186": {
+    "desc": "Mercury in D9 H8",
+    "cat": "d9_house"
+  },
+  "00187": {
+    "desc": "Mercury in D9 H9",
+    "cat": "d9_house"
+  },
+  "00188": {
+    "desc": "Mercury in D9 H10",
+    "cat": "d9_house"
+  },
+  "00189": {
+    "desc": "Mercury in D9 H11",
+    "cat": "d9_house"
+  },
+  "00190": {
+    "desc": "Mercury in D9 H12",
+    "cat": "d9_house"
+  },
+  "00191": {
+    "desc": "Jupiter exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00192": {
+    "desc": "Jupiter debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00193": {
+    "desc": "Jupiter own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00194": {
+    "desc": "Jupiter vargottama",
+    "cat": "vargottama"
+  },
+  "00195": {
+    "desc": "Jupiter in D9 H1",
+    "cat": "d9_house"
+  },
+  "00196": {
+    "desc": "Jupiter in D9 H2",
+    "cat": "d9_house"
+  },
+  "00197": {
+    "desc": "Jupiter in D9 H3",
+    "cat": "d9_house"
+  },
+  "00198": {
+    "desc": "Jupiter in D9 H4",
+    "cat": "d9_house"
+  },
+  "00199": {
+    "desc": "Jupiter in D9 H5",
+    "cat": "d9_house"
+  },
+  "00200": {
+    "desc": "Jupiter in D9 H6",
+    "cat": "d9_house"
+  },
+  "00201": {
+    "desc": "Jupiter in D9 H7",
+    "cat": "d9_house"
+  },
+  "00202": {
+    "desc": "Jupiter in D9 H8",
+    "cat": "d9_house"
+  },
+  "00203": {
+    "desc": "Jupiter in D9 H9",
+    "cat": "d9_house"
+  },
+  "00204": {
+    "desc": "Jupiter in D9 H10",
+    "cat": "d9_house"
+  },
+  "00205": {
+    "desc": "Jupiter in D9 H11",
+    "cat": "d9_house"
+  },
+  "00206": {
+    "desc": "Jupiter in D9 H12",
+    "cat": "d9_house"
+  },
+  "00207": {
+    "desc": "Venus exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00208": {
+    "desc": "Venus debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00209": {
+    "desc": "Venus own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00210": {
+    "desc": "Venus vargottama",
+    "cat": "vargottama"
+  },
+  "00211": {
+    "desc": "Venus in D9 H1",
+    "cat": "d9_house"
+  },
+  "00212": {
+    "desc": "Venus in D9 H2",
+    "cat": "d9_house"
+  },
+  "00213": {
+    "desc": "Venus in D9 H3",
+    "cat": "d9_house"
+  },
+  "00214": {
+    "desc": "Venus in D9 H4",
+    "cat": "d9_house"
+  },
+  "00215": {
+    "desc": "Venus in D9 H5",
+    "cat": "d9_house"
+  },
+  "00216": {
+    "desc": "Venus in D9 H6",
+    "cat": "d9_house"
+  },
+  "00217": {
+    "desc": "Venus in D9 H7",
+    "cat": "d9_house"
+  },
+  "00218": {
+    "desc": "Venus in D9 H8",
+    "cat": "d9_house"
+  },
+  "00219": {
+    "desc": "Venus in D9 H9",
+    "cat": "d9_house"
+  },
+  "00220": {
+    "desc": "Venus in D9 H10",
+    "cat": "d9_house"
+  },
+  "00221": {
+    "desc": "Venus in D9 H11",
+    "cat": "d9_house"
+  },
+  "00222": {
+    "desc": "Venus in D9 H12",
+    "cat": "d9_house"
+  },
+  "00223": {
+    "desc": "Saturn exalted in D9",
+    "cat": "d9_dig"
+  },
+  "00224": {
+    "desc": "Saturn debilitated in D9",
+    "cat": "d9_dig"
+  },
+  "00225": {
+    "desc": "Saturn own sign in D9",
+    "cat": "d9_dig"
+  },
+  "00226": {
+    "desc": "Saturn vargottama",
+    "cat": "vargottama"
+  },
+  "00227": {
+    "desc": "Saturn in D9 H1",
+    "cat": "d9_house"
+  },
+  "00228": {
+    "desc": "Saturn in D9 H2",
+    "cat": "d9_house"
+  },
+  "00229": {
+    "desc": "Saturn in D9 H3",
+    "cat": "d9_house"
+  },
+  "00230": {
+    "desc": "Saturn in D9 H4",
+    "cat": "d9_house"
+  },
+  "00231": {
+    "desc": "Saturn in D9 H5",
+    "cat": "d9_house"
+  },
+  "00232": {
+    "desc": "Saturn in D9 H6",
+    "cat": "d9_house"
+  },
+  "00233": {
+    "desc": "Saturn in D9 H7",
+    "cat": "d9_house"
+  },
+  "00234": {
+    "desc": "Saturn in D9 H8",
+    "cat": "d9_house"
+  },
+  "00235": {
+    "desc": "Saturn in D9 H9",
+    "cat": "d9_house"
+  },
+  "00236": {
+    "desc": "Saturn in D9 H10",
+    "cat": "d9_house"
+  },
+  "00237": {
+    "desc": "Saturn in D9 H11",
+    "cat": "d9_house"
+  },
+  "00238": {
+    "desc": "Saturn in D9 H12",
+    "cat": "d9_house"
+  },
+  "00239": {
+    "desc": "Sun in D10 H1",
+    "cat": "d10_house"
+  },
+  "00240": {
+    "desc": "Sun in D10 H2",
+    "cat": "d10_house"
+  },
+  "00241": {
+    "desc": "Sun in D10 H3",
+    "cat": "d10_house"
+  },
+  "00242": {
+    "desc": "Sun in D10 H4",
+    "cat": "d10_house"
+  },
+  "00243": {
+    "desc": "Sun in D10 H5",
+    "cat": "d10_house"
+  },
+  "00244": {
+    "desc": "Sun in D10 H6",
+    "cat": "d10_house"
+  },
+  "00245": {
+    "desc": "Sun in D10 H7",
+    "cat": "d10_house"
+  },
+  "00246": {
+    "desc": "Sun in D10 H8",
+    "cat": "d10_house"
+  },
+  "00247": {
+    "desc": "Sun in D10 H9",
+    "cat": "d10_house"
+  },
+  "00248": {
+    "desc": "Sun in D10 H10",
+    "cat": "d10_house"
+  },
+  "00249": {
+    "desc": "Sun in D10 H11",
+    "cat": "d10_house"
+  },
+  "00250": {
+    "desc": "Sun in D10 H12",
+    "cat": "d10_house"
+  },
+  "00251": {
+    "desc": "Moon in D10 H1",
+    "cat": "d10_house"
+  },
+  "00252": {
+    "desc": "Moon in D10 H2",
+    "cat": "d10_house"
+  },
+  "00253": {
+    "desc": "Moon in D10 H3",
+    "cat": "d10_house"
+  },
+  "00254": {
+    "desc": "Moon in D10 H4",
+    "cat": "d10_house"
+  },
+  "00255": {
+    "desc": "Moon in D10 H5",
+    "cat": "d10_house"
+  },
+  "00256": {
+    "desc": "Moon in D10 H6",
+    "cat": "d10_house"
+  },
+  "00257": {
+    "desc": "Moon in D10 H7",
+    "cat": "d10_house"
+  },
+  "00258": {
+    "desc": "Moon in D10 H8",
+    "cat": "d10_house"
+  },
+  "00259": {
+    "desc": "Moon in D10 H9",
+    "cat": "d10_house"
+  },
+  "00260": {
+    "desc": "Moon in D10 H10",
+    "cat": "d10_house"
+  },
+  "00261": {
+    "desc": "Moon in D10 H11",
+    "cat": "d10_house"
+  },
+  "00262": {
+    "desc": "Moon in D10 H12",
+    "cat": "d10_house"
+  },
+  "00263": {
+    "desc": "Mars in D10 H1",
+    "cat": "d10_house"
+  },
+  "00264": {
+    "desc": "Mars in D10 H2",
+    "cat": "d10_house"
+  },
+  "00265": {
+    "desc": "Mars in D10 H3",
+    "cat": "d10_house"
+  },
+  "00266": {
+    "desc": "Mars in D10 H4",
+    "cat": "d10_house"
+  },
+  "00267": {
+    "desc": "Mars in D10 H5",
+    "cat": "d10_house"
+  },
+  "00268": {
+    "desc": "Mars in D10 H6",
+    "cat": "d10_house"
+  },
+  "00269": {
+    "desc": "Mars in D10 H7",
+    "cat": "d10_house"
+  },
+  "00270": {
+    "desc": "Mars in D10 H8",
+    "cat": "d10_house"
+  },
+  "00271": {
+    "desc": "Mars in D10 H9",
+    "cat": "d10_house"
+  },
+  "00272": {
+    "desc": "Mars in D10 H10",
+    "cat": "d10_house"
+  },
+  "00273": {
+    "desc": "Mars in D10 H11",
+    "cat": "d10_house"
+  },
+  "00274": {
+    "desc": "Mars in D10 H12",
+    "cat": "d10_house"
+  },
+  "00275": {
+    "desc": "Mercury in D10 H1",
+    "cat": "d10_house"
+  },
+  "00276": {
+    "desc": "Mercury in D10 H2",
+    "cat": "d10_house"
+  },
+  "00277": {
+    "desc": "Mercury in D10 H3",
+    "cat": "d10_house"
+  },
+  "00278": {
+    "desc": "Mercury in D10 H4",
+    "cat": "d10_house"
+  },
+  "00279": {
+    "desc": "Mercury in D10 H5",
+    "cat": "d10_house"
+  },
+  "00280": {
+    "desc": "Mercury in D10 H6",
+    "cat": "d10_house"
+  },
+  "00281": {
+    "desc": "Mercury in D10 H7",
+    "cat": "d10_house"
+  },
+  "00282": {
+    "desc": "Mercury in D10 H8",
+    "cat": "d10_house"
+  },
+  "00283": {
+    "desc": "Mercury in D10 H9",
+    "cat": "d10_house"
+  },
+  "00284": {
+    "desc": "Mercury in D10 H10",
+    "cat": "d10_house"
+  },
+  "00285": {
+    "desc": "Mercury in D10 H11",
+    "cat": "d10_house"
+  },
+  "00286": {
+    "desc": "Mercury in D10 H12",
+    "cat": "d10_house"
+  },
+  "00287": {
+    "desc": "Jupiter in D10 H1",
+    "cat": "d10_house"
+  },
+  "00288": {
+    "desc": "Jupiter in D10 H2",
+    "cat": "d10_house"
+  },
+  "00289": {
+    "desc": "Jupiter in D10 H3",
+    "cat": "d10_house"
+  },
+  "00290": {
+    "desc": "Jupiter in D10 H4",
+    "cat": "d10_house"
+  },
+  "00291": {
+    "desc": "Jupiter in D10 H5",
+    "cat": "d10_house"
+  },
+  "00292": {
+    "desc": "Jupiter in D10 H6",
+    "cat": "d10_house"
+  },
+  "00293": {
+    "desc": "Jupiter in D10 H7",
+    "cat": "d10_house"
+  },
+  "00294": {
+    "desc": "Jupiter in D10 H8",
+    "cat": "d10_house"
+  },
+  "00295": {
+    "desc": "Jupiter in D10 H9",
+    "cat": "d10_house"
+  },
+  "00296": {
+    "desc": "Jupiter in D10 H10",
+    "cat": "d10_house"
+  },
+  "00297": {
+    "desc": "Jupiter in D10 H11",
+    "cat": "d10_house"
+  },
+  "00298": {
+    "desc": "Jupiter in D10 H12",
+    "cat": "d10_house"
+  },
+  "00299": {
+    "desc": "Venus in D10 H1",
+    "cat": "d10_house"
+  },
+  "00300": {
+    "desc": "Venus in D10 H2",
+    "cat": "d10_house"
+  },
+  "00301": {
+    "desc": "Venus in D10 H3",
+    "cat": "d10_house"
+  },
+  "00302": {
+    "desc": "Venus in D10 H4",
+    "cat": "d10_house"
+  },
+  "00303": {
+    "desc": "Venus in D10 H5",
+    "cat": "d10_house"
+  },
+  "00304": {
+    "desc": "Venus in D10 H6",
+    "cat": "d10_house"
+  },
+  "00305": {
+    "desc": "Venus in D10 H7",
+    "cat": "d10_house"
+  },
+  "00306": {
+    "desc": "Venus in D10 H8",
+    "cat": "d10_house"
+  },
+  "00307": {
+    "desc": "Venus in D10 H9",
+    "cat": "d10_house"
+  },
+  "00308": {
+    "desc": "Venus in D10 H10",
+    "cat": "d10_house"
+  },
+  "00309": {
+    "desc": "Venus in D10 H11",
+    "cat": "d10_house"
+  },
+  "00310": {
+    "desc": "Venus in D10 H12",
+    "cat": "d10_house"
+  },
+  "00311": {
+    "desc": "Saturn in D10 H1",
+    "cat": "d10_house"
+  },
+  "00312": {
+    "desc": "Saturn in D10 H2",
+    "cat": "d10_house"
+  },
+  "00313": {
+    "desc": "Saturn in D10 H3",
+    "cat": "d10_house"
+  },
+  "00314": {
+    "desc": "Saturn in D10 H4",
+    "cat": "d10_house"
+  },
+  "00315": {
+    "desc": "Saturn in D10 H5",
+    "cat": "d10_house"
+  },
+  "00316": {
+    "desc": "Saturn in D10 H6",
+    "cat": "d10_house"
+  },
+  "00317": {
+    "desc": "Saturn in D10 H7",
+    "cat": "d10_house"
+  },
+  "00318": {
+    "desc": "Saturn in D10 H8",
+    "cat": "d10_house"
+  },
+  "00319": {
+    "desc": "Saturn in D10 H9",
+    "cat": "d10_house"
+  },
+  "00320": {
+    "desc": "Saturn in D10 H10",
+    "cat": "d10_house"
+  },
+  "00321": {
+    "desc": "Saturn in D10 H11",
+    "cat": "d10_house"
+  },
+  "00322": {
+    "desc": "Saturn in D10 H12",
+    "cat": "d10_house"
+  },
+  "00323": {
+    "desc": "D10 10L Kendra",
+    "cat": "d10_c"
+  },
+  "00324": {
+    "desc": "D10 10L Dusthana",
+    "cat": "d10_c"
+  },
+  "00325": {
+    "desc": "D10 10L in 6H",
+    "cat": "d10_c"
+  },
+  "00326": {
+    "desc": "D10 10L in 8H",
+    "cat": "d10_c"
+  },
+  "00327": {
+    "desc": "D10 10L in 12H",
+    "cat": "d10_c"
+  },
+  "00328": {
+    "desc": "Ruchaka MP",
+    "cat": "yoga"
+  },
+  "00329": {
+    "desc": "Bhadra MP",
+    "cat": "yoga"
+  },
+  "00330": {
+    "desc": "Hamsa MP",
+    "cat": "yoga"
+  },
+  "00331": {
+    "desc": "Malavya MP",
+    "cat": "yoga"
+  },
+  "00332": {
+    "desc": "Sasa MP",
+    "cat": "yoga"
+  },
+  "00333": {
+    "desc": "Raja Yoga count",
+    "cat": "yoga"
+  },
+  "00334": {
+    "desc": "Gaj-Kesari Yoga",
+    "cat": "yoga"
+  },
+  "00335": {
+    "desc": "Budha-Aditya Yoga",
+    "cat": "yoga"
+  },
+  "00336": {
+    "desc": "Chandra-Mangala Yoga",
+    "cat": "yoga"
+  },
+  "00337": {
+    "desc": "Lakshmi Yoga",
+    "cat": "yoga"
+  },
+  "00338": {
+    "desc": "Shrinkhala present",
+    "cat": "yoga"
+  },
+  "00339": {
+    "desc": "Shrinkhala max loop",
+    "cat": "yoga"
+  },
+  "00340": {
+    "desc": "Parivartana count",
+    "cat": "yoga"
+  },
+  "00341": {
+    "desc": "NBRY>=2",
+    "cat": "yoga"
+  },
+  "00342": {
+    "desc": "Guru-Chandal",
+    "cat": "yoga"
+  },
+  "00343": {
+    "desc": "Ketu MD",
+    "cat": "dasha"
+  },
+  "00344": {
+    "desc": "Venus MD",
+    "cat": "dasha"
+  },
+  "00345": {
+    "desc": "Sun MD",
+    "cat": "dasha"
+  },
+  "00346": {
+    "desc": "Moon MD",
+    "cat": "dasha"
+  },
+  "00347": {
+    "desc": "Mars MD",
+    "cat": "dasha"
+  },
+  "00348": {
+    "desc": "Rahu MD",
+    "cat": "dasha"
+  },
+  "00349": {
+    "desc": "Jupiter MD",
+    "cat": "dasha"
+  },
+  "00350": {
+    "desc": "Saturn MD",
+    "cat": "dasha"
+  },
+  "00351": {
+    "desc": "Mercury MD",
+    "cat": "dasha"
+  },
+  "00352": {
+    "desc": "Saturn Return",
+    "cat": "saturn"
+  },
+  "00353": {
+    "desc": "Saturn Pre-Ingress",
+    "cat": "saturn"
+  },
+  "00354": {
+    "desc": "Saturn asp 5H",
+    "cat": "saturn"
+  },
+  "00355": {
+    "desc": "Saturn asp 10H",
+    "cat": "saturn"
+  },
+  "00356": {
+    "desc": "Saturn asp Lagna",
+    "cat": "saturn"
+  },
+  "00357": {
+    "desc": "Jupiter 5H transit",
+    "cat": "jupiter"
+  },
+  "00358": {
+    "desc": "Jupiter 9H transit",
+    "cat": "jupiter"
+  },
+  "00359": {
+    "desc": "Jupiter 11H transit",
+    "cat": "jupiter"
+  },
+  "00360": {
+    "desc": "Sat ex D1+D9",
+    "cat": "combo"
+  },
+  "00361": {
+    "desc": "Ven own D1+D9",
+    "cat": "combo"
+  },
+  "00362": {
+    "desc": "Moon ex + D9 Moon5H",
+    "cat": "combo"
+  },
+  "00363": {
+    "desc": "MP+Shrinkhala",
+    "cat": "combo"
+  },
+  "00364": {
+    "desc": "MP+Raja",
+    "cat": "combo"
+  },
+  "00365": {
+    "desc": "[Y] WEALTH",
+    "cat": "outcome"
+  },
+  "00366": {
+    "desc": "[Y] CHILDREN",
+    "cat": "outcome"
+  },
+  "00367": {
+    "desc": "[Y] CAREER",
+    "cat": "outcome"
+  },
+  "00368": {
+    "desc": "[Y] MARRIAGE",
+    "cat": "outcome"
+  },
+  "00369": {
+    "desc": "[Y] FAME",
+    "cat": "outcome"
+  }
+}
