@@ -1,0 +1,109 @@
+{
+  "version": "5.2",
+  "timestamp": "2026-08-02T18:52:30.330195",
+  "p_series": {
+    "Bappa": {
+      "d10_strength": 15,
+      "d7_strength": 60,
+      "d5_strength": 20,
+      "d10_10l": "Jupiter",
+      "d10_10l_h": 8
+    },
+    "Upulakshi": {
+      "d10_strength": 75,
+      "d7_strength": 25,
+      "d5_strength": 70,
+      "d10_10l": "Mercury",
+      "d10_10l_h": 7
+    },
+    "Senith": {
+      "d10_strength": 20,
+      "d7_strength": 100,
+      "d5_strength": 20,
+      "d10_10l": "Mercury",
+      "d10_10l_h": 12
+    },
+    "Niromi": {
+      "d10_strength": 30,
+      "d7_strength": 45,
+      "d5_strength": 90,
+      "d10_10l": "Mars",
+      "d10_10l_h": 9
+    },
+    "Senath": {
+      "d10_strength": 55,
+      "d7_strength": 35,
+      "d5_strength": 80,
+      "d10_10l": "Jupiter",
+      "d10_10l_h": 7
+    },
+    "Dewli": {
+      "d10_strength": 15,
+      "d7_strength": 25,
+      "d5_strength": 40,
+      "d10_10l": "Mercury",
+      "d10_10l_h": 6
+    },
+    "Sineth": {
+      "d10_strength": 30,
+      "d7_strength": 25,
+      "d5_strength": 50,
+      "d10_10l": "Mars",
+      "d10_10l_h": 2
+    },
+    "Lakshi Amma": {
+      "d10_strength": 30,
+      "d7_strength": 55,
+      "d5_strength": 40,
+      "d10_10l": "Jupiter",
+      "d10_10l_h": 9
+    },
+    "Lalith Uncle": {
+      "d10_strength": 30,
+      "d7_strength": 75,
+      "d5_strength": 50,
+      "d10_10l": "Mercury",
+      "d10_10l_h": 11
+    }
+  },
+  "cox_ph": {
+    "n": 12,
+    "median_age_marriage": 28.320328542094455,
+    "note": "n=13 insufficient for reliable Cox PH. Need 50+ labels."
+  },
+  "pre_registered_hypotheses": [
+    {
+      "id": "H1",
+      "hypothesis": "D10 strength predicts career achievement",
+      "test": "Spearman \u03c1",
+      "threshold": "\u03c1 > 0.35, p < 0.05",
+      "sample": "9 P-series charts (timed)",
+      "status": "TESTING"
+    },
+    {
+      "id": "H2",
+      "hypothesis": "Jupiter transit to 7th predicts earlier marriage",
+      "test": "Cox PH HR",
+      "threshold": "HR > 1.5, p < 0.05",
+      "sample": "13 Wiki-labeled marriages",
+      "status": "DATA COLLECTION"
+    },
+    {
+      "id": "H3",
+      "hypothesis": "D7 strength predicts marriage timing",
+      "test": "Cox PH HR",
+      "threshold": "HR > 1.5, p < 0.05",
+      "sample": "13 Wiki-labeled marriages",
+      "status": "INSUFFICIENT DATA"
+    }
+  ],
+  "data_inventory": {
+    "q_series_total": 5010,
+    "q_series_with_birth_dates": 5010,
+    "q_series_with_achievement": 5,
+    "q_series_with_marriage_dates": 0,
+    "p_series_timed": 9,
+    "wiki_marriage_labels": 12,
+    "honest_note": "Q-series birth dates are DD/MM/YYYY format but mostly synthetic. Only P1-P9 have verified timed births. Marriage dates, wealth labels, and achievement scores are near-zero. Gochara engine requires real timed birth data to function."
+  }
+}
