@@ -6,11 +6,9 @@ data/_wp_titles.json
 data/_wp_titles_done.json
 p1234_validation/chart_evaluations.json
 p1234_validation/p1234_validation.db
-<<<<<<< HEAD
 
 # hygiene (Turn 17): generated logs + bulky regenerable artifacts
 *.log
 *.log.gz
 outputs/q_yearly_transit_timeline/q_yearly_timeline.jsonl.gz
-=======
->>>>>>> d6fef57 (NEXUS complete: P1-P9 final ranking. 186 files. Compressed dataset. 25+ Scribd sources. Marriage engine v3. Shrinkhala. Benchmark.)
+
