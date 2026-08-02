@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chat Log — Astrology Workspace
 
 ## Turn 2026-08-02 (Agent session)
@@ -35,7 +34,11 @@
 - **Compress (gzip -9):** synthetic_10000_charts.json 3.1M→80K · nexus_kg_pack.xml 2.3M→456K · shrinkhala_results.csv 878K→76K · famous_people_birth_data.csv 805K→176K · date_only_people.csv 778K→172K. Deleted redundant dataset/nexus_unified_master.json (raw; .gz+.tar.gz exist). Working tree ≈ 42M→35M.
 - **gitignore:** + *.log, q_yearly_timeline.jsonl.gz (20M regenerable output), untracked data/batch_err.log.
 - **Verified:** no script reads the compressed files (build_famous_dataset/generate_outputs/shrinkhala_engine only WRITE them); active scripts (generate_outputs shim via famous_people_birth_data.json.gz, harness, crosscheck) unaffected.
-=======
+
+---
+
+# AGENT-SESSION APPEND (2026-08-02, turns from this workspace session)
+
 # Chat Log — Four Sri Lankan Horoscopes (link-only Vedic analysis)
 
 > **Standing rule (user, 2026-07-23):** every answer must save the full chat — user-fed data, commands, and assistant answers — to GitHub, precisely, each turn. The live GitHub PAT is redacted in this log for security (recommend rotating it). All analysis is link-only (Drik Panchang longitudes, astro-seek dashas, astrosanhita, bavishyavani, Kursija, Reddit frameworks).
@@ -482,4 +485,3 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 5. Updated rerank_p1234_validated.md -> "5 Charts (P1-P5)": added P5 to validation-evidence, Axis-B Vedic table (P5 composite 11.5, rank #2), noted P5 worldly unknown (not in famous_people dataset) so integrated 50/50 blend blocked by missing data (no guess). Updated rerank_matrix_scored.md title + P5 note (no worldly score fabricated). Updated p1234_validation/FINAL_SUMMARY.md (4 charts -> P1-P5 throughout).
 **KEY FINDING:** Senath (P5) is the only reference with BOTH a Parivartana (PARI_001, bond 100, like P1/P2) AND Malavya (MAHA_004, like P4) + Sun/Venus exalted -> #2 on Vedic axis (14 P1 > 11.5 P5 > 9 P2 > 6 P3 > 2.5 P4). His worldly/achievement axis is NOT in workspace (Drik-link person, not famous_people record) -> stated as missing, not guessed.
 **GIT:** commit + push (PAT redacted [REDACTED]).
->>>>>>> d6fef57 (NEXUS complete: P1-P9 final ranking. 186 files. Compressed dataset. 25+ Scribd sources. Marriage engine v3. Shrinkhala. Benchmark.)
