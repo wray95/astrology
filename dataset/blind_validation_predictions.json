@@ -1,0 +1,531 @@
+{
+ "engine_version": "blind_v1",
+ "generated": "2026-08-03T00:00:00+00:00",
+ "predictions": [
+  {
+   "id": "P1",
+   "name": "Polgahawela Bappa",
+   "marriage": {
+    "score": 25,
+    "probability_by_30": 0.275,
+    "window": {
+     "start": "2030-03",
+     "end": "2050-03"
+    },
+    "window_note": null,
+    "karaka": "Venus",
+    "karaka_md_windows": [
+     {
+      "start": "2030-03",
+      "end": "2050-03"
+     },
+     {
+      "start": "2150-03",
+      "end": "2170-03"
+     }
+    ],
+    "jupiter_7th_transit": "2029-01",
+    "reasons": [
+     "D7 7L(Mars) in kendra (+20)",
+     "D7 Venus in kendra (+15)",
+     "D7 Saturn 7H/1H penalty (-10)"
+    ]
+   },
+   "children": {
+    "score": 35,
+    "probability_by_30": 0.365,
+    "window": {
+     "start": "2091-03",
+     "end": "2107-03"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "1971-03",
+      "end": "1987-03"
+     },
+     {
+      "start": "2091-03",
+      "end": "2107-03"
+     }
+    ],
+    "jupiter_5th_transit": "2026-11",
+    "reasons": [
+     "D5 5L(Mercury) in trikona (+20)",
+     "D5 Jupiter H4 (+15)"
+    ]
+   },
+   "confidence": 0.57,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P2",
+   "name": "Upulakshi",
+   "marriage": {
+    "score": 0,
+    "probability_by_30": 0.05,
+    "window": {
+     "start": "2033-02",
+     "end": "2049-02"
+    },
+    "window_note": null,
+    "karaka": "Jupiter",
+    "karaka_md_windows": [
+     {
+      "start": "2033-02",
+      "end": "2049-02"
+     },
+     {
+      "start": "2153-02",
+      "end": "2169-02"
+     }
+    ],
+    "jupiter_7th_transit": "2029-01",
+    "reasons": []
+   },
+   "children": {
+    "score": 30,
+    "probability_by_30": 0.32,
+    "window": {
+     "start": "2033-02",
+     "end": "2049-02"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2033-02",
+      "end": "2049-02"
+     },
+     {
+      "start": "2153-02",
+      "end": "2169-02"
+     }
+    ],
+    "jupiter_5th_transit": "2026-11",
+    "reasons": [
+     "D5 5L Jupiter dignified (+15)",
+     "D5 Jupiter dignified (+15)"
+    ]
+   },
+   "confidence": 0.53,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P3",
+   "name": "Senith",
+   "marriage": {
+    "score": 65,
+    "probability_by_30": 0.635,
+    "window": {
+     "start": "2118-05",
+     "end": "2138-05"
+    },
+    "window_note": null,
+    "karaka": "Venus",
+    "karaka_md_windows": [
+     {
+      "start": "1998-05",
+      "end": "2018-05"
+     },
+     {
+      "start": "2118-05",
+      "end": "2138-05"
+     }
+    ],
+    "jupiter_7th_transit": "2027-12",
+    "reasons": [
+     "D7 7L(Venus) in kendra (+20)",
+     "D7 7L Venus dignified (+15)",
+     "D7 Venus dignified (+15)",
+     "D7 Venus in kendra (+15)"
+    ]
+   },
+   "children": {
+    "score": 15,
+    "probability_by_30": 0.185,
+    "window": {
+     "start": "2059-05",
+     "end": "2075-05"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2059-05",
+      "end": "2075-05"
+     },
+     {
+      "start": "2179-05",
+      "end": "2195-05"
+     }
+    ],
+    "jupiter_5th_transit": "2026-09",
+    "reasons": [
+     "D5 Jupiter H5 (+15)"
+    ]
+   },
+   "confidence": 0.57,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P4",
+   "name": "Niromi",
+   "marriage": {
+    "score": 0,
+    "probability_by_30": 0.05,
+    "window": {
+     "start": "2088-01",
+     "end": "2104-01"
+    },
+    "window_note": null,
+    "karaka": "Jupiter",
+    "karaka_md_windows": [
+     {
+      "start": "1968-01",
+      "end": "1984-01"
+     },
+     {
+      "start": "2088-01",
+      "end": "2104-01"
+     }
+    ],
+    "jupiter_7th_transit": "2030-01",
+    "reasons": []
+   },
+   "children": {
+    "score": 50,
+    "probability_by_30": 0.5,
+    "window": {
+     "start": "2088-01",
+     "end": "2104-01"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "1968-01",
+      "end": "1984-01"
+     },
+     {
+      "start": "2088-01",
+      "end": "2104-01"
+     }
+    ],
+    "jupiter_5th_transit": "2027-12",
+    "reasons": [
+     "D5 5L(Jupiter) in trikona (+20)",
+     "D5 5L Jupiter dignified (+15)",
+     "D5 Jupiter dignified (+15)"
+    ]
+   },
+   "confidence": 0.55,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P5",
+   "name": "Senath",
+   "marriage": {
+    "score": 15,
+    "probability_by_30": 0.185,
+    "window": {
+     "start": "2088-07",
+     "end": "2108-07"
+    },
+    "window_note": null,
+    "karaka": "Venus",
+    "karaka_md_windows": [
+     {
+      "start": "2088-07",
+      "end": "2108-07"
+     },
+     {
+      "start": "2208-07",
+      "end": "2228-07"
+     }
+    ],
+    "jupiter_7th_transit": null,
+    "reasons": [
+     "D7 Venus in kendra (+15)"
+    ]
+   },
+   "children": {
+    "score": 45,
+    "probability_by_30": 0.455,
+    "window": {
+     "start": "2032-04",
+     "end": "2045-07"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2029-07",
+      "end": "2045-07"
+     },
+     {
+      "start": "2149-07",
+      "end": "2165-07"
+     }
+    ],
+    "jupiter_5th_transit": "2032-04",
+    "reasons": [
+     "D5 5L Saturn dignified (+15)",
+     "D5 Jupiter dignified (+15)",
+     "D5 Jupiter H4 (+15)"
+    ]
+   },
+   "confidence": 0.56,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P6",
+   "name": "Dewli",
+   "marriage": {
+    "score": 5,
+    "probability_by_30": 0.095,
+    "window": {
+     "start": "2090-07",
+     "end": "2106-07"
+    },
+    "window_note": null,
+    "karaka": "Jupiter",
+    "karaka_md_windows": [
+     {
+      "start": "2090-07",
+      "end": "2106-07"
+     },
+     {
+      "start": "2210-07",
+      "end": "2226-07"
+     }
+    ],
+    "jupiter_7th_transit": null,
+    "reasons": [
+     "D7 Jupiter in kendra (+15)",
+     "D7 Saturn 7H/1H penalty (-10)"
+    ]
+   },
+   "children": {
+    "score": 20,
+    "probability_by_30": 0.23,
+    "window": {
+     "start": "2090-07",
+     "end": "2106-07"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2090-07",
+      "end": "2106-07"
+     },
+     {
+      "start": "2210-07",
+      "end": "2226-07"
+     }
+    ],
+    "jupiter_5th_transit": null,
+    "reasons": [
+     "D5 5L(Mercury) in trikona (+20)"
+    ]
+   },
+   "confidence": 0.55,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P7",
+   "name": "Sineth",
+   "marriage": {
+    "score": 0,
+    "probability_by_30": 0.05,
+    "window": {
+     "start": "2081-07",
+     "end": "2101-08"
+    },
+    "window_note": null,
+    "karaka": "Venus",
+    "karaka_md_windows": [
+     {
+      "start": "2081-07",
+      "end": "2101-08"
+     },
+     {
+      "start": "2201-08",
+      "end": "2221-08"
+     }
+    ],
+    "jupiter_7th_transit": null,
+    "reasons": [
+     "D7 Saturn 7H/1H penalty (-10)"
+    ]
+   },
+   "children": {
+    "score": 35,
+    "probability_by_30": 0.365,
+    "window": {
+     "start": "2031-03",
+     "end": "2038-08"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2022-08",
+      "end": "2038-08"
+     },
+     {
+      "start": "2142-08",
+      "end": "2158-08"
+     }
+    ],
+    "jupiter_5th_transit": "2031-03",
+    "reasons": [
+     "D5 5L(Moon) in trikona (+20)",
+     "D5 5L Moon dignified (+15)"
+    ]
+   },
+   "confidence": 0.55,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P8",
+   "name": "Lakshi Amma",
+   "marriage": {
+    "score": 30,
+    "probability_by_30": 0.32,
+    "window": {
+     "start": "2074-01",
+     "end": "2090-01"
+    },
+    "window_note": null,
+    "karaka": "Jupiter",
+    "karaka_md_windows": [
+     {
+      "start": "1963-11",
+      "end": "1970-01"
+     },
+     {
+      "start": "2074-01",
+      "end": "2090-01"
+     }
+    ],
+    "jupiter_7th_transit": null,
+    "reasons": [
+     "D7 7L Sun dignified (+15)",
+     "D7 Jupiter dignified (+15)"
+    ]
+   },
+   "children": {
+    "score": 15,
+    "probability_by_30": 0.185,
+    "window": {
+     "start": "2074-01",
+     "end": "2090-01"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "1963-11",
+      "end": "1970-01"
+     },
+     {
+      "start": "2074-01",
+      "end": "2090-01"
+     }
+    ],
+    "jupiter_5th_transit": null,
+    "reasons": [
+     "D5 Jupiter H5 (+15)"
+    ]
+   },
+   "confidence": 0.55,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  },
+  {
+   "id": "P9",
+   "name": "Lalith Uncle",
+   "marriage": {
+    "score": 30,
+    "probability_by_30": 0.32,
+    "window": {
+     "start": "2091-06",
+     "end": "2111-06"
+    },
+    "window_note": null,
+    "karaka": "Venus",
+    "karaka_md_windows": [
+     {
+      "start": "1971-06",
+      "end": "1991-06"
+     },
+     {
+      "start": "2091-06",
+      "end": "2111-06"
+     }
+    ],
+    "jupiter_7th_transit": "2029-01",
+    "reasons": [
+     "D7 7L Saturn dignified (+15)",
+     "D7 Venus dignified (+15)"
+    ]
+   },
+   "children": {
+    "score": 35,
+    "probability_by_30": 0.365,
+    "window": {
+     "start": "2032-06",
+     "end": "2048-06"
+    },
+    "window_note": null,
+    "jupiter_md_windows": [
+     {
+      "start": "2032-06",
+      "end": "2048-06"
+     },
+     {
+      "start": "2152-06",
+      "end": "2168-06"
+     }
+    ],
+    "jupiter_5th_transit": "2026-11",
+    "reasons": [
+     "D5 5L(Venus) in trikona (+20)",
+     "D5 5L Venus dignified (+15)"
+    ]
+   },
+   "confidence": 0.56,
+   "caveats": [
+    "\u00b11-2mo transit approximation",
+    "birth-time \u00b11h untested",
+    "Vimshottari from Moon nakshatra (Lahiri)"
+   ]
+  }
+ ]
+}

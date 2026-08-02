@@ -1,0 +1,14 @@
+{
+  "_note": "BLIND VALIDATION INPUT — birth data ONLY. No outcomes, no marriage/children facts, no labels. Created 2026-08-02. Gender from repo context; verify P6/P7. Senath coords = Colombo (engine PD); Drik-link Houston proxy discrepancy documented in reports/divisional_convention_validation.md.",
+  "people": [
+    {"id": "P1", "name": "Polgahawela Bappa", "birth_date": "1962-05-27", "birth_time": "03:38:54", "birth_city": "Polgahawela", "birth_lat": 7.3381, "birth_lon": 80.3003, "tz": 5.5, "gender": "M"},
+    {"id": "P2", "name": "Upulakshi", "birth_date": "1997-03-14", "birth_time": "09:38:00", "birth_city": "Colombo", "birth_lat": 6.9355, "birth_lon": 79.8487, "tz": 5.5, "gender": "F"},
+    {"id": "P3", "name": "Senith", "birth_date": "1995-08-07", "birth_time": "21:18:00", "birth_city": "Colombo", "birth_lat": 6.9355, "birth_lon": 79.8487, "tz": 5.5, "gender": "M"},
+    {"id": "P4", "name": "Niromi", "birth_date": "1967-04-25", "birth_time": "08:17:37", "birth_city": "Colombo", "birth_lat": 6.9355, "birth_lon": 79.8487, "tz": 5.5, "gender": "F"},
+    {"id": "P5", "name": "Senath", "birth_date": "2001-05-14", "birth_time": "16:08:40", "birth_city": "Colombo", "birth_lat": 6.9355, "birth_lon": 79.8487, "tz": 5.5, "gender": "M"},
+    {"id": "P6", "name": "Dewli", "birth_date": "2005-10-08", "birth_time": "08:22:00", "birth_city": "Colombo", "birth_lat": 6.9097, "birth_lon": 79.89, "tz": 5.5, "gender": "F"},
+    {"id": "P7", "name": "Sineth", "birth_date": "2005-04-05", "birth_time": "16:05:48", "birth_city": "Colombo", "birth_lat": 6.9271, "birth_lon": 79.8612, "tz": 5.5, "gender": "M"},
+    {"id": "P8", "name": "Lakshi Amma", "birth_date": "1963-11-16", "birth_time": "09:04:15", "birth_city": "Kurunegala", "birth_lat": 7.486, "birth_lon": 80.362, "tz": 5.5, "gender": "F"},
+    {"id": "P9", "name": "Lalith Uncle", "birth_date": "1970-08-31", "birth_time": "21:55:30", "birth_city": "Kurunegala", "birth_lat": 7.2931, "birth_lon": 80.635, "tz": 5.5, "gender": "M"}
+  ]
+}

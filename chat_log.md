@@ -528,3 +528,12 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
   - Systematic failure mode: high-achievers with low scores are arts/sports/charismatic (Buffett, Ali, DiCaprio, Gandhi, Disney, Jackson) → single "strength" scalar too blunt.
 - **Verdict: mixed, not a pass.** Advisor's gold standard (blind predict 20 new people) NOT done. Path forward unchanged: real event-label dataset (100×20) → Layer 2 survival.
 - **Deliverables:** layer1_strength_test.py, dataset/layer1_strength_test.json, reports/layer1_strength_test_report.md, reports/EXTERNAL_FEEDBACK_2026-08-02.md.
+
+## Turn 2026-08-02 (Agent session, 11th) — blind validation framework: engine built
+- **Command:** external advisor proposed blind validation (user keeps outcomes secret; generic engine predicts; user scores). User asked "does this work for you?" → YES + built immediately.
+- **Built:** data/blind_validation_people.json (P1-P9 birth data ONLY, no outcomes; gender from repo context, P6/P7 flagged verify; P5 = Colombo coords, Houston-proxy caveat noted).
+- **Engine:** scripts/blind_validation_engine.py — GENERIC + OUTCOME-BLIND: SE Lahiri chart, whole-sign houses, D7/D5 via locked varga_conventions, Vimshottari (2 cycles), karaka = Venus(M)/Jupiter(F), marriage = D7 7L kendra/dignity + karaka D7 + Saturn penalties; children = D5 5L trikona/dignity + Jupiter D5 + Saturn penalties; windows = karaka MD ∩ Jupiter transit (monthly sampling, ±1-2mo); p(by30) heuristic (NOT calibrated).
+- **Bugs fixed during build:** (1) varga ascendant was midpoint approximation → real asc degree (P1 D7 asc Cancer→Taurus); (2) window logic inverted when MD already ended → next_window(); (3) Vimshottari extended to 2 cycles.
+- **Predictions (scores):** Mar: P3=65, P1/P8/P9=25-30, P5=15, P6=5, P2/P4/P7=0. Children: P4=50, P5=45, P1/P7/P9=35, P2=30, P6=20, P3/P8=15. Windows: near-term = P1 mar 2030-50, P2 both 2033-49, P5 child 2032-45, P7 child 2031-38, P9 child 2032-48; far-future recurrences marked (not predictions).
+- **Scoring:** reports/blind_validation_predictions.md has the fill-in template; user scores against real outcomes OUTSIDE the repo; summary (hit rates, strongest/weakest signal) to be reported back.
+- **Deliverables:** data/blind_validation_people.json, scripts/blind_validation_engine.py, dataset/blind_validation_predictions.json, reports/blind_validation_predictions.md.
