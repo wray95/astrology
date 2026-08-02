@@ -554,3 +554,15 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **P-series Sade Sati (from table markers + SE Moon signs):** ACTIVE now = P1 Bappa & P7 Sineth (Aquarius, 2022-04-28→2029-08-08), P5 Senath (Capricorn, 2020-01-23→2027-06-02). Ended: P3 Senith (2017-2025), P4/P8 Libra (2011-2020), P6 Scorpio (2014-2022), P9 Leo (2006-2014). P2 Upulakshi next Sade Sati 2029-08-08→~2036.
 - **Cross-check with repo:** P1 chart Saturn Capricorn 18° (Drik) consistent with 1961-02-01 Capricorn entry (born 1962-05-27 → Saturn ~Cap 18° in 1962 ✓). Engine = data-consistent.
 - **No outcomes touched** — pure transit validation + descriptive windows.
+
+## Turn 2026-08-02 (Agent session, 14th) — H2 (revised) pre-registered + tested → clean null
+- **Command:** revised H2 hypothesis + protocol from advisor (window A = Saturn in natal Saturn sign ~2.5y incl. pre-return months; B = ±1y exact return; C = controls; all dated events; run on all 5,287). + 8 uploaded CSVs (600-people industry files; names partially synthetic; 151k file noted missing).
+- **Pre-registered** (PRE_REGISTRATION_H2_saturn_window_v2.md) BEFORE analysis: windows A/B/C, chance 8.5% (2.5/29.46), event = first career event, p<0.05 + rate_A > rate_C.
+- **Data:** registry birth dates (5,276) joined q_biographical career_active/debut → n=905 events (birth-date-only; Saturn sign time-insensitive).
+- **Results (scripts/h2_saturn_window_test.py → dataset/h2_saturn_window_test.json):**
+  - Naive all-ages: in A 3.9% vs C 10.9% — below chance (age-bias artifact).
+  - AGE-ADJUSTED (fair test): ages 25-35 → 25.8% in A vs 25% chance (p=0.45); ages 27-33 → 43.0% vs ~42% (p=0.44). **EXACTLY CHANCE → H2 NOT SUPPORTED.**
+  - The "pre-Saturn-return" intuition = age-clustering artifact (career starts at 22-28, just before first window at ~27).
+- **Report:** reports/H2_saturn_window_test_report.md + advisor message verbatim (H2_REVISED_HYPOTHESIS_advisor_2026-08-02.md).
+- **What would change the answer:** exact event dates, real "breakthrough" labels, all-events-per-person, same test for Jupiter (12-y cycle, 3× windows).
+- **Uploaded CSVs:** registered as birth-date-distribution-only (synthetic-name flag); not used in event test.

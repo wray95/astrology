@@ -1,0 +1,9075 @@
+{
+ "n_events": 905,
+ "p0": 0.08486082824168363,
+ "in_A": 35,
+ "in_B": 28,
+ "in_C": 99,
+ "binom_p_A": 0.999999988905344,
+ "threshold_met": false,
+ "natal_saturn_dist": {
+  "Capricorn": 92,
+  "Leo": 56,
+  "Cancer": 71,
+  "Libra": 88,
+  "Aquarius": 89,
+  "Sagittarius": 87,
+  "Scorpio": 69,
+  "Gemini": 83,
+  "Virgo": 86,
+  "Aries": 49,
+  "Taurus": 63,
+  "Pisces": 72
+ },
+ "rows": [
+  {
+   "name": "Dedee Pfeiffer",
+   "birth": "1964-01-01",
+   "event_year": 1985,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Isaac Asimov",
+   "birth": "1920-02-01",
+   "event_year": 1939,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Boucher",
+   "birth": "1977-02-01",
+   "event_year": 1997,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jill Balcon",
+   "birth": "1925-03-01",
+   "event_year": 1946,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rondae Hollis-Jefferson",
+   "birth": "1995-03-01",
+   "event_year": 2015,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sorrell Booke",
+   "birth": "1930-04-01",
+   "event_year": 1939,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chris Cutler",
+   "birth": "1947-04-01",
+   "event_year": 1960,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Patty Loveless",
+   "birth": "1957-04-01",
+   "event_year": 1973,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Deana Carter",
+   "birth": "1966-04-01",
+   "event_year": 1994,
+   "natal_saturn": "Aquarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Shane Carwin",
+   "birth": "1975-04-01",
+   "event_year": 2005,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Pamela Sue Martin",
+   "birth": "1953-05-01",
+   "event_year": 1968,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Iris DeMent",
+   "birth": "1961-05-01",
+   "event_year": 1991,
+   "natal_saturn": "Capricorn",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Mix",
+   "birth": "1880-06-01",
+   "event_year": 1909,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Henry Corden",
+   "birth": "1920-06-01",
+   "event_year": 1947,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Vic Tayback",
+   "birth": "1930-06-01",
+   "event_year": 1955,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Norman Reedus",
+   "birth": "1969-06-01",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rinko Kikuchi",
+   "birth": "1981-06-01",
+   "event_year": 1999,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Five for Fighting",
+   "birth": "1965-07-01",
+   "event_year": 1988,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jarnell Stokes",
+   "birth": "1994-07-01",
+   "event_year": 2014,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Saeed Jaffrey",
+   "birth": "1929-08-01",
+   "event_year": 1961,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Hester",
+   "birth": "1959-08-01",
+   "event_year": 1976,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Angela Bettis",
+   "birth": "1973-09-01",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Radek Faksa",
+   "birth": "1994-09-01",
+   "event_year": 2013,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sarah Shahi",
+   "birth": "1980-10-01",
+   "event_year": 1997,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Ernest Adamson",
+   "birth": "1867-11-01",
+   "event_year": 1891,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "George Zucco",
+   "birth": "1886-11-01",
+   "event_year": 1907,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Don \"Red\" Barry",
+   "birth": "1912-11-01",
+   "event_year": 1933,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Felix Silla",
+   "birth": "1937-11-01",
+   "event_year": 1955,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Darren Lynn Bousman",
+   "birth": "1979-11-01",
+   "event_year": 2000,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jean Delannoy",
+   "birth": "1908-12-01",
+   "event_year": 1927,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Culbertson",
+   "birth": "1973-12-01",
+   "event_year": 1994,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Allisha Gray",
+   "birth": "1995-12-01",
+   "event_year": 2017,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Shimizugawa Motokichi",
+   "birth": "1900-13-01",
+   "event_year": 1917,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Michael Bond",
+   "birth": "1926-13-01",
+   "event_year": 1945,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Patrick Dempsey",
+   "birth": "1966-13-01",
+   "event_year": 1983,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rune Eriksen",
+   "birth": "1975-13-01",
+   "event_year": 1990,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ender Arslan",
+   "birth": "1983-13-01",
+   "event_year": 2000,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lawrence Kasdan",
+   "birth": "1949-14-01",
+   "event_year": 1980,
+   "natal_saturn": "Leo",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Torin Thatcher",
+   "birth": "1905-15-01",
+   "event_year": 1927,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Phyllis Coates",
+   "birth": "1927-15-01",
+   "event_year": 1944,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ko Chun-hsiung",
+   "birth": "1945-15-01",
+   "event_year": 1965,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Elliott Reid",
+   "birth": "1920-16-01",
+   "event_year": 1935,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Claire Gordon",
+   "birth": "1941-16-01",
+   "event_year": 1958,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Debbie Allen",
+   "birth": "1950-16-01",
+   "event_year": 1969,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lin-Manuel Miranda",
+   "birth": "1980-16-01",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Cater",
+   "birth": "1932-17-01",
+   "event_year": 1958,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jeff Berlin",
+   "birth": "1953-17-01",
+   "event_year": 1970,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Calvin Harris",
+   "birth": "1984-17-01",
+   "event_year": 2002,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Indya Moore",
+   "birth": "1995-17-01",
+   "event_year": 2010,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brett Hudson",
+   "birth": "1953-18-01",
+   "event_year": 1965,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julian Barnes",
+   "birth": "1946-19-01",
+   "event_year": 1980,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Katey Sagal",
+   "birth": "1954-19-01",
+   "event_year": 1971,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Antero Manninen",
+   "birth": "1973-19-01",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ray Anthony",
+   "birth": "1922-20-01",
+   "event_year": 1936,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Janey Godley",
+   "birth": "1961-20-01",
+   "event_year": 1994,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Skeet Ulrich",
+   "birth": "1970-20-01",
+   "event_year": 1989,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Crist\u00f3bal Balenciaga",
+   "birth": "1895-21-01",
+   "event_year": 1917,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alex Acker",
+   "birth": "1983-21-01",
+   "event_year": 2005,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Django Reinhardt",
+   "birth": "1910-23-01",
+   "event_year": 1928,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jonatha Brooke",
+   "birth": "1964-23-01",
+   "event_year": 1980,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ewen Bremner",
+   "birth": "1972-23-01",
+   "event_year": 1985,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Akira Maeda",
+   "birth": "1959-24-01",
+   "event_year": 1995,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "W. Somerset Maugham",
+   "birth": "1874-25-01",
+   "event_year": 1897,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tobe Hooper",
+   "birth": "1943-25-01",
+   "event_year": 1964,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "The Honky Tonk Man",
+   "birth": "1953-25-01",
+   "event_year": 1977,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Jupiter Apple",
+   "birth": "1968-26-01",
+   "event_year": 1984,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sara Rue",
+   "birth": "1979-26-01",
+   "event_year": 1988,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Engblom",
+   "birth": "1955-27-01",
+   "event_year": 1975,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Patrice Brisebois",
+   "birth": "1971-27-01",
+   "event_year": 1991,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Acker Bilk",
+   "birth": "1929-28-01",
+   "event_year": 1954,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Daniel Carcillo",
+   "birth": "1985-28-01",
+   "event_year": 2005,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Paddy Chayefsky",
+   "birth": "1923-29-01",
+   "event_year": 1944,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tony Blackburn",
+   "birth": "1943-29-01",
+   "event_year": 1964,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sam Trammell",
+   "birth": "1969-29-01",
+   "event_year": 1996,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andrew Keegan",
+   "birth": "1979-29-01",
+   "event_year": 1993,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tammy Grimes",
+   "birth": "1934-30-01",
+   "event_year": 1952,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jody Watley",
+   "birth": "1959-30-01",
+   "event_year": 1974,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Trevor Gillies",
+   "birth": "1979-30-01",
+   "event_year": 1999,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Becky Lynch",
+   "birth": "1987-30-01",
+   "event_year": 2002,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bobby Moynihan",
+   "birth": "1977-31-01",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tuncel Kurtiz",
+   "birth": "1936-01-02",
+   "event_year": 1958,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Normie Rowe",
+   "birth": "1947-01-02",
+   "event_year": 1960,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lisa Marie Presley",
+   "birth": "1968-01-02",
+   "event_year": 1997,
+   "natal_saturn": "Pisces",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Sonny Stitt",
+   "birth": "1924-02-02",
+   "event_year": 1943,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pete Brown",
+   "birth": "1935-02-02",
+   "event_year": 1960,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Greg Antonacci",
+   "birth": "1947-02-02",
+   "event_year": 1971,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Phil Barney",
+   "birth": "1957-02-02",
+   "event_year": 1987,
+   "natal_saturn": "Scorpio",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Lance Allred",
+   "birth": "1981-02-02",
+   "event_year": 2005,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kenneth Anger",
+   "birth": "1927-03-02",
+   "event_year": 1937,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michele Greene",
+   "birth": "1962-03-02",
+   "event_year": 1979,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Becky Bayless",
+   "birth": "1982-03-02",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Bhimsen Joshi",
+   "birth": "1922-04-02",
+   "event_year": 1941,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Beck",
+   "birth": "1949-04-02",
+   "event_year": 1971,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Siobhan Dowd",
+   "birth": "1960-04-02",
+   "event_year": 2004,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gavin DeGraw",
+   "birth": "1977-04-02",
+   "event_year": 1998,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Carradine",
+   "birth": "1906-05-02",
+   "event_year": 1930,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kavi Pradeep",
+   "birth": "1915-06-02",
+   "event_year": 1939,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jerry Marotta",
+   "birth": "1956-06-02",
+   "event_year": 1973,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anita Cochran",
+   "birth": "1967-06-02",
+   "event_year": 1997,
+   "natal_saturn": "Pisces",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Buster Crabbe",
+   "birth": "1908-07-02",
+   "event_year": 1930,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gay Talese",
+   "birth": "1932-07-02",
+   "event_year": 1961,
+   "natal_saturn": "Capricorn",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Essence Atkins",
+   "birth": "1972-07-02",
+   "event_year": 1986,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dalibor Bagari\u0107",
+   "birth": "1980-07-02",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Aaron Ekblad",
+   "birth": "1996-07-02",
+   "event_year": 2014,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Edith Evans",
+   "birth": "1888-08-02",
+   "event_year": 1910,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Greta Keller",
+   "birth": "1903-08-02",
+   "event_year": 1977,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dan Seals",
+   "birth": "1948-08-02",
+   "event_year": 1966,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gary Coleman",
+   "birth": "1968-08-02",
+   "event_year": 1974,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Peggy Wood",
+   "birth": "1892-09-02",
+   "event_year": 1910,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Barbara Lewis",
+   "birth": "1943-09-02",
+   "event_year": 1962,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Apted",
+   "birth": "1941-10-02",
+   "event_year": 1963,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lorena Rojas",
+   "birth": "1971-10-02",
+   "event_year": 1990,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "S\u00e9rgio Mendes",
+   "birth": "1941-11-02",
+   "event_year": 1961,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "James Silas",
+   "birth": "1949-11-02",
+   "event_year": 1972,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Carey Lowell",
+   "birth": "1961-11-02",
+   "event_year": 1986,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Damian Lewis",
+   "birth": "1971-11-02",
+   "event_year": 1993,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roc Marciano",
+   "birth": "1978-11-02",
+   "event_year": 1999,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anna Pavlova",
+   "birth": "1881-12-02",
+   "event_year": 1899,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gene McDaniels",
+   "birth": "1935-12-02",
+   "event_year": 1960,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Larry Nance",
+   "birth": "1959-12-02",
+   "event_year": 1981,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Scott Menville",
+   "birth": "1971-12-02",
+   "event_year": 1979,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jesse Spencer",
+   "birth": "1979-12-02",
+   "event_year": 1991,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fonzworth Bentley",
+   "birth": "1974-13-02",
+   "event_year": 2002,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Stuart Erwin",
+   "birth": "1903-14-02",
+   "event_year": 1922,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Florence Henderson",
+   "birth": "1934-14-02",
+   "event_year": 1952,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Enrico Colantoni",
+   "birth": "1963-14-02",
+   "event_year": 1987,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chris Babb",
+   "birth": "1990-14-02",
+   "event_year": 2013,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mick Avory",
+   "birth": "1944-15-02",
+   "event_year": 1962,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Shameka Christon",
+   "birth": "1982-15-02",
+   "event_year": 2004,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kathleen Clifford",
+   "birth": "1887-16-02",
+   "event_year": 1902,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mahershala Ali",
+   "birth": "1974-16-02",
+   "event_year": 2001,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Agyness Deyn",
+   "birth": "1983-16-02",
+   "event_year": 2007,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Arthur Kennedy",
+   "birth": "1914-17-02",
+   "event_year": 1937,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Margaret Truman",
+   "birth": "1924-17-02",
+   "event_year": 1947,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alan Bates",
+   "birth": "1934-17-02",
+   "event_year": 1956,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Zina Bethune",
+   "birth": "1945-17-02",
+   "event_year": 1951,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mo Yan",
+   "birth": "1955-17-02",
+   "event_year": 1981,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Drew Barry",
+   "birth": "1973-17-02",
+   "event_year": 1996,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Phil Pressey",
+   "birth": "1991-17-02",
+   "event_year": 2013,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Buerk",
+   "birth": "1946-18-02",
+   "event_year": 1970,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ike Barinholtz",
+   "birth": "1977-18-02",
+   "event_year": 2001,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Merle Oberon",
+   "birth": "1911-19-02",
+   "event_year": 1928,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Juice Leskinen",
+   "birth": "1950-19-02",
+   "event_year": 1973,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jon Fishman",
+   "birth": "1965-19-02",
+   "event_year": 1983,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eric Lange",
+   "birth": "1973-19-02",
+   "event_year": 1996,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Koto\u014dsh\u016b Katsunori",
+   "birth": "1983-19-02",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Camille Kostek",
+   "birth": "1992-19-02",
+   "event_year": 2004,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Walter Becker",
+   "birth": "1950-20-02",
+   "event_year": 1969,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Claudia Jones",
+   "birth": "1915-21-02",
+   "event_year": 1936,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Vince Welnick",
+   "birth": "1951-21-02",
+   "event_year": 1973,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "James Dean Bradfield",
+   "birth": "1969-21-02",
+   "event_year": 1986,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Steve Francis",
+   "birth": "1977-21-02",
+   "event_year": 1999,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Zenaida Manfug\u00e1s",
+   "birth": "1922-22-02",
+   "event_year": 1949,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Julius Erving",
+   "birth": "1950-22-02",
+   "event_year": 1971,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Cornacchia",
+   "birth": "1975-23-02",
+   "event_year": 1998,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tommy Burleson",
+   "birth": "1952-24-02",
+   "event_year": 1974,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Trace Cyrus",
+   "birth": "1989-24-02",
+   "event_year": 2006,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mario Hezonja",
+   "birth": "1995-25-02",
+   "event_year": 2012,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert Alda",
+   "birth": "1914-26-02",
+   "event_year": 1935,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Doris Belack",
+   "birth": "1926-26-02",
+   "event_year": 1955,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Sandie Shaw",
+   "birth": "1947-26-02",
+   "event_year": 1964,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mikael Granlund",
+   "birth": "1992-26-02",
+   "event_year": 2008,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "David Sarnoff",
+   "birth": "1891-27-02",
+   "event_year": 1919,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Brandon Beemer",
+   "birth": "1980-27-02",
+   "event_year": 2001,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Max Bentley",
+   "birth": "1920-01-03",
+   "event_year": 1940,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jack Davenport",
+   "birth": "1973-01-03",
+   "event_year": 1996,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Travis Diener",
+   "birth": "1982-01-03",
+   "event_year": 2005,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tenille Dashwood",
+   "birth": "1989-01-03",
+   "event_year": 2005,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Dr. Seuss",
+   "birth": "1904-02-03",
+   "event_year": 1921,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Cullum",
+   "birth": "1930-02-03",
+   "event_year": 1956,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Larry Carlton",
+   "birth": "1948-02-03",
+   "event_year": 1962,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Daniel Craig",
+   "birth": "1968-02-03",
+   "event_year": 1992,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jonathan D'Aversa",
+   "birth": "1986-02-03",
+   "event_year": 2007,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ruby Dandridge",
+   "birth": "1902-03-03",
+   "event_year": 1917,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Pender",
+   "birth": "1941-03-03",
+   "event_year": 1950,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mary Page Keller",
+   "birth": "1961-03-03",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julie Bowen",
+   "birth": "1970-03-03",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ronan Keating",
+   "birth": "1977-03-03",
+   "event_year": 1993,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gloria Gaither",
+   "birth": "1942-04-03",
+   "event_year": 1962,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pierre Dagenais",
+   "birth": "1978-04-03",
+   "event_year": 1998,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andrea Bowen",
+   "birth": "1990-04-03",
+   "event_year": 1996,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Sand",
+   "birth": "1932-05-03",
+   "event_year": 1960,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Grant",
+   "birth": "1972-05-03",
+   "event_year": 1994,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Peter Br\u00f6tzmann",
+   "birth": "1941-06-03",
+   "event_year": 1967,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Sleepy Floyd",
+   "birth": "1960-06-03",
+   "event_year": 1982,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Darrick Martin",
+   "birth": "1971-06-03",
+   "event_year": 1994,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "M\u00e1rio Bli\u017e\u0148\u00e1k",
+   "birth": "1987-06-03",
+   "event_year": 2008,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Josh Hart",
+   "birth": "1995-06-03",
+   "event_year": 2017,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Eisner",
+   "birth": "1942-07-03",
+   "event_year": 1966,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rachel Weisz",
+   "birth": "1970-07-03",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Cattermole",
+   "birth": "1977-07-03",
+   "event_year": 1993,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ryan Ciminelli",
+   "birth": "1986-07-03",
+   "event_year": 2007,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eileen Herlie",
+   "birth": "1918-08-03",
+   "event_year": 1938,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Micky Dolenz",
+   "birth": "1945-08-03",
+   "event_year": 1956,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Chaplin",
+   "birth": "1979-08-03",
+   "event_year": 1997,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Milana Vayntrub",
+   "birth": "1987-08-03",
+   "event_year": 1995,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Juliette Binoche",
+   "birth": "1964-09-03",
+   "event_year": 1983,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Matt Barnes",
+   "birth": "1980-09-03",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sara Montiel",
+   "birth": "1928-10-03",
+   "event_year": 1943,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Katharine Houghton",
+   "birth": "1945-10-03",
+   "event_year": 1965,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Toshio Suzuki",
+   "birth": "1955-10-03",
+   "event_year": 1972,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Astor Piazzolla",
+   "birth": "1921-11-03",
+   "event_year": 1933,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bobby McFerrin",
+   "birth": "1950-11-03",
+   "event_year": 1970,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Terrence Howard",
+   "birth": "1969-11-03",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jodie Comer",
+   "birth": "1993-11-03",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jesse Fuller",
+   "birth": "1896-12-03",
+   "event_year": 1950,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Myrna Fahey",
+   "birth": "1933-12-03",
+   "event_year": 1954,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tim Story",
+   "birth": "1970-13-03",
+   "event_year": 1997,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Raymond J. Barry",
+   "birth": "1939-14-03",
+   "event_year": 1970,
+   "natal_saturn": "Aries",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Zarah Leander",
+   "birth": "1907-15-03",
+   "event_year": 1929,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Madelyn Pugh",
+   "birth": "1921-15-03",
+   "event_year": 1951,
+   "natal_saturn": "Virgo",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "David Cronenberg",
+   "birth": "1943-15-03",
+   "event_year": 1966,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roger Crozier",
+   "birth": "1942-16-03",
+   "event_year": 1960,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brooke Burns",
+   "birth": "1978-16-03",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Blake Griffin",
+   "birth": "1989-16-03",
+   "event_year": 2009,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mark Dolan",
+   "birth": "1974-17-03",
+   "event_year": 2000,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Dennis Linde",
+   "birth": "1943-18-03",
+   "event_year": 2006,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Nate Bowman",
+   "birth": "1943-19-03",
+   "event_year": 1965,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Yoko Kanno",
+   "birth": "1964-19-03",
+   "event_year": 1985,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "William Hurt",
+   "birth": "1950-20-03",
+   "event_year": 1975,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jamal Crawford",
+   "birth": "1980-20-03",
+   "event_year": 2000,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Philip Abbott",
+   "birth": "1924-21-03",
+   "event_year": 1952,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Laura Allen",
+   "birth": "1974-21-03",
+   "event_year": 2000,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tarence Kinsey",
+   "birth": "1984-21-03",
+   "event_year": 2006,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sven Andrighetto",
+   "birth": "1993-21-03",
+   "event_year": 2010,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Angelo Badalamenti",
+   "birth": "1937-22-03",
+   "event_year": 1962,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andreas Johnson",
+   "birth": "1970-22-03",
+   "event_year": 1997,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Moses Malone",
+   "birth": "1955-23-03",
+   "event_year": 1974,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gene Nelson",
+   "birth": "1920-24-03",
+   "event_year": 1938,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jean Sablon",
+   "birth": "1906-25-03",
+   "event_year": 1923,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cecil Taylor",
+   "birth": "1929-25-03",
+   "event_year": 1956,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Aulby",
+   "birth": "1960-25-03",
+   "event_year": 1978,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nate Bargatze",
+   "birth": "1979-25-03",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fiona Bruce",
+   "birth": "1957-26-03",
+   "event_year": 1989,
+   "natal_saturn": "Sagittarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Amy Smart",
+   "birth": "1976-26-03",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Keira Knightley",
+   "birth": "1985-26-03",
+   "event_year": 1991,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tony Barber",
+   "birth": "1940-28-03",
+   "event_year": 1961,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Keith Tkachuk",
+   "birth": "1972-28-03",
+   "event_year": 1992,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Turhan Bey",
+   "birth": "1922-30-03",
+   "event_year": 1941,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stuart Dryburgh",
+   "birth": "1952-30-03",
+   "event_year": 1980,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Lucille Bliss",
+   "birth": "1916-31-03",
+   "event_year": 1935,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roy Andersson",
+   "birth": "1943-31-03",
+   "event_year": 1967,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Barrasso",
+   "birth": "1965-31-03",
+   "event_year": 1983,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Makis Dreliozis",
+   "birth": "1975-31-03",
+   "event_year": 1990,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wallace Beery",
+   "birth": "1885-01-04",
+   "event_year": 1904,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Taran Killam",
+   "birth": "1982-01-04",
+   "event_year": 1993,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julia Fischer",
+   "birth": "1990-01-04",
+   "event_year": 1995,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gloria Henry",
+   "birth": "1923-02-04",
+   "event_year": 1947,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Gambaccini",
+   "birth": "1949-02-04",
+   "event_year": 1967,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nate Huffman",
+   "birth": "1975-02-04",
+   "event_year": 1997,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nanette Bordeaux",
+   "birth": "1911-03-04",
+   "event_year": 1942,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert Karvelas",
+   "birth": "1921-03-04",
+   "event_year": 1965,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marsha Mason",
+   "birth": "1942-03-04",
+   "event_year": 1966,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Aaron Bertram",
+   "birth": "1981-03-04",
+   "event_year": 1998,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Peter Vaughan",
+   "birth": "1923-04-04",
+   "event_year": 1939,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Currensy",
+   "birth": "1981-04-04",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Raymond Bonney",
+   "birth": "1892-05-04",
+   "event_year": 1912,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Christopher Hewett",
+   "birth": "1921-05-04",
+   "event_year": 1943,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lana Clarkson",
+   "birth": "1962-05-04",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gordon Chater",
+   "birth": "1922-06-04",
+   "event_year": 1944,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Connie Broden",
+   "birth": "1932-06-04",
+   "event_year": 1950,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rory Bremner",
+   "birth": "1961-06-04",
+   "event_year": 1985,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Travis Moen",
+   "birth": "1982-06-04",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Adri\u00e1n Alonso",
+   "birth": "1994-06-04",
+   "event_year": 1997,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Ian Richardson",
+   "birth": "1934-07-04",
+   "event_year": 1954,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Leif Ove Andsnes",
+   "birth": "1970-07-04",
+   "event_year": 1987,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jacques Brel",
+   "birth": "1929-08-04",
+   "event_year": 1952,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ana de la Reguera",
+   "birth": "1977-08-04",
+   "event_year": 1996,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sharkey Bonano",
+   "birth": "1904-09-04",
+   "event_year": 1920,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tiny Hill",
+   "birth": "1927-09-04",
+   "event_year": 1931,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Warren DeMartini",
+   "birth": "1963-10-04",
+   "event_year": 1981,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Guillaume Canet",
+   "birth": "1973-10-04",
+   "event_year": 1994,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Laura Bell Bundy",
+   "birth": "1981-10-04",
+   "event_year": 1992,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Misuzu Kaneko",
+   "birth": "1903-11-04",
+   "event_year": 1923,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Norman McLaren",
+   "birth": "1914-11-04",
+   "event_year": 1933,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Balls Mahoney",
+   "birth": "1972-11-04",
+   "event_year": 1987,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "David Thirdkill",
+   "birth": "1960-12-04",
+   "event_year": 1982,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alicia Coppola",
+   "birth": "1968-12-04",
+   "event_year": 1991,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Steve Camp",
+   "birth": "1955-13-04",
+   "event_year": 1978,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dana Barros",
+   "birth": "1967-13-04",
+   "event_year": 1989,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Baron Davis",
+   "birth": "1979-13-04",
+   "event_year": 1999,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eric Gryba",
+   "birth": "1988-14-04",
+   "event_year": 2010,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Williams",
+   "birth": "1903-15-04",
+   "event_year": 1952,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hans Conried",
+   "birth": "1917-15-04",
+   "event_year": 1937,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Josiane Balasko",
+   "birth": "1950-15-04",
+   "event_year": 1973,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pierre Aubry",
+   "birth": "1960-15-04",
+   "event_year": 1980,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luke Evans",
+   "birth": "1979-15-04",
+   "event_year": 2000,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roy Hamilton",
+   "birth": "1929-16-04",
+   "event_year": 1947,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kareem Abdul-Jabbar",
+   "birth": "1947-16-04",
+   "event_year": 1969,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lukas Haas",
+   "birth": "1976-16-04",
+   "event_year": 1983,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marta Eggerth",
+   "birth": "1912-17-04",
+   "event_year": 1922,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ken Daneyko",
+   "birth": "1964-17-04",
+   "event_year": 1983,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brad Boyes",
+   "birth": "1982-17-04",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mikl\u00f3s R\u00f3zsa",
+   "birth": "1907-18-04",
+   "event_year": 1918,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hayley Mills",
+   "birth": "1946-18-04",
+   "event_year": 1958,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gabi Delgado-L\u00f3pez",
+   "birth": "1958-18-04",
+   "event_year": 1978,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alia Shawkat",
+   "birth": "1989-18-04",
+   "event_year": 1999,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Constance Talmadge",
+   "birth": "1898-19-04",
+   "event_year": 1914,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hugh O'Brian",
+   "birth": "1925-19-04",
+   "event_year": 1948,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dudley Moore",
+   "birth": "1935-19-04",
+   "event_year": 1958,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tim Curry",
+   "birth": "1946-19-04",
+   "event_year": 1968,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Madeleine Peyroux",
+   "birth": "1974-19-04",
+   "event_year": 1990,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kelly Olynyk",
+   "birth": "1991-19-04",
+   "event_year": 2013,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nina Foch",
+   "birth": "1924-20-04",
+   "event_year": 1943,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luther Vandross",
+   "birth": "1951-20-04",
+   "event_year": 1969,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lara Jill Miller",
+   "birth": "1967-20-04",
+   "event_year": 1978,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alistair MacLean",
+   "birth": "1922-21-04",
+   "event_year": 1955,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Jacques Caron",
+   "birth": "1940-21-04",
+   "event_year": 1959,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Shivaji Satam",
+   "birth": "1950-21-04",
+   "event_year": 1980,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Glen Hansard",
+   "birth": "1970-21-04",
+   "event_year": 1990,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alan Bond",
+   "birth": "1938-22-04",
+   "event_year": 1954,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Lysiak",
+   "birth": "1953-22-04",
+   "event_year": 1973,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "George Canseco",
+   "birth": "1934-23-04",
+   "event_year": 1972,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Blair Brown",
+   "birth": "1946-23-04",
+   "event_year": 1971,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dr. Rajkumar",
+   "birth": "1929-24-04",
+   "event_year": 1942,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gabby Logan",
+   "birth": "1973-24-04",
+   "event_year": 1995,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stu Cook",
+   "birth": "1945-25-04",
+   "event_year": 1959,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ron Clements",
+   "birth": "1953-25-04",
+   "event_year": 1972,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joe Buck",
+   "birth": "1969-25-04",
+   "event_year": 1989,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Daniel MacPherson",
+   "birth": "1980-25-04",
+   "event_year": 1990,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anita Loos",
+   "birth": "1889-26-04",
+   "event_year": 1912,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gary Wright",
+   "birth": "1943-26-04",
+   "event_year": 1950,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joan Chen",
+   "birth": "1961-26-04",
+   "event_year": 1975,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anna Chancellor",
+   "birth": "1965-27-04",
+   "event_year": 1990,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jenna Coleman",
+   "birth": "1986-27-04",
+   "event_year": 1996,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ann-Margret",
+   "birth": "1941-28-04",
+   "event_year": 1961,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmy Barnes",
+   "birth": "1956-28-04",
+   "event_year": 1973,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bill Drummond",
+   "birth": "1953-29-04",
+   "event_year": 1975,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dianna Agron",
+   "birth": "1986-30-04",
+   "event_year": 2006,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chae Seo-jin",
+   "birth": "1994-30-04",
+   "event_year": 2006,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Una Stubbs",
+   "birth": "1937-01-05",
+   "event_year": 1956,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tim McGraw",
+   "birth": "1967-01-05",
+   "event_year": 1990,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "William Nylander",
+   "birth": "1996-01-05",
+   "event_year": 2013,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lorenz Hart",
+   "birth": "1895-02-05",
+   "event_year": 1919,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Beulah Bondi",
+   "birth": "1889-03-05",
+   "event_year": 1895,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Betty Comden",
+   "birth": "1917-03-05",
+   "event_year": 1944,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Rod Langway",
+   "birth": "1957-03-05",
+   "event_year": 1977,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Harvey Guill\u00e9n",
+   "birth": "1990-03-05",
+   "event_year": 2008,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luther Adler",
+   "birth": "1903-04-05",
+   "event_year": 1908,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ryan Cayabyab",
+   "birth": "1954-04-05",
+   "event_year": 1970,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kimora Lee Simmons",
+   "birth": "1975-04-05",
+   "event_year": 1988,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lance Henriksen",
+   "birth": "1940-05-05",
+   "event_year": 1961,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marg Downey",
+   "birth": "1961-05-05",
+   "event_year": 1984,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmie Dale Gilmore",
+   "birth": "1945-06-05",
+   "event_year": 1972,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Bergeron",
+   "birth": "1955-06-05",
+   "event_year": 1980,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "L\u00e6titia Sadier",
+   "birth": "1968-06-05",
+   "event_year": 1987,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Abraham",
+   "birth": "1978-06-05",
+   "event_year": 1999,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Martina Topley-Bird",
+   "birth": "1975-07-05",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mary Lou Williams",
+   "birth": "1910-08-05",
+   "event_year": 1920,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Philip Bailey",
+   "birth": "1951-08-05",
+   "event_year": 1970,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lars Eller",
+   "birth": "1989-08-05",
+   "event_year": 2007,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pedro Armend\u00e1riz",
+   "birth": "1912-09-05",
+   "event_year": 1935,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Albert Finney",
+   "birth": "1936-09-05",
+   "event_year": 1956,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Steve Yzerman",
+   "birth": "1965-09-05",
+   "event_year": 1983,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rosario Dawson",
+   "birth": "1979-09-05",
+   "event_year": 1994,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Frieda Belinfante",
+   "birth": "1904-10-05",
+   "event_year": 1922,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bert Weedon",
+   "birth": "1920-10-05",
+   "event_year": 1939,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Hagerty",
+   "birth": "1954-10-05",
+   "event_year": 1983,
+   "natal_saturn": "Libra",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Laetitia Casta",
+   "birth": "1978-11-05",
+   "event_year": 1993,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fritz Kortner",
+   "birth": "1892-12-05",
+   "event_year": 1915,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tony Hancock",
+   "birth": "1924-12-05",
+   "event_year": 1942,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Emilio Estevez",
+   "birth": "1962-12-05",
+   "event_year": 1973,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Domhnall Gleeson",
+   "birth": "1983-12-05",
+   "event_year": 2001,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Zohra Lampert",
+   "birth": "1937-13-05",
+   "event_year": 1954,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lasse Berghagen",
+   "birth": "1945-13-05",
+   "event_year": 1965,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Candice King",
+   "birth": "1987-13-05",
+   "event_year": 2006,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gene Cornish",
+   "birth": "1944-14-05",
+   "event_year": 1965,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Turk Broda",
+   "birth": "1914-15-05",
+   "event_year": 1935,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Graeham Goble",
+   "birth": "1947-15-05",
+   "event_year": 1966,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jordan Eberle",
+   "birth": "1990-15-05",
+   "event_year": 2009,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ralph Tresvant",
+   "birth": "1968-16-05",
+   "event_year": 1981,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tony Kakko",
+   "birth": "1975-16-05",
+   "event_year": 1996,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Howard Ashman",
+   "birth": "1950-17-05",
+   "event_year": 1977,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gail Strickland",
+   "birth": "1945-18-05",
+   "event_year": 1966,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wreckless Eric",
+   "birth": "1954-18-05",
+   "event_year": 1974,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marty McSorley",
+   "birth": "1963-18-05",
+   "event_year": 1982,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Turner Stevenson",
+   "birth": "1972-18-05",
+   "event_year": 1992,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jordan Pruitt",
+   "birth": "1991-19-05",
+   "event_year": 2005,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "George Gobel",
+   "birth": "1919-20-05",
+   "event_year": 1950,
+   "natal_saturn": "Leo",
+   "in_A": true,
+   "in_B": true,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cher",
+   "birth": "1946-20-05",
+   "event_year": 1963,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Terry Lightfoot",
+   "birth": "1935-21-05",
+   "event_year": 1950,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nora Aunor",
+   "birth": "1953-21-05",
+   "event_year": 1967,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anna Baryshnikov",
+   "birth": "1992-22-05",
+   "event_year": 2014,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Herbert Marshall",
+   "birth": "1890-23-05",
+   "event_year": 1911,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Esa Lindell",
+   "birth": "1994-23-05",
+   "event_year": 2012,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Prince Buster",
+   "birth": "1938-24-05",
+   "event_year": 1961,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pelle Lindbergh",
+   "birth": "1959-24-05",
+   "event_year": 1978,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tamer Karada\u011fl\u0131",
+   "birth": "1967-24-05",
+   "event_year": 1992,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Miles Malleson",
+   "birth": "1888-25-05",
+   "event_year": 1921,
+   "natal_saturn": "Leo",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Hal David",
+   "birth": "1921-25-05",
+   "event_year": 1940,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dixie Carter",
+   "birth": "1939-25-05",
+   "event_year": 1960,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michalis Pelekanos",
+   "birth": "1981-25-05",
+   "event_year": 1999,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lauryn Hill",
+   "birth": "1975-26-05",
+   "event_year": 1988,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ah Young",
+   "birth": "1991-26-05",
+   "event_year": 2011,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Cheever",
+   "birth": "1912-27-05",
+   "event_year": 1935,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Allan Carr",
+   "birth": "1937-27-05",
+   "event_year": 1966,
+   "natal_saturn": "Pisces",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "D. V. Paluskar",
+   "birth": "1921-28-05",
+   "event_year": 1935,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jerry Douglas",
+   "birth": "1956-28-05",
+   "event_year": 1970,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roger Kumble",
+   "birth": "1966-28-05",
+   "event_year": 1994,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Laura Bailey",
+   "birth": "1981-28-05",
+   "event_year": 1999,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Danny Elfman",
+   "birth": "1953-29-05",
+   "event_year": 1971,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Thomas Baumer",
+   "birth": "1960-29-05",
+   "event_year": 1986,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Natarsha Belling",
+   "birth": "1970-29-05",
+   "event_year": 1995,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Bishai",
+   "birth": "1979-30-05",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Akira Ifukube",
+   "birth": "1914-31-05",
+   "event_year": 1935,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julian Beck",
+   "birth": "1925-31-05",
+   "event_year": 1943,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jim Hutton",
+   "birth": "1934-31-05",
+   "event_year": 1956,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rainer Werner Fassbinder",
+   "birth": "1945-31-05",
+   "event_year": 1965,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pirkka-Pekka Petelius",
+   "birth": "1953-31-05",
+   "event_year": 1975,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ray Cote",
+   "birth": "1961-31-05",
+   "event_year": 1981,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Arun Luthra",
+   "birth": "1971-31-05",
+   "event_year": 1990,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Azealia Banks",
+   "birth": "1991-31-05",
+   "event_year": 2008,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Erzsi Kov\u00e1cs",
+   "birth": "1928-02-06",
+   "event_year": 1950,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kevin Brownlow",
+   "birth": "1938-02-06",
+   "event_year": 1953,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dennis Haysbert",
+   "birth": "1954-02-06",
+   "event_year": 1978,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ellen Corby",
+   "birth": "1911-03-06",
+   "event_year": 1933,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anderson Cooper",
+   "birth": "1967-03-06",
+   "event_year": 1990,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Al Horford",
+   "birth": "1986-03-06",
+   "event_year": 2007,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Louis Hofmann",
+   "birth": "1997-03-06",
+   "event_year": 2006,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anthony Braxton",
+   "birth": "1945-04-06",
+   "event_year": 1968,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "El DeBarge",
+   "birth": "1961-04-06",
+   "event_year": 1979,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Susan Lynch",
+   "birth": "1971-05-06",
+   "event_year": 1991,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kenneth Connor",
+   "birth": "1918-06-06",
+   "event_year": 1936,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Monty Alexander",
+   "birth": "1944-06-06",
+   "event_year": 1958,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Harvey Fierstein",
+   "birth": "1952-06-06",
+   "event_year": 1981,
+   "natal_saturn": "Virgo",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Hirokazu Kore-eda",
+   "birth": "1962-06-06",
+   "event_year": 1991,
+   "natal_saturn": "Capricorn",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Vic Mensa",
+   "birth": "1993-06-06",
+   "event_year": 2009,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Salamunovich",
+   "birth": "1927-07-06",
+   "event_year": 1946,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gordon Gano",
+   "birth": "1963-07-06",
+   "event_year": 1981,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eric D. Johnson",
+   "birth": "1976-07-06",
+   "event_year": 1997,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Annie Haslam",
+   "birth": "1947-08-06",
+   "event_year": 1971,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Scott Adams",
+   "birth": "1966-28-09",
+   "event_year": 1989,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fred Waring",
+   "birth": "1900-09-06",
+   "event_year": 1923,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jason Demers",
+   "birth": "1988-09-06",
+   "event_year": 2008,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Leo Gravelle",
+   "birth": "1925-10-06",
+   "event_year": 1945,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Faith Evans",
+   "birth": "1973-10-06",
+   "event_year": 1994,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Yuriy Sedykh",
+   "birth": "1955-11-06",
+   "event_year": 1976,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ryan Dunn",
+   "birth": "1977-11-06",
+   "event_year": 1997,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marv Albert",
+   "birth": "1941-12-06",
+   "event_year": 1963,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Emma Eliasson",
+   "birth": "1989-12-06",
+   "event_year": 2005,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Natalie MacMaster",
+   "birth": "1972-13-06",
+   "event_year": 1989,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jack Adams",
+   "birth": "1895-14-06",
+   "event_year": 1917,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Burl Ives",
+   "birth": "1909-14-06",
+   "event_year": 1929,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Martha Greenhouse",
+   "birth": "1921-14-06",
+   "event_year": 1956,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Renaldo Benson",
+   "birth": "1936-14-06",
+   "event_year": 1953,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Will Patton",
+   "birth": "1954-14-06",
+   "event_year": 1981,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Faizon Love",
+   "birth": "1968-14-06",
+   "event_year": 1983,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Harry Langdon",
+   "birth": "1884-15-06",
+   "event_year": 1903,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jesse B\u00e9langer",
+   "birth": "1969-15-06",
+   "event_year": 1991,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Faith Domergue",
+   "birth": "1924-16-06",
+   "event_year": 1941,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Danny Burstein",
+   "birth": "1964-16-06",
+   "event_year": 1986,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Cho",
+   "birth": "1972-16-06",
+   "event_year": 1996,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joe McElderry",
+   "birth": "1991-16-06",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ralph Bellamy",
+   "birth": "1904-17-06",
+   "event_year": 1925,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Snakefinger",
+   "birth": "1949-17-06",
+   "event_year": 1971,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lee Ryan",
+   "birth": "1983-17-06",
+   "event_year": 2000,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Keye Luke",
+   "birth": "1904-18-06",
+   "event_year": 1934,
+   "natal_saturn": "Aquarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "E. G. Marshall",
+   "birth": "1914-18-06",
+   "event_year": 1945,
+   "natal_saturn": "Gemini",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Julie Depardieu",
+   "birth": "1973-18-06",
+   "event_year": 1994,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dennis Lloyd",
+   "birth": "1993-18-06",
+   "event_year": 2015,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gena Rowlands",
+   "birth": "1930-19-06",
+   "event_year": 1949,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmy Driftwood",
+   "birth": "1907-20-06",
+   "event_year": 1925,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rodney Rogers",
+   "birth": "1971-20-06",
+   "event_year": 1993,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ralph Waite",
+   "birth": "1928-22-06",
+   "event_year": 1954,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Larry Junstrom",
+   "birth": "1949-22-06",
+   "event_year": 1964,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ilya Bryzgalov",
+   "birth": "1980-22-06",
+   "event_year": 1999,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bryan Brown",
+   "birth": "1947-23-06",
+   "event_year": 1972,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wade Barrett",
+   "birth": "1976-23-06",
+   "event_year": 2004,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "debut"
+  },
+  {
+   "name": "Brooks Laich",
+   "birth": "1983-23-06",
+   "event_year": 2004,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Katie Armiger",
+   "birth": "1991-23-06",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Al Molinaro",
+   "birth": "1919-24-06",
+   "event_year": 1940,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eddie Floyd",
+   "birth": "1937-25-06",
+   "event_year": 1956,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mario Lessard",
+   "birth": "1954-25-06",
+   "event_year": 1977,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roope Latvala",
+   "birth": "1970-25-06",
+   "event_year": 1985,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jhonas Enroth",
+   "birth": "1988-25-06",
+   "event_year": 2007,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "George Hainsworth",
+   "birth": "1895-26-06",
+   "event_year": 1926,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Georgie Fame",
+   "birth": "1943-26-06",
+   "event_year": 1959,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "J. J. Barea",
+   "birth": "1984-26-06",
+   "event_year": 2001,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Muriel Pavlow",
+   "birth": "1921-27-06",
+   "event_year": 1934,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Craig Hodges",
+   "birth": "1960-27-06",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Peter Baynham",
+   "birth": "1963-28-06",
+   "event_year": 1987,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Felicia Day",
+   "birth": "1979-28-06",
+   "event_year": 2001,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Seohyun",
+   "birth": "1991-28-06",
+   "event_year": 2007,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pat Crawford Brown",
+   "birth": "1929-29-06",
+   "event_year": 1985,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sharon Lawrence",
+   "birth": "1961-29-06",
+   "event_year": 1987,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Oliver Tree",
+   "birth": "1993-29-06",
+   "event_year": 2010,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tony Hatch",
+   "birth": "1939-30-06",
+   "event_year": 1959,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stanley Clarke",
+   "birth": "1951-30-06",
+   "event_year": 1966,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pam Royle",
+   "birth": "1958-30-06",
+   "event_year": 1981,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Steve Duchesne",
+   "birth": "1965-30-06",
+   "event_year": 1985,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "William Wyler",
+   "birth": "1902-01-07",
+   "event_year": 1925,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Leslie Caron",
+   "birth": "1931-01-07",
+   "event_year": 1951,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rod Gilbert",
+   "birth": "1941-01-07",
+   "event_year": 1960,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Polly Holliday",
+   "birth": "1937-02-07",
+   "event_year": 1963,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Amalia Aguilar",
+   "birth": "1924-03-07",
+   "event_year": 1946,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Henry Armetta",
+   "birth": "1888-04-07",
+   "event_year": 1915,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Timmie Rogers",
+   "birth": "1915-04-07",
+   "event_year": 1927,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eva Marie Saint",
+   "birth": "1924-04-07",
+   "event_year": 1944,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Victoria Abril",
+   "birth": "1959-04-07",
+   "event_year": 1974,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Angelique Boyer",
+   "birth": "1988-04-07",
+   "event_year": 2004,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ronnie Self",
+   "birth": "1938-05-07",
+   "event_year": 1956,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Earle S. MacPherson",
+   "birth": "1891-06-07",
+   "event_year": 1920,
+   "natal_saturn": "Leo",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Ruth Cracknell",
+   "birth": "1925-06-07",
+   "event_year": 1945,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Burt Ward",
+   "birth": "1945-06-07",
+   "event_year": 1965,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nanci Griffith",
+   "birth": "1953-06-07",
+   "event_year": 1977,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Heather Nova",
+   "birth": "1967-06-07",
+   "event_year": 1990,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Adam Busch",
+   "birth": "1978-06-07",
+   "event_year": 1994,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "David Karp",
+   "birth": "1986-06-07",
+   "event_year": 1995,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mo Collins",
+   "birth": "1965-07-07",
+   "event_year": 1996,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Leonid Amalrik",
+   "birth": "1905-08-07",
+   "event_year": 1928,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Raffi",
+   "birth": "1948-08-07",
+   "event_year": 1970,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pauline Quirke",
+   "birth": "1959-08-07",
+   "event_year": 1970,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kathleen Robertson",
+   "birth": "1973-08-07",
+   "event_year": 1985,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Derry Grehan",
+   "birth": "1957-10-07",
+   "event_year": 1974,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Daish\u014dmaru Sh\u014dgo",
+   "birth": "1991-10-07",
+   "event_year": 2014,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Jeff Hanna",
+   "birth": "1947-11-07",
+   "event_year": 1966,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alanas Cho\u0161nau",
+   "birth": "1974-11-07",
+   "event_year": 1992,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joe DeRita",
+   "birth": "1909-12-07",
+   "event_year": 1920,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Victor Poor",
+   "birth": "1933-12-07",
+   "event_year": 1952,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kanako Momota",
+   "birth": "1994-12-07",
+   "event_year": 2008,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ida Maria",
+   "birth": "1984-13-07",
+   "event_year": 2007,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ren\u00e9 Favaloro",
+   "birth": "1923-14-07",
+   "event_year": 1949,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Conor McGregor",
+   "birth": "1988-14-07",
+   "event_year": 2008,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nikos Filippou",
+   "birth": "1962-15-07",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Scott Foley",
+   "birth": "1972-15-07",
+   "event_year": 1995,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tobias Harris",
+   "birth": "1992-15-07",
+   "event_year": 2011,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Amy Patterson",
+   "birth": "1912-16-07",
+   "event_year": 1930,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Chilton",
+   "birth": "1932-16-07",
+   "event_year": 1944,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Desmond Dekker",
+   "birth": "1941-16-07",
+   "event_year": 1963,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Katrina Kaif",
+   "birth": "1983-16-07",
+   "event_year": 2003,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "James Maslow",
+   "birth": "1990-16-07",
+   "event_year": 2008,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eleanor Steber",
+   "birth": "1914-17-07",
+   "event_year": 1940,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sylvie L\u00e9onard",
+   "birth": "1955-17-07",
+   "event_year": 1979,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Regina Belle",
+   "birth": "1963-17-07",
+   "event_year": 1982,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Billie Lourd",
+   "birth": "1992-17-07",
+   "event_year": 2015,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ricky Skaggs",
+   "birth": "1954-18-07",
+   "event_year": 1961,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Vesselina Kasarova",
+   "birth": "1965-18-07",
+   "event_year": 1989,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chace Crawford",
+   "birth": "1985-18-07",
+   "event_year": 2006,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andr\u00e9 Forcier",
+   "birth": "1947-19-07",
+   "event_year": 1971,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Helen Skelton",
+   "birth": "1983-19-07",
+   "event_year": 1999,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Antoine Vermette",
+   "birth": "1982-20-07",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Arija Bareikis",
+   "birth": "1966-21-07",
+   "event_year": 1992,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sara Sampaio",
+   "birth": "1991-21-07",
+   "event_year": 2006,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Orson Bean",
+   "birth": "1928-22-07",
+   "event_year": 1952,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mick Pointer",
+   "birth": "1956-22-07",
+   "event_year": 1979,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kevin Fiala",
+   "birth": "1996-22-07",
+   "event_year": 2013,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Philip Seymour Hoffman",
+   "birth": "1967-23-07",
+   "event_year": 1991,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ruth Buzzi",
+   "birth": "1936-24-07",
+   "event_year": 1956,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kai\u014d Hiroyuki",
+   "birth": "1972-24-07",
+   "event_year": 1988,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Bruce Woodley",
+   "birth": "1942-25-07",
+   "event_year": 1959,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lauren Faust",
+   "birth": "1974-25-07",
+   "event_year": 1994,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jason Dundas",
+   "birth": "1982-25-07",
+   "event_year": 2003,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "James Best",
+   "birth": "1926-26-07",
+   "event_year": 1949,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Helen Mirren",
+   "birth": "1945-26-07",
+   "event_year": 1963,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sandra Bullock",
+   "birth": "1964-26-07",
+   "event_year": 1987,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kate Beckinsale",
+   "birth": "1973-26-07",
+   "event_year": 1991,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gilad Hochman",
+   "birth": "1982-26-07",
+   "event_year": 2000,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tyson Barrie",
+   "birth": "1991-26-07",
+   "event_year": 2011,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Adolfo Celi",
+   "birth": "1922-27-07",
+   "event_year": 1946,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Maya Ali",
+   "birth": "1989-27-07",
+   "event_year": 2012,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andrew V. McLaglen",
+   "birth": "1920-28-07",
+   "event_year": 1945,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Bloomfield",
+   "birth": "1943-28-07",
+   "event_year": 1959,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alexis Arquette",
+   "birth": "1969-28-07",
+   "event_year": 1982,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Spencer Boldman",
+   "birth": "1992-28-07",
+   "event_year": 2009,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Booth Tarkington",
+   "birth": "1869-29-07",
+   "event_year": 1899,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Theda Bara",
+   "birth": "1885-29-07",
+   "event_year": 1908,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Doug Ashdown",
+   "birth": "1942-29-07",
+   "event_year": 1959,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Buddy Guy",
+   "birth": "1936-30-07",
+   "event_year": 1953,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ron Block",
+   "birth": "1964-30-07",
+   "event_year": 1984,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Elvis Crespo",
+   "birth": "1971-30-07",
+   "event_year": 1988,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Carlos Arroyo",
+   "birth": "1979-30-07",
+   "event_year": 2001,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Premchand",
+   "birth": "1880-31-07",
+   "event_year": 1920,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Biehn",
+   "birth": "1956-31-07",
+   "event_year": 1977,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jim Corr",
+   "birth": "1964-31-07",
+   "event_year": 1991,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert Cray",
+   "birth": "1953-01-08",
+   "event_year": 1974,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Austin Rivers",
+   "birth": "1992-01-08",
+   "event_year": 2012,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joanna Cassidy",
+   "birth": "1945-02-08",
+   "event_year": 1968,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "C\u00e9cile Aubry",
+   "birth": "1928-03-08",
+   "event_year": 1949,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmie Nicol",
+   "birth": "1939-03-08",
+   "event_year": 1957,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kirk Brandon",
+   "birth": "1956-03-08",
+   "event_year": 1978,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brent Butt",
+   "birth": "1966-03-08",
+   "event_year": 1989,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jourdan Dunn",
+   "birth": "1990-03-08",
+   "event_year": 2006,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Helen Thomas",
+   "birth": "1920-04-08",
+   "event_year": 1943,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Don S. Davis",
+   "birth": "1942-04-08",
+   "event_year": 1981,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Caldwell Jones",
+   "birth": "1950-04-08",
+   "event_year": 1973,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robbin Crosby",
+   "birth": "1959-04-08",
+   "event_year": 1977,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joseph Merrick",
+   "birth": "1862-05-08",
+   "event_year": 1884,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tom Drake",
+   "birth": "1918-05-08",
+   "event_year": 1938,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bob Clark",
+   "birth": "1941-05-08",
+   "event_year": 1966,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Pete Burns",
+   "birth": "1959-05-08",
+   "event_year": 1977,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Matthew Caws",
+   "birth": "1967-05-08",
+   "event_year": 1985,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jeff Friesen",
+   "birth": "1976-05-08",
+   "event_year": 1994,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Allan Holdsworth",
+   "birth": "1946-06-08",
+   "event_year": 1969,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stan Freberg",
+   "birth": "1926-07-08",
+   "event_year": 1943,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Birmingham",
+   "birth": "1964-07-08",
+   "event_year": 1994,
+   "natal_saturn": "Aquarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Stratos Perperoglou",
+   "birth": "1984-07-08",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Terry Nation",
+   "birth": "1930-08-08",
+   "event_year": 1955,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Y\u016bki Amami",
+   "birth": "1967-08-08",
+   "event_year": 1987,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "JC Chasez",
+   "birth": "1976-08-08",
+   "event_year": 1991,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kurtis Blow",
+   "birth": "1959-09-08",
+   "event_year": 1979,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gillian Anderson",
+   "birth": "1968-09-08",
+   "event_year": 1983,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jun.Q",
+   "birth": "1993-09-08",
+   "event_year": 2011,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kate O'Mara",
+   "birth": "1939-10-08",
+   "event_year": 1963,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jim Kale",
+   "birth": "1943-11-08",
+   "event_year": 1962,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anna Gunn",
+   "birth": "1968-11-08",
+   "event_year": 1992,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gemma Hayes",
+   "birth": "1977-11-08",
+   "event_year": 2000,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jacqueline Fernandez",
+   "birth": "1985-11-08",
+   "event_year": 2009,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kjell Grede",
+   "birth": "1936-12-08",
+   "event_year": 1967,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "John Ireland",
+   "birth": "1879-13-08",
+   "event_year": 1932,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Scooter Barry",
+   "birth": "1966-13-08",
+   "event_year": 1989,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dave Days",
+   "birth": "1991-13-08",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "David Crosby",
+   "birth": "1941-14-08",
+   "event_year": 1963,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bob Backlund",
+   "birth": "1949-14-08",
+   "event_year": 1973,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Frank Brickowski",
+   "birth": "1959-14-08",
+   "event_year": 1981,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Halle Berry",
+   "birth": "1966-14-08",
+   "event_year": 1989,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chucky Atkins",
+   "birth": "1974-14-08",
+   "event_year": 1996,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Earl Barron",
+   "birth": "1981-14-08",
+   "event_year": 2003,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Estelle Brody",
+   "birth": "1900-15-08",
+   "event_year": 1926,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Patsy Gallant",
+   "birth": "1948-15-08",
+   "event_year": 1953,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Debra Messing",
+   "birth": "1968-15-08",
+   "event_year": 1993,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Waleed Aly",
+   "birth": "1978-15-08",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fess Parker",
+   "birth": "1924-16-08",
+   "event_year": 1950,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Kevin Ayers",
+   "birth": "1944-16-08",
+   "event_year": 1960,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Reginald VelJohnson",
+   "birth": "1952-16-08",
+   "event_year": 1979,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rosita Baltazar",
+   "birth": "1960-16-08",
+   "event_year": 1980,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bonnie Bernstein",
+   "birth": "1970-16-08",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cam Gigandet",
+   "birth": "1982-16-08",
+   "event_year": 2003,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Colin James",
+   "birth": "1964-17-08",
+   "event_year": 1983,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Elayne Boosler",
+   "birth": "1952-18-08",
+   "event_year": 1973,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Liz Cambage",
+   "birth": "1991-18-08",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Angus Scrimm",
+   "birth": "1926-19-08",
+   "event_year": 1973,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John Stamos",
+   "birth": "1963-19-08",
+   "event_year": 1982,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Frank Rosolino",
+   "birth": "1926-20-08",
+   "event_year": 1945,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dave Brock",
+   "birth": "1941-20-08",
+   "event_year": 1960,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Blossom Rock",
+   "birth": "1895-21-08",
+   "event_year": 1923,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Janet Baker",
+   "birth": "1933-21-08",
+   "event_year": 1950,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "David Marks",
+   "birth": "1948-22-08",
+   "event_year": 1962,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Colm Feore",
+   "birth": "1958-22-08",
+   "event_year": 1981,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "GZA",
+   "birth": "1966-22-08",
+   "event_year": 1991,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Roger Avary",
+   "birth": "1965-23-08",
+   "event_year": 1983,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Seth Curry",
+   "birth": "1990-23-08",
+   "event_year": 2013,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Preston Foster",
+   "birth": "1900-24-08",
+   "event_year": 1929,
+   "natal_saturn": "Sagittarius",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Kevin Dunn",
+   "birth": "1955-24-08",
+   "event_year": 1986,
+   "natal_saturn": "Scorpio",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Jennifer Lien",
+   "birth": "1974-24-08",
+   "event_year": 1990,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Van Johnson",
+   "birth": "1916-25-08",
+   "event_year": 1935,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John McGeoch",
+   "birth": "1955-25-08",
+   "event_year": 1970,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rachel Bilson",
+   "birth": "1981-25-08",
+   "event_year": 1997,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stephan Elliott",
+   "birth": "1964-27-08",
+   "event_year": 1992,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Patrick J. Adams",
+   "birth": "1981-27-08",
+   "event_year": 2001,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lee Sung-yeol",
+   "birth": "1991-27-08",
+   "event_year": 2010,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmy C. Newman",
+   "birth": "1927-29-08",
+   "event_year": 1954,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Charlotte Ritchie",
+   "birth": "1989-29-08",
+   "event_year": 2004,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dave Brockie",
+   "birth": "1963-30-08",
+   "event_year": 1982,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Johanna Braddy",
+   "birth": "1987-30-08",
+   "event_year": 2004,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "George Maharis",
+   "birth": "1928-01-09",
+   "event_year": 1953,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Bellows",
+   "birth": "1964-01-09",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Burn Gorman",
+   "birth": "1974-01-09",
+   "event_year": 1998,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ludwig G\u00f6ransson",
+   "birth": "1984-01-09",
+   "event_year": 2008,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ed Conlin",
+   "birth": "1933-02-09",
+   "event_year": 1955,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rosalind Ashford",
+   "birth": "1943-02-09",
+   "event_year": 1957,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jill Janus",
+   "birth": "1975-02-09",
+   "event_year": 1998,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Freddie King",
+   "birth": "1934-03-09",
+   "event_year": 1952,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Shakti Kapoor",
+   "birth": "1952-03-09",
+   "event_year": 1974,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Noah Baumbach",
+   "birth": "1969-03-09",
+   "event_year": 1995,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kim Thayil",
+   "birth": "1960-04-09",
+   "event_year": 1980,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "John DiMaggio",
+   "birth": "1968-04-09",
+   "event_year": 1994,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Yuichi Nakamaru",
+   "birth": "1983-04-09",
+   "event_year": 1998,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Florence Eldridge",
+   "birth": "1901-05-09",
+   "event_year": 1918,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Elena Delle Donne",
+   "birth": "1989-05-09",
+   "event_year": 2013,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Claydes Charles Smith",
+   "birth": "1948-06-09",
+   "event_year": 1964,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cisco Adler",
+   "birth": "1978-06-09",
+   "event_year": 2000,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Emir Preld\u017ei\u0107",
+   "birth": "1987-06-09",
+   "event_year": 2003,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Clyde Lovellette",
+   "birth": "1929-07-09",
+   "event_year": 1951,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Monique Gabriela Curnen",
+   "birth": "1970-07-09",
+   "event_year": 2001,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Jonathan Majors",
+   "birth": "1989-07-09",
+   "event_year": 2017,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Marion Brown",
+   "birth": "1931-08-09",
+   "event_year": 1962,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Joseph E. Levine",
+   "birth": "1905-09-09",
+   "event_year": 1937,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Emma de Caunes",
+   "birth": "1976-09-09",
+   "event_year": 1986,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bo Goldman",
+   "birth": "1932-10-09",
+   "event_year": 1958,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Danny Hutton",
+   "birth": "1942-10-09",
+   "event_year": 1964,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Misty Copeland",
+   "birth": "1982-10-09",
+   "event_year": 1995,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Betsy Drake",
+   "birth": "1923-11-09",
+   "event_year": 1948,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lola Falana",
+   "birth": "1942-11-09",
+   "event_year": 1961,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Charles Kelley",
+   "birth": "1981-11-09",
+   "event_year": 1995,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Linda Gray",
+   "birth": "1940-12-09",
+   "event_year": 1963,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Leslie Cheung",
+   "birth": "1956-12-09",
+   "event_year": 1977,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Einstein Kristiansen",
+   "birth": "1965-12-09",
+   "event_year": 1984,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kara David",
+   "birth": "1973-12-09",
+   "event_year": 1997,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jennifer Hudson",
+   "birth": "1981-12-09",
+   "event_year": 2004,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alexia Fast",
+   "birth": "1992-12-09",
+   "event_year": 2002,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chu Berry",
+   "birth": "1908-13-09",
+   "event_year": 1930,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ray Charles",
+   "birth": "1918-13-09",
+   "event_year": 1945,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Laura Cardoso",
+   "birth": "1927-13-09",
+   "event_year": 1952,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Harry Sinden",
+   "birth": "1932-14-09",
+   "event_year": 1949,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jimmy Butler",
+   "birth": "1989-14-09",
+   "event_year": 2011,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cannonball Adderley",
+   "birth": "1928-15-09",
+   "event_year": 1955,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alexander Korda",
+   "birth": "1893-16-09",
+   "event_year": 1914,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Allen Funt",
+   "birth": "1914-16-09",
+   "event_year": 1948,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Sonny LeMaire",
+   "birth": "1946-16-09",
+   "event_year": 1977,
+   "natal_saturn": "Cancer",
+   "in_A": true,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ron Brewer",
+   "birth": "1955-16-09",
+   "event_year": 1978,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Vytenis \u010ci\u017eauskas",
+   "birth": "1992-16-09",
+   "event_year": 2009,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nate Berkus",
+   "birth": "1971-17-09",
+   "event_year": 1995,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Garth Murray",
+   "birth": "1982-17-09",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alfonzo McKinnie",
+   "birth": "1992-17-09",
+   "event_year": 2015,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fay Compton",
+   "birth": "1894-18-09",
+   "event_year": 1911,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Leon Askin",
+   "birth": "1907-18-09",
+   "event_year": 1930,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Johnny Mantz",
+   "birth": "1918-18-09",
+   "event_year": 1952,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "John Tolos",
+   "birth": "1930-18-09",
+   "event_year": 1951,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Gerry Harvey",
+   "birth": "1939-18-09",
+   "event_year": 1956,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Stephen Flaherty",
+   "birth": "1960-18-09",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lovie Austin",
+   "birth": "1887-19-09",
+   "event_year": 1920,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Saki Fukuda",
+   "birth": "1990-19-09",
+   "event_year": 2004,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anne Meara",
+   "birth": "1929-20-09",
+   "event_year": 1948,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eric Gale",
+   "birth": "1938-20-09",
+   "event_year": 1960,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jason Bacashihua",
+   "birth": "1982-20-09",
+   "event_year": 2002,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jorge Drexler",
+   "birth": "1964-21-09",
+   "event_year": 1996,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Olivia Bonamy",
+   "birth": "1972-21-09",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nicole Richie",
+   "birth": "1981-21-09",
+   "event_year": 1996,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Al-Farouq Aminu",
+   "birth": "1990-21-09",
+   "event_year": 2010,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Scott Baio",
+   "birth": "1960-22-09",
+   "event_year": 1976,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tiny Bradshaw",
+   "birth": "1907-23-09",
+   "event_year": 1933,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Christian Bordeleau",
+   "birth": "1947-23-09",
+   "event_year": 1967,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ingrid Fliter",
+   "birth": "1973-23-09",
+   "event_year": 1984,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jean Servais",
+   "birth": "1910-24-09",
+   "event_year": 1932,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jim McKay",
+   "birth": "1921-24-09",
+   "event_year": 1955,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gerry Marsden",
+   "birth": "1942-24-09",
+   "event_year": 1959,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Amy Sky",
+   "birth": "1960-24-09",
+   "event_year": 1989,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Karl Alzner",
+   "birth": "1988-24-09",
+   "event_year": 2008,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert Bresson",
+   "birth": "1901-25-09",
+   "event_year": 1933,
+   "natal_saturn": "Capricorn",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gary Ayles",
+   "birth": "1964-25-09",
+   "event_year": 1988,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Douglas September",
+   "birth": "1972-25-09",
+   "event_year": 1990,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Calle J\u00e4rnkrok",
+   "birth": "1991-25-09",
+   "event_year": 2009,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Komitas",
+   "birth": "1869-26-09",
+   "event_year": 1891,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Norm Dussault",
+   "birth": "1925-26-09",
+   "event_year": 1945,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Carlene Carter",
+   "birth": "1955-26-09",
+   "event_year": 1978,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lysette Anthony",
+   "birth": "1963-26-09",
+   "event_year": 1980,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Marty Casey",
+   "birth": "1973-26-09",
+   "event_year": 1987,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wilford Brimley",
+   "birth": "1934-27-09",
+   "event_year": 1967,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Jay Bouwmeester",
+   "birth": "1983-27-09",
+   "event_year": 2002,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Koko Taylor",
+   "birth": "1928-28-09",
+   "event_year": 1958,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Ben E. King",
+   "birth": "1938-28-09",
+   "event_year": 1958,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Clarence Ashley",
+   "birth": "1895-29-09",
+   "event_year": 1960,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gene Autry",
+   "birth": "1907-29-09",
+   "event_year": 1925,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jerry Lee Lewis",
+   "birth": "1935-29-09",
+   "event_year": 1949,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kevin Durant",
+   "birth": "1988-29-09",
+   "event_year": 2007,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Omid Djalili",
+   "birth": "1965-30-09",
+   "event_year": 1991,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rub\u00e9n Wolkowyski",
+   "birth": "1973-30-09",
+   "event_year": 1994,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lacey Chabert",
+   "birth": "1982-30-09",
+   "event_year": 1985,
+   "natal_saturn": "Libra",
+   "in_A": true,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julie Andrews",
+   "birth": "1935-01-10",
+   "event_year": 1945,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Howard Hewett",
+   "birth": "1955-01-10",
+   "event_year": 1977,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dick Barnett",
+   "birth": "1936-02-10",
+   "event_year": 1959,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Rutherford",
+   "birth": "1950-02-10",
+   "event_year": 1967,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wade Boteler",
+   "birth": "1888-03-10",
+   "event_year": 1919,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gertrude Berg",
+   "birth": "1899-03-10",
+   "event_year": 1929,
+   "natal_saturn": "Sagittarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Bob Armstrong",
+   "birth": "1939-03-10",
+   "event_year": 1960,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "August M\u00e4lk",
+   "birth": "1900-04-10",
+   "event_year": 1926,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Violeta Parra",
+   "birth": "1917-04-10",
+   "event_year": 1939,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julien Clerc",
+   "birth": "1947-04-10",
+   "event_year": 1969,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bill Fagerbakke",
+   "birth": "1957-04-10",
+   "event_year": 1984,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Vicky Bullett",
+   "birth": "1967-04-10",
+   "event_year": 1990,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Melissa Benoist",
+   "birth": "1988-04-10",
+   "event_year": 2000,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Louise Dresser",
+   "birth": "1878-05-10",
+   "event_year": 1900,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jeff B. Davis",
+   "birth": "1973-06-10",
+   "event_year": 1984,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Judee Sill",
+   "birth": "1944-07-10",
+   "event_year": 1960,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mary Badham",
+   "birth": "1952-07-10",
+   "event_year": 1962,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Rouben Mamoulian",
+   "birth": "1897-08-10",
+   "event_year": 1927,
+   "natal_saturn": "Scorpio",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Raaj Kumar",
+   "birth": "1926-08-10",
+   "event_year": 1952,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Chelsea Gray",
+   "birth": "1992-08-10",
+   "event_year": 2014,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "France Gall",
+   "birth": "1947-09-10",
+   "event_year": 1963,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Linwood Boomer",
+   "birth": "1955-09-10",
+   "event_year": 1978,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Keith Booth",
+   "birth": "1974-09-10",
+   "event_year": 1997,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jerian Grant",
+   "birth": "1992-09-10",
+   "event_year": 2015,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert F. Boyle",
+   "birth": "1909-10-10",
+   "event_year": 1933,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bob Nystrom",
+   "birth": "1952-10-10",
+   "event_year": 1972,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kangta",
+   "birth": "1979-10-10",
+   "event_year": 1996,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lester Bowie",
+   "birth": "1941-11-10",
+   "event_year": 1965,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luke Perry",
+   "birth": "1966-11-10",
+   "event_year": 1981,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Denis Grebeshkov",
+   "birth": "1983-11-10",
+   "event_year": 2001,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Cl\u00e9mentine C\u00e9lari\u00e9",
+   "birth": "1957-12-10",
+   "event_year": 1973,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jonathan Crombie",
+   "birth": "1966-12-10",
+   "event_year": 1982,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Irene Rich",
+   "birth": "1891-13-10",
+   "event_year": 1918,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Yves Montand",
+   "birth": "1921-13-10",
+   "event_year": 1946,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Shirley Caesar",
+   "birth": "1938-13-10",
+   "event_year": 1951,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "T'Keyah Crystal Keym\u00e1h",
+   "birth": "1962-13-10",
+   "event_year": 1982,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Serena Altschul",
+   "birth": "1970-13-10",
+   "event_year": 1993,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Fred Hoiberg",
+   "birth": "1972-15-10",
+   "event_year": 1995,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brock Nelson",
+   "birth": "1991-15-10",
+   "event_year": 2012,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Randall Batinkoff",
+   "birth": "1968-16-10",
+   "event_year": 1974,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sue Bird",
+   "birth": "1980-16-10",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luiz Bonf\u00e1",
+   "birth": "1922-17-10",
+   "event_year": 1940,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sergiy Gladyr",
+   "birth": "1988-17-10",
+   "event_year": 2004,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chris Albertson",
+   "birth": "1931-18-10",
+   "event_year": 1948,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Wynton Marsalis",
+   "birth": "1961-18-10",
+   "event_year": 1980,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sinitta",
+   "birth": "1963-19-10",
+   "event_year": 1981,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Colton Dixon",
+   "birth": "1991-19-10",
+   "event_year": 2010,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Frank Churchill",
+   "birth": "1901-20-10",
+   "event_year": 1916,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "St\u00e9phane Hessel",
+   "birth": "1917-20-10",
+   "event_year": 1946,
+   "natal_saturn": "Cancer",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Everett McGill",
+   "birth": "1945-21-10",
+   "event_year": 1972,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jon Carin",
+   "birth": "1964-21-10",
+   "event_year": 1981,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Kim Kardashian",
+   "birth": "1980-21-10",
+   "event_year": 2003,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Slater Martin",
+   "birth": "1925-22-10",
+   "event_year": 1949,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alan Ladd Jr.",
+   "birth": "1937-22-10",
+   "event_year": 1963,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dra\u017een Petrovi\u0107",
+   "birth": "1964-22-10",
+   "event_year": 1979,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Saffron Burrows",
+   "birth": "1972-22-10",
+   "event_year": 1991,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Unto Mononen",
+   "birth": "1930-23-10",
+   "event_year": 1950,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michelle Beadle",
+   "birth": "1975-23-10",
+   "event_year": 1997,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Emil Fjellstr\u00f6m",
+   "birth": "1884-24-10",
+   "event_year": 1906,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jerry Edmonton",
+   "birth": "1946-24-10",
+   "event_year": 1964,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nell Shipman",
+   "birth": "1892-25-10",
+   "event_year": 1910,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Terumasa Hino",
+   "birth": "1942-25-10",
+   "event_year": 1955,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mike Eruzione",
+   "birth": "1954-25-10",
+   "event_year": 1977,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Warne Marsh",
+   "birth": "1927-26-10",
+   "event_year": 1940,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bootsy Collins",
+   "birth": "1951-26-10",
+   "event_year": 1968,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Patrick Breen",
+   "birth": "1960-26-10",
+   "event_year": 1986,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dian Bachar",
+   "birth": "1970-26-10",
+   "event_year": 1990,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gilles Vigneault",
+   "birth": "1928-27-10",
+   "event_year": 1959,
+   "natal_saturn": "Sagittarius",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Carmen Argenziano",
+   "birth": "1943-27-10",
+   "event_year": 1969,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "K. K. Downing",
+   "birth": "1951-27-10",
+   "event_year": 1968,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Yi Jianlian",
+   "birth": "1984-27-10",
+   "event_year": 2002,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Annie Potts",
+   "birth": "1952-28-10",
+   "event_year": 1977,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Al Suomi",
+   "birth": "1913-29-10",
+   "event_year": 1936,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Beth Chapman",
+   "birth": "1967-29-10",
+   "event_year": 2004,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Henry Winkler",
+   "birth": "1945-30-10",
+   "event_year": 1970,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jessica Hynes",
+   "birth": "1972-30-10",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Andy Greene",
+   "birth": "1982-30-10",
+   "event_year": 2006,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Edgar Sampson",
+   "birth": "1907-31-10",
+   "event_year": 1924,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Phil Goyette",
+   "birth": "1933-31-10",
+   "event_year": 1956,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bernard Edwards",
+   "birth": "1952-31-10",
+   "event_year": 1972,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Alphonso Ford",
+   "birth": "1971-31-10",
+   "event_year": 1993,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "JID",
+   "birth": "1990-31-10",
+   "event_year": 2010,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Nishinoumi Kajir\u014d III",
+   "birth": "1890-02-11",
+   "event_year": 1910,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Warren Stevens",
+   "birth": "1919-02-11",
+   "event_year": 1947,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Giorgos Kolokithas",
+   "birth": "1945-02-11",
+   "event_year": 1960,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Monica Iozzi",
+   "birth": "1981-02-11",
+   "event_year": 2006,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tariq Abdul-Wahad",
+   "birth": "1974-03-11",
+   "event_year": 1997,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Julie Berman",
+   "birth": "1983-03-11",
+   "event_year": 1997,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Dixie Lee",
+   "birth": "1911-04-11",
+   "event_year": 1929,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Martin Balsam",
+   "birth": "1919-04-11",
+   "event_year": 1947,
+   "natal_saturn": "Cancer",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Steven Ogg",
+   "birth": "1973-04-11",
+   "event_year": 1999,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Romi Dames",
+   "birth": "1979-05-11",
+   "event_year": 1993,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lance Kerwin",
+   "birth": "1960-06-11",
+   "event_year": 1974,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Al Attles",
+   "birth": "1936-07-11",
+   "event_year": 1960,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pascal Leclaire",
+   "birth": "1982-07-11",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mari Boine",
+   "birth": "1956-08-11",
+   "event_year": 1980,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Benny Mardones",
+   "birth": "1946-09-11",
+   "event_year": 1978,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Carl Gunnarsson",
+   "birth": "1986-09-11",
+   "event_year": 2005,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Terence Davies",
+   "birth": "1945-10-11",
+   "event_year": 1976,
+   "natal_saturn": "Cancer",
+   "in_A": true,
+   "in_B": true,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Ralfs Gr\u012bnbergs",
+   "birth": "1995-10-11",
+   "event_year": 2014,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Robert Ryan",
+   "birth": "1909-11-11",
+   "event_year": 1940,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Billy Gunn",
+   "birth": "1963-11-11",
+   "event_year": 1989,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "debut"
+  },
+  {
+   "name": "Jon B.",
+   "birth": "1974-11-11",
+   "event_year": 1992,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Maurane",
+   "birth": "1960-12-11",
+   "event_year": 1979,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jorge Masvidal",
+   "birth": "1984-12-11",
+   "event_year": 2003,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gertrude Olmstead",
+   "birth": "1897-13-11",
+   "event_year": 1920,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Richard Mulligan",
+   "birth": "1932-13-11",
+   "event_year": 1962,
+   "natal_saturn": "Capricorn",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Gilbert Perreault",
+   "birth": "1950-13-11",
+   "event_year": 1970,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Caroline Goodall",
+   "birth": "1959-13-11",
+   "event_year": 1978,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hatsune Matsushima",
+   "birth": "1987-13-11",
+   "event_year": 2004,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Matt Bloom",
+   "birth": "1972-14-11",
+   "event_year": 1997,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "debut"
+  },
+  {
+   "name": "Vanessa Bayer",
+   "birth": "1981-14-11",
+   "event_year": 2002,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Bob Dandridge",
+   "birth": "1947-15-11",
+   "event_year": 1969,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Michael Hampton",
+   "birth": "1956-15-11",
+   "event_year": 1974,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Sydney Tamiia Poitier",
+   "birth": "1973-15-11",
+   "event_year": 1998,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jona Viray",
+   "birth": "1989-15-11",
+   "event_year": 1995,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gigi Edgley",
+   "birth": "1977-16-11",
+   "event_year": 1998,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Aditya Roy Kapur",
+   "birth": "1985-16-11",
+   "event_year": 2009,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Raquel Castro",
+   "birth": "1994-17-11",
+   "event_year": 2011,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Frances Marion",
+   "birth": "1888-18-11",
+   "event_year": 1912,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gustav Nezval",
+   "birth": "1907-18-11",
+   "event_year": 1937,
+   "natal_saturn": "Pisces",
+   "in_A": true,
+   "in_B": true,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hank Ballard",
+   "birth": "1927-18-11",
+   "event_year": 1951,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jameson Parker",
+   "birth": "1947-18-11",
+   "event_year": 1966,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jonnie Irwin",
+   "birth": "1973-18-11",
+   "event_year": 2004,
+   "natal_saturn": "Gemini",
+   "in_A": true,
+   "in_B": true,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Mekia Cox",
+   "birth": "1981-18-11",
+   "event_year": 1994,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Arnett Moultrie",
+   "birth": "1990-18-11",
+   "event_year": 2012,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Toby Bailey",
+   "birth": "1975-19-11",
+   "event_year": 1999,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Edwin August",
+   "birth": "1883-20-11",
+   "event_year": 1909,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Juliet Mills",
+   "birth": "1941-21-11",
+   "event_year": 1942,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Karen Davila",
+   "birth": "1970-21-11",
+   "event_year": 1994,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Chris Chiozza",
+   "birth": "1995-21-11",
+   "event_year": 2018,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Brian Cleeve",
+   "birth": "1921-22-11",
+   "event_year": 1945,
+   "natal_saturn": "Virgo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lawrence Gowan",
+   "birth": "1956-22-11",
+   "event_year": 1974,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Tarik Black",
+   "birth": "1991-22-11",
+   "event_year": 2014,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lars Leksell",
+   "birth": "1907-23-11",
+   "event_year": 1935,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Geeta Dutt",
+   "birth": "1930-23-11",
+   "event_year": 1946,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "David Kossoff",
+   "birth": "1919-24-11",
+   "event_year": 1952,
+   "natal_saturn": "Virgo",
+   "in_A": true,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Paul Desmond",
+   "birth": "1924-25-11",
+   "event_year": 1940,
+   "natal_saturn": "Scorpio",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Anthony Peeler",
+   "birth": "1969-25-11",
+   "event_year": 1992,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Trevor Booker",
+   "birth": "1987-25-11",
+   "event_year": 2010,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Albert Dieudonn\u00e9",
+   "birth": "1889-26-11",
+   "event_year": 1917,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": true,
+   "src": "career_active"
+  },
+  {
+   "name": "Marian Mercer",
+   "birth": "1935-26-11",
+   "event_year": 1955,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mario Elie",
+   "birth": "1963-26-11",
+   "event_year": 1986,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Keith Ballard",
+   "birth": "1982-26-11",
+   "event_year": 2004,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jacques Godbout",
+   "birth": "1933-27-11",
+   "event_year": 1958,
+   "natal_saturn": "Aquarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Samantha Bond",
+   "birth": "1961-27-11",
+   "event_year": 1983,
+   "natal_saturn": "Capricorn",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Luigi Datome",
+   "birth": "1987-27-11",
+   "event_year": 2003,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Hinton Battle",
+   "birth": "1956-29-11",
+   "event_year": 1975,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Pavol Demitra",
+   "birth": "1974-29-11",
+   "event_year": 1992,
+   "natal_saturn": "Cancer",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Lucas Black",
+   "birth": "1982-29-11",
+   "event_year": 1994,
+   "natal_saturn": "Libra",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Gustav Suits",
+   "birth": "1883-30-11",
+   "event_year": 1899,
+   "natal_saturn": "Gemini",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Woody Allen",
+   "birth": "1935-30-11",
+   "event_year": 1950,
+   "natal_saturn": "Pisces",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Joseph Corr\u00e9",
+   "birth": "1967-30-11",
+   "event_year": 1994,
+   "natal_saturn": "Aries",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Richard Elias Anderson",
+   "birth": "1977-30-11",
+   "event_year": 2001,
+   "natal_saturn": "Leo",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Jordan Farmar",
+   "birth": "1986-30-11",
+   "event_year": 2006,
+   "natal_saturn": "Sagittarius",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Mary Martin",
+   "birth": "1913-01-12",
+   "event_year": 1938,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  },
+  {
+   "name": "Eric Bloom",
+   "birth": "1944-01-12",
+   "event_year": 1959,
+   "natal_saturn": "Taurus",
+   "in_A": false,
+   "in_B": false,
+   "in_C": false,
+   "src": "career_active"
+  }
+ ]
+}
