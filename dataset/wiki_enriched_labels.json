@@ -1,0 +1,80 @@
+{
+  "Q1": {
+    "name": "Ali al-Ridha",
+    "children": 7,
+    "spouse": 1,
+    "occupation": "8th Imam of Twelver Shia Islam"
+  },
+  "Q4": {
+    "name": "Ludovic Hal\u00e9vy",
+    "children": 2,
+    "spouse": null,
+    "occupation": "Author, librettist"
+  },
+  "Q5": {
+    "name": "Alfred Stieglitz",
+    "children": 0,
+    "spouse": 1,
+    "occupation": "Photographer"
+  },
+  "Q6": {
+    "name": "Chesley Bonestell",
+    "children": 1,
+    "spouse": 1,
+    "occupation": "Artist"
+  },
+  "Q10": {
+    "name": "Prathia Hall",
+    "children": null,
+    "spouse": null,
+    "occupation": "Womanist theologian, ethicist"
+  },
+  "Q27": {
+    "name": "Eric Whitacre",
+    "children": 2,
+    "spouse": 1,
+    "occupation": "Composer, conductor, speaker"
+  },
+  "Q40": {
+    "name": "Blanche d'Alpuget",
+    "children": 1,
+    "spouse": 1,
+    "occupation": "Biographer, novelist, activist"
+  },
+  "Q55": {
+    "name": "Patty Loveless",
+    "children": 0,
+    "spouse": 1,
+    "occupation": "Singer"
+  },
+  "Q56": {
+    "name": "Deana Carter",
+    "children": 1,
+    "spouse": 1,
+    "occupation": "Singer-songwriter, author"
+  },
+  "Q57": {
+    "name": "Shane Carwin",
+    "children": null,
+    "spouse": null,
+    "occupation": "Engineer, MMA fighter"
+  },
+  "Q66": {
+    "name": "Jack Lovelock",
+    "children": null,
+    "spouse": null,
+    "occupation": "Athlete, medical doctor"
+  },
+  "Q68": {
+    "name": "Alvin Ailey",
+    "children": 0,
+    "spouse": 0,
+    "occupation": "Dancer, choreographer"
+  },
+  "Q54": {
+    "name": "Chris Cutler",
+    "children": null,
+    "spouse": null,
+    "occupation": "Percussionist, composer, music theorist"
+  }
+}
