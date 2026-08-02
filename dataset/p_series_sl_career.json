@@ -1,0 +1,236 @@
+{
+  "P5": {
+    "name": "Senath",
+    "lagna": "Virgo",
+    "asc_deg": 28.5,
+    "age": 25,
+    "d1_10l": "Mercury H9",
+    "d10_10l": "Jupiter H7",
+    "saturn": "Taurus",
+    "composite": 7.9,
+    "top_sectors": [
+      [
+        "IT/Tech",
+        4
+      ],
+      [
+        "BPO",
+        3
+      ],
+      [
+        "Education",
+        3
+      ]
+    ],
+    "degree": "BSc SE (Metro)",
+    "shadbala_avg": 5.4
+  },
+  "P1": {
+    "name": "Polgahawela Bappa",
+    "lagna": "Aries",
+    "asc_deg": 6.8,
+    "age": 64,
+    "d1_10l": "Saturn H10",
+    "d10_10l": "Jupiter H8",
+    "saturn": "Capricorn",
+    "composite": 7.2,
+    "top_sectors": [
+      [
+        "Construction",
+        5
+      ],
+      [
+        "Government",
+        5
+      ],
+      [
+        "Logistics",
+        1
+      ]
+    ],
+    "degree": "BSc QS (Metro)",
+    "shadbala_avg": 5.9
+  },
+  "P2": {
+    "name": "Upulakshi",
+    "lagna": "Aries",
+    "asc_deg": 24.5,
+    "age": 29,
+    "d1_10l": "Saturn H12",
+    "d10_10l": "Mercury H7",
+    "saturn": "Pisces",
+    "composite": 6.0,
+    "top_sectors": [
+      [
+        "Construction",
+        4
+      ],
+      [
+        "Government",
+        4
+      ],
+      [
+        "Education",
+        3
+      ]
+    ],
+    "degree": "BSc QS (Metro)",
+    "shadbala_avg": 5.5
+  },
+  "P9": {
+    "name": "Lalith Uncle",
+    "lagna": "Aries",
+    "asc_deg": 17.4,
+    "age": 56,
+    "d1_10l": "Saturn H1",
+    "d10_10l": "Mercury H11",
+    "saturn": "Aries",
+    "composite": 5.4,
+    "top_sectors": [
+      [
+        "Government",
+        4
+      ],
+      [
+        "Construction",
+        3
+      ],
+      [
+        "IT/Tech",
+        0
+      ]
+    ],
+    "degree": "BBA (Metro)",
+    "shadbala_avg": 5.2
+  },
+  "P4": {
+    "name": "Niromi",
+    "lagna": "Taurus",
+    "asc_deg": 15.3,
+    "age": 59,
+    "d1_10l": "Saturn H11",
+    "d10_10l": "Mars H9",
+    "saturn": "Pisces",
+    "composite": 3.5,
+    "top_sectors": [
+      [
+        "Construction",
+        3
+      ],
+      [
+        "Government",
+        3
+      ],
+      [
+        "Education",
+        2
+      ]
+    ],
+    "degree": "BSc QS (Metro)",
+    "shadbala_avg": 5.5
+  },
+  "P8": {
+    "name": "Lakshi Amma",
+    "lagna": "Sagittarius",
+    "asc_deg": 11.4,
+    "age": 63,
+    "d1_10l": "Mercury H12",
+    "d10_10l": "Jupiter H9",
+    "saturn": "Capricorn",
+    "composite": 3.2,
+    "top_sectors": [
+      [
+        "IT/Tech",
+        3
+      ],
+      [
+        "Education",
+        3
+      ],
+      [
+        "BPO",
+        2
+      ]
+    ],
+    "degree": "BSc SE (Metro)",
+    "shadbala_avg": 4.8
+  },
+  "P6": {
+    "name": "Dewli",
+    "lagna": "Libra",
+    "asc_deg": 26.0,
+    "age": 21,
+    "d1_10l": "Moon H2",
+    "d10_10l": "Mercury H6",
+    "saturn": "Cancer",
+    "composite": 2.8,
+    "top_sectors": [
+      [
+        "Tourism",
+        2
+      ],
+      [
+        "Healthcare",
+        2
+      ],
+      [
+        "Logistics",
+        1
+      ]
+    ],
+    "degree": "BSc Psychology (Metro)",
+    "shadbala_avg": 5.0
+  },
+  "P7": {
+    "name": "Sineth",
+    "lagna": "Leo",
+    "asc_deg": 18.2,
+    "age": 21,
+    "d1_10l": "Venus H8",
+    "d10_10l": "Mars H2",
+    "saturn": "Gemini",
+    "composite": 1.2,
+    "top_sectors": [
+      [
+        "Logistics",
+        3
+      ],
+      [
+        "Tourism",
+        2
+      ],
+      [
+        "Apparel",
+        1
+      ]
+    ],
+    "degree": "BBA (Metro)",
+    "shadbala_avg": 5.0
+  },
+  "P3": {
+    "name": "Senith",
+    "lagna": "Pisces",
+    "asc_deg": 9.1,
+    "age": 31,
+    "d1_10l": "Jupiter H9",
+    "d10_10l": "Mercury H12",
+    "saturn": "Pisces",
+    "composite": -1.2,
+    "top_sectors": [
+      [
+        "Education",
+        5
+      ],
+      [
+        "Banking",
+        2
+      ],
+      [
+        "Government",
+        2
+      ]
+    ],
+    "degree": "BSc IT (Metro/ESOFT)",
+    "shadbala_avg": 5.1
+  }
+}
