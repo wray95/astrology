@@ -1,0 +1,237 @@
+{
+  "A_111": {
+    "n": 111,
+    "loop_dist": {
+      "0": 41,
+      "2": 31,
+      "5": 3,
+      "3": 27,
+      "4": 9
+    },
+    "achievement_range": [
+      4,
+      10
+    ],
+    "H1_pearson_loop_achievement": {
+      "r": -0.0215,
+      "p_perm": 0.8201
+    },
+    "H1_pearson_bond_achievement": {
+      "r": 0.012,
+      "p_perm": 0.9027
+    },
+    "H2_multiloop_top_classifier": {
+      "tp": 31,
+      "fp": 8,
+      "fn": 52,
+      "tn": 20,
+      "accuracy": 0.4595,
+      "precision": 0.7949,
+      "recall": 0.3735,
+      "f1": 0.5082,
+      "kappa": 0.0577
+    },
+    "H3_bond50_top_classifier": {
+      "tp": 48,
+      "fp": 10,
+      "fn": 35,
+      "tn": 18,
+      "accuracy": 0.5946,
+      "precision": 0.8276,
+      "recall": 0.5783,
+      "f1": 0.6809,
+      "kappa": 0.1707
+    },
+    "H4_mean_ach_by_loop": {
+      "0": [
+        8.951,
+        41
+      ],
+      "2": [
+        8.903,
+        31
+      ],
+      "3": [
+        9.259,
+        27
+      ],
+      "4": [
+        9.222,
+        9
+      ],
+      "5": [
+        7.0,
+        3
+      ]
+    },
+    "H4_top_rate_by_loop": {
+      "0": 0.659,
+      "2": 0.806,
+      "3": 0.852,
+      "4": 0.778,
+      "5": 0.333
+    },
+    "top_achievers_with_no_loop": 27,
+    "top_achievers_total": 83
+  },
+  "B_24": {
+    "n": 24,
+    "loop_dist": {
+      "3": 4,
+      "4": 2,
+      "5": 2,
+      "2": 6,
+      "0": 10
+    },
+    "achievement_range": [
+      4,
+      10
+    ],
+    "H1_pearson_loop_achievement": {
+      "r": -0.3638,
+      "p_perm": 0.0915
+    },
+    "H1_pearson_bond_achievement": {
+      "r": -0.2118,
+      "p_perm": 0.3297
+    },
+    "H2_multiloop_top_classifier": {
+      "tp": 6,
+      "fp": 2,
+      "fn": 14,
+      "tn": 2,
+      "accuracy": 0.3333,
+      "precision": 0.75,
+      "recall": 0.3,
+      "f1": 0.4286,
+      "kappa": -0.0909
+    },
+    "H3_bond50_top_classifier": {
+      "tp": 8,
+      "fp": 2,
+      "fn": 12,
+      "tn": 2,
+      "accuracy": 0.4167,
+      "precision": 0.8,
+      "recall": 0.4,
+      "f1": 0.5333,
+      "kappa": -0.05
+    },
+    "H4_mean_ach_by_loop": {
+      "0": [
+        9.6,
+        10
+      ],
+      "2": [
+        8.5,
+        6
+      ],
+      "3": [
+        9.75,
+        4
+      ],
+      "4": [
+        10.0,
+        2
+      ],
+      "5": [
+        6.0,
+        2
+      ]
+    },
+    "H4_top_rate_by_loop": {
+      "0": 1.0,
+      "2": 0.667,
+      "3": 1.0,
+      "4": 1.0,
+      "5": 0.0
+    },
+    "top_achievers_with_no_loop": 10,
+    "top_achievers_total": 20
+  },
+  "B20_by_profession": {
+    "Arts": {
+      "n": 3,
+      "loop_dist": {
+        "5": 1,
+        "0": 2
+      },
+      "top_names": [
+        "Walt Disney",
+        "Michael Jackson"
+      ]
+    },
+    "Business": {
+      "n": 4,
+      "loop_dist": {
+        "4": 1,
+        "0": 1,
+        "2": 1,
+        "3": 1
+      },
+      "top_names": [
+        "Rockefeller",
+        "Warren Buffett",
+        "Mukesh Ambani",
+        "Henry Ford"
+      ]
+    },
+    "Media": {
+      "n": 1,
+      "loop_dist": {
+        "2": 1
+      },
+      "top_names": [
+        "Oprah Winfrey"
+      ]
+    },
+    "Politics": {
+      "n": 4,
+      "loop_dist": {
+        "3": 2,
+        "0": 2
+      },
+      "top_names": [
+        "Obama",
+        "Mahatma Gandhi",
+        "Abraham Lincoln",
+        "Nelson Mandela"
+      ]
+    },
+    "Science": {
+      "n": 2,
+      "loop_dist": {
+        "2": 1,
+        "0": 1
+      },
+      "top_names": [
+        "Albert Einstein",
+        "A.P.J. Abdul Kalam"
+      ]
+    },
+    "Sports": {
+      "n": 1,
+      "loop_dist": {
+        "3": 1
+      },
+      "top_names": [
+        "Sachin Tendulkar"
+      ]
+    },
+    "Tech": {
+      "n": 5,
+      "loop_dist": {
+        "0": 3,
+        "4": 1,
+        "2": 1
+      },
+      "top_names": [
+        "Elon Musk",
+        "Bill Gates",
+        "Jeff Bezos",
+        "Steve Jobs",
+        "Mark Zuckerberg"
+      ]
+    }
+  }
+}
