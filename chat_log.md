@@ -537,3 +537,12 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **Predictions (scores):** Mar: P3=65, P1/P8/P9=25-30, P5=15, P6=5, P2/P4/P7=0. Children: P4=50, P5=45, P1/P7/P9=35, P2=30, P6=20, P3/P8=15. Windows: near-term = P1 mar 2030-50, P2 both 2033-49, P5 child 2032-45, P7 child 2031-38, P9 child 2032-48; far-future recurrences marked (not predictions).
 - **Scoring:** reports/blind_validation_predictions.md has the fill-in template; user scores against real outcomes OUTSIDE the repo; summary (hit rates, strongest/weakest signal) to be reported back.
 - **Deliverables:** data/blind_validation_people.json, scripts/blind_validation_engine.py, dataset/blind_validation_predictions.json, reports/blind_validation_predictions.md.
+
+## Turn 2026-08-02 (Agent session, 12th) — GOCHARA plan executed (Phases 1,2,4)
+- **Command:** "Go. save git" with GOCHARA PREDICTION ENGINE action plan (4 phases, 3 pre-registered hypotheses, 30-day preprint timeline).
+- **Saved plan verbatim:** reports/GOCHARA_ENGINE_PLAN_external_2026-08-02.md. Pre-registration: PRE_REGISTRATION_gochara.md (registered 2026-08-02 before analysis).
+- **Reality checks:** 0 AA/A in 111 timed (plan expected 80-100 AA/A); 5,176 of 5,287 are date-only; Wikidata blocked (timeout) → Phase 3 (marriage dates, Cox) deferred to user machine; plan's P577 is wrong property (marriage = pq:P580 qualifier on P26).
+- **H1 D10 test:** scripts/d10_strength_test.py → ρ=0.287 (p=0.023, n=111) — significant, BELOW 0.35 bar → NOT MET. Same failure mode as Layer 1: sports/arts under-rated (Messi/Ali/Pele=0).
+- **H2 gochara:** scripts/gochara_features_test.py — Saturn returns verify (1st mean 29.1y ✓, 2nd 58.5y ✓) → transit engine correct. Jupiter-10th(20-35) near-universal (107/111) → zero variance, chi² p=1.0, OR meaningless; plan's example OR=2.36 NOT reproducible. Needs event-timed features, not age proxies.
+- **H3 Cox:** blocked (no marriage dates; Wikidata timeout).
+- **Deliverables:** plan verbatim, pre-registration, d10_strength.json, gochara_features.json, phase1 report.

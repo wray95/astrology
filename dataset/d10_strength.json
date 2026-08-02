@@ -1,0 +1,786 @@
+{
+ "n": 111,
+ "rho": 0.2873149657479328,
+ "permutation_p": 0.0229,
+ "bar": 0.35,
+ "passed": false,
+ "rows": [
+  {
+   "name": "Leonardo DiCaprio",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Taylor Swift",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Oprah Winfrey",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Media"
+  },
+  {
+   "name": "Dwayne Johnson",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Shakira",
+   "d10_strength": 25,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Cristiano Ronaldo",
+   "d10_strength": 30,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Lionel Messi",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Serena Williams",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Tiger Woods",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Golfer"
+  },
+  {
+   "name": "Michael Phelps",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Swimmer"
+  },
+  {
+   "name": "Usain Bolt",
+   "d10_strength": 20,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Athlete"
+  },
+  {
+   "name": "Neymar Jr",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Virat Kohli",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "LeBron James",
+   "d10_strength": 40,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Basketball"
+  },
+  {
+   "name": "Kobe Bryant",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Basketball"
+  },
+  {
+   "name": "Muhammad Ali",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Boxer"
+  },
+  {
+   "name": "Pele",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Diego Maradona",
+   "d10_strength": 35,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Jennifer Aniston",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actress"
+  },
+  {
+   "name": "Angelina Jolie",
+   "d10_strength": 85,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actress"
+  },
+  {
+   "name": "Brad Pitt",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Johnny Depp",
+   "d10_strength": 65,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Will Smith",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Tom Cruise",
+   "d10_strength": 50,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Meryl Streep",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actress"
+  },
+  {
+   "name": "Denzel Washington",
+   "d10_strength": 25,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Morgan Freeman",
+   "d10_strength": 45,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Tom Hanks",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Actor"
+  },
+  {
+   "name": "Steven Spielberg",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Director"
+  },
+  {
+   "name": "James Cameron",
+   "d10_strength": 20,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Director"
+  },
+  {
+   "name": "Quentin Tarantino",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Director"
+  },
+  {
+   "name": "Martin Scorsese",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Director"
+  },
+  {
+   "name": "Christopher Nolan",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Director"
+  },
+  {
+   "name": "Paul McCartney",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "John Lennon",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "George Harrison",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Ringo Starr",
+   "d10_strength": 20,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Bob Dylan",
+   "d10_strength": 30,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Winston Churchill",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "d10_strength": 75,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Adolf Hitler",
+   "d10_strength": 20,
+   "achievement": 7,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Vladimir Lenin",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Joseph Stalin",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Benito Mussolini",
+   "d10_strength": 0,
+   "achievement": 7,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Dwight D. Eisenhower",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "John F. Kennedy",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Ronald Reagan",
+   "d10_strength": 30,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Margaret Thatcher",
+   "d10_strength": 40,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Indira Gandhi",
+   "d10_strength": 35,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Jawaharlal Nehru",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Rosa Parks",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Activist"
+  },
+  {
+   "name": "Martin Luther King Jr",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Activist"
+  },
+  {
+   "name": "Malcolm X",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Activist"
+  },
+  {
+   "name": "Anne Frank",
+   "d10_strength": 60,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Author"
+  },
+  {
+   "name": "Helen Keller",
+   "d10_strength": 55,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Author"
+  },
+  {
+   "name": "Gianluigi Buffon",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Zinedine Zidane",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Ronaldinho",
+   "d10_strength": 15,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Ronaldo",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Footballer"
+  },
+  {
+   "name": "Roger Federer",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Rafael Nadal",
+   "d10_strength": 25,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Novak Djokovic",
+   "d10_strength": 45,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Martina Navratilova",
+   "d10_strength": 15,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Venus Williams",
+   "d10_strength": 20,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tennis"
+  },
+  {
+   "name": "Sachin Tendulkar",
+   "d10_strength": 40,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Ricky Ponting",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Steve Smith",
+   "d10_strength": 70,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Wasim Akram",
+   "d10_strength": 15,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Brian Lara",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Viv Richards",
+   "d10_strength": 55,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Imran Khan",
+   "d10_strength": 40,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Shane Warne",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Cricketer"
+  },
+  {
+   "name": "Elon Musk",
+   "d10_strength": 25,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Bill Gates",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Jeff Bezos",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Steve Jobs",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Mark Zuckerberg",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Larry Page",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Sergey Brin",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Jack Ma",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Satya Nadella",
+   "d10_strength": 45,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Tim Cook",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Sundar Pichai",
+   "d10_strength": 25,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Sheryl Sandberg",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Susan Wojcicki",
+   "d10_strength": 55,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Marissa Mayer",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Tech"
+  },
+  {
+   "name": "Bob Iger",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Mary Barra",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Jamie Dimon",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Lloyd Blankfein",
+   "d10_strength": 20,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Warren Buffett",
+   "d10_strength": 75,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Mukesh Ambani",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Beyonce",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Singer"
+  },
+  {
+   "name": "Albert Einstein",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Science"
+  },
+  {
+   "name": "Stephen Hawking",
+   "d10_strength": 25,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Science"
+  },
+  {
+   "name": "Marie Curie",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Science"
+  },
+  {
+   "name": "Donald Trump",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Barack Obama",
+   "d10_strength": 25,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "John D. Rockefeller",
+   "d10_strength": 15,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Stan Lee",
+   "d10_strength": 15,
+   "achievement": 8,
+   "rodden": "UNKNOWN",
+   "career": "Arts"
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "d10_strength": 0,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Abraham Lincoln",
+   "d10_strength": 60,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Nelson Mandela",
+   "d10_strength": 10,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Politician"
+  },
+  {
+   "name": "Walt Disney",
+   "d10_strength": 25,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Arts"
+  },
+  {
+   "name": "Henry Ford",
+   "d10_strength": 45,
+   "achievement": 10,
+   "rodden": "UNKNOWN",
+   "career": "Business"
+  },
+  {
+   "name": "Michael Jackson",
+   "d10_strength": 10,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Arts"
+  },
+  {
+   "name": "A.P.J. Abdul Kalam",
+   "d10_strength": 0,
+   "achievement": 9,
+   "rodden": "UNKNOWN",
+   "career": "Science"
+  },
+  {
+   "name": "Polgahawela Bappa",
+   "d10_strength": 0,
+   "achievement": 8,
+   "rodden": "B",
+   "career": "Business"
+  },
+  {
+   "name": "Upulakshi",
+   "d10_strength": 40,
+   "achievement": 5,
+   "rodden": "B",
+   "career": "Job"
+  },
+  {
+   "name": "Senith",
+   "d10_strength": 5,
+   "achievement": 4,
+   "rodden": "B",
+   "career": "Job"
+  },
+  {
+   "name": "Niromi",
+   "d10_strength": 60,
+   "achievement": 9,
+   "rodden": "B",
+   "career": "Business"
+  }
+ ]
+}
