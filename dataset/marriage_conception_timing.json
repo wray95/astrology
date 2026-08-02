@@ -1,0 +1,234 @@
+{
+  "version": "5.1",
+  "timestamp": "2026-08-02T18:13:39.336766",
+  "p_series_d7_d5": {
+    "P1": {
+      "name": "Polgahawela Bappa",
+      "lagna": "Aries",
+      "d7_asc": "Taurus",
+      "d7_7l": "Mars",
+      "d7_7l_h": 1,
+      "venus_d7_house": 4,
+      "venus_d7_dig": 0,
+      "d5_asc": "Taurus",
+      "d5_5l": "Mercury",
+      "jupiter_d5_dig": 0,
+      "jupiter_d5_house": 4
+    },
+    "P2": {
+      "name": "Upulakshi",
+      "lagna": "Aries",
+      "d7_asc": "Virgo",
+      "d7_7l": "Jupiter",
+      "d7_7l_h": 3,
+      "venus_d7_house": 11,
+      "venus_d7_dig": 0,
+      "d5_asc": "Leo",
+      "d5_5l": "Jupiter",
+      "jupiter_d5_dig": 75,
+      "jupiter_d5_house": 8
+    },
+    "P3": {
+      "name": "Senith",
+      "lagna": "Pisces",
+      "d7_asc": "Scorpio",
+      "d7_7l": "Venus",
+      "d7_7l_h": 7,
+      "venus_d7_house": 7,
+      "venus_d7_dig": 75,
+      "d5_asc": "Sagittarius",
+      "d5_5l": "Mars",
+      "jupiter_d5_dig": 0,
+      "jupiter_d5_house": 5
+    },
+    "P4": {
+      "name": "Niromi",
+      "lagna": "Taurus",
+      "d7_asc": "Aquarius",
+      "d7_7l": "Sun",
+      "d7_7l_h": 5,
+      "venus_d7_house": 2,
+      "venus_d7_dig": 100,
+      "d5_asc": "Scorpio",
+      "d5_5l": "Jupiter",
+      "jupiter_d5_dig": 100,
+      "jupiter_d5_house": 9
+    },
+    "P5": {
+      "name": "Senath",
+      "lagna": "Virgo",
+      "d7_asc": "Virgo",
+      "d7_7l": "Jupiter",
+      "d7_7l_h": 8,
+      "venus_d7_house": 4,
+      "venus_d7_dig": 0,
+      "d5_asc": "Virgo",
+      "d5_5l": "Saturn",
+      "jupiter_d5_dig": 75,
+      "jupiter_d5_house": 4
+    },
+    "P6": {
+      "name": "Dewli",
+      "lagna": "Libra",
+      "d7_asc": "Aries",
+      "d7_7l": "Venus",
+      "d7_7l_h": 3,
+      "venus_d7_house": 3,
+      "venus_d7_dig": 0,
+      "d5_asc": "Aquarius",
+      "d5_5l": "Mercury",
+      "jupiter_d5_dig": 0,
+      "jupiter_d5_house": 9
+    },
+    "P7": {
+      "name": "Sineth",
+      "lagna": "Leo",
+      "d7_asc": "Sagittarius",
+      "d7_7l": "Mercury",
+      "d7_7l_h": 12,
+      "venus_d7_house": 3,
+      "venus_d7_dig": 0,
+      "d5_asc": "Pisces",
+      "d5_5l": "Moon",
+      "jupiter_d5_dig": 0,
+      "jupiter_d5_house": 6
+    },
+    "P8": {
+      "name": "Lakshi Amma",
+      "lagna": "Sagittarius",
+      "d7_asc": "Aquarius",
+      "d7_7l": "Sun",
+      "d7_7l_h": 3,
+      "venus_d7_house": 8,
+      "venus_d7_dig": -100,
+      "d5_asc": "Virgo",
+      "d5_5l": "Saturn",
+      "jupiter_d5_dig": -100,
+      "jupiter_d5_house": 5
+    },
+    "P9": {
+      "name": "Lalith Uncle",
+      "lagna": "Aries",
+      "d7_asc": "Leo",
+      "d7_7l": "Saturn",
+      "d7_7l_h": 3,
+      "venus_d7_house": 3,
+      "venus_d7_dig": 75,
+      "d5_asc": "Gemini",
+      "d5_5l": "Venus",
+      "jupiter_d5_dig": 0,
+      "jupiter_d5_house": 6
+    }
+  },
+  "wiki_marriage_labels": [
+    {
+      "name": "Simone Biles",
+      "age_at_marriage": 26.1,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Matt Damon",
+      "age_at_marriage": 35.2,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "age_at_marriage": 28.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": -100,
+      "venus_md_active": 0
+    },
+    {
+      "name": "George Lucas",
+      "age_at_marriage": 24.8,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 1,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Alfred Stieglitz",
+      "age_at_marriage": 29.9,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 75,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Eric Whitacre",
+      "age_at_marriage": 28.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 100,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Chesley Bonestell",
+      "age_at_marriage": 23.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 75,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Blanche d'Alpuget",
+      "age_at_marriage": 51.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Deana Carter",
+      "age_at_marriage": 29.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Patty Loveless",
+      "age_at_marriage": 19.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Simone Biles (P2 match)",
+      "age_at_marriage": 26.1,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Cate Blanchett",
+      "age_at_marriage": 28.6,
+      "d7_7l_dig": 75,
+      "d7_7l_kendra": 1,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    },
+    {
+      "name": "Sigourney Weaver",
+      "age_at_marriage": 35.0,
+      "d7_7l_dig": 0,
+      "d7_7l_kendra": 0,
+      "venus_d7_dig": 0,
+      "venus_md_active": 0
+    }
+  ],
+  "d7_analysis": {},
+  "d5_analysis": {},
+  "cox_ph_notes": "Sample size too small (n=10) for meaningful Cox regression. Need 50+ labels.",
+  "phase1_recommendation": "Collect 50+ marriage dates from Wikidata + Wikipedia for Q-series people. Current n=10 is insufficient for survival analysis.",
+  "quick_test_result": "D7 7L in Kendra shows direction signal \u2014 needs more data to confirm."
+}
