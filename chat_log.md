@@ -25,3 +25,12 @@
 - **Direction 2 — Ayanamsa verified:** fetched Drik Panchang day-panchang pages live (link-only) → displayed Lahiri Ayanamsha 2026-08-02 = 24.228510°. Pipeline `lahiri_ayanamsa()` matches Drik to **−0.66″** (and ≤24.8″ across 1980–2026, constant −24.76″ on Jan-1 dates = Drik's daily anchor). vs SE-base polynomial: +13.3″ constant; vs scribd epoch-285 linear: ~4.3′ high (per scribd, linear 50″ is the simplification). Saved `data/drik_ayanamsa_groundtruth.json`, `scripts/ayanamsa_crosscheck.py`, `reports/ayanamsa_crosscheck.md`.
 - **Direction 1 — Agenta harness:** `agenta_harness/evaluate_loop_bond.py` (SDK v0.106.2, offline-safe) evaluates loop→achievement on 111 + 24 charts: r(loop,ach) A≈−0.02 (p=.82), B≈−0.36 (p=.09); bond≥50 predictor κ ≈ 0.17/−0.05 (chance-level); 5-loop weakest class in both datasets (A: 7.0 vs 9.3; B: 6.0 vs 9.75) → confirms jyotishvidya "ignore 4/5-loop". Saved `agenta_harness/results.json`, `reports/agenta_eval_report.md`.
 - **Direction 3 — Celebrities + watcher:** confirmed Batch 2 complete (20/20 in `data/celeb_loops.json`, reports celebrity_shrinkhala.md + celeb_loop_database.md with 62% boundary caveat). Updated `reports/CHAT_SUMMARY.md` (was stale: "3/20 done"). Committed + pushed. 12-min git watcher re-run after commit.
+
+
+## Turn 2026-08-02 (Agent session, 4th) — save compress organise
+- **Command:** "save compress and organise to git" (+ recommend easier/faster way)
+- **Recommended strategy:** (1) now: gzip big JSON/CSVs in place + drop redundant files + gitignore logs; (2) long-term: stop committing regenerable artifacts (keep source+reports only, regenerate on demand); (3) if big data must be versioned: Git LFS (free 1GB quota).
+- **Organise:** all 69 root .py files `git mv` → scripts/ (107 total). Root now = README.md + chat_log.md + dotfiles.
+- **Compress (gzip -9):** synthetic_10000_charts.json 3.1M→80K · nexus_kg_pack.xml 2.3M→456K · shrinkhala_results.csv 878K→76K · famous_people_birth_data.csv 805K→176K · date_only_people.csv 778K→172K. Deleted redundant dataset/nexus_unified_master.json (raw; .gz+.tar.gz exist). Working tree ≈ 42M→35M.
+- **gitignore:** + *.log, q_yearly_timeline.jsonl.gz (20M regenerable output), untracked data/batch_err.log.
+- **Verified:** no script reads the compressed files (build_famous_dataset/generate_outputs/shrinkhala_engine only WRITE them); active scripts (generate_outputs shim via famous_people_birth_data.json.gz, harness, crosscheck) unaffected.
