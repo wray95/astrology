@@ -1,0 +1,66 @@
+{
+  "hypothesis": "H2",
+  "description": "Events cluster in Saturn-in-natal-sign transit window (~2.5yr)",
+  "test_date": "2026-08-03",
+  "celebrities": {
+    "Bill Gates": {
+      "natal_saturn": "Libra",
+      "window": "27.0-29.5y",
+      "event": "Microsoft IPO 1986-03",
+      "age": 30.4,
+      "in_window": false
+    },
+    "Elon Musk": {
+      "natal_saturn": "Taurus",
+      "window": "29.0-31.5y",
+      "event": "PayPal sale 2002-10",
+      "age": 31.3,
+      "in_window": true
+    },
+    "Jeff Bezos": {
+      "natal_saturn": "Capricorn",
+      "window": "27.0-29.5y",
+      "event": "Amazon founded 1994-07",
+      "age": 30.5,
+      "in_window": false
+    },
+    "Steve Jobs": {
+      "natal_saturn": "Libra",
+      "window": "28.0-30.0y",
+      "event": "Apple IPO 1980-12",
+      "age": 25.8,
+      "in_window": false
+    },
+    "Oprah Winfrey": {
+      "natal_saturn": "Libra",
+      "window": "29.0-31.0y",
+      "event": "Oprah Show 1986-09",
+      "age": 32.7,
+      "in_window": false
+    },
+    "Taylor Swift": {
+      "natal_saturn": "Sagittarius",
+      "window": "27.5-30.5y",
+      "event": "Fearless Grammy 2010",
+      "age": 20.1,
+      "in_window": false
+    },
+    "Beyonce": {
+      "natal_saturn": "Virgo",
+      "window": "28.5-30.5y",
+      "event": "Solo album 2003-06",
+      "age": 21.8,
+      "in_window": false
+    }
+  },
+  "wiki_marriages": {},
+  "p_series": {},
+  "celebrity_summary": {
+    "in_window": 1,
+    "total": 7,
+    "rate": "1/7",
+    "baseline_expected": "~8%",
+    "p_value": 0.462,
+    "notes": "Elon Musk ONLY celebrity with major event in Saturn return window. n=7 insufficient for significant result."
+  }
+}
