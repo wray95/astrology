@@ -1,0 +1,285 @@
+{
+  "version": "5.0",
+  "m1_synthetic_validation": {
+    "real_accuracy": 0.2916,
+    "permuted_accuracy": 0.302,
+    "p_value": 1.0,
+    "n_permutations": 100,
+    "significant": false,
+    "conclusion": "Industry signal in synthetic charts is weak (permutation test). Real astrology signal requires better labels."
+  },
+  "m2_interactions": {
+    "n_tested_pairs": 270,
+    "n_significant": 8,
+    "top_15": [
+      {
+        "pair": "NBRY+MP_Shrinkhala",
+        "industry": "HOSPITALITY",
+        "n_pair": 46,
+        "n_ind": 504,
+        "n_both": 11,
+        "enrich": 1.73
+      },
+      {
+        "pair": "NBRY+MP_Shrinkhala",
+        "industry": "CREATIVE",
+        "n_pair": 46,
+        "n_ind": 503,
+        "n_both": 10,
+        "enrich": 1.58
+      },
+      {
+        "pair": "NBRY+MP_Shrinkhala",
+        "industry": "MARKETING",
+        "n_pair": 46,
+        "n_ind": 1103,
+        "n_both": 6,
+        "enrich": 0.43
+      },
+      {
+        "pair": "NBRY+MP_Shrinkhala",
+        "industry": "LOGISTICS",
+        "n_pair": 46,
+        "n_ind": 504,
+        "n_both": 3,
+        "enrich": 0.47
+      },
+      {
+        "pair": "GajKesari+NBRY",
+        "industry": "HOSPITALITY",
+        "n_pair": 97,
+        "n_ind": 504,
+        "n_both": 20,
+        "enrich": 1.49
+      },
+      {
+        "pair": "NBRY+MP_Shrinkhala",
+        "industry": "RESEARCH",
+        "n_pair": 46,
+        "n_ind": 506,
+        "n_both": 9,
+        "enrich": 1.41
+      },
+      {
+        "pair": "GajKesari+MP_Shrinkhala",
+        "industry": "RESEARCH",
+        "n_pair": 190,
+        "n_ind": 506,
+        "n_both": 37,
+        "enrich": 1.4
+      },
+      {
+        "pair": "GajKesari+MP_Shrinkhala",
+        "industry": "CREATIVE",
+        "n_pair": 190,
+        "n_ind": 503,
+        "n_both": 18,
+        "enrich": 0.69
+      }
+    ]
+  },
+  "m3_bayesian": {
+    "n_tested": 45,
+    "top_12": [
+      {
+        "industry": "MARKETING",
+        "feature": "Vargottama_2plus",
+        "posterior_mean": 0.999,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.43,
+        "ci_95": [
+          0.997,
+          1.0
+        ],
+        "n_positive": 1103
+      },
+      {
+        "industry": "MARKETING",
+        "feature": "D9_Venus_OWN",
+        "posterior_mean": 0.999,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.43,
+        "ci_95": [
+          0.997,
+          1.0
+        ],
+        "n_positive": 1103
+      },
+      {
+        "industry": "MARKETING",
+        "feature": "D9_Moon_5H",
+        "posterior_mean": 0.999,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.43,
+        "ci_95": [
+          0.997,
+          1.0
+        ],
+        "n_positive": 1103
+      },
+      {
+        "industry": "MARKETING",
+        "feature": "GK_D1_D9",
+        "posterior_mean": 0.999,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.43,
+        "ci_95": [
+          0.997,
+          1.0
+        ],
+        "n_positive": 1103
+      },
+      {
+        "industry": "MARKETING",
+        "feature": "Kendras_loaded",
+        "posterior_mean": 0.999,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.43,
+        "ci_95": [
+          0.997,
+          1.0
+        ],
+        "n_positive": 1103
+      },
+      {
+        "industry": "TECH",
+        "feature": "Vargottama_2plus",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.17,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 529
+      },
+      {
+        "industry": "TECH",
+        "feature": "D9_Venus_OWN",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.17,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 529
+      },
+      {
+        "industry": "TECH",
+        "feature": "D9_Moon_5H",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.17,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 529
+      },
+      {
+        "industry": "TECH",
+        "feature": "GK_D1_D9",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.17,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 529
+      },
+      {
+        "industry": "TECH",
+        "feature": "Kendras_loaded",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.17,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 529
+      },
+      {
+        "industry": "RESEARCH",
+        "feature": "Vargottama_2plus",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.16,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 506
+      },
+      {
+        "industry": "RESEARCH",
+        "feature": "D9_Venus_OWN",
+        "posterior_mean": 0.998,
+        "posterior_out": 1.0,
+        "bayes_factor": 0.16,
+        "ci_95": [
+          0.993,
+          1.0
+        ],
+        "n_positive": 506
+      }
+    ]
+  },
+  "m4_counterfactual": {
+    "n_tested": 7,
+    "top_10": [
+      {
+        "industry": "MARKETING",
+        "feature": "BudhaAditya",
+        "pred_without": 0.3013,
+        "pred_with": 0.3093,
+        "delta": 0.008
+      },
+      {
+        "industry": "TECH",
+        "feature": "BudhaAditya",
+        "pred_without": 0.145,
+        "pred_with": 0.1429,
+        "delta": -0.0021
+      },
+      {
+        "industry": "RESEARCH",
+        "feature": "BudhaAditya",
+        "pred_without": 0.1388,
+        "pred_with": 0.137,
+        "delta": -0.0018
+      },
+      {
+        "industry": "TECH",
+        "feature": "MP_Shrinkhala",
+        "pred_without": 0.1446,
+        "pred_with": 0.1462,
+        "delta": 0.0016
+      },
+      {
+        "industry": "LOGISTICS",
+        "feature": "BudhaAditya",
+        "pred_without": 0.1387,
+        "pred_with": 0.1372,
+        "delta": -0.0015
+      },
+      {
+        "industry": "CREATIVE",
+        "feature": "BudhaAditya",
+        "pred_without": 0.1379,
+        "pred_with": 0.1366,
+        "delta": -0.0013
+      },
+      {
+        "industry": "HOSPITALITY",
+        "feature": "BudhaAditya",
+        "pred_without": 0.1382,
+        "pred_with": 0.137,
+        "delta": -0.0013
+      }
+    ]
+  },
+  "methodology": "Permutation test (M1), binomial enrichment (M2), Beta-Binomial conjugate (M3), SHAP-style counterfactual (M4). All on synthetic industry data. No causation claims."
+}
