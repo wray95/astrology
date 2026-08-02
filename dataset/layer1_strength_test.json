@@ -1,0 +1,1452 @@
+{
+ "n": 111,
+ "rho": 0.30824311140950633,
+ "permutation_p": 0.0281,
+ "bar": 0.35,
+ "passed": false,
+ "rows": [
+  {
+   "name": "Leonardo DiCaprio",
+   "score": 11.428571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Taylor Swift",
+   "score": 49.10714285714286,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Oprah Winfrey",
+   "score": 60.53571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Dwayne Johnson",
+   "score": 21.785714285714285,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Shakira",
+   "score": 39.464285714285715,
+   "ach": 9,
+   "parts": {
+    "bond": 25,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Cristiano Ronaldo",
+   "score": 40.535714285714285,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Lionel Messi",
+   "score": 34.82142857142857,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Serena Williams",
+   "score": 28.928571428571427,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Tiger Woods",
+   "score": 45.17857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Michael Phelps",
+   "score": 47.85714285714286,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Usain Bolt",
+   "score": 30.17857142857143,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Neymar Jr",
+   "score": 16.607142857142858,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Virat Kohli",
+   "score": 40.89285714285714,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "LeBron James",
+   "score": 42.85714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Kobe Bryant",
+   "score": 39.28571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Muhammad Ali",
+   "score": 11.428571428571429,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Pele",
+   "score": 53.75,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Diego Maradona",
+   "score": 57.67857142857142,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Jennifer Aniston",
+   "score": 41.785714285714285,
+   "ach": 8,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Angelina Jolie",
+   "score": 29.107142857142854,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Brad Pitt",
+   "score": 35.71428571428571,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Johnny Depp",
+   "score": 34.82142857142857,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Will Smith",
+   "score": 28.928571428571427,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Tom Cruise",
+   "score": 14.285714285714288,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Meryl Streep",
+   "score": 42.32142857142857,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Denzel Washington",
+   "score": 51.96428571428571,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 2,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Morgan Freeman",
+   "score": 41.42857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Tom Hanks",
+   "score": 61.07142857142856,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Steven Spielberg",
+   "score": 19.107142857142858,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "James Cameron",
+   "score": 35.07857142857143,
+   "ach": 10,
+   "parts": {
+    "bond": 33,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Quentin Tarantino",
+   "score": 49.10714285714286,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Martin Scorsese",
+   "score": 47.857142857142854,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Christopher Nolan",
+   "score": 29.642857142857142,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Paul McCartney",
+   "score": 15.17857142857143,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "John Lennon",
+   "score": 23.57142857142857,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "George Harrison",
+   "score": 25.257142857142856,
+   "ach": 9,
+   "parts": {
+    "bond": 33,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Ringo Starr",
+   "score": 10.0,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Bob Dylan",
+   "score": 43.92857142857143,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Winston Churchill",
+   "score": 27.857142857142858,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "score": 27.321428571428573,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Adolf Hitler",
+   "score": 23.571428571428573,
+   "ach": 7,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Vladimir Lenin",
+   "score": 43.214285714285715,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Joseph Stalin",
+   "score": 51.42857142857144,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Benito Mussolini",
+   "score": 46.60714285714286,
+   "ach": 7,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Dwight D. Eisenhower",
+   "score": 15.17857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "John F. Kennedy",
+   "score": 35.71428571428571,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Ronald Reagan",
+   "score": 22.221428571428575,
+   "ach": 9,
+   "parts": {
+    "bond": 33,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Margaret Thatcher",
+   "score": 46.964285714285715,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Indira Gandhi",
+   "score": 40.0,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Jawaharlal Nehru",
+   "score": 46.07142857142858,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 2,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Rosa Parks",
+   "score": 21.964285714285715,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Martin Luther King Jr",
+   "score": 27.400000000000002,
+   "ach": 10,
+   "parts": {
+    "bond": 33,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Malcolm X",
+   "score": 64.82142857142857,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Anne Frank",
+   "score": 18.47142857142857,
+   "ach": 8,
+   "parts": {
+    "bond": 33,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Helen Keller",
+   "score": 28.750000000000004,
+   "ach": 8,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Gianluigi Buffon",
+   "score": 42.32142857142857,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Zinedine Zidane",
+   "score": 59.4642857142857,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Ronaldinho",
+   "score": 42.85714285714286,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Ronaldo",
+   "score": 11.428571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Roger Federer",
+   "score": 28.749999999999996,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Rafael Nadal",
+   "score": 47.857142857142854,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Novak Djokovic",
+   "score": 31.607142857142854,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Martina Navratilova",
+   "score": 48.92857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Venus Williams",
+   "score": 31.96428571428571,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Sachin Tendulkar",
+   "score": 28.92857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Ricky Ponting",
+   "score": 41.607142857142854,
+   "ach": 8,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Steve Smith",
+   "score": 31.071428571428573,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Wasim Akram",
+   "score": 42.32142857142857,
+   "ach": 8,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Brian Lara",
+   "score": 50.89285714285714,
+   "ach": 8,
+   "parts": {
+    "bond": 50,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 3,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Viv Richards",
+   "score": 57.67857142857142,
+   "ach": 8,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Imran Khan",
+   "score": 41.607142857142854,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Shane Warne",
+   "score": 34.285714285714285,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Elon Musk",
+   "score": 31.071428571428573,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Bill Gates",
+   "score": 25.892857142857146,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Jeff Bezos",
+   "score": 38.57142857142857,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 2,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Steve Jobs",
+   "score": 30.614285714285717,
+   "ach": 10,
+   "parts": {
+    "bond": 33,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Mark Zuckerberg",
+   "score": 48.21428571428572,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Larry Page",
+   "score": 38.03571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Sergey Brin",
+   "score": 50.71428571428571,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 2,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Jack Ma",
+   "score": 50.535714285714285,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Satya Nadella",
+   "score": 35.71428571428571,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Tim Cook",
+   "score": 30.17857142857143,
+   "ach": 9,
+   "parts": {
+    "bond": 50,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Sundar Pichai",
+   "score": 60.53571428571429,
+   "ach": 9,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Sheryl Sandberg",
+   "score": 23.392857142857142,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Susan Wojcicki",
+   "score": 15.17857142857143,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Marissa Mayer",
+   "score": 51.96428571428571,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 2,
+    "bk": 3,
+    "kl_own": 4,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Bob Iger",
+   "score": 47.5,
+   "ach": 8,
+   "parts": {
+    "bond": 100,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Mary Barra",
+   "score": 38.03571428571429,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 2,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Jamie Dimon",
+   "score": 19.900000000000002,
+   "ach": 8,
+   "parts": {
+    "bond": 33,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Lloyd Blankfein",
+   "score": 26.42857142857143,
+   "ach": 8,
+   "parts": {
+    "bond": 0,
+    "ex_own": 4,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Warren Buffett",
+   "score": 12.85714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Mukesh Ambani",
+   "score": 49.10714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Beyonce",
+   "score": 36.60714285714286,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 3,
+    "kl_own": 2,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Albert Einstein",
+   "score": 55.35714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Stephen Hawking",
+   "score": 28.928571428571427,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 2,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Marie Curie",
+   "score": 32.67857142857143,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 3,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Donald Trump",
+   "score": 25.078571428571433,
+   "ach": 9,
+   "parts": {
+    "bond": 33,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Barack Obama",
+   "score": 39.28571428571429,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 2,
+    "mah": 1,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 1
+   }
+  },
+  {
+   "name": "John D. Rockefeller",
+   "score": 29.00714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 33,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Stan Lee",
+   "score": 21.25,
+   "ach": 8,
+   "parts": {
+    "bond": 25,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "score": 12.85714285714286,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Abraham Lincoln",
+   "score": 18.214285714285715,
+   "ach": 10,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 1,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Nelson Mandela",
+   "score": 32.49999999999999,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 2,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Walt Disney",
+   "score": 16.607142857142858,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 1,
+    "mah": 0,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Henry Ford",
+   "score": 23.57142857142857,
+   "ach": 10,
+   "parts": {
+    "bond": 50,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Michael Jackson",
+   "score": 15.714285714285714,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 2,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "A.P.J. Abdul Kalam",
+   "score": 38.392857142857146,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 4,
+    "deb": 1
+   }
+  },
+  {
+   "name": "Polgahawela Bappa",
+   "score": 65.71428571428571,
+   "ach": 8,
+   "parts": {
+    "bond": 100,
+    "ex_own": 2,
+    "mah": 2,
+    "bk": 0,
+    "kl_own": 2,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Upulakshi",
+   "score": 51.24999999999999,
+   "ach": 5,
+   "parts": {
+    "bond": 100,
+    "ex_own": 1,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 0,
+    "deb": 2
+   }
+  },
+  {
+   "name": "Senith",
+   "score": 17.5,
+   "ach": 4,
+   "parts": {
+    "bond": 25,
+    "ex_own": 0,
+    "mah": 0,
+    "bk": 0,
+    "kl_own": 0,
+    "deb": 0
+   }
+  },
+  {
+   "name": "Niromi",
+   "score": 33.392857142857146,
+   "ach": 9,
+   "parts": {
+    "bond": 0,
+    "ex_own": 3,
+    "mah": 1,
+    "bk": 1,
+    "kl_own": 2,
+    "deb": 1
+   }
+  }
+ ]
+}

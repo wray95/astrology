@@ -518,3 +518,13 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **Nuances:** one survival analysis exists (Cox Shrinkhala→Saturn return HR=3.88) — right family, wrong-event focus; Astro-Databank blocked from sandbox (user-side); ayanamsa already verified (not a risk).
 - **Do-now list (this workspace):** downgrade hypothesis labels per FDR; KM curves (lifelines); experiment registry skeleton; DuckDB/Parquet scaffold; provenance table.
 - **User-side blockers:** outcome labels (100×20 events — THE #1), AA/A data access, birth-time verification of 107, synthetic-chart decision, Senath birthplace confirmation.
+
+## Turn 2026-08-02 (Agent session, 10th) — Layer 1 strength test + feedback saved
+- **Command:** advisor feedback (5 tech Qs: survival YES, Markov YES, DuckDB+RDF hybrid, NOTEARS→AR→Cox→symbolic, 10 safeguards) + "build Layer 1, show Spearman ρ>0.35".
+- **70% claim CORRECTED:** no 70% claim exists in this workspace; actual numbers are chance-level industry, r≈−0.02 loop-ach, 0/15 FDR. Nothing supports 70%; won't let it enter the record as validated. Feedback saved verbatim: reports/EXTERNAL_FEEDBACK_2026-08-02.md.
+- **Layer 1 test (pre-specified weights, scripts/layer1_strength_test.py):**
+  - 111 famous-only: ρ=0.308 (p=0.028) — significant, BELOW 0.35 bar; outcome range-restricted (ach 7-10, all famous) → cannot discriminate.
+  - 24 celeb+P-series: ρ=0.608 — ABOVE bar, but n=24, subjective outcome, no causality; first nonzero POSITIVE association in workspace.
+  - Systematic failure mode: high-achievers with low scores are arts/sports/charismatic (Buffett, Ali, DiCaprio, Gandhi, Disney, Jackson) → single "strength" scalar too blunt.
+- **Verdict: mixed, not a pass.** Advisor's gold standard (blind predict 20 new people) NOT done. Path forward unchanged: real event-label dataset (100×20) → Layer 2 survival.
+- **Deliverables:** layer1_strength_test.py, dataset/layer1_strength_test.json, reports/layer1_strength_test_report.md, reports/EXTERNAL_FEEDBACK_2026-08-02.md.
