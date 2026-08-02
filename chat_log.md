@@ -566,3 +566,17 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **Report:** reports/H2_saturn_window_test_report.md + advisor message verbatim (H2_REVISED_HYPOTHESIS_advisor_2026-08-02.md).
 - **What would change the answer:** exact event dates, real "breakthrough" labels, all-events-per-person, same test for Jupiter (12-y cycle, 3× windows).
 - **Uploaded CSVs:** registered as birth-date-distribution-only (synthetic-name flag); not used in event test.
+
+## Turn 2026-08-02 (Agent session, 15th) — FOUR-HYPOTHESIS window test (advisor design) → all null
+- **Command:** "use the text files birthdays and run this" + advisor message: test H1 Saturn-in-natal-Sign, H2 Jupiter-in-natal-Sign, H3 Saturn return, H4 random control; fix rule before data; run on all 5,287; publish result either way.
+- **Pre-registered + built** scripts/four_hypothesis_window_test.py (permutation design: shuffle natal signs 5,000× preserving age structure; exposure-based expected rates).
+- **Events:** n=904 first-career events (registry × q_bio career_active/debut). **Natal-sign pool: 8,712** (registry 5,276 + uploads 4,397 + scholars 200; uploads have no event dates — 2/4,397 overlap event names; used for sign-distribution only).
+- **Results (all permutation p):**
+  - H1 Saturn in natal sign: 35 in (3.9%) vs exposure 8.3% → p=1.0000 NULL (below chance)
+  - H2 Jupiter in natal sign: 54 (6.0%) vs 8.3% → p=0.9964 NULL
+  - H3 Saturn return ±1y: 30 (3.3%) vs 6.8% → p=1.0000 NULL
+  - H4 random control: 51.3% ≈ exposure 63.6% (edge-bias documented) → sanity OK
+- **Mechanism:** career events cluster at 22-28; first Saturn-sign window opens ~27, first return ~29.5 → age distribution ducks under all windows → observed BELOW chance.
+- **Anecdote check (computed):** Gates (natal Saturn Libra) 1985 fits via 2nd entry 1985-05-31; Musk (natal Saturn Taurus) Zip2 1999 NOT in window (Saturn entered Taurus 2000-06) → 1/2 fit = confirmation bias demo.
+- **Deliverables:** PRE_REGISTRATION_H2_saturn_window_v2.md, four_hypothesis_window_test.py, dataset/four_hypothesis_window_test.json, reports/four_hypothesis_window_test_report.md.
+- **Registered next:** exact event dates, true breakthrough labels, all-events-per-person, timed-birth subset for H3.
