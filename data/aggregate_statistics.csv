@@ -3,7 +3,7 @@ total_charts_processed,111
 exact_time_records,111
 date_only_records,5176
 uncertain_records,0
-duplicates_removed,0
+duplicates_removed,5
 drikpanchang_pages_fetched,111
 successful_parses,111
 failed_fetches,0
