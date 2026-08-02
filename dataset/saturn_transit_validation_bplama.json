@@ -1,0 +1,609 @@
+{
+ "validation": [
+  {
+   "table": "1902-02-11",
+   "sign": "Capricorn",
+   "se": "1902-02-11",
+   "diff_days": 0
+  },
+  {
+   "table": "1905-02-04",
+   "sign": "Aquarius",
+   "se": "1905-02-05",
+   "diff_days": 1
+  },
+  {
+   "table": "1907-04-19",
+   "sign": "Pisces",
+   "se": "1907-04-20",
+   "diff_days": 1
+  },
+  {
+   "table": "1909-07-08",
+   "sign": "Aries",
+   "se": "1909-07-09",
+   "diff_days": 1
+  },
+  {
+   "table": "1912-05-07",
+   "sign": "Taurus",
+   "se": "1912-05-08",
+   "diff_days": 1
+  },
+  {
+   "table": "1914-06-20",
+   "sign": "Gemini",
+   "se": "1914-06-21",
+   "diff_days": 1
+  },
+  {
+   "table": "1916-08-01",
+   "sign": "Cancer",
+   "se": "1916-08-02",
+   "diff_days": 1
+  },
+  {
+   "table": "1918-09-17",
+   "sign": "Leo",
+   "se": "1918-09-18",
+   "diff_days": 1
+  },
+  {
+   "table": "1920-11-16",
+   "sign": "Virgo",
+   "se": "1920-11-17",
+   "diff_days": 1
+  },
+  {
+   "table": "1923-10-15",
+   "sign": "Libra",
+   "se": "1923-10-15",
+   "diff_days": 0
+  },
+  {
+   "table": "1925-12-31",
+   "sign": "Scorpio",
+   "se": "1926-01-01",
+   "diff_days": 1
+  },
+  {
+   "table": "1928-12-24",
+   "sign": "Sagittarius",
+   "se": "1928-12-25",
+   "diff_days": 1
+  },
+  {
+   "table": "1931-04-11",
+   "sign": "Capricorn",
+   "se": "1931-04-12",
+   "diff_days": 1
+  },
+  {
+   "table": "1934-03-15",
+   "sign": "Aquarius",
+   "se": "1934-03-16",
+   "diff_days": 1
+  },
+  {
+   "table": "1937-02-25",
+   "sign": "Pisces",
+   "se": "1937-02-26",
+   "diff_days": 1
+  },
+  {
+   "table": "1939-04-27",
+   "sign": "Aries",
+   "se": "1939-04-28",
+   "diff_days": 1
+  },
+  {
+   "table": "1941-06-18",
+   "sign": "Taurus",
+   "se": "1941-06-19",
+   "diff_days": 1
+  },
+  {
+   "table": "1943-08-05",
+   "sign": "Gemini",
+   "se": "1943-08-06",
+   "diff_days": 1
+  },
+  {
+   "table": "1945-09-22",
+   "sign": "Cancer",
+   "se": "1945-09-23",
+   "diff_days": 1
+  },
+  {
+   "table": "1948-07-26",
+   "sign": "Leo",
+   "se": "1948-07-26",
+   "diff_days": 0
+  },
+  {
+   "table": "1950-09-19",
+   "sign": "Virgo",
+   "se": "1950-09-20",
+   "diff_days": 1
+  },
+  {
+   "table": "1952-11-25",
+   "sign": "Libra",
+   "se": "1952-11-26",
+   "diff_days": 1
+  },
+  {
+   "table": "1955-11-11",
+   "sign": "Scorpio",
+   "se": "1955-11-12",
+   "diff_days": 1
+  },
+  {
+   "table": "1958-02-07",
+   "sign": "Sagittarius",
+   "se": "1958-02-08",
+   "diff_days": 1
+  },
+  {
+   "table": "1961-02-01",
+   "sign": "Capricorn",
+   "se": "1961-02-02",
+   "diff_days": 1
+  },
+  {
+   "table": "1964-01-27",
+   "sign": "Aquarius",
+   "se": "1964-01-28",
+   "diff_days": 1
+  },
+  {
+   "table": "1966-04-08",
+   "sign": "Pisces",
+   "se": "1966-04-09",
+   "diff_days": 1
+  },
+  {
+   "table": "1968-06-16",
+   "sign": "Aries",
+   "se": "1968-06-17",
+   "diff_days": 1
+  },
+  {
+   "table": "1971-04-27",
+   "sign": "Taurus",
+   "se": "1971-04-28",
+   "diff_days": 1
+  },
+  {
+   "table": "1973-06-10",
+   "sign": "Gemini",
+   "se": "1973-06-11",
+   "diff_days": 1
+  },
+  {
+   "table": "1975-07-23",
+   "sign": "Cancer",
+   "se": "1975-07-23",
+   "diff_days": 0
+  },
+  {
+   "table": "1977-09-06",
+   "sign": "Leo",
+   "se": "1977-09-07",
+   "diff_days": 1
+  },
+  {
+   "table": "1979-11-03",
+   "sign": "Virgo",
+   "se": "1979-11-04",
+   "diff_days": 1
+  },
+  {
+   "table": "1982-10-05",
+   "sign": "Libra",
+   "se": "1982-10-06",
+   "diff_days": 1
+  },
+  {
+   "table": "1984-12-20",
+   "sign": "Scorpio",
+   "se": "1984-12-21",
+   "diff_days": 1
+  },
+  {
+   "table": "1987-12-16",
+   "sign": "Sagittarius",
+   "se": "1987-12-17",
+   "diff_days": 1
+  },
+  {
+   "table": "1990-03-20",
+   "sign": "Capricorn",
+   "se": "1990-03-21",
+   "diff_days": 1
+  },
+  {
+   "table": "1993-03-05",
+   "sign": "Aquarius",
+   "se": "1993-03-05",
+   "diff_days": 0
+  },
+  {
+   "table": "1995-06-01",
+   "sign": "Pisces",
+   "se": "1995-06-02",
+   "diff_days": 1
+  },
+  {
+   "table": "1998-04-17",
+   "sign": "Aries",
+   "se": "1998-04-17",
+   "diff_days": 0
+  },
+  {
+   "table": "2000-06-06",
+   "sign": "Taurus",
+   "se": "2000-06-07",
+   "diff_days": 1
+  },
+  {
+   "table": "2002-07-22",
+   "sign": "Gemini",
+   "se": "2002-07-23",
+   "diff_days": 1
+  },
+  {
+   "table": "2004-09-05",
+   "sign": "Cancer",
+   "se": "2004-09-06",
+   "diff_days": 1
+  },
+  {
+   "table": "2006-10-31",
+   "sign": "Leo",
+   "se": "2006-11-01",
+   "diff_days": 1
+  },
+  {
+   "table": "2009-09-09",
+   "sign": "Virgo",
+   "se": "2009-09-10",
+   "diff_days": 1
+  },
+  {
+   "table": "2011-11-14",
+   "sign": "Libra",
+   "se": "2011-11-15",
+   "diff_days": 1
+  },
+  {
+   "table": "2014-11-02",
+   "sign": "Scorpio",
+   "se": "2014-11-03",
+   "diff_days": 1
+  },
+  {
+   "table": "2017-01-26",
+   "sign": "Sagittarius",
+   "se": "2017-01-27",
+   "diff_days": 1
+  },
+  {
+   "table": "2020-01-23",
+   "sign": "Capricorn",
+   "se": "2020-01-24",
+   "diff_days": 1
+  },
+  {
+   "table": "2022-04-28",
+   "sign": "Aquarius",
+   "se": "2022-04-29",
+   "diff_days": 1
+  },
+  {
+   "table": "2025-03-29",
+   "sign": "Pisces",
+   "se": "2025-03-30",
+   "diff_days": 1
+  },
+  {
+   "table": "2027-06-02",
+   "sign": "Aries",
+   "se": "2027-06-03",
+   "diff_days": 1
+  },
+  {
+   "table": "2029-08-08",
+   "sign": "Taurus",
+   "se": "2029-08-08",
+   "diff_days": 0
+  },
+  {
+   "table": "2032-05-30",
+   "sign": "Gemini",
+   "se": "2032-05-31",
+   "diff_days": 1
+  },
+  {
+   "table": "2034-07-12",
+   "sign": "Cancer",
+   "se": "2034-07-13",
+   "diff_days": 1
+  },
+  {
+   "table": "2036-08-27",
+   "sign": "Leo",
+   "se": "2036-08-28",
+   "diff_days": 1
+  },
+  {
+   "table": "2038-10-22",
+   "sign": "Virgo",
+   "se": "2038-10-23",
+   "diff_days": 1
+  },
+  {
+   "table": "2041-01-27",
+   "sign": "Libra",
+   "se": "2041-01-28",
+   "diff_days": 1
+  },
+  {
+   "table": "2043-12-11",
+   "sign": "Scorpio",
+   "se": "2043-12-12",
+   "diff_days": 1
+  },
+  {
+   "table": "2046-12-07",
+   "sign": "Sagittarius",
+   "se": "2046-12-08",
+   "diff_days": 1
+  },
+  {
+   "table": "2049-03-06",
+   "sign": "Capricorn",
+   "se": "2049-03-06",
+   "diff_days": 0
+  },
+  {
+   "table": "2052-02-24",
+   "sign": "Aquarius",
+   "se": "2052-02-25",
+   "diff_days": 1
+  },
+  {
+   "table": "2054-05-14",
+   "sign": "Pisces",
+   "se": "2054-05-15",
+   "diff_days": 1
+  },
+  {
+   "table": "2057-01-06",
+   "sign": "Aries",
+   "se": null,
+   "diff_days": null
+  },
+  {
+   "table": "2059-05-27",
+   "sign": "Taurus",
+   "se": "2059-05-28",
+   "diff_days": 1
+  },
+  {
+   "table": "2061-07-10",
+   "sign": "Gemini",
+   "se": "2061-07-11",
+   "diff_days": 1
+  },
+  {
+   "table": "2063-08-23",
+   "sign": "Cancer",
+   "se": "2063-08-24",
+   "diff_days": 1
+  },
+  {
+   "table": "2065-10-12",
+   "sign": "Leo",
+   "se": "2065-10-13",
+   "diff_days": 1
+  },
+  {
+   "table": "2068-08-29",
+   "sign": "Virgo",
+   "se": "2068-08-30",
+   "diff_days": 1
+  },
+  {
+   "table": "2070-11-04",
+   "sign": "Libra",
+   "se": "2070-11-04",
+   "diff_days": 0
+  },
+  {
+   "table": "2073-02-05",
+   "sign": "Scorpio",
+   "se": "2073-02-06",
+   "diff_days": 1
+  },
+  {
+   "table": "2076-01-16",
+   "sign": "Sagittarius",
+   "se": "2076-01-17",
+   "diff_days": 1
+  },
+  {
+   "table": "2079-01-14",
+   "sign": "Capricorn",
+   "se": "2079-01-15",
+   "diff_days": 1
+  },
+  {
+   "table": "2081-04-11",
+   "sign": "Aquarius",
+   "se": "2081-04-12",
+   "diff_days": 1
+  },
+  {
+   "table": "2084-03-19",
+   "sign": "Pisces",
+   "se": "2084-03-20",
+   "diff_days": 1
+  },
+  {
+   "table": "2086-05-21",
+   "sign": "Aries",
+   "se": "2086-05-22",
+   "diff_days": 1
+  },
+  {
+   "table": "2088-07-17",
+   "sign": "Taurus",
+   "se": "2088-07-18",
+   "diff_days": 1
+  },
+  {
+   "table": "2090-09-18",
+   "sign": "Gemini",
+   "se": "2090-09-19",
+   "diff_days": 1
+  },
+  {
+   "table": "2093-07-02",
+   "sign": "Cancer",
+   "se": "2093-07-03",
+   "diff_days": 1
+  },
+  {
+   "table": "2095-08-18",
+   "sign": "Leo",
+   "se": "2095-08-18",
+   "diff_days": 0
+  },
+  {
+   "table": "2097-10-11",
+   "sign": "Virgo",
+   "se": "2097-10-11",
+   "diff_days": 0
+  },
+  {
+   "table": "2099-12-25",
+   "sign": "Libra",
+   "se": "2099-12-26",
+   "diff_days": 1
+  }
+ ],
+ "match_within_3d": 81,
+ "max_diff_days": 1,
+ "n_table": 82,
+ "p_series_sade_sati": [
+  {
+   "id": "P1",
+   "name": "Polgahawela Bappa",
+   "moon_sign": "Aquarius",
+   "sade_sati_begin": "2022-04-28",
+   "sade_sati_end": "2029-08-08",
+   "sade_sati_signs": [
+    "Aquarius",
+    "Pisces",
+    "Aries"
+   ]
+  },
+  {
+   "id": "P2",
+   "name": "Upulakshi",
+   "moon_sign": "Taurus",
+   "sade_sati_begin": "2000-06-06",
+   "sade_sati_end": "2006-10-31",
+   "sade_sati_signs": [
+    "Taurus",
+    "Gemini",
+    "Cancer"
+   ]
+  },
+  {
+   "id": "P3",
+   "name": "Senith",
+   "moon_sign": "Sagittarius",
+   "sade_sati_begin": "2017-01-26",
+   "sade_sati_end": "2025-03-29",
+   "sade_sati_signs": [
+    "Sagittarius",
+    "Capricorn",
+    "Aquarius"
+   ]
+  },
+  {
+   "id": "P4",
+   "name": "Niromi",
+   "moon_sign": "Libra",
+   "sade_sati_begin": "2011-11-14",
+   "sade_sati_end": "2020-01-23",
+   "sade_sati_signs": [
+    "Libra",
+    "Scorpio",
+    "Sagittarius"
+   ]
+  },
+  {
+   "id": "P5",
+   "name": "Senath",
+   "moon_sign": "Capricorn",
+   "sade_sati_begin": "2020-01-23",
+   "sade_sati_end": "2027-06-02",
+   "sade_sati_signs": [
+    "Capricorn",
+    "Aquarius",
+    "Pisces"
+   ]
+  },
+  {
+   "id": "P6",
+   "name": "Dewli",
+   "moon_sign": "Scorpio",
+   "sade_sati_begin": "2014-11-02",
+   "sade_sati_end": "2022-04-28",
+   "sade_sati_signs": [
+    "Scorpio",
+    "Sagittarius",
+    "Capricorn"
+   ]
+  },
+  {
+   "id": "P7",
+   "name": "Sineth",
+   "moon_sign": "Aquarius",
+   "sade_sati_begin": "2022-04-28",
+   "sade_sati_end": "2029-08-08",
+   "sade_sati_signs": [
+    "Aquarius",
+    "Pisces",
+    "Aries"
+   ]
+  },
+  {
+   "id": "P8",
+   "name": "Lakshi Amma",
+   "moon_sign": "Libra",
+   "sade_sati_begin": "2011-11-14",
+   "sade_sati_end": "2020-01-23",
+   "sade_sati_signs": [
+    "Libra",
+    "Scorpio",
+    "Sagittarius"
+   ]
+  },
+  {
+   "id": "P9",
+   "name": "Lalith Uncle",
+   "moon_sign": "Leo",
+   "sade_sati_begin": "2006-10-31",
+   "sade_sati_end": "2014-11-02",
+   "sade_sati_signs": [
+    "Leo",
+    "Virgo",
+    "Libra"
+   ]
+  }
+ ]
+}

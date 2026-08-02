@@ -546,3 +546,11 @@ Deliverable: `celebrity_shrinkhala.md` (Batch 1 of N, 3/20; remaining 17 listed)
 - **H2 gochara:** scripts/gochara_features_test.py — Saturn returns verify (1st mean 29.1y ✓, 2nd 58.5y ✓) → transit engine correct. Jupiter-10th(20-35) near-universal (107/111) → zero variance, chi² p=1.0, OR meaningless; plan's example OR=2.36 NOT reproducible. Needs event-timed features, not age proxies.
 - **H3 Cox:** blocked (no marriage dates; Wikidata timeout).
 - **Deliverables:** plan verbatim, pre-registration, d10_strength.json, gochara_features.json, phase1 report.
+
+## Turn 2026-08-02 (Agent session, 13th) — BP Lama Saturn gochara table: saved + engine validated
+- **Command (link only):** barbarapijan.com Gochara_Shani transits table 1900-2099.
+- **Fetched (5 chunks), saved reference:** references/saturn_gochara_bplama_1900_2099.md (82 first-entry dates + Sade Sati markers; page says data from Goravani Jyotish, updated 2026-07-26).
+- **VALIDATION (scripts/validate_saturn_transits.py → dataset/saturn_transit_validation_bplama.json):** Swiss Ephemeris (Lahiri) vs table: **81/82 first-entry dates match within ±3 days (max Δ = 1 day)** — the gochara engine's Saturn sign entries are EXTERNALLY VALIDATED against an independent classical source. (2057-01-06 Aries not found in ±30-day window — one miss, see JSON.)
+- **P-series Sade Sati (from table markers + SE Moon signs):** ACTIVE now = P1 Bappa & P7 Sineth (Aquarius, 2022-04-28→2029-08-08), P5 Senath (Capricorn, 2020-01-23→2027-06-02). Ended: P3 Senith (2017-2025), P4/P8 Libra (2011-2020), P6 Scorpio (2014-2022), P9 Leo (2006-2014). P2 Upulakshi next Sade Sati 2029-08-08→~2036.
+- **Cross-check with repo:** P1 chart Saturn Capricorn 18° (Drik) consistent with 1961-02-01 Capricorn entry (born 1962-05-27 → Saturn ~Cap 18° in 1962 ✓). Engine = data-consistent.
+- **No outcomes touched** — pure transit validation + descriptive windows.
