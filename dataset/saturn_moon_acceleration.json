@@ -1,0 +1,15 @@
+{
+  "hypothesis": "Saturn-Moon conjunction OR Moon in Saturn sign \u2192 accelerated Saturn return timeline",
+  "p_series_findings": {
+    "saturn_moon_conjunction": "0/9",
+    "moon_in_saturn_sign": "Senath(Moon Capricorn), Bappa(Moon Aquarius), Sineth(Moon Aquarius)",
+    "same_sign": "0/9",
+    "note": "P-series do not have this rare combination. Senath is closest with Moon in Capricorn + fast Saturn."
+  },
+  "celebrity_findings": {
+    "saturn_moon_conjunction": "Mark Zuckerberg (\u0394=3\u00b0, Libra) \u2014 breakthrough at 23 vs standard 28-30",
+    "moon_in_saturn_sign": "George Lucas (Moon Capricorn) \u2014 breakthrough at 29.8, IN standard window",
+    "note": "Zuckerberg is the strongest evidence for accelerated timeline hypothesis. Need more cases."
+  },
+  "status": "HYPOTHESIS GENERATED \u2014 needs 30+ cases to test"
+}
