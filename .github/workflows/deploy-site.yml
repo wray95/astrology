@@ -1,0 +1,32 @@
+name: Deploy Static Site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v4
+
+      - name: Prepare static site artifact
+        run: |
+          mkdir -p public
+          cp horoscope_site/index.html public/
+          cp horoscope_site/styles.css public/
+          cp horoscope_site/app.js public/
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1

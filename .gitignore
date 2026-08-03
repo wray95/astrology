@@ -7,6 +7,9 @@ data/_wp_titles_done.json
 p1234_validation/chart_evaluations.json
 p1234_validation/p1234_validation.db
 
+# Node dependencies
+horoscope_site/server/node_modules/
+
 # hygiene (Turn 17): generated logs + bulky regenerable artifacts
 *.log
 *.log.gz
