@@ -1,0 +1,45 @@
+{
+ "results": [
+  {
+   "rule": "saturn_sign",
+   "label": "saturn_sign",
+   "n": 912,
+   "observed_in": 37,
+   "rate": 0.0406,
+   "mean_exposure": 0.0826,
+   "permutation_p": 1.0,
+   "supported": false
+  },
+  {
+   "rule": "jupiter_sign",
+   "label": "jupiter_sign",
+   "n": 912,
+   "observed_in": 51,
+   "rate": 0.0559,
+   "mean_exposure": 0.0826,
+   "permutation_p": 0.999,
+   "supported": false
+  },
+  {
+   "rule": "saturn_return",
+   "label": "saturn_return",
+   "n": 912,
+   "observed_in": 32,
+   "rate": 0.0351,
+   "mean_exposure": 0.0685,
+   "permutation_p": 1.0,
+   "supported": false
+  },
+  {
+   "rule": "jupiter_return",
+   "label": "jupiter_return",
+   "n": 912,
+   "observed_in": 138,
+   "rate": 0.1513,
+   "mean_exposure": 0.1681,
+   "permutation_p": 0.922,
+   "supported": false
+  }
+ ],
+ "fdr_survivors": []
+}

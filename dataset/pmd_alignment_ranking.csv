@@ -1,0 +1,181 @@
+rank,saturn_sign,career_sector,enrichment,observed,expected
+1,Aries,Legal & Compliance,1.102,844,765
+2,Aquarius,Finance & Banking,0.914,888,971
+3,Taurus,Finance & Banking,1.080,735,680
+4,Aquarius,Government, Public Policy & Defense,1.076,1052,977
+5,Scorpio,Finance & Banking,1.071,898,838
+6,Taurus,Energy, Oil & Gas,0.930,638,686
+7,Gemini,Education & Research,0.932,632,677
+8,Capricorn,Real Estate & Construction,0.933,1054,1129
+9,Aquarius,Engineering & Manufacturing,1.063,1043,981
+10,Cancer,Agriculture & Environment,1.063,771,725
+11,Gemini,Biotech & Pharmaceuticals,1.061,717,675
+12,Leo,Education & Research,1.058,790,746
+13,Scorpio,Hospitality, Tourism & Retail,0.944,795,842
+14,Sagittarius,Consulting & Professional Services,1.056,1172,1110
+15,Virgo,Logistics, Supply Chain & Transport,1.056,823,779
+16,Cancer,Legal & Compliance,0.945,700,741
+17,Libra,Real Estate & Construction,1.055,850,805
+18,Taurus,Education & Research,1.053,716,679
+19,Libra,Agriculture & Environment,0.948,764,806
+20,Libra,Finance & Banking,0.949,761,802
+21,Leo,Healthcare & Medicine,1.051,784,745
+22,Leo,Engineering & Manufacturing,0.949,717,755
+23,Cancer,Hospitality, Tourism & Retail,1.051,762,725
+24,Aquarius,Hospitality, Tourism & Retail,1.050,1025,975
+25,Aries,Finance & Banking,1.050,783,745
+26,Aries,Agriculture & Environment,0.950,712,749
+27,Sagittarius,Engineering & Manufacturing,0.950,1053,1108
+28,Capricorn,Education & Research,0.951,1068,1122
+29,Taurus,Engineering & Manufacturing,0.951,654,687
+30,Cancer,Healthcare & Medicine,0.951,685,720
+31,Gemini,Hospitality, Tourism & Retail,0.952,649,681
+32,Aquarius,Energy, Oil & Gas,1.048,1026,979
+33,Scorpio,Healthcare & Medicine,0.953,797,836
+34,Capricorn,Engineering & Manufacturing,1.046,1188,1135
+35,Scorpio,Biotech & Pharmaceuticals,1.046,874,835
+36,Gemini,Arts, Media & Entertainment,1.045,717,685
+37,Libra,Government, Public Policy & Defense,0.955,771,807
+38,Aquarius,Consulting & Professional Services,0.956,940,982
+39,Capricorn,Healthcare & Medicine,1.041,1167,1121
+40,Libra,Arts, Media & Entertainment,0.959,778,810
+41,Virgo,Real Estate & Construction,0.960,756,787
+42,Scorpio,Legal & Compliance,0.961,827,860
+43,Gemini,Real Estate & Construction,1.039,708,681
+44,Gemini,Healthcare & Medicine,0.962,651,676
+45,Scorpio,Logistics, Supply Chain & Transport,1.037,865,834
+46,Aries,Government, Public Policy & Defense,0.963,723,750
+47,Virgo,Government, Public Policy & Defense,1.037,818,789
+48,Taurus,Agriculture & Environment,0.963,659,683
+49,Taurus,Technology & AI,1.036,713,687
+50,Aquarius,Legal & Compliance,0.964,961,997
+51,Virgo,Healthcare & Medicine,0.966,755,781
+52,Scorpio,Government, Public Policy & Defense,0.966,816,844
+53,Cancer,Government, Public Policy & Defense,1.033,751,726
+54,Virgo,Technology & AI,0.967,766,792
+55,Pisces,Agriculture & Environment,1.032,779,754
+56,Capricorn,Logistics, Supply Chain & Transport,0.968,1082,1118
+57,Virgo,Energy, Oil & Gas,0.968,765,790
+58,Leo,Arts, Media & Entertainment,1.032,780,755
+59,Libra,Engineering & Manufacturing,1.032,836,810
+60,Capricorn,Hospitality, Tourism & Retail,1.032,1165,1129
+61,Sagittarius,Finance & Banking,0.969,1063,1097
+62,Taurus,Healthcare & Medicine,1.031,700,678
+63,Cancer,Biotech & Pharmaceuticals,0.969,697,719
+64,Taurus,Arts, Media & Entertainment,1.030,709,688
+65,Taurus,Real Estate & Construction,0.970,663,683
+66,Aries,Engineering & Manufacturing,1.030,776,753
+67,Libra,Legal & Compliance,1.030,848,823
+68,Leo,Hospitality, Tourism & Retail,0.970,729,751
+69,Virgo,Agriculture & Environment,1.029,811,787
+70,Gemini,Logistics, Supply Chain & Transport,0.971,655,674
+71,Pisces,Government, Public Policy & Defense,0.971,734,755
+72,Aquarius,Arts, Media & Entertainment,0.972,954,981
+73,Pisces,Logistics, Supply Chain & Transport,1.028,768,746
+74,Pisces,Energy, Oil & Gas,0.972,736,757
+75,Sagittarius,Biotech & Pharmaceuticals,0.973,1063,1092
+76,Aries,Hospitality, Tourism & Retail,0.973,729,749
+77,Capricorn,Technology & AI,0.973,1106,1136
+78,Pisces,Healthcare & Medicine,1.027,769,749
+79,Cancer,Logistics, Supply Chain & Transport,0.974,699,718
+80,Pisces,Technology & AI,0.974,739,759
+81,Cancer,Energy, Oil & Gas,1.026,747,727
+82,Capricorn,Energy, Oil & Gas,1.026,1163,1133
+83,Aries,Consulting & Professional Services,0.974,735,754
+84,Libra,Education & Research,1.026,822,801
+85,Libra,Healthcare & Medicine,1.024,819,800
+86,Pisces,Arts, Media & Entertainment,1.024,777,759
+87,Sagittarius,Technology & AI,1.023,1135,1108
+88,Virgo,Hospitality, Tourism & Retail,1.023,806,787
+89,Gemini,Energy, Oil & Gas,1.023,700,684
+90,Sagittarius,Arts, Media & Entertainment,0.977,1084,1109
+91,Capricorn,Finance & Banking,1.021,1148,1124
+92,Aquarius,Biotech & Pharmaceuticals,0.979,947,967
+93,Cancer,Engineering & Manufacturing,0.979,714,729
+94,Aquarius,Education & Research,0.979,950,970
+95,Virgo,Arts, Media & Entertainment,0.979,776,792
+96,Leo,Consulting & Professional Services,0.979,741,756
+97,Scorpio,Engineering & Manufacturing,0.980,830,847
+98,Virgo,Biotech & Pharmaceuticals,0.980,765,780
+99,Aries,Education & Research,0.980,730,744
+100,Aries,Logistics, Supply Chain & Transport,0.980,727,741
+101,Sagittarius,Legal & Compliance,1.019,1148,1126
+102,Cancer,Finance & Banking,0.981,708,721
+103,Libra,Logistics, Supply Chain & Transport,1.019,813,797
+104,Sagittarius,Agriculture & Environment,1.019,1123,1102
+105,Cancer,Arts, Media & Entertainment,1.018,743,729
+106,Scorpio,Consulting & Professional Services,1.018,864,848
+107,Virgo,Engineering & Manufacturing,1.018,806,791
+108,Aquarius,Logistics, Supply Chain & Transport,0.982,949,966
+109,Aquarius,Technology & AI,1.018,999,981
+110,Aries,Biotech & Pharmaceuticals,0.983,730,742
+111,Capricorn,Biotech & Pharmaceuticals,1.017,1139,1119
+112,Cancer,Technology & AI,1.017,742,729
+113,Pisces,Real Estate & Construction,1.017,767,754
+114,Scorpio,Technology & AI,1.016,861,847
+115,Leo,Legal & Compliance,0.985,756,767
+116,Scorpio,Energy, Oil & Gas,0.985,833,845
+117,Aquarius,Healthcare & Medicine,0.986,955,968
+118,Cancer,Consulting & Professional Services,0.986,720,730
+119,Gemini,Consulting & Professional Services,1.014,696,686
+120,Sagittarius,Real Estate & Construction,1.014,1117,1102
+121,Scorpio,Education & Research,1.013,849,837
+122,Pisces,Finance & Banking,0.987,741,750
+123,Capricorn,Government, Public Policy & Defense,0.987,1117,1131
+124,Leo,Finance & Banking,0.987,738,747
+125,Pisces,Engineering & Manufacturing,0.987,749,758
+126,Libra,Biotech & Pharmaceuticals,1.013,809,798
+127,Libra,Technology & AI,0.988,801,810
+128,Sagittarius,Education & Research,1.012,1109,1095
+129,Virgo,Finance & Banking,1.012,793,783
+130,Gemini,Agriculture & Environment,0.988,674,681
+131,Gemini,Finance & Banking,1.011,686,678
+132,Libra,Hospitality, Tourism & Retail,0.989,797,805
+133,Scorpio,Arts, Media & Entertainment,1.011,857,847
+134,Gemini,Engineering & Manufacturing,0.989,678,685
+135,Leo,Real Estate & Construction,1.011,759,751
+136,Aquarius,Real Estate & Construction,1.011,986,975
+137,Aries,Arts, Media & Entertainment,0.990,746,753
+138,Libra,Consulting & Professional Services,1.010,820,811
+139,Taurus,Logistics, Supply Chain & Transport,0.990,670,676
+140,Leo,Agriculture & Environment,0.990,744,751
+141,Taurus,Consulting & Professional Services,0.990,682,688
+142,Taurus,Legal & Compliance,0.990,692,698
+143,Gemini,Legal & Compliance,1.009,703,696
+144,Sagittarius,Energy, Oil & Gas,0.991,1096,1106
+145,Aries,Real Estate & Construction,1.009,756,749
+146,Gemini,Government, Public Policy & Defense,1.009,689,683
+147,Pisces,Hospitality, Tourism & Retail,0.993,749,754
+148,Sagittarius,Logistics, Supply Chain & Transport,1.007,1099,1091
+149,Gemini,Technology & AI,0.993,681,685
+150,Aries,Healthcare & Medicine,1.007,749,743
+151,Sagittarius,Healthcare & Medicine,0.993,1087,1094
+152,Pisces,Consulting & Professional Services,0.994,755,759
+153,Virgo,Education & Research,1.006,788,783
+154,Leo,Technology & AI,0.994,751,755
+155,Leo,Logistics, Supply Chain & Transport,0.994,739,743
+156,Taurus,Government, Public Policy & Defense,0.994,681,685
+157,Leo,Government, Public Policy & Defense,1.006,757,752
+158,Capricorn,Arts, Media & Entertainment,0.994,1130,1136
+159,Taurus,Hospitality, Tourism & Retail,0.994,680,683
+160,Cancer,Education & Research,1.005,725,721
+161,Leo,Biotech & Pharmaceuticals,0.995,741,744
+162,Pisces,Legal & Compliance,0.995,767,770
+163,Aries,Energy, Oil & Gas,1.004,755,751
+164,Sagittarius,Government, Public Policy & Defense,0.996,1100,1104
+165,Libra,Energy, Oil & Gas,1.004,812,808
+166,Capricorn,Consulting & Professional Services,1.004,1142,1137
+167,Pisces,Education & Research,1.004,753,750
+168,Capricorn,Agriculture & Environment,1.003,1133,1129
+169,Aquarius,Agriculture & Environment,1.003,979,976
+170,Aries,Technology & AI,1.003,756,753
+171,Taurus,Biotech & Pharmaceuticals,0.997,676,677
+172,Pisces,Biotech & Pharmaceuticals,0.997,746,748
+173,Capricorn,Legal & Compliance,1.003,1157,1154
+174,Cancer,Real Estate & Construction,1.003,727,725
+175,Scorpio,Real Estate & Construction,1.002,844,842
+176,Virgo,Consulting & Professional Services,1.001,794,793
+177,Virgo,Legal & Compliance,0.999,804,804
+178,Sagittarius,Hospitality, Tourism & Retail,1.001,1103,1102
+179,Scorpio,Agriculture & Environment,1.000,843,842
+180,Leo,Energy, Oil & Gas,1.000,754,753

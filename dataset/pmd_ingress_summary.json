@@ -1,0 +1,390 @@
+{
+  "version": "2.1",
+  "total_people": 150000,
+  "saturn_return": {
+    "mean": 59.0,
+    "median": 59.0,
+    "std": 1.1,
+    "n": 129686
+  },
+  "jupiter_return": {
+    "mean": 68.5,
+    "n": 47550
+  },
+  "saturn_moon_accel": {
+    "conj_mean": 59.0,
+    "normal_mean": 59.0,
+    "delta_years": -0.0,
+    "n_conj": 10732,
+    "n_normal": 118954,
+    "p_value": 0.055094
+  },
+  "vimshottari": {
+    "Ketu": 16690,
+    "Venus": 16665,
+    "Sun": 16689,
+    "Moon": 16645,
+    "Mars": 16780,
+    "Rahu": 16731,
+    "Jupiter": 16634,
+    "Saturn": 16772,
+    "Mercury": 16394
+  },
+  "saturn_career_chi2": {
+    "chi2": 161.0,
+    "p": 0.33563
+  },
+  "top_alignments": [
+    {
+      "saturn": "Aries",
+      "sector": "Legal & Compliance",
+      "enrichment": 1.1,
+      "observed": 844,
+      "expected": 765
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Finance & Banking",
+      "enrichment": 0.91,
+      "observed": 888,
+      "expected": 971
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Finance & Banking",
+      "enrichment": 1.08,
+      "observed": 735,
+      "expected": 680
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Government, Public Policy & Defense",
+      "enrichment": 1.08,
+      "observed": 1052,
+      "expected": 977
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Finance & Banking",
+      "enrichment": 1.07,
+      "observed": 898,
+      "expected": 838
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Energy, Oil & Gas",
+      "enrichment": 0.93,
+      "observed": 638,
+      "expected": 686
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Education & Research",
+      "enrichment": 0.93,
+      "observed": 632,
+      "expected": 677
+    },
+    {
+      "saturn": "Capricorn",
+      "sector": "Real Estate & Construction",
+      "enrichment": 0.93,
+      "observed": 1054,
+      "expected": 1129
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Engineering & Manufacturing",
+      "enrichment": 1.06,
+      "observed": 1043,
+      "expected": 981
+    },
+    {
+      "saturn": "Cancer",
+      "sector": "Agriculture & Environment",
+      "enrichment": 1.06,
+      "observed": 771,
+      "expected": 725
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Biotech & Pharmaceuticals",
+      "enrichment": 1.06,
+      "observed": 717,
+      "expected": 675
+    },
+    {
+      "saturn": "Leo",
+      "sector": "Education & Research",
+      "enrichment": 1.06,
+      "observed": 790,
+      "expected": 746
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Hospitality, Tourism & Retail",
+      "enrichment": 0.94,
+      "observed": 795,
+      "expected": 842
+    },
+    {
+      "saturn": "Sagittarius",
+      "sector": "Consulting & Professional Services",
+      "enrichment": 1.06,
+      "observed": 1172,
+      "expected": 1110
+    },
+    {
+      "saturn": "Virgo",
+      "sector": "Logistics, Supply Chain & Transport",
+      "enrichment": 1.06,
+      "observed": 823,
+      "expected": 779
+    },
+    {
+      "saturn": "Cancer",
+      "sector": "Legal & Compliance",
+      "enrichment": 0.94,
+      "observed": 700,
+      "expected": 741
+    },
+    {
+      "saturn": "Libra",
+      "sector": "Real Estate & Construction",
+      "enrichment": 1.06,
+      "observed": 850,
+      "expected": 805
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Education & Research",
+      "enrichment": 1.05,
+      "observed": 716,
+      "expected": 679
+    },
+    {
+      "saturn": "Libra",
+      "sector": "Agriculture & Environment",
+      "enrichment": 0.95,
+      "observed": 764,
+      "expected": 806
+    },
+    {
+      "saturn": "Libra",
+      "sector": "Finance & Banking",
+      "enrichment": 0.95,
+      "observed": 761,
+      "expected": 802
+    },
+    {
+      "saturn": "Leo",
+      "sector": "Healthcare & Medicine",
+      "enrichment": 1.05,
+      "observed": 784,
+      "expected": 745
+    },
+    {
+      "saturn": "Leo",
+      "sector": "Engineering & Manufacturing",
+      "enrichment": 0.95,
+      "observed": 717,
+      "expected": 755
+    },
+    {
+      "saturn": "Cancer",
+      "sector": "Hospitality, Tourism & Retail",
+      "enrichment": 1.05,
+      "observed": 762,
+      "expected": 725
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Hospitality, Tourism & Retail",
+      "enrichment": 1.05,
+      "observed": 1025,
+      "expected": 975
+    },
+    {
+      "saturn": "Aries",
+      "sector": "Finance & Banking",
+      "enrichment": 1.05,
+      "observed": 783,
+      "expected": 745
+    },
+    {
+      "saturn": "Aries",
+      "sector": "Agriculture & Environment",
+      "enrichment": 0.95,
+      "observed": 712,
+      "expected": 749
+    },
+    {
+      "saturn": "Sagittarius",
+      "sector": "Engineering & Manufacturing",
+      "enrichment": 0.95,
+      "observed": 1053,
+      "expected": 1108
+    },
+    {
+      "saturn": "Capricorn",
+      "sector": "Education & Research",
+      "enrichment": 0.95,
+      "observed": 1068,
+      "expected": 1122
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Engineering & Manufacturing",
+      "enrichment": 0.95,
+      "observed": 654,
+      "expected": 687
+    },
+    {
+      "saturn": "Cancer",
+      "sector": "Healthcare & Medicine",
+      "enrichment": 0.95,
+      "observed": 685,
+      "expected": 720
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Hospitality, Tourism & Retail",
+      "enrichment": 0.95,
+      "observed": 649,
+      "expected": 681
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Energy, Oil & Gas",
+      "enrichment": 1.05,
+      "observed": 1026,
+      "expected": 979
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Healthcare & Medicine",
+      "enrichment": 0.95,
+      "observed": 797,
+      "expected": 836
+    },
+    {
+      "saturn": "Capricorn",
+      "sector": "Engineering & Manufacturing",
+      "enrichment": 1.05,
+      "observed": 1188,
+      "expected": 1135
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Biotech & Pharmaceuticals",
+      "enrichment": 1.05,
+      "observed": 874,
+      "expected": 835
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Arts, Media & Entertainment",
+      "enrichment": 1.05,
+      "observed": 717,
+      "expected": 685
+    },
+    {
+      "saturn": "Libra",
+      "sector": "Government, Public Policy & Defense",
+      "enrichment": 0.95,
+      "observed": 771,
+      "expected": 807
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Consulting & Professional Services",
+      "enrichment": 0.96,
+      "observed": 940,
+      "expected": 982
+    },
+    {
+      "saturn": "Capricorn",
+      "sector": "Healthcare & Medicine",
+      "enrichment": 1.04,
+      "observed": 1167,
+      "expected": 1121
+    },
+    {
+      "saturn": "Libra",
+      "sector": "Arts, Media & Entertainment",
+      "enrichment": 0.96,
+      "observed": 778,
+      "expected": 810
+    },
+    {
+      "saturn": "Virgo",
+      "sector": "Real Estate & Construction",
+      "enrichment": 0.96,
+      "observed": 756,
+      "expected": 787
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Legal & Compliance",
+      "enrichment": 0.96,
+      "observed": 827,
+      "expected": 860
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Real Estate & Construction",
+      "enrichment": 1.04,
+      "observed": 708,
+      "expected": 681
+    },
+    {
+      "saturn": "Gemini",
+      "sector": "Healthcare & Medicine",
+      "enrichment": 0.96,
+      "observed": 651,
+      "expected": 676
+    },
+    {
+      "saturn": "Scorpio",
+      "sector": "Logistics, Supply Chain & Transport",
+      "enrichment": 1.04,
+      "observed": 865,
+      "expected": 834
+    },
+    {
+      "saturn": "Aries",
+      "sector": "Government, Public Policy & Defense",
+      "enrichment": 0.96,
+      "observed": 723,
+      "expected": 750
+    },
+    {
+      "saturn": "Virgo",
+      "sector": "Government, Public Policy & Defense",
+      "enrichment": 1.04,
+      "observed": 818,
+      "expected": 789
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Agriculture & Environment",
+      "enrichment": 0.96,
+      "observed": 659,
+      "expected": 683
+    },
+    {
+      "saturn": "Taurus",
+      "sector": "Technology & AI",
+      "enrichment": 1.04,
+      "observed": 713,
+      "expected": 687
+    },
+    {
+      "saturn": "Aquarius",
+      "sector": "Legal & Compliance",
+      "enrichment": 0.96,
+      "observed": 961,
+      "expected": 997
+    }
+  ],
+  "honest_note": "150K CAREER CSV is AI-generated (sequential-digit names). Saturn signs NOT uniform. Use as null baseline. P1-P9 are the only verified timed charts."
+}
